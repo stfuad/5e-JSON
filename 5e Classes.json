@@ -2,7 +2,7 @@
 	"Classes": {
 		"Barbarian": {
 			"Table": {
-				"Title": "The Barbarian",
+				"Caption": "The Barbarian",
 				"Headers": [
 					"Level",
 					"Proficiency Bonus",
@@ -292,7 +292,7 @@
 		},
 		"Bard": {
 			"Table": {
-				"Title": "The Bard",
+				"Caption": "The Bard",
 				"Headers": [
 					"Level",
 					"Proficiency Bonus",
@@ -740,7 +740,7 @@
 		},
 		"Cleric": {
 			"Table": {
-				"Title": "The Cleric",
+				"Caption": "The Cleric",
 				"Headers": [
 					"Level",
 					"Proficiency Bonus",
@@ -1113,7 +1113,7 @@
 					"Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead table."
 					],
 					"Table": {
-						"Title": "Destroy Undead",
+						"Caption": "Destroy Undead",
 						"Headers": [
 							"Cleric Level",
 							"Destroy Undead of CR..."
@@ -1155,7 +1155,7 @@
 						"The gods of knowledge-including Oghma, Boccob, Gilean, Aureon, and Thoth-value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. and some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, Reorx, Onatar, Moradin, Hephaestus, and Goibhniu."
 					],
 					"Table": {
-						"Title": "Life Domain Spells",
+						"Caption": "Life Domain Spells",
 						"Headers": [
 							"Cleric Level",
 							"Spells"
@@ -1232,7 +1232,7 @@
 						"The Life domain focuses on the vibrant positive energy-one of the fundamental forces of the universe-that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei)."
 					],
 					"Table": {
-						"Title": "Life Domain Spells",
+						"Caption": "Life Domain Spells",
 						"Headers": [
 							"Cleric Level",
 							"Spells"
@@ -1300,7 +1300,7 @@
 						"Gods of light—including Helm, Lathander, Pholtus, Branchala, the Silver Flame, Belenus, Apollo, and Re-Horakhty—promote the ideals of rebirth and renewal, truth, vigilance, and beauty, of ten using the symbol of the sun. Some of these gods are portrayed as the sun itself or as a charioteer who guides the sun across the sky. Others are tireless sentinels whose eyes pierce every shadow and see through every deception. Some are deities of beauty and artistry, who teach that art is a vehicle for the soul's improvement. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods’ discerning vision, charged with chasing away lies and burning away darkness."
 					],
 					"Table": {
-						"Title": "Light Domain Spells",
+						"Caption": "Light Domain Spells",
 						"Headers": [
 							"Cleric Level",
 							"Spells"
@@ -1369,7 +1369,7 @@
 						"Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests (such as Silvanus, Obad-Hai, Chislev, Balinor, and Pan) to friendly deities associated with particular springs and groves (such as Eldath). Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods."
 					],
 					"Table": {
-						"Title": "Nature Domain Spells",
+						"Caption": "Nature Domain Spells",
 						"Headers": [
 							"Cleric Level",
 							"Spells"
@@ -1437,7 +1437,7 @@
 						"Gods whose portfolios include the Tempest domain including Talos, Umberlee, Kord, Zeboim, the Devourer, Zeus, and Thor-govern storms, sea, and sky. They include gods of lightning and thunder, gods of earthquakes, some tire gods, and certain gods of violence, physical strength, and courage. In some pantheons, a god of this domain rules over other deities and is known for swift justice delivered by thunderbolts. In the pantheons of seafaring people, gods of this domain are ocean deities and the patrons of sailors. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to of fer sacrifices of propitiation to ward of f divine wrath."
 					],
 					"Table": {
-						"Title": "Tempest Domain Spells",
+						"Caption": "Tempest Domain Spells",
 						"Rows": [
 							"Cleric Level",
 							"Spells"
@@ -1506,7 +1506,7 @@
 						"Gods of trickery—such as Tymora, Beshaba, Olidammara, the Traveler, Garl Glittergold, and Loki—are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They’re patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation."
 					],
 					"Table": {
-						"Title": "Trickery Domain Spells",
+						"Caption": "Trickery Domain Spells",
 						"Headers": [
 							"Cleric Level",
 							"Spells"
@@ -1573,7 +1573,7 @@
 						"War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of war include champions of honor and chivalry (such as Torm, Heironeous, and KiriJolith) as well as gods of destruction and pillage (such as Erythnul, the Fury, Gruumsh, and Ares) and gods of conquest and domination (such as Bane, Hextor, and Maglubiyet). Other war gods (such as Tempus, Nike, and Nuada) take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance."
 					],
 					"Table": {
-						"Title": "War Domain Spells",
+						"Caption": "War Domain Spells",
 						"Headers": [
 							"Cleric Level",
 							"Spells"
@@ -1640,7 +1640,7 @@
 		},
 		"Druid": {
 			"Table": {
-				"Title": "The Druid",
+				"Caption": "The Druid",
 				"Headers": [
 					"Level",
 					"Proficiency Bonus",
@@ -2005,7 +2005,7 @@
 						"You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form"
 					],
 					"Table": {
-						"Title": "Beast Shapes",
+						"Caption": "Beast Shapes",
 						"Headers": [
 							"Druid Level",
 							"Max. CR",
@@ -2083,7 +2083,7 @@
 						"The creature is aware of this effect before it makes its attack against you."
 					],
 					"Arctic Table": {
-						"Title": "Arctic",
+						"Caption": "Arctic",
 						"Headers": [
 							"Druid Level",
 							"Circle Spells"
@@ -2120,7 +2120,7 @@
 						]
 					},
 					"Coast Table": {
-						"Title": "Coast",
+						"Caption": "Coast",
 						"Headers": [
 							"Druid Level",
 							"Circle Spells"
@@ -2157,7 +2157,7 @@
 						]
 					},
 					"Desert Table": {
-						"Title": "Desert",
+						"Caption": "Desert",
 						"Headers": [
 							"Druid Level",
 							"Circle Spells"
@@ -2194,7 +2194,7 @@
 						]
 					},
 					"Forest Table": {
-						"Title": "Forest",
+						"Caption": "Forest",
 						"Headers": [
 							"Druid Level",
 							"Circle Spells"
@@ -2231,7 +2231,7 @@
 						]
 					},
 					"Grassland Table": {
-						"Title": "Grassland",
+						"Caption": "Grassland",
 						"Headers": [
 							"Druid Level",
 							"Circle Spells"
@@ -2268,7 +2268,7 @@
 						]
 					},
 					"Mountain Table": {
-						"Title": "Mountain",
+						"Caption": "Mountain",
 						"Headers": [
 							"Druid Level",
 							"Circle Spells"
@@ -2305,7 +2305,7 @@
 						]
 					},
 					"Swamp Table": {
-						"Title": "Swamp",
+						"Caption": "Swamp",
 						"Headers": [
 							"Druid Level",
 							"Circle Spells"
@@ -2342,7 +2342,7 @@
 						]
 					},
 					"Underdark Table": {
-						"Title": "Underdark",
+						"Caption": "Underdark",
 						"Headers": [
 							"Druid Level",
 							"Circle Spells"
@@ -2406,7 +2406,7 @@
 		},
 		"Fighter": {
 			"Table": {
-				"Title": "The Fighter",
+				"Caption": "The Fighter",
 				"Headers": [
 					"Level",
 					"Proficiency Bonus",
@@ -2714,7 +2714,7 @@
 						]
 					},
 					"Table": {
-						"Title": "Eldritch Knight Spellcasting",
+						"Caption": "Eldritch Knight Spellcasting",
 						"Headers": [
 							"Fighter Level",
 							"Cantrips Known",
@@ -2911,7 +2911,7 @@
 		},
 		"Monk": {
 			"Table": {
-				"Title": "The Monk",
+				"Caption": "The Monk",
 				"Headers": [
 					"Level",
 					"Proficiency Bonus",
@@ -3227,7 +3227,7 @@
 							"Casting Elemental Spells. Some elemental disciplines allow you to cast spells. See chapter 10 for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules. but you don't need to provide material components for it. Once you reach 5th level in this class, you can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level. as burning hands does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Sweeping Cinder Strike to cast burning hands, you can spend 3 ki points to cast it as a 2nd-level spell (the discipline's base cost of 2 ki points plus 1). The maximum number of ki points you can spend to cast a spell in this Way (including its base ki point cost and any additional ki points you spend to increase its level) is determined by your monk level. as shown in the Spells and Ki Points table."
 						],
 						"Table": {
-							"Title": "Spells and Ki Points",
+							"Caption": "Spells and Ki Points",
 							"Headers": [
 								"Monk Levels",
 								"Maximum Ki Points for a Spell"
@@ -3321,7 +3321,7 @@
 		},
 		"Paladin": {
 			"Table": {
-				"Title": "The Paladin",
+				"Caption": "The Paladin",
 				"Headers": [
 					"Level",
 					"Proficiency Bonus",
@@ -3657,7 +3657,7 @@
 							"You gain oath spells at the paladin levels listed."
 						],
 						"Table": {
-							"Title": "Oath of Devotion Spells",
+							"Caption": "Oath of Devotion Spells",
 							"Headers": [
 								"Paladin Level",
 								"Spells"
@@ -3753,7 +3753,7 @@
 						"You gain oath spells at the paladin levels listed."
 					],
 					"Table": {
-						"Title": "Oath of Ancients Spells",
+						"Caption": "Oath of Ancients Spells",
 						"Headers": [
 							"Paladin Level",
 							"Spells"
@@ -3858,7 +3858,7 @@
 							"You gain oath spells at the paladin levels listed."
 						],
 						"Table": {
-							"Title": "Oath of Vengence Spells",
+							"Caption": "Oath of Vengence Spells",
 							"Headers": [
 								"Paladin Level",
 								"Spells"
@@ -3938,7 +3938,7 @@
 		},
 		"Ranger": {
 			"Table": {
-				"Title": "The Ranger",
+				"Caption": "The Ranger",
 				"Headers": [
 					"Level",
 					"Proficiency Bonus",
@@ -4350,7 +4350,7 @@
 		},
 		"Rogue": {
 			"Table": {
-				"Title": "The Rouge",
+				"Caption": "The Rouge",
 				"Headers": [
 					"Level",
 					"Proficiency Bonus",
@@ -4619,7 +4619,7 @@
 		},
 		"Sorcerer": {
 			"Table": {
-				"Title": "The Sorceror",
+				"Caption": "The Sorceror",
 				"Headers": [
 					"Level",
 					"Proficiency Bonus",
@@ -5028,7 +5028,7 @@
 								"You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th."
 							],
 							"Table": {
-								"Title": "Creating Spell Slots",
+								"Caption": "Creating Spell Slots",
 								"Headers": [
 									"Spell Slot Level",
 									"Sorcery Point Cost"
@@ -5115,7 +5115,7 @@
 							"You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check."
 						],
 						"Table": {
-							"Title": "Draconic Ancestry",
+							"Caption": "Draconic Ancestry",
 							"Headers": [
 								"Dragon",
 								"Damage Type"
@@ -5200,7 +5200,7 @@
 						"Beginning at 18th level, the harmful energy of your spells intensifies. When you roll damage for a spell and roll the highest number possible on any of The dice, choose one of those dice, roll it again and add that roll to the damage. You can use the feature only once per turn."
 					],
 					"Table": {
-						"Title": "Wild Magic Surge",
+						"Caption": "Wild Magic Surge",
 						"Headers": [
 							"d100",
 							"Effect"
@@ -5492,7 +5492,7 @@
 		},
 		"Warlock": {
 			"Table": {
-				"Title": "The Warlock",
+				"Caption": "The Warlock",
 				"Headers": [
 					"Level",
 					"Proficiency Bonus",
@@ -5853,7 +5853,7 @@
 						"The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you."
 					],
 					"Table":{
-						"Title": "Fiend Expanded Spells",
+						"Caption": "Fiend Expanded Spells",
 						"Headers": [
 							"Spell Level",
 							"Spells"
@@ -5918,7 +5918,7 @@
 						"Entities of this type include Ghaunadar, called That Which Lurks; Tharizdun, the Chained God; Dendar, the Night Serpent; Zargon, the Returner; Great Cthulhu; and other unfathomable beings."
 					],
 					"Table": {
-						"Title": "Great Old One Expanded Spells",
+						"Caption": "Great Old One Expanded Spells",
 						"Headers": [
 							"Spell Level",
 							"Spells"
@@ -6361,7 +6361,7 @@
 		},
 		"Wizard": {
 			"Table": {
-				"Title": "The Wizard",
+				"Caption": "The Wizard",
 				"Headers": [
 					"Level",
 					"Proficiency Bonus",
