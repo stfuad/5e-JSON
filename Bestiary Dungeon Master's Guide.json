@@ -1,0 +1,67 @@
+﻿{
+	"Giant Fly": {
+		"Size": "Large",
+		"Type": "beast",
+		"Alignment": "unaligned",
+		"Armor Class": 11,
+		"Hit Points": "3d10 + 3",
+		"Speed": "30 ft., fly 60 ft.",
+		"Ability Scores": {
+			"STR": 14,
+			"DEX": 13,
+			"CON": 13,
+			"INT": 2,
+			"WIS": 10,
+			"CHA": 3
+		},
+		"Saving Throws": {
+			"Strength": false,
+			"Dexterity": false,
+			"Constitution": false,
+			"Intelligence": false,
+			"Wisdom": false,
+			"Charisma": false
+		},
+		"Skills": {
+			"Acrobatics": false,
+			"Animal Handling": false,
+			"Arcana": false,
+			"Athletics": false,
+			"Deception": false,
+			"History": false,
+			"Insight": false,
+			"Intimidation": false,
+			"Investigation": false,
+			"Medicine": false,
+			"Nature": false,
+			"Perception": false,
+			"Performance": false,
+			"Persuasion": false,
+			"Religion": false,
+			"Sleight of Hand": false,
+			"Stealth": false,
+			"Survival":  false
+		},
+		"Damage Vulnerabilities": [
+
+		],
+		"Damage Resistances": [
+
+		],
+		"Damage Immunities": [
+
+		],
+		"Condition Immunities": [
+
+		],
+		"Senses": [
+			"darkvision 60 ft.",
+			"passive Perception 10"
+		],
+		"Languages": [
+		
+		],
+		"Book": "Dungeon Master's Guide",
+		"Page": 169
+	}
+}
