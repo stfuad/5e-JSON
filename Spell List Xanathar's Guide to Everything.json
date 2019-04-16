@@ -1,0 +1,442 @@
+{
+    "Bard": {
+        "Cantrips (0 Level)": [
+            "Thunderclap"
+        ],
+        "1st Level": [
+            "Earth Tremor"
+        ],
+        "2nd Level": [
+            "Pyrotechnics",
+            "Skywrite",
+            "Warding Wind" 
+        ],
+        "3rd Level": [
+            "Catnap",
+            "Enemies Abound"
+        ],
+        "4th Level": [
+            "Charm Monster"
+        ],
+        "5th Level": [
+            "Skill Empowerment",
+            "Synaptic Static"
+        ],
+        "6th Level": [
+
+        ],
+        "7th Level": [
+
+        ],
+        "8th Level": [
+
+        ],
+        "9th Level": [
+            "Mass Polymorph",
+            "Psychic Scream"		
+        ]
+    },
+    "Cleric": {
+        "Cantrips (0 Level)": [
+            "Toll the Dead",
+            "Word of Radiance"
+
+        ],
+        "1st Level": [
+            "Ceremony"
+        ],
+        "2nd Level": [
+            
+        ],
+        "3rd Level": [
+            "Life Transference"
+        ],
+        "4th Level": [
+
+        ],
+        "5th Level": [
+            "Dawn",
+            "Holy Weapon"
+        ],
+        "6th Level": [
+
+        ],
+        "7th Level": [
+            "Temple of the Gods"
+        ],
+        "8th Level": [
+
+        ],
+        "9th Level": [
+            
+        ]        
+    },
+    "Druid": {
+        "Cantrips (0 Level)": [
+            "Control Flames",
+            "Create Bonfire",
+            "Frostbite",
+            "Gust",
+            "Infestation",
+            "Magic Stone",
+            "Mold Earth",
+            "Primal Savagery",
+            "Shape Water",
+            "Thunderclap"
+        ],
+        "1st Level": [
+            "Absorb Elements",
+            "Beast Bond",	
+            "Earth Tremor",
+            "Ice Knife",
+            "Snare"
+        ],
+        "2nd Level": [
+            "Dust Devil",
+            "Earthbind",
+            "Healing spirit",
+            "Skywrite",
+            "Warding Wind"
+        ],
+        "3rd Level": [
+            "Erupting Earth",
+            "Flame Arrows",
+            "Tidal Wave",
+            "Wall of Water"
+        ],
+        "4th Level": [
+            "Charm Monster",
+            "Elemental Bane",
+            "Guardian of Nature",
+            "Watery Sphere"
+        ],
+        "5th Level": [
+            "Control Winds",
+            "Maelstrom",
+            "Transmute Rock",
+            "Wrath of Nature"
+        ],
+        "6th Level": [
+            "Bones of Earth",
+            "Druid grove",
+            "Investiture of Flame",
+            "Investiture of Ice",
+            "Investiture of Stone",
+            "Investiture of Wind",
+            "Primordial ward"
+        ],
+        "7th Level": [
+            "Whirlwind"
+        ],
+        "8th Level": [
+
+        ],
+        "9th Level": [
+            
+        ]
+    },
+    "Paladin": {
+        "Cantrips (0 Level)": [
+
+        ],
+        "1st Level": [
+            "Ceremony"
+        ],
+        "2nd Level": [
+
+        ],
+        "3rd Level": [
+
+        ],
+        "4th Level": [
+            "Find Greater steed"
+        ],
+        "5th Level": [
+            "Holy Weapon"
+        ],
+        "6th Level": [
+
+        ],
+        "7th Level": [
+
+        ],
+        "8th Level": [
+
+        ],
+        "9th Level": [
+            
+        ]
+    },
+    "Ranger": {
+        "Cantrips (0 Level)": [
+
+        ],
+        "1st Level": [
+            "Absorb Elements",
+            "Beast Bond",
+            "Snare",
+            "Zephyr strike"
+        ],
+        "2nd Level": [
+            "Healing spirit"
+        ],
+        "3rd Level": [
+            "Flame Arrows"
+        ],
+        "4th Level": [
+            "Guardian of Nature"
+        ],
+        "5th Level": [
+            "Steel Wind Strike",
+            "Wrath of Nature"
+        ],
+        "6th Level": [
+
+        ],
+        "7th Level": [
+
+        ],
+        "8th Level": [
+
+        ],
+        "9th Level": [
+            
+        ]
+    },
+    "Sorceror": {
+        "Cantrips (0 Level)": [
+            "Control Flames",
+            "Create Bonfire",
+            "Frostbite",
+            "Gust",
+            "Infestation",
+            "Mold Earth",
+            "Shape Water",
+            "Thunderclap"
+        ],
+        "1st Level": [
+            "Absorb Elements",
+            "Catapult",
+            "Chaos Bolt",
+            "Earth Tremor",
+            "Ice Knife"
+        ],
+        "2nd Level": [
+            "Aganazzar's Scorcher",
+            "Dragon's Breath",
+            "Dust Devil",
+            "Earthbind",
+            "Maximilian's Earthen Grasp",
+            "Mind Spike",
+            "Pyrotechnics",
+            "Shadow Blade",
+            "Snilloc's Snowball Swarm",
+            "Warding Wind"
+        ],
+        "3rd Level": [
+            "Catnap",
+            "Enemies Abound",
+            "Erupting Earth",
+            "Flame Arrows",
+            "Melf's Minute Meteors",
+            "Thunder Step",
+            "Tidal Wave",
+            "Wall of Water"
+        ],
+        "4th Level": [
+            "Charm Monster",
+            "Sickening Radiance",
+            "Storm Sphere",
+            "Vitriolic Sphere",
+            "Watery Sphere"
+        ],
+        "5th Level": [
+            "Control Winds",
+            "Enervation",
+            "Far Step",
+            "Immolation",
+            "Skill Empowerment",
+            "Synaptic Static",
+            "Wall of Light"
+        ],
+        "6th Level": [
+            "Investiture of Flame",
+            "Investiture of Ice",
+            "Investiture of Stone",
+            "Investiture of Wind",
+            "Mental Prison",
+            "Scatter"
+        ],
+        "7th Level": [
+            "Crown of Stars",
+            "Power Word Pain",
+            "Whirlwind"
+        ],
+        "8th Level": [
+            "Abi-Dalzim's Horrid Wilting"
+        ],
+        "9th Level": [
+            "Mass Polymorph",
+            "Psychic Scream"
+        ]
+    },
+    "Warlock": {
+        "Cantrips (0 Level)": [
+            "Create Bonfire",
+            "Frostbite",
+            "Infestation",
+            "Magic Stone",
+            "Mold Earth",
+            "Thunderclap",
+            "Toll the Dead"
+        ],
+        "1st Level": [
+            "Cause Fear"
+        ],
+        "2nd Level": [
+            "Earthbind",
+            "Mind Spike",
+            "Shadow Blade"
+        ],
+        "3rd Level": [
+            "Enemies Abound",
+            "Thunder Step",
+            "Summon Lesser Demons"
+        ],
+        "4th Level": [
+            "Charm Monster",
+            "Elemental Bane",
+            "Shadow of Moil",
+            "Sickening Radiance",
+            "Summon Greater Demon"
+        ],
+        "5th Level": [
+            "Danse Macabre",
+            "Enervation",
+            "Far Step",
+            "Infernal Calling",
+            "Negative Energy Flood",
+            "Synaptic Static",
+            "Wall of Light"
+        ],
+        "6th Level": [
+            "Create Homunculus",
+            "Investiture of Flame",
+            "Investiture of Ice",
+            "Investiture of Stone",
+            "Investiture of Wind",
+            "Mental Prison",
+            "Scatter",
+            "Soul Cage"
+        ],
+        "7th Level": [
+            "Crown of Stars",
+            "Power Word Pain"
+        ],
+        "8th Level": [
+            "Maddening Darkness"
+        ],
+        "9th Level": [
+            "Psychic Scream"
+        ]
+    },
+    "Wizard": {
+        "Cantrips (0 Level)": [
+            "Control Flames",
+            "Create Bonfire",
+            "Frostbite",
+            "Gust",
+            "Infestation",
+            "Mold Earth",
+            "Shape Water",
+            "Thunderclap",
+            "Toll the Dead"
+        ],
+        "1st Level": [
+            "Absorb Elements",
+            "Catapult",
+            "Cause Fear",
+            "Earth Tremor",
+            "Ice Knife",
+            "Snare"
+        ],
+        "2nd Level": [
+            "Aganazzar's Scorcher",
+            "Dragon's Breath",
+            "Dust Devil",
+            "Earthbind",
+            "Maximilian's Earthen Grasp",
+            "Mind Spike",
+            "Pyrotechnics",
+            "Shadow Blade",
+            "Skywrite",
+            "Snilloc's Snowball Swarm",
+            "Warding Wind"
+        ],
+        "3rd Level": [
+            "Catnap",
+            "Enemies Abound",
+            "Erupting Earth",
+            "Flame Arrows",
+            "Life Transference",
+            "Melf's Minute Meteors",
+            "Summon Lesser Demons",
+            "Thunder Step",
+            "Tidal Wave",
+            "Tiny Servant",
+            "Wall of Sand",
+            "Wall of Water"
+        ],
+        "4th Level": [
+            "Charm Monster",
+            "Elemental Bane",
+            "Sickening Radiance",
+            "Storm Sphere",
+            "Summon Greater Demon",
+            "Vitriolic Sphere",
+            "Watery Sphere"
+        ],
+        "5th Level": [
+            "Control Winds",
+            "Danse Macabre",
+            "Dawn",
+            "Enervation",
+            "Far Step",
+            "Immolation",
+            "Infernal Calling",
+            "Negative Energy Flood",
+            "Skill Empowerment",
+            "Steel Wind Strike",
+            "Synaptic Static",
+            "Transmute Rock",
+            "Wall of Light"
+        ],
+        "6th Level": [
+            "Create Homunculus",
+            "Investiture of Flame",
+            "Investiture of Ice",
+            "Investiture of Stone",
+            "Investiture of Wind",
+            "Mental Prison",
+            "Scatter",
+            "Soul Cage",
+            "Tenser's Transformation"
+        ],
+        "7th Level": [
+            "Crown of Stars",
+            "Power Word Pain",
+            "Whirlwind"
+        ],
+        "8th Level": [
+            "Abi-Dalzim's Horrid Wilting",
+            "Illusory Dragon",
+            "Maddening Darkness",
+            "Mighty Forces"
+        ],
+        "9th Level": [
+            "Invulnerability",
+            "Mass Polymorph",
+            "Psychic Scream"
+        ]
+    }
+}
