@@ -1,6 +1,6 @@
 {
 	"Bard": {
-		"Cantrips (0 Level": [
+		"Cantrips (0 Level)": [
             "Blade Ward",
             "Dancing Lights",
             "Friends",
@@ -142,7 +142,7 @@
 		]
 	},
 	"Cleric": {
-		"Cantrips (0 Level": [
+		"Cantrips (0 Level)": [
             "Guidance",
             "Light",
             "Mending",
@@ -270,7 +270,7 @@
 		]        
     },
     "Druid": {
-        "Cantrips (0 Level": [
+        "Cantrips (0 Level)": [
             "Druidcraft",
             "Guidance",
             "Mending",
@@ -402,7 +402,7 @@
 		]
     },
     "Paladin": {
-        "Cantrips (0 Level": [
+        "Cantrips (0 Level)": [
 
 		],
 		"1st Level": [
@@ -474,7 +474,7 @@
 		]
     },
     "Ranger": {
-        "Cantrips (0 Level": [
+        "Cantrips (0 Level)": [
 
 		],
 		"1st Level": [
@@ -547,7 +547,7 @@
 		]
     },
     "Sorceror": {
-        "Cantrips (0 Level": [
+        "Cantrips (0 Level)": [
             "Acid Splash",
             "Blade Ward",
             "Chill Touch",
@@ -698,7 +698,7 @@
 		]
     },
     "Warlock": {
-        "Cantrips (0 Level": [
+        "Cantrips (0 Level)": [
             "Blade Ward",
             "Chill Touch",
             "Eldritch Blast",
@@ -794,7 +794,7 @@
 		]
     },
     "Wizard": {
-        "Cantrips (0 Level": [
+        "Cantrips (0 Level)": [
             "Acid Splash",
             "Blade Ward",
             "Chill Touch",
