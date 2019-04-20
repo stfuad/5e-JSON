@@ -5813,7 +5813,7 @@
 					],
 					"Pact of the Chain":[
 						"You learn the find familiar spell and can cast it as a ritual. The spell doesn’t count against your number of spells known.",
-						"When you cast the spell, you can choose one of the norm al form s for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.",
+						"When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.",
 						"Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own."
 					],
 					"Pact of the Blade":[
@@ -6041,6 +6041,77 @@
 						"You can communicate telepathically with the charmed creature as long as the two of you are on the same plane of existence."
 					]
 				},
+				"The Celestial": {
+					"Description": [
+						"Your patron is a powerful being of the Upper Planes. You have bound yourself to an ancient empyrean, solar, ki-rin, unicorn, or other entity that resides in the planes of everlasting bliss. Your pact with that being allows you to experience the barest touch of the holy light that illuminates the multiverse.",
+						"Being connected to such power can cause changes in your behavior and beliefs. You might find yourself driven to annihilate the undead, to defeat fiends, and to protect the innocent. At times, your heart might also be filled with a longing for the celestial realm of your patron, and a desire to wander that paradise for the rest of your days. But you know that your mission is among mortals for now, and that your pact binds you to bring light to the dark places of the world."
+					],
+					"Expanded Spell List": [
+						"The Celestial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you."
+					],
+					"Celestial Expanded Spells Table": {
+						"Caption": "Celestial Expanded Spells",
+						"Headers": [
+							"Spell Level",
+							"Spells"
+						],
+						"Rows": [
+							{
+								"Spell Level": 1,
+								"Spells": [
+									"Cure Wounds",
+									"Guiding Bolt"
+								]
+							},
+							{
+								"Spell Level": 2,
+								"Spells": [
+									"Flaming Sphere",
+									"Lesser Restoration"
+								]
+							},
+							{
+								"Spell Level": 3,
+								"Spells": [
+									"Daylight",
+									"Revivify"
+								]
+							},
+							{
+								"Spell Level": 4,
+								"Spells": [
+									"Guardian of Faith",
+									"Wall of Fire"
+								]
+							},
+							{
+								"Spell Level": 5,
+								"Spells": [
+									"Flame Strike",
+									"Greater Restoration"
+								]
+							}
+						]
+					},
+					"Bonus Cantrips": [
+						"At 1st level, you learn the light and sacred flame cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known."
+					],
+					"Healing Light": [
+						"At 1st level, you gain the ability to channel celestial energy to heal wounds. You have a pool of d6s that you spend to fuel this healing. The number of dice in the pool equals 1 + your warlock level.",
+						"As a bonus action, you can heal one creature you can see within 60 feet of you, spending dice from the pool. The maximum number of dice you can spend at once equals your Charisma modifier (minimum of one die). Roll the dice you spend, add them together, and restore a number of hit points equal to the total.",
+						"Your pool regains all expended dice when you finish a long rest."
+					],
+					"Radiant Soul": [
+						"Starting at 6th level, your link to the Celestial allows you to serve as a conduit for radiant energy. You have resistance to radiant damage, and when you cast a spell that deals radiant or fire damage, you can add your Charisma modifier to one radiant or fire damage roll of that spell against one of its targets."
+					],
+					"Celestial Resilience": [
+						"Starting at 10th level, you gain temporary hit points whenever you finish a short or long rest. These temporary hit points equal your warlock level+ your Charisma modifier. Additionally, choose up to five creatures you can see at the end of the rest. Those creatures each gain temporary hit points equal to half your warlock level + your Charisma modifier."
+					],
+					"Searing Vengence": [
+						"Starting at 14th level, the radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain hit points equal to half your hit point maximum, and then you stand up if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to 2d8 + your Charisma modifier, and it is blinded until the end of the current turn.",
+						"Once you use this feature, you can't use it again until you finish a long rest."
+					]
+				},
 				"The Hexblade": {
 					"Description": [
 						"You have made your pact with a mysterious entity from the Shadowfell- a force that manifests in sentient magic weapons carved from the stuff of shadow. The mighty sword Blackrazor is the most notable of these weapons, which have been spread across the multiverse over the ages. The shadowy force behind these weapons can offer power to warlocks who form pacts with it. Many hexblade warlocks create weapons that emulate those formed in the Shadowfell. Others forgo such arms, content to weave the dark magic of that plane into their spellcasting.",
@@ -6166,6 +6237,12 @@
 						"You can cast levitate on yourself at will, without expending a spell slot or material components."
 					]
 				},
+				"Aspect of the Moon": {
+						"Prerequisite": "Pact of the Tome feature",
+						"Description": [
+							"You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch."
+						]
+				},
 				"Beast Speech": {
 					"Description": [
 						"You can cast speak with animals at will, without expending a spell slot."
@@ -6195,6 +6272,14 @@
 						"You can cast hold monster at will—targeting a celestial, fiend, or elemental—without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again."
 					]
 				},
+				"Cloak of Flies": {
+					"Prerequisite": "5th level",
+					"Description": [
+						"As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a bonus action.",
+						"The aura grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).",
+						"Once you use this invocation, you can't use it again until you finish a short or long rest."
+					]
+				},
 				"Devil's Sight": {
 					"Description": [
 						"You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet."
@@ -6209,6 +6294,12 @@
 				"Eldritch Sight": {
 					"Description": [
 						"You can cast detect magic at will, without expending a spell slot."
+					]
+				},
+				"Eldritch Smite": {
+					"Prerequisite": "5th level, Pact of the Blade feature",
+					"Description": [
+						"Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra ld8 force damage to the target, plus another ld8 per level of the spell slot, and you can knock the target prone if it is Huge or smaller."
 					]
 				},
 				"Eldritch Spear": {
@@ -6230,125 +6321,6 @@
 				"Gaze of Two Minds": {
 					"Description": [
 						"You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings."
-					]
-				},
-				"Lifedrinker": {
-					"Prerequisite": "12th level, Pact of the Blade feature",
-					"Description": [
-						"When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1)."
-					]
-				},
-				"Mask of Many Faces": {
-					"Description": [
-						"You can cast disguise self at will, without expending a spell slot."
-					]
-				},
-				"Master of Myriad Forms": {
-					"Prerequisite": "15th level",
-					"Description": [
-						"You can cast alter self at will, without expending a spell slot."
-					]
-				},
-				"Minions of Chaos": {
-					"Prerequisite": "9th level",
-					"Description": [
-						"You can cast conjure elemental once using a warlock spell slot. You can’t do so again until you finish a long rest."
-					]
-				},
-				"Mire the Mind": {
-					"Prerequisite": "5th level",
-					"Description": [
-						"You can cast slow once using a warlock spell slot. You can’t do so again until you finish a long rest."
-					]
-				},
-				"Misty Visions": {
-					"Description": [
-						"You can cast silent image at will, without expending a spell slot or material components."
-					]
-				},
-				"One with Shadows": {
-					"Prerequisite": "5th level",
-					"Description": [
-						"When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction."
-					]
-				},
-				"Otherworldly Leap": {
-					"Prerequisite": "9th level",
-					"Description": [
-						"You can cast jump on yourself at will, without expending a spell slot or material components."
-					]
-				},
-				"Repelling Blast": {
-					"Prerequisite": "eldritch blast cantrip",
-					"Description": [
-						"When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line."
-					]
-				},
-				"Sculptor of Flesh": {
-					"Prerequisite": "7th level",
-					"Description": [
-						"You can cast polymorph once using a warlock spell slot. You can’t do so again until you finish a long rest."
-					]
-				},
-				"Sign of Ill Omen": {
-					"Prerequisite": "5th level",
-					"Description": [
-						"You can cast bestow curse once using a warlock spell slot. You can’t do so again until you finish a long rest."
-					]
-				},
-				"Thief of Five Fates": {
-					"Description": [
-						"You can cast bane once using a warlock spell slot. You can’t do so again until you finish a long rest."
-					]
-				},
-				"Thirsting Blade": {
-					"Prerequisite": "5th level, Pact of the Blade feature",
-					"Description": [
-						"You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn."
-					]
-				},
-				"Visions of Distant Realms": {
-					"Prerequisite": "15th level",
-					"Description": [
-						"You can cast arcane eye at will, without expending a spell slot."
-					]
-				},
-				"Voice of the Chain Master": {
-					"Prerequisite": "Pact of the Chain feature",
-					"Description": [
-						"You can communicate telepathically with your familiar and perceive through your familiar’s senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar’s senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech."
-					]
-				},
-				"Whispers of the Grave": {
-					"Prerequisite": "9th level",
-					"Description": [
-						"You can cast speak with dead at will, without expending a spell slot."
-					]
-				},
-				"Witch Sight": {
-					"Prerequisite": "15th level",
-					"Description": [
-						"You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight."
-					]
-				},
-				"Aspect of the Moon": {
-					"Prerequisite": "Pact of the Tome feature",
-					"Description": [
-						"You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch."
-					]
-				},
-				"Cloak of Flies": {
-					"Prerequisite": "5th level",
-					"Description": [
-						"As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a bonus action.",
-						"The aura grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).",
-						"Once you use this invocation, you can't use it again until you finish a short or long rest."
-					]
-				},
-				"Eldritch Smite": {
-					"Prerequisite": "5th level, Pact of the Blade feature",
-					"Description": [
-						"Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot, and you can knock the target prone if it is Huge or smaller."
 					]
 				},
 				"Ghostly Gaze": {
@@ -6391,10 +6363,56 @@
 						"Once on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature's speed by 10 feet until the end of your next turn."
 					]
 				},
+				"Lifedrinker": {
+					"Prerequisite": "12th level, Pact of the Blade feature",
+					"Description": [
+						"When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1)."
+					]
+				},
 				"Maddening Hex": {
 					"Prerequisite": "5th level, hex spell or a warlock feature that curses",
 					"Description": [
 						"As a bonus action, you cause a psychic disturbance around the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. When you do so, you deal psychic damage to the cursed target and each creature of your choice that you can see within 5 feet of it. The psychic damage equals your Charisma modifier (minimum of 1 damage). To use this invocation, you must be able to see the cursed target, and it must be within 30 feet of you."
+					]
+				},
+				"Mask of Many Faces": {
+					"Description": [
+						"You can cast disguise self at will, without expending a spell slot."
+					]
+				},
+				"Master of Myriad Forms": {
+					"Prerequisite": "15th level",
+					"Description": [
+						"You can cast alter self at will, without expending a spell slot."
+					]
+				},
+				"Minions of Chaos": {
+					"Prerequisite": "9th level",
+					"Description": [
+						"You can cast conjure elemental once using a warlock spell slot. You can’t do so again until you finish a long rest."
+					]
+				},
+				"Mire the Mind": {
+					"Prerequisite": "5th level",
+					"Description": [
+						"You can cast slow once using a warlock spell slot. You can’t do so again until you finish a long rest."
+					]
+				},
+				"Misty Visions": {
+					"Description": [
+						"You can cast silent image at will, without expending a spell slot or material components."
+					]
+				},
+				"One with Shadows": {
+					"Prerequisite": "5th level",
+					"Description": [
+						"When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction."
+					]
+				},
+				"Otherworldly Leap": {
+					"Prerequisite": "9th level",
+					"Description": [
+						"You can cast jump on yourself at will, without expending a spell slot or material components."
 					]
 				},
 				"Relentless Hex": {
@@ -6403,10 +6421,39 @@
 						"Your curse creates a temporary bond between you and your target. As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see within 5 feet of the target cursed by your hex spell or by a warlock feature of yours, such as Hexblade's Curse or Sign of Ill Omen. To teleport in this way, you must be able to see the cursed target."
 					]
 				},
+				"Repelling Blast": {
+					"Prerequisite": "eldritch blast cantrip",
+					"Description": [
+						"When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line."
+					]
+				},
+				"Sculptor of Flesh": {
+					"Prerequisite": "7th level",
+					"Description": [
+						"You can cast polymorph once using a warlock spell slot. You can’t do so again until you finish a long rest."
+					]
+				},
 				"Shroud of Shadow": {
 					"Prerequisite": "15th level",
 					"Description": [
 						"You can cast invisibility at will, without expending a spell slot."
+					]
+				},
+				"Sign of Ill Omen": {
+					"Prerequisite": "5th level",
+					"Description": [
+						"You can cast bestow curse once using a warlock spell slot. You can’t do so again until you finish a long rest."
+					]
+				},
+				"Thief of Five Fates": {
+					"Description": [
+						"You can cast bane once using a warlock spell slot. You can’t do so again until you finish a long rest."
+					]
+				},
+				"Thirsting Blade": {
+					"Prerequisite": "5th level, Pact of the Blade feature",
+					"Description": [
+						"You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn."
 					]
 				},
 				"Tomb of Levistus": {
@@ -6420,6 +6467,30 @@
 					"Prerequisite": "7th level",
 					"Description": [
 						"You can cast freedom of movement once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest."
+					]
+				},
+				"Visions of Distant Realms": {
+					"Prerequisite": "15th level",
+					"Description": [
+						"You can cast arcane eye at will, without expending a spell slot."
+					]
+				},
+				"Voice of the Chain Master": {
+					"Prerequisite": "Pact of the Chain feature",
+					"Description": [
+						"You can communicate telepathically with your familiar and perceive through your familiar’s senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar’s senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech."
+					]
+				},
+				"Whispers of the Grave": {
+					"Prerequisite": "9th level",
+					"Description": [
+						"You can cast speak with dead at will, without expending a spell slot."
+					]
+				},
+				"Witch Sight": {
+					"Prerequisite": "15th level",
+					"Description": [
+						"You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight."
 					]
 				}
 			}
