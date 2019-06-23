@@ -385,7 +385,7 @@
 				"Strength": 24,
 				"Dexterity": 20,
 				"Constitution": 24,
-				"Int": 19,
+				"Intelligence": 19,
 				"Wisdom": 22,
 				"Charisma": 25
 			},
@@ -45532,6 +45532,34 @@
 				"Wisdom": 12,
 				"Charisma": 7
 			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
 			"Damage Vulnerabilities": [
 
 			],
@@ -48175,12 +48203,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 13,
-				"CON": 13,
-				"INT": 2,
-				"WIS": 10,
-				"CHA": 3
+				"Strength": 14,
+				"Dexterity": 13,
+				"Constitution": 13,
+				"Intelligence": 2,
+				"Wisdom": 10,
+				"Charisma": 3
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -48251,12 +48279,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 20,
-				"DEX": 12,
-				"CON": 20,
-				"INT": 11,
-				"WIS": 14,
-				"CHA": 8
+				"Strength": 20,
+				"Dexterity": 12,
+				"Constitution": 20,
+				"Intelligence": 11,
+				"Wisdom": 14,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -48366,12 +48394,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 15,
-				"CON": 14,
-				"INT": 13,
-				"WIS": 12,
-				"CHA": 14
+				"Strength": 19,
+				"Dexterity": 15,
+				"Constitution": 14,
+				"Intelligence": 13,
+				"Wisdom": 12,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -48497,12 +48525,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 15,
-				"CON": 14,
-				"INT": 13,
-				"WIS": 12,
-				"CHA": 14
+				"Strength": 19,
+				"Dexterity": 15,
+				"Constitution": 14,
+				"Intelligence": 13,
+				"Wisdom": 12,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -48627,12 +48655,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 14,
-				"CON": 18,
-				"INT": 10,
-				"WIS": 12,
-				"CHA": 10
+				"Strength": 18,
+				"Dexterity": 14,
+				"Constitution": 18,
+				"Intelligence": 10,
+				"Wisdom": 12,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -48730,12 +48758,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 10,
-				"DEX": 14,
-				"CON": 16,
-				"INT": 15,
-				"WIS": 15,
-				"CHA": 13
+				"Strength": 10,
+				"Dexterity": 14,
+				"Constitution": 16,
+				"Intelligence": 15,
+				"Wisdom": 15,
+				"Charisma": 13
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -48841,12 +48869,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 3,
-				"DEX": 17,
-				"CON": 14,
-				"INT": 3,
-				"WIS": 10,
-				"CHA": 7
+				"Strength": 3,
+				"Dexterity": 17,
+				"Constitution": 14,
+				"Intelligence": 3,
+				"Wisdom": 10,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -48947,12 +48975,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 16,
-				"CON": 15,
-				"INT": 7,
-				"WIS": 12,
-				"CHA": 12
+				"Strength": 15,
+				"Dexterity": 16,
+				"Constitution": 15,
+				"Intelligence": 7,
+				"Wisdom": 12,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -49062,12 +49090,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 8,
-				"DEX": 18,
-				"CON": 13,
-				"INT": 6,
-				"WIS": 12,
-				"CHA": 7
+				"Strength": 8,
+				"Dexterity": 18,
+				"Constitution": 13,
+				"Intelligence": 6,
+				"Wisdom": 12,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -49173,12 +49201,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 12,
-				"CON": 21,
-				"INT": 3,
-				"WIS": 14,
-				"CHA": 8
+				"Strength": 19,
+				"Dexterity": 12,
+				"Constitution": 21,
+				"Intelligence": 3,
+				"Wisdom": 14,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -49275,12 +49303,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 13,
-				"CON": 14,
-				"INT": 3,
-				"WIS": 10,
-				"CHA": 3
+				"Strength": 16,
+				"Dexterity": 13,
+				"Constitution": 14,
+				"Intelligence": 3,
+				"Wisdom": 10,
+				"Charisma": 3
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -49387,12 +49415,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 10,
-				"DEX": 14,
-				"CON": 12,
-				"INT": 10,
-				"WIS": 10,
-				"CHA": 7
+				"Strength": 10,
+				"Dexterity": 14,
+				"Constitution": 12,
+				"Intelligence": 10,
+				"Wisdom": 10,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -49499,12 +49527,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 12,
-				"DEX": 16,
-				"CON": 12,
-				"INT": 11,
-				"WIS": 14,
-				"CHA": 10
+				"Strength": 12,
+				"Dexterity": 16,
+				"Constitution": 12,
+				"Intelligence": 11,
+				"Wisdom": 14,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -49636,12 +49664,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 2,
-				"DEX": 14,
-				"CON": 10,
-				"INT": 4,
-				"WIS": 11,
-				"CHA": 8
+				"Strength": 2,
+				"Dexterity": 14,
+				"Constitution": 10,
+				"Intelligence": 4,
+				"Wisdom": 11,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -49732,12 +49760,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 14,
-				"CON": 10,
-				"INT": 15,
-				"WIS": 11,
-				"CHA": 14
+				"Strength": 9,
+				"Dexterity": 14,
+				"Constitution": 10,
+				"Intelligence": 15,
+				"Wisdom": 11,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -49854,12 +49882,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 16,
-				"CON": 12,
-				"INT": 10,
-				"WIS": 12,
-				"CHA": 10
+				"Strength": 9,
+				"Dexterity": 16,
+				"Constitution": 12,
+				"Intelligence": 10,
+				"Wisdom": 12,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -49952,12 +49980,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 13,
-				"DEX": 17,
-				"CON": 12,
-				"INT": 10,
-				"WIS": 14,
-				"CHA": 13
+				"Strength": 13,
+				"Dexterity": 17,
+				"Constitution": 12,
+				"Intelligence": 10,
+				"Wisdom": 14,
+				"Charisma": 13
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -50055,12 +50083,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 13,
-				"CON": 16,
-				"INT": 10,
-				"WIS": 12,
-				"CHA": 14
+				"Strength": 18,
+				"Dexterity": 13,
+				"Constitution": 16,
+				"Intelligence": 10,
+				"Wisdom": 12,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -50154,12 +50182,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 13,
-				"CON": 16,
-				"INT": 10,
-				"WIS": 12,
-				"CHA": 14
+				"Strength": 18,
+				"Dexterity": 13,
+				"Constitution": 16,
+				"Intelligence": 10,
+				"Wisdom": 12,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -50269,12 +50297,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 16,
-				"CON": 16,
-				"INT": 11,
-				"WIS": 12,
-				"CHA": 13
+				"Strength": 19,
+				"Dexterity": 16,
+				"Constitution": 16,
+				"Intelligence": 11,
+				"Wisdom": 12,
+				"Charisma": 13
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -50387,12 +50415,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 8,
-				"CON": 13,
-				"INT": 5,
-				"WIS": 8,
-				"CHA": 5
+				"Strength": 14,
+				"Dexterity": 8,
+				"Constitution": 13,
+				"Intelligence": 5,
+				"Wisdom": 8,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -50484,12 +50512,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 13,
-				"CON": 17,
-				"INT": 7,
-				"WIS": 14,
-				"CHA": 9
+				"Strength": 18,
+				"Dexterity": 13,
+				"Constitution": 17,
+				"Intelligence": 7,
+				"Wisdom": 14,
+				"Charisma": 9
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -50593,12 +50621,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 20,
-				"DEX": 12,
-				"CON": 20,
-				"INT": 13,
-				"WIS": 10,
-				"CHA": 16
+				"Strength": 20,
+				"Dexterity": 12,
+				"Constitution": 20,
+				"Intelligence": 13,
+				"Wisdom": 10,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -50696,12 +50724,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 21,
-				"DEX": 9,
-				"CON": 17,
-				"INT": 2,
-				"WIS": 10,
-				"CHA": 7
+				"Strength": 21,
+				"Dexterity": 9,
+				"Constitution": 17,
+				"Intelligence": 2,
+				"Wisdom": 10,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -50786,12 +50814,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 15,
-				"CON": 14,
-				"INT": 4,
-				"WIS": 12,
-				"CHA": 6
+				"Strength": 15,
+				"Dexterity": 15,
+				"Constitution": 14,
+				"Intelligence": 4,
+				"Wisdom": 12,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -50888,12 +50916,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 10,
-				"CON": 15,
-				"INT": 2,
-				"WIS": 10,
-				"CHA": 5
+				"Strength": 14,
+				"Dexterity": 10,
+				"Constitution": 15,
+				"Intelligence": 2,
+				"Wisdom": 10,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -50973,12 +51001,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 10,
-				"CON": 13,
-				"INT": 2,
-				"WIS": 10,
-				"CHA": 5
+				"Strength": 15,
+				"Dexterity": 10,
+				"Constitution": 13,
+				"Intelligence": 2,
+				"Wisdom": 10,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -51058,12 +51086,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 13,
-				"CON": 13,
-				"INT": 2,
-				"WIS": 10,
-				"CHA": 5
+				"Strength": 15,
+				"Dexterity": 13,
+				"Constitution": 13,
+				"Intelligence": 2,
+				"Wisdom": 10,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -51155,12 +51183,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 20,
-				"DEX": 9,
-				"CON": 17,
-				"INT": 2,
-				"WIS": 11,
-				"CHA": 5
+				"Strength": 20,
+				"Dexterity": 9,
+				"Constitution": 17,
+				"Intelligence": 2,
+				"Wisdom": 11,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -51240,12 +51268,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 6,
-				"DEX": 14,
-				"CON": 13,
-				"INT": 4,
-				"WIS": 12,
-				"CHA": 6
+				"Strength": 6,
+				"Dexterity": 14,
+				"Constitution": 13,
+				"Intelligence": 4,
+				"Wisdom": 12,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -51343,12 +51371,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 20,
-				"DEX": 15,
-				"CON": 18,
-				"INT": 13,
-				"WIS": 11,
-				"CHA": 11
+				"Strength": 20,
+				"Dexterity": 15,
+				"Constitution": 18,
+				"Intelligence": 13,
+				"Wisdom": 11,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -51463,12 +51491,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 10,
-				"DEX": 13,
-				"CON": 12,
-				"INT": 7,
-				"WIS": 11,
-				"CHA": 8
+				"Strength": 10,
+				"Dexterity": 13,
+				"Constitution": 12,
+				"Intelligence": 7,
+				"Wisdom": 11,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -51566,12 +51594,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 13,
-				"CON": 14,
-				"INT": 4,
-				"WIS": 12,
-				"CHA": 6
+				"Strength": 18,
+				"Dexterity": 13,
+				"Constitution": 14,
+				"Intelligence": 4,
+				"Wisdom": 12,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -51664,12 +51692,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 13,
-				"DEX": 11,
-				"CON": 12,
-				"INT": 9,
-				"WIS": 11,
-				"CHA": 14
+				"Strength": 13,
+				"Dexterity": 11,
+				"Constitution": 12,
+				"Intelligence": 9,
+				"Wisdom": 11,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -51793,12 +51821,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 17,
-				"DEX": 5,
-				"CON": 20,
-				"INT": 3,
-				"WIS": 10,
-				"CHA": 5
+				"Strength": 17,
+				"Dexterity": 5,
+				"Constitution": 20,
+				"Intelligence": 3,
+				"Wisdom": 10,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -51909,12 +51937,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 23,
-				"DEX": 13,
-				"CON": 20,
-				"INT": 2,
-				"WIS": 12,
-				"CHA": 5
+				"Strength": 23,
+				"Dexterity": 13,
+				"Constitution": 20,
+				"Intelligence": 2,
+				"Wisdom": 12,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -52024,12 +52052,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 26,
-				"DEX": 12,
-				"CON": 22,
-				"INT": 15,
-				"WIS": 16,
-				"CHA": 17
+				"Strength": 26,
+				"Dexterity": 12,
+				"Constitution": 22,
+				"Intelligence": 15,
+				"Wisdom": 16,
+				"Charisma": 17
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -52177,12 +52205,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 27,
-				"DEX": 9,
-				"CON": 23,
-				"INT": 8,
-				"WIS": 10,
-				"CHA": 11
+				"Strength": 27,
+				"Dexterity": 9,
+				"Constitution": 23,
+				"Intelligence": 8,
+				"Wisdom": 10,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -52285,12 +52313,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 25,
-				"DEX": 9,
-				"CON": 24,
-				"INT": 9,
-				"WIS": 10,
-				"CHA": 12
+				"Strength": 25,
+				"Dexterity": 9,
+				"Constitution": 24,
+				"Intelligence": 9,
+				"Wisdom": 10,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -52408,12 +52436,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 21,
-				"DEX": 10,
-				"CON": 18,
-				"INT": 5,
-				"WIS": 7,
-				"CHA": 5
+				"Strength": 21,
+				"Dexterity": 10,
+				"Constitution": 18,
+				"Intelligence": 5,
+				"Wisdom": 7,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -52511,12 +52539,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 23,
-				"DEX": 14,
-				"CON": 21,
-				"INT": 10,
-				"WIS": 8,
-				"CHA": 12
+				"Strength": 23,
+				"Dexterity": 14,
+				"Constitution": 21,
+				"Intelligence": 10,
+				"Wisdom": 8,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -52620,12 +52648,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 29,
-				"DEX": 14,
-				"CON": 20,
-				"INT": 17,
-				"WIS": 20,
-				"CHA": 19
+				"Strength": 29,
+				"Dexterity": 14,
+				"Constitution": 20,
+				"Intelligence": 17,
+				"Wisdom": 20,
+				"Charisma": 19
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -52744,12 +52772,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 16,
-				"CON": 16,
-				"INT": 5,
-				"WIS": 12,
-				"CHA": 7
+				"Strength": 18,
+				"Dexterity": 16,
+				"Constitution": 16,
+				"Intelligence": 5,
+				"Wisdom": 12,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -52852,12 +52880,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 20,
-				"DEX": 10,
-				"CON": 19,
-				"INT": 11,
-				"WIS": 13,
-				"CHA": 12
+				"Strength": 20,
+				"Dexterity": 10,
+				"Constitution": 19,
+				"Intelligence": 11,
+				"Wisdom": 13,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -52966,12 +52994,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 12,
-				"DEX": 14,
-				"CON": 12,
-				"INT": 8,
-				"WIS": 10,
-				"CHA": 8
+				"Strength": 12,
+				"Dexterity": 14,
+				"Constitution": 12,
+				"Intelligence": 8,
+				"Wisdom": 10,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -53074,12 +53102,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 14,
-				"CON": 12,
-				"INT": 8,
-				"WIS": 12,
-				"CHA": 8
+				"Strength": 14,
+				"Dexterity": 14,
+				"Constitution": 12,
+				"Intelligence": 8,
+				"Wisdom": 12,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -53181,12 +53209,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 8,
-				"CON": 12,
-				"INT": 5,
-				"WIS": 5,
-				"CHA": 5
+				"Strength": 14,
+				"Dexterity": 8,
+				"Constitution": 12,
+				"Intelligence": 5,
+				"Wisdom": 5,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -53291,12 +53319,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 7,
-				"DEX": 14,
-				"CON": 15,
-				"INT": 10,
-				"WIS": 11,
-				"CHA": 10
+				"Strength": 7,
+				"Dexterity": 14,
+				"Constitution": 15,
+				"Intelligence": 10,
+				"Wisdom": 11,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -53393,12 +53421,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 7,
-				"DEX": 16,
-				"CON": 15,
-				"INT": 10,
-				"WIS": 11,
-				"CHA": 12
+				"Strength": 7,
+				"Dexterity": 16,
+				"Constitution": 15,
+				"Intelligence": 10,
+				"Wisdom": 11,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -53506,12 +53534,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 7,
-				"DEX": 16,
-				"CON": 15,
-				"INT": 10,
-				"WIS": 15,
-				"CHA": 11
+				"Strength": 7,
+				"Dexterity": 16,
+				"Constitution": 15,
+				"Intelligence": 10,
+				"Wisdom": 15,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -53629,12 +53657,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 11,
-				"CON": 16,
-				"INT": 4,
-				"WIS": 10,
-				"CHA": 7
+				"Strength": 16,
+				"Dexterity": 11,
+				"Constitution": 16,
+				"Intelligence": 4,
+				"Wisdom": 10,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -53724,12 +53752,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 21,
-				"DEX": 12,
-				"CON": 14,
-				"INT": 13,
-				"WIS": 14,
-				"CHA": 15
+				"Strength": 21,
+				"Dexterity": 12,
+				"Constitution": 14,
+				"Intelligence": 13,
+				"Wisdom": 14,
+				"Charisma": 15
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -53838,12 +53866,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 13,
-				"DEX": 16,
-				"CON": 14,
-				"INT": 12,
-				"WIS": 13,
-				"CHA": 16
+				"Strength": 13,
+				"Dexterity": 16,
+				"Constitution": 14,
+				"Intelligence": 12,
+				"Wisdom": 13,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -53960,12 +53988,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 13,
-				"DEX": 12,
-				"CON": 14,
-				"INT": 16,
-				"WIS": 13,
-				"CHA": 11
+				"Strength": 13,
+				"Dexterity": 12,
+				"Constitution": 14,
+				"Intelligence": 16,
+				"Wisdom": 13,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -54087,12 +54115,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 16,
-				"CON": 15,
-				"INT": 14,
-				"WIS": 15,
-				"CHA": 11
+				"Strength": 14,
+				"Dexterity": 16,
+				"Constitution": 15,
+				"Intelligence": 14,
+				"Wisdom": 15,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -54211,12 +54239,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 21,
-				"DEX": 16,
-				"CON": 16,
-				"INT": 19,
-				"WIS": 20,
-				"CHA": 20
+				"Strength": 21,
+				"Dexterity": 16,
+				"Constitution": 16,
+				"Intelligence": 19,
+				"Wisdom": 20,
+				"Charisma": 20
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -54411,12 +54439,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 12,
-				"DEX": 15,
-				"CON": 14,
-				"INT": 8,
-				"WIS": 9,
-				"CHA": 10
+				"Strength": 12,
+				"Dexterity": 15,
+				"Constitution": 14,
+				"Intelligence": 8,
+				"Wisdom": 9,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -54524,12 +54552,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 7,
-				"DEX": 15,
-				"CON": 12,
-				"INT": 8,
-				"WIS": 7,
-				"CHA": 8
+				"Strength": 7,
+				"Dexterity": 15,
+				"Constitution": 12,
+				"Intelligence": 8,
+				"Wisdom": 7,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -54643,12 +54671,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 7,
-				"DEX": 15,
-				"CON": 14,
-				"INT": 10,
-				"WIS": 9,
-				"CHA": 14
+				"Strength": 7,
+				"Dexterity": 15,
+				"Constitution": 14,
+				"Intelligence": 10,
+				"Wisdom": 9,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -54767,12 +54795,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 23,
-				"DEX": 14,
-				"CON": 20,
-				"INT": 10,
-				"WIS": 15,
-				"CHA": 9
+				"Strength": 23,
+				"Dexterity": 14,
+				"Constitution": 20,
+				"Intelligence": 10,
+				"Wisdom": 15,
+				"Charisma": 9
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -54898,12 +54926,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 14,
-				"CON": 15,
-				"INT": 9,
-				"WIS": 12,
-				"CHA": 6
+				"Strength": 18,
+				"Dexterity": 14,
+				"Constitution": 15,
+				"Intelligence": 9,
+				"Wisdom": 12,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -55016,12 +55044,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 7,
-				"DEX": 15,
-				"CON": 12,
-				"INT": 11,
-				"WIS": 10,
-				"CHA": 8
+				"Strength": 7,
+				"Dexterity": 15,
+				"Constitution": 12,
+				"Intelligence": 11,
+				"Wisdom": 10,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -55118,12 +55146,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 12,
-				"CON": 16,
-				"INT": 19,
-				"WIS": 17,
-				"CHA": 17
+				"Strength": 11,
+				"Dexterity": 12,
+				"Constitution": 16,
+				"Intelligence": 19,
+				"Wisdom": 17,
+				"Charisma": 17
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -55282,12 +55310,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 10,
-				"CON": 20,
-				"INT": 21,
-				"WIS": 19,
-				"CHA": 24
+				"Strength": 15,
+				"Dexterity": 10,
+				"Constitution": 20,
+				"Intelligence": 21,
+				"Wisdom": 19,
+				"Charisma": 24
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -55443,12 +55471,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 12,
-				"CON": 15,
-				"INT": 21,
-				"WIS": 19,
-				"CHA": 21
+				"Strength": 15,
+				"Dexterity": 12,
+				"Constitution": 15,
+				"Intelligence": 21,
+				"Wisdom": 19,
+				"Charisma": 21
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -55577,12 +55605,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 10,
-				"DEX": 14,
-				"CON": 14,
-				"INT": 15,
-				"WIS": 15,
-				"CHA": 10
+				"Strength": 10,
+				"Dexterity": 14,
+				"Constitution": 14,
+				"Intelligence": 15,
+				"Wisdom": 15,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -55694,12 +55722,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 14,
-				"CON": 14,
-				"INT": 20,
-				"WIS": 15,
-				"CHA": 13
+				"Strength": 14,
+				"Dexterity": 14,
+				"Constitution": 14,
+				"Intelligence": 20,
+				"Wisdom": 15,
+				"Charisma": 13
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -55846,12 +55874,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 3,
-				"DEX": 13,
-				"CON": 10,
-				"INT": 6,
-				"WIS": 10,
-				"CHA": 9
+				"Strength": 3,
+				"Dexterity": 13,
+				"Constitution": 10,
+				"Intelligence": 6,
+				"Wisdom": 10,
+				"Charisma": 9
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -55943,12 +55971,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 6,
-				"DEX": 16,
-				"CON": 14,
-				"INT": 13,
-				"WIS": 12,
-				"CHA": 15
+				"Strength": 6,
+				"Dexterity": 16,
+				"Constitution": 14,
+				"Intelligence": 13,
+				"Wisdom": 12,
+				"Charisma": 15
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -56057,12 +56085,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 6,
-				"DEX": 16,
-				"CON": 14,
-				"INT": 16,
-				"WIS": 12,
-				"CHA": 18
+				"Strength": 6,
+				"Dexterity": 16,
+				"Constitution": 14,
+				"Intelligence": 16,
+				"Wisdom": 12,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -56200,12 +56228,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 27,
-				"DEX": 7,
-				"CON": 21,
-				"INT": 3,
-				"WIS": 16,
-				"CHA": 12
+				"Strength": 27,
+				"Dexterity": 7,
+				"Constitution": 21,
+				"Intelligence": 3,
+				"Wisdom": 16,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -56317,12 +56345,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 8,
-				"DEX": 14,
-				"CON": 10,
-				"INT": 10,
-				"WIS": 8,
-				"CHA": 15
+				"Strength": 8,
+				"Dexterity": 14,
+				"Constitution": 10,
+				"Intelligence": 10,
+				"Wisdom": 8,
+				"Charisma": 15
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -56442,12 +56470,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 17,
-				"DEX": 11,
-				"CON": 17,
-				"INT": 10,
-				"WIS": 12,
-				"CHA": 14
+				"Strength": 17,
+				"Dexterity": 11,
+				"Constitution": 17,
+				"Intelligence": 10,
+				"Wisdom": 12,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -56556,12 +56584,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 15,
-				"CON": 16,
-				"INT": 10,
-				"WIS": 15,
-				"CHA": 11
+				"Strength": 14,
+				"Dexterity": 15,
+				"Constitution": 16,
+				"Intelligence": 10,
+				"Wisdom": 15,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -56679,12 +56707,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 12,
-				"DEX": 11,
-				"CON": 16,
-				"INT": 11,
-				"WIS": 14,
-				"CHA": 9
+				"Strength": 12,
+				"Dexterity": 11,
+				"Constitution": 16,
+				"Intelligence": 11,
+				"Wisdom": 14,
+				"Charisma": 9
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -56792,12 +56820,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 8,
-				"CON": 16,
-				"INT": 7,
-				"WIS": 11,
-				"CHA": 7
+				"Strength": 15,
+				"Dexterity": 8,
+				"Constitution": 16,
+				"Intelligence": 7,
+				"Wisdom": 11,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -56901,12 +56929,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 16,
-				"CON": 15,
-				"INT": 9,
-				"WIS": 11,
-				"CHA": 9
+				"Strength": 11,
+				"Dexterity": 16,
+				"Constitution": 15,
+				"Intelligence": 9,
+				"Wisdom": 11,
+				"Charisma": 9
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -57025,12 +57053,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 13,
-				"CON": 20,
-				"INT": 9,
-				"WIS": 9,
-				"CHA": 9
+				"Strength": 18,
+				"Dexterity": 13,
+				"Constitution": 20,
+				"Intelligence": 9,
+				"Wisdom": 9,
+				"Charisma": 9
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -57141,12 +57169,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 4,
-				"DEX": 23,
-				"CON": 13,
-				"INT": 10,
-				"WIS": 12,
-				"CHA": 7
+				"Strength": 4,
+				"Dexterity": 23,
+				"Constitution": 13,
+				"Intelligence": 10,
+				"Wisdom": 12,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -57244,12 +57272,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 13,
-				"CON": 18,
-				"INT": 10,
-				"WIS": 12,
-				"CHA": 9
+				"Strength": 18,
+				"Dexterity": 13,
+				"Constitution": 18,
+				"Intelligence": 10,
+				"Wisdom": 12,
+				"Charisma": 9
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -57352,12 +57380,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 8,
-				"CON": 15,
-				"INT": 6,
-				"WIS": 10,
-				"CHA": 8
+				"Strength": 15,
+				"Dexterity": 8,
+				"Constitution": 15,
+				"Intelligence": 6,
+				"Wisdom": 10,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -57468,12 +57496,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 14,
-				"CON": 13,
-				"INT": 5,
-				"WIS": 12,
-				"CHA": 5
+				"Strength": 16,
+				"Dexterity": 14,
+				"Constitution": 13,
+				"Intelligence": 5,
+				"Wisdom": 12,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -57571,12 +57599,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 19,
-				"CON": 15,
-				"INT": 10,
-				"WIS": 14,
-				"CHA": 11
+				"Strength": 16,
+				"Dexterity": 19,
+				"Constitution": 15,
+				"Intelligence": 10,
+				"Wisdom": 14,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -57706,12 +57734,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 11,
-				"CON": 18,
-				"INT": 5,
-				"WIS": 7,
-				"CHA": 3
+				"Strength": 16,
+				"Dexterity": 11,
+				"Constitution": 18,
+				"Intelligence": 5,
+				"Wisdom": 7,
+				"Charisma": 3
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -57814,12 +57842,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 13,
-				"CON": 16,
-				"INT": 8,
-				"WIS": 12,
-				"CHA": 8
+				"Strength": 16,
+				"Dexterity": 13,
+				"Constitution": 16,
+				"Intelligence": 8,
+				"Wisdom": 12,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -57914,12 +57942,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 17,
-				"DEX": 10,
-				"CON": 17,
-				"INT": 2,
-				"WIS": 13,
-				"CHA": 4
+				"Strength": 17,
+				"Dexterity": 10,
+				"Constitution": 17,
+				"Intelligence": 2,
+				"Wisdom": 13,
+				"Charisma": 4
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -58010,12 +58038,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 6,
-				"DEX": 14,
-				"CON": 14,
-				"INT": 4,
-				"WIS": 7,
-				"CHA": 2
+				"Strength": 6,
+				"Dexterity": 14,
+				"Constitution": 14,
+				"Intelligence": 4,
+				"Wisdom": 7,
+				"Charisma": 2
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -58107,12 +58135,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 7,
-				"DEX": 14,
-				"CON": 13,
-				"INT": 6,
-				"WIS": 11,
-				"CHA": 7
+				"Strength": 7,
+				"Dexterity": 14,
+				"Constitution": 13,
+				"Intelligence": 6,
+				"Wisdom": 11,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -58210,12 +58238,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 14,
-				"CON": 14,
-				"INT": 7,
-				"WIS": 12,
-				"CHA": 9
+				"Strength": 14,
+				"Dexterity": 14,
+				"Constitution": 14,
+				"Intelligence": 7,
+				"Wisdom": 12,
+				"Charisma": 9
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -58323,12 +58351,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 13,
-				"DEX": 12,
-				"CON": 13,
-				"INT": 2,
-				"WIS": 10,
-				"CHA": 6
+				"Strength": 13,
+				"Dexterity": 12,
+				"Constitution": 13,
+				"Intelligence": 2,
+				"Wisdom": 10,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -58426,12 +58454,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 12,
-				"CON": 16,
-				"INT": 10,
-				"WIS": 13,
-				"CHA": 8
+				"Strength": 18,
+				"Dexterity": 12,
+				"Constitution": 16,
+				"Intelligence": 10,
+				"Wisdom": 13,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -58541,12 +58569,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 8,
-				"DEX": 14,
-				"CON": 10,
-				"INT": 8,
-				"WIS": 7,
-				"CHA": 7
+				"Strength": 8,
+				"Dexterity": 14,
+				"Constitution": 10,
+				"Intelligence": 8,
+				"Wisdom": 7,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -58649,12 +58677,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 8,
-				"DEX": 14,
-				"CON": 12,
-				"INT": 8,
-				"WIS": 11,
-				"CHA": 12
+				"Strength": 8,
+				"Dexterity": 14,
+				"Constitution": 12,
+				"Intelligence": 8,
+				"Wisdom": 11,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -58778,12 +58806,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 17,
-				"CON": 16,
-				"INT": 5,
-				"WIS": 12,
-				"CHA": 7
+				"Strength": 18,
+				"Dexterity": 17,
+				"Constitution": 16,
+				"Intelligence": 5,
+				"Wisdom": 12,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -58888,12 +58916,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 23,
-				"DEX": 13,
-				"CON": 19,
-				"INT": 19,
-				"WIS": 17,
-				"CHA": 20
+				"Strength": 23,
+				"Dexterity": 13,
+				"Constitution": 19,
+				"Intelligence": 19,
+				"Wisdom": 17,
+				"Charisma": 20
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -59034,12 +59062,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 14,
-				"CON": 14,
-				"INT": 6,
-				"WIS": 11,
-				"CHA": 4
+				"Strength": 15,
+				"Dexterity": 14,
+				"Constitution": 14,
+				"Intelligence": 6,
+				"Wisdom": 11,
+				"Charisma": 4
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -59144,12 +59172,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 14,
-				"CON": 13,
-				"INT": 14,
-				"WIS": 14,
-				"CHA": 16
+				"Strength": 16,
+				"Dexterity": 14,
+				"Constitution": 13,
+				"Intelligence": 14,
+				"Wisdom": 14,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -59302,12 +59330,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 14,
-				"CON": 13,
-				"INT": 14,
-				"WIS": 12,
-				"CHA": 16
+				"Strength": 16,
+				"Dexterity": 14,
+				"Constitution": 13,
+				"Intelligence": 14,
+				"Wisdom": 12,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -59460,12 +59488,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 14,
-				"CON": 13,
-				"INT": 14,
-				"WIS": 12,
-				"CHA": 16
+				"Strength": 16,
+				"Dexterity": 14,
+				"Constitution": 13,
+				"Intelligence": 14,
+				"Wisdom": 12,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -59612,12 +59640,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 20,
-				"DEX": 10,
-				"CON": 19,
-				"INT": 2,
-				"WIS": 12,
-				"CHA": 5
+				"Strength": 20,
+				"Dexterity": 10,
+				"Constitution": 19,
+				"Intelligence": 2,
+				"Wisdom": 12,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -59703,12 +59731,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 10,
-				"CON": 14,
-				"INT": 2,
-				"WIS": 10,
-				"CHA": 4
+				"Strength": 18,
+				"Dexterity": 10,
+				"Constitution": 14,
+				"Intelligence": 2,
+				"Wisdom": 10,
+				"Charisma": 4
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -59795,12 +59823,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 13,
-				"CON": 13,
-				"INT": 6,
-				"WIS": 12,
-				"CHA": 7
+				"Strength": 14,
+				"Dexterity": 13,
+				"Constitution": 13,
+				"Intelligence": 6,
+				"Wisdom": 12,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -59891,12 +59919,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 2,
-				"DEX": 7,
-				"CON": 10,
-				"INT": 1,
-				"WIS": 2,
-				"CHA": 1
+				"Strength": 2,
+				"Dexterity": 7,
+				"Constitution": 10,
+				"Intelligence": 1,
+				"Wisdom": 2,
+				"Charisma": 1
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -59992,12 +60020,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 14,
-				"CON": 14,
-				"INT": 18,
-				"WIS": 12,
-				"CHA": 11
+				"Strength": 9,
+				"Dexterity": 14,
+				"Constitution": 14,
+				"Intelligence": 18,
+				"Wisdom": 12,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -60127,12 +60155,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 10,
-				"DEX": 10,
-				"CON": 10,
-				"INT": 14,
-				"WIS": 10,
-				"CHA": 11
+				"Strength": 10,
+				"Dexterity": 10,
+				"Constitution": 10,
+				"Intelligence": 14,
+				"Wisdom": 10,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -60230,12 +60258,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 10,
-				"DEX": 14,
-				"CON": 12,
-				"INT": 12,
-				"WIS": 20,
-				"CHA": 11
+				"Strength": 10,
+				"Dexterity": 14,
+				"Constitution": 12,
+				"Intelligence": 12,
+				"Wisdom": 20,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -60377,12 +60405,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 18,
-				"CON": 16,
-				"INT": 11,
-				"WIS": 13,
-				"CHA": 10
+				"Strength": 11,
+				"Dexterity": 18,
+				"Constitution": 16,
+				"Intelligence": 11,
+				"Wisdom": 13,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -60480,12 +60508,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 14,
-				"CON": 12,
-				"INT": 10,
-				"WIS": 13,
-				"CHA": 14
+				"Strength": 11,
+				"Dexterity": 14,
+				"Constitution": 12,
+				"Intelligence": 10,
+				"Wisdom": 13,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -60604,12 +60632,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 11,
-				"CON": 18,
-				"INT": 11,
-				"WIS": 14,
-				"CHA": 15
+				"Strength": 18,
+				"Dexterity": 11,
+				"Constitution": 18,
+				"Intelligence": 11,
+				"Wisdom": 14,
+				"Charisma": 15
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -60725,12 +60753,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 20,
-				"DEX": 15,
-				"CON": 14,
-				"INT": 10,
-				"WIS": 14,
-				"CHA": 12
+				"Strength": 20,
+				"Dexterity": 15,
+				"Constitution": 14,
+				"Intelligence": 10,
+				"Wisdom": 14,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -60833,12 +60861,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 14,
-				"CON": 11,
-				"INT": 17,
-				"WIS": 12,
-				"CHA": 11
+				"Strength": 9,
+				"Dexterity": 14,
+				"Constitution": 11,
+				"Intelligence": 17,
+				"Wisdom": 12,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -60957,12 +60985,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 14,
-				"CON": 11,
-				"INT": 18,
-				"WIS": 12,
-				"CHA": 11
+				"Strength": 9,
+				"Dexterity": 14,
+				"Constitution": 11,
+				"Intelligence": 18,
+				"Wisdom": 12,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -61097,12 +61125,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 14,
-				"CON": 11,
-				"INT": 17,
-				"WIS": 12,
-				"CHA": 11
+				"Strength": 9,
+				"Dexterity": 14,
+				"Constitution": 11,
+				"Intelligence": 17,
+				"Wisdom": 12,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -61226,12 +61254,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 14,
-				"CON": 12,
-				"INT": 17,
-				"WIS": 12,
-				"CHA": 11
+				"Strength": 9,
+				"Dexterity": 14,
+				"Constitution": 12,
+				"Intelligence": 17,
+				"Wisdom": 12,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -61358,12 +61386,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 14,
-				"CON": 13,
-				"INT": 16,
-				"WIS": 11,
-				"CHA": 12
+				"Strength": 9,
+				"Dexterity": 14,
+				"Constitution": 13,
+				"Intelligence": 16,
+				"Wisdom": 11,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -61479,12 +61507,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 12,
-				"DEX": 10,
-				"CON": 16,
-				"INT": 10,
-				"WIS": 15,
-				"CHA": 14
+				"Strength": 12,
+				"Dexterity": 10,
+				"Constitution": 16,
+				"Intelligence": 10,
+				"Wisdom": 15,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -61595,12 +61623,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 17,
-				"CON": 13,
-				"INT": 11,
-				"WIS": 16,
-				"CHA": 10
+				"Strength": 11,
+				"Dexterity": 17,
+				"Constitution": 13,
+				"Intelligence": 11,
+				"Wisdom": 16,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -61703,12 +61731,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 18,
-				"CON": 14,
-				"INT": 11,
-				"WIS": 11,
-				"CHA": 12
+				"Strength": 11,
+				"Dexterity": 18,
+				"Constitution": 14,
+				"Intelligence": 11,
+				"Wisdom": 11,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -61823,12 +61851,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 14,
-				"CON": 12,
-				"INT": 17,
-				"WIS": 12,
-				"CHA": 11
+				"Strength": 9,
+				"Dexterity": 14,
+				"Constitution": 12,
+				"Intelligence": 17,
+				"Wisdom": 12,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -61954,12 +61982,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 12,
-				"DEX": 18,
-				"CON": 12,
-				"INT": 14,
-				"WIS": 11,
-				"CHA": 15
+				"Strength": 12,
+				"Dexterity": 18,
+				"Constitution": 12,
+				"Intelligence": 14,
+				"Wisdom": 11,
+				"Charisma": 15
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -62062,12 +62090,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 14,
-				"CON": 11,
-				"INT": 17,
-				"WIS": 12,
-				"CHA": 11
+				"Strength": 9,
+				"Dexterity": 14,
+				"Constitution": 11,
+				"Intelligence": 17,
+				"Wisdom": 12,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -62197,12 +62225,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 10,
-				"CON": 14,
-				"INT": 11,
-				"WIS": 17,
-				"CHA": 13
+				"Strength": 16,
+				"Dexterity": 10,
+				"Constitution": 14,
+				"Intelligence": 11,
+				"Wisdom": 17,
+				"Charisma": 13
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -62340,12 +62368,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 13,
-				"CON": 11,
-				"INT": 11,
-				"WIS": 12,
-				"CHA": 18
+				"Strength": 9,
+				"Dexterity": 13,
+				"Constitution": 11,
+				"Intelligence": 11,
+				"Wisdom": 12,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -62476,12 +62504,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 10,
-				"DEX": 14,
-				"CON": 15,
-				"INT": 12,
-				"WIS": 12,
-				"CHA": 18
+				"Strength": 10,
+				"Dexterity": 14,
+				"Constitution": 15,
+				"Intelligence": 12,
+				"Wisdom": 12,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -62612,12 +62640,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 14,
-				"CON": 15,
-				"INT": 12,
-				"WIS": 12,
-				"CHA": 18
+				"Strength": 9,
+				"Dexterity": 14,
+				"Constitution": 15,
+				"Intelligence": 12,
+				"Wisdom": 12,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -62749,12 +62777,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 20,
-				"DEX": 16,
-				"CON": 18,
-				"INT": 12,
-				"WIS": 12,
-				"CHA": 18
+				"Strength": 20,
+				"Dexterity": 16,
+				"Constitution": 18,
+				"Intelligence": 12,
+				"Wisdom": 12,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -62875,12 +62903,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 6,
-				"DEX": 17,
-				"CON": 10,
-				"INT": 17,
-				"WIS": 15,
-				"CHA": 16
+				"Strength": 6,
+				"Dexterity": 17,
+				"Constitution": 10,
+				"Intelligence": 17,
+				"Wisdom": 15,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -62992,12 +63020,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 28,
-				"DEX": 7,
-				"CON": 25,
-				"INT": 5,
-				"WIS": 14,
-				"CHA": 18
+				"Strength": 28,
+				"Dexterity": 7,
+				"Constitution": 25,
+				"Intelligence": 5,
+				"Wisdom": 14,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -63143,12 +63171,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 17,
-				"DEX": 8,
-				"CON": 18,
-				"INT": 6,
-				"WIS": 15,
-				"CHA": 8
+				"Strength": 17,
+				"Dexterity": 8,
+				"Constitution": 18,
+				"Intelligence": 6,
+				"Wisdom": 15,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -63265,12 +63293,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 16,
-				"CON": 9,
-				"INT": 17,
-				"WIS": 11,
-				"CHA": 10
+				"Strength": 9,
+				"Dexterity": 16,
+				"Constitution": 9,
+				"Intelligence": 17,
+				"Wisdom": 11,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -63379,12 +63407,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 16,
-				"CON": 15,
-				"INT": 13,
-				"WIS": 15,
-				"CHA": 9
+				"Strength": 19,
+				"Dexterity": 16,
+				"Constitution": 15,
+				"Intelligence": 13,
+				"Wisdom": 15,
+				"Charisma": 9
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -63500,12 +63528,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 21,
-				"DEX": 14,
-				"CON": 20,
-				"INT": 5,
-				"WIS": 11,
-				"CHA": 8
+				"Strength": 21,
+				"Dexterity": 14,
+				"Constitution": 20,
+				"Intelligence": 5,
+				"Wisdom": 11,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -63615,12 +63643,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 14,
-				"CON": 13,
-				"INT": 4,
-				"WIS": 12,
-				"CHA": 7
+				"Strength": 16,
+				"Dexterity": 14,
+				"Constitution": 13,
+				"Intelligence": 4,
+				"Wisdom": 12,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -63721,12 +63749,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 10,
-				"DEX": 16,
-				"CON": 11,
-				"INT": 3,
-				"WIS": 14,
-				"CHA": 1
+				"Strength": 10,
+				"Dexterity": 16,
+				"Constitution": 11,
+				"Intelligence": 3,
+				"Wisdom": 14,
+				"Charisma": 1
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -63828,12 +63856,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 12,
-				"DEX": 16,
-				"CON": 14,
-				"INT": 3,
-				"WIS": 10,
-				"CHA": 1
+				"Strength": 12,
+				"Dexterity": 16,
+				"Constitution": 14,
+				"Intelligence": 3,
+				"Wisdom": 10,
+				"Charisma": 1
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -63931,12 +63959,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 12,
-				"DEX": 18,
-				"CON": 15,
-				"INT": 3,
-				"WIS": 10,
-				"CHA": 1
+				"Strength": 12,
+				"Dexterity": 18,
+				"Constitution": 15,
+				"Intelligence": 3,
+				"Wisdom": 10,
+				"Charisma": 1
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -64044,12 +64072,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 10,
-				"CON": 17,
-				"INT": 3,
-				"WIS": 10,
-				"CHA": 1
+				"Strength": 19,
+				"Dexterity": 10,
+				"Constitution": 17,
+				"Intelligence": 3,
+				"Wisdom": 10,
+				"Charisma": 1
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -64153,12 +64181,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 14,
-				"CON": 16,
-				"INT": 7,
-				"WIS": 15,
-				"CHA": 3
+				"Strength": 14,
+				"Dexterity": 14,
+				"Constitution": 16,
+				"Intelligence": 7,
+				"Wisdom": 15,
+				"Charisma": 3
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -64273,12 +64301,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 15,
-				"CON": 10,
-				"INT": 14,
-				"WIS": 12,
-				"CHA": 16
+				"Strength": 11,
+				"Dexterity": 15,
+				"Constitution": 10,
+				"Intelligence": 14,
+				"Wisdom": 12,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -64390,12 +64418,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 16,
-				"CON": 12,
-				"INT": 15,
-				"WIS": 12,
-				"CHA": 17
+				"Strength": 11,
+				"Dexterity": 16,
+				"Constitution": 12,
+				"Intelligence": 15,
+				"Wisdom": 12,
+				"Charisma": 17
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -64527,12 +64555,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 14,
-				"CON": 16,
-				"INT": 12,
-				"WIS": 14,
-				"CHA": 16
+				"Strength": 11,
+				"Dexterity": 14,
+				"Constitution": 16,
+				"Intelligence": 12,
+				"Wisdom": 14,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -64648,12 +64676,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 12,
-				"DEX": 19,
-				"CON": 22,
-				"INT": 6,
-				"WIS": 11,
-				"CHA": 7
+				"Strength": 12,
+				"Dexterity": 19,
+				"Constitution": 22,
+				"Intelligence": 6,
+				"Wisdom": 11,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -64768,12 +64796,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 21,
-				"DEX": 18,
-				"CON": 21,
-				"INT": 8,
-				"WIS": 12,
-				"CHA": 13
+				"Strength": 21,
+				"Dexterity": 18,
+				"Constitution": 21,
+				"Intelligence": 8,
+				"Wisdom": 12,
+				"Charisma": 13
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -64889,12 +64917,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 14,
-				"CON": 17,
-				"INT": 8,
-				"WIS": 9,
-				"CHA": 6
+				"Strength": 15,
+				"Dexterity": 14,
+				"Constitution": 17,
+				"Intelligence": 8,
+				"Wisdom": 9,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -64996,12 +65024,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 6,
-				"DEX": 19,
-				"CON": 16,
-				"INT": 16,
-				"WIS": 15,
-				"CHA": 14
+				"Strength": 6,
+				"Dexterity": 19,
+				"Constitution": 16,
+				"Intelligence": 16,
+				"Wisdom": 15,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -65133,12 +65161,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 17,
-				"CON": 12,
-				"INT": 11,
-				"WIS": 12,
-				"CHA": 15
+				"Strength": 14,
+				"Dexterity": 17,
+				"Constitution": 12,
+				"Intelligence": 11,
+				"Wisdom": 12,
+				"Charisma": 15
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -65254,12 +65282,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 28,
-				"DEX": 22,
-				"CON": 25,
-				"INT": 21,
-				"WIS": 24,
-				"CHA": 24
+				"Strength": 28,
+				"Dexterity": 22,
+				"Constitution": 25,
+				"Intelligence": 21,
+				"Wisdom": 24,
+				"Charisma": 24
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -65418,12 +65446,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 22,
-				"DEX": 14,
-				"CON": 21,
-				"INT": 14,
-				"WIS": 15,
-				"CHA": 17
+				"Strength": 22,
+				"Dexterity": 14,
+				"Constitution": 21,
+				"Intelligence": 14,
+				"Wisdom": 15,
+				"Charisma": 17
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -65544,12 +65572,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 15,
-				"CON": 17,
-				"INT": 5,
-				"WIS": 12,
-				"CHA": 6
+				"Strength": 14,
+				"Dexterity": 15,
+				"Constitution": 17,
+				"Intelligence": 5,
+				"Wisdom": 12,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -65640,12 +65668,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 12,
-				"CON": 11,
-				"INT": 5,
-				"WIS": 8,
-				"CHA": 5
+				"Strength": 9,
+				"Dexterity": 12,
+				"Constitution": 11,
+				"Intelligence": 5,
+				"Wisdom": 8,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -65730,12 +65758,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 10,
-				"DEX": 3,
-				"CON": 23,
-				"INT": 25,
-				"WIS": 24,
-				"CHA": 25
+				"Strength": 10,
+				"Dexterity": 3,
+				"Constitution": 23,
+				"Intelligence": 25,
+				"Wisdom": 24,
+				"Charisma": 25
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -65891,12 +65919,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 18,
-				"CON": 21,
-				"INT": 19,
-				"WIS": 12,
-				"CHA": 14
+				"Strength": 19,
+				"Dexterity": 18,
+				"Constitution": 21,
+				"Intelligence": 19,
+				"Wisdom": 12,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -66020,12 +66048,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 30,
-				"DEX": 14,
-				"CON": 26,
-				"INT": 18,
-				"WIS": 24,
-				"CHA": 16
+				"Strength": 30,
+				"Dexterity": 14,
+				"Constitution": 26,
+				"Intelligence": 18,
+				"Wisdom": 24,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -66199,12 +66227,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 29,
-				"DEX": 14,
-				"CON": 26,
-				"INT": 20,
-				"WIS": 17,
-				"CHA": 25
+				"Strength": 29,
+				"Dexterity": 14,
+				"Constitution": 26,
+				"Intelligence": 20,
+				"Wisdom": 17,
+				"Charisma": 25
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -66362,12 +66390,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 29,
-				"DEX": 12,
-				"CON": 25,
-				"INT": 26,
-				"WIS": 24,
-				"CHA": 26
+				"Strength": 29,
+				"Dexterity": 12,
+				"Constitution": 25,
+				"Intelligence": 26,
+				"Wisdom": 24,
+				"Charisma": 26
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -66525,12 +66553,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 22,
-				"DEX": 15,
-				"CON": 21,
-				"INT": 23,
-				"WIS": 21,
-				"CHA": 26
+				"Strength": 22,
+				"Dexterity": 15,
+				"Constitution": 21,
+				"Intelligence": 23,
+				"Wisdom": 21,
+				"Charisma": 26
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -66699,12 +66727,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 24,
-				"DEX": 10,
-				"CON": 23,
-				"INT": 20,
-				"WIS": 20,
-				"CHA": 16
+				"Strength": 24,
+				"Dexterity": 10,
+				"Constitution": 23,
+				"Intelligence": 20,
+				"Wisdom": 20,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -66877,12 +66905,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 27,
-				"DEX": 14,
-				"CON": 25,
-				"INT": 20,
-				"WIS": 20,
-				"CHA": 25
+				"Strength": 27,
+				"Dexterity": 14,
+				"Constitution": 25,
+				"Intelligence": 20,
+				"Wisdom": 20,
+				"Charisma": 25
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -67045,12 +67073,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 29,
-				"DEX": 16,
-				"CON": 23,
-				"INT": 15,
-				"WIS": 24,
-				"CHA": 15
+				"Strength": 29,
+				"Dexterity": 16,
+				"Constitution": 23,
+				"Intelligence": 15,
+				"Wisdom": 24,
+				"Charisma": 15
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -67211,12 +67239,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 22,
-				"DEX": 15,
-				"CON": 18,
-				"INT": 20,
-				"WIS": 19,
-				"CHA": 24
+				"Strength": 22,
+				"Dexterity": 15,
+				"Constitution": 18,
+				"Intelligence": 20,
+				"Wisdom": 19,
+				"Charisma": 24
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -67378,12 +67406,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 10,
-				"DEX": 14,
-				"CON": 12,
-				"INT": 11,
-				"WIS": 5,
-				"CHA": 9
+				"Strength": 10,
+				"Dexterity": 14,
+				"Constitution": 12,
+				"Intelligence": 11,
+				"Wisdom": 5,
+				"Charisma": 9
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -67482,12 +67510,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 14,
-				"CON": 12,
-				"INT": 11,
-				"WIS": 5,
-				"CHA": 14
+				"Strength": 9,
+				"Dexterity": 14,
+				"Constitution": 12,
+				"Intelligence": 11,
+				"Wisdom": 5,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -67605,12 +67633,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 17,
-				"CON": 14,
-				"INT": 13,
-				"WIS": 16,
-				"CHA": 11
+				"Strength": 14,
+				"Dexterity": 17,
+				"Constitution": 14,
+				"Intelligence": 13,
+				"Wisdom": 16,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -67733,12 +67761,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 14,
-				"CON": 17,
-				"INT": 22,
-				"WIS": 23,
-				"CHA": 18
+				"Strength": 15,
+				"Dexterity": 14,
+				"Constitution": 17,
+				"Intelligence": 22,
+				"Wisdom": 23,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -67896,12 +67924,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 12,
-				"DEX": 17,
-				"CON": 16,
-				"INT": 17,
-				"WIS": 12,
-				"CHA": 19
+				"Strength": 12,
+				"Dexterity": 17,
+				"Constitution": 16,
+				"Intelligence": 17,
+				"Wisdom": 12,
+				"Charisma": 19
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -68032,12 +68060,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 23,
-				"DEX": 16,
-				"CON": 19,
-				"INT": 14,
-				"WIS": 15,
-				"CHA": 19
+				"Strength": 23,
+				"Dexterity": 16,
+				"Constitution": 19,
+				"Intelligence": 14,
+				"Wisdom": 15,
+				"Charisma": 19
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -68169,12 +68197,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 11,
-				"CON": 18,
-				"INT": 11,
-				"WIS": 12,
-				"CHA": 13
+				"Strength": 16,
+				"Dexterity": 11,
+				"Constitution": 18,
+				"Intelligence": 11,
+				"Wisdom": 12,
+				"Charisma": 13
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -68303,12 +68331,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 13,
-				"CON": 16,
-				"INT": 20,
-				"WIS": 12,
-				"CHA": 18
+				"Strength": 11,
+				"Dexterity": 13,
+				"Constitution": 16,
+				"Intelligence": 20,
+				"Wisdom": 12,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -68455,12 +68483,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 20,
-				"DEX": 16,
-				"CON": 24,
-				"INT": 2,
-				"WIS": 10,
-				"CHA": 1
+				"Strength": 20,
+				"Dexterity": 16,
+				"Constitution": 24,
+				"Intelligence": 2,
+				"Wisdom": 10,
+				"Charisma": 1
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -68577,12 +68605,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 14,
-				"CON": 17,
-				"INT": 6,
-				"WIS": 12,
-				"CHA": 8
+				"Strength": 18,
+				"Dexterity": 14,
+				"Constitution": 17,
+				"Intelligence": 6,
+				"Wisdom": 12,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -68696,12 +68724,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 20,
-				"DEX": 10,
-				"CON": 17,
-				"INT": 16,
-				"WIS": 14,
-				"CHA": 19
+				"Strength": 20,
+				"Dexterity": 10,
+				"Constitution": 17,
+				"Intelligence": 16,
+				"Wisdom": 14,
+				"Charisma": 19
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -68826,12 +68854,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 11,
-				"CON": 13,
-				"INT": 3,
-				"WIS": 8,
-				"CHA": 1
+				"Strength": 16,
+				"Dexterity": 11,
+				"Constitution": 13,
+				"Intelligence": 3,
+				"Wisdom": 8,
+				"Charisma": 1
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -68930,12 +68958,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 22,
-				"DEX": 16,
-				"CON": 21,
-				"INT": 15,
-				"WIS": 15,
-				"CHA": 16
+				"Strength": 22,
+				"Dexterity": 16,
+				"Constitution": 21,
+				"Intelligence": 15,
+				"Wisdom": 15,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -69054,12 +69082,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 24,
-				"DEX": 17,
-				"CON": 20,
-				"INT": 21,
-				"WIS": 24,
-				"CHA": 24
+				"Strength": 24,
+				"Dexterity": 17,
+				"Constitution": 20,
+				"Intelligence": 21,
+				"Wisdom": 24,
+				"Charisma": 24
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -69238,12 +69266,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 29,
-				"DEX": 17,
-				"CON": 22,
-				"INT": 19,
-				"WIS": 16,
-				"CHA": 23
+				"Strength": 29,
+				"Dexterity": 17,
+				"Constitution": 22,
+				"Intelligence": 19,
+				"Wisdom": 16,
+				"Charisma": 23
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -69406,12 +69434,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 27,
-				"DEX": 15,
-				"CON": 25,
-				"INT": 23,
-				"WIS": 19,
-				"CHA": 25
+				"Strength": 27,
+				"Dexterity": 15,
+				"Constitution": 25,
+				"Intelligence": 23,
+				"Wisdom": 19,
+				"Charisma": 25
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -69599,12 +69627,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 26,
-				"DEX": 19,
-				"CON": 22,
-				"INT": 21,
-				"WIS": 18,
-				"CHA": 23
+				"Strength": 26,
+				"Dexterity": 19,
+				"Constitution": 22,
+				"Intelligence": 21,
+				"Wisdom": 18,
+				"Charisma": 23
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -69780,12 +69808,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 22,
-				"CON": 17,
-				"INT": 24,
-				"WIS": 22,
-				"CHA": 26
+				"Strength": 19,
+				"Dexterity": 22,
+				"Constitution": 17,
+				"Intelligence": 24,
+				"Wisdom": 22,
+				"Charisma": 26
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -69963,12 +69991,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 27,
-				"DEX": 24,
-				"CON": 28,
-				"INT": 26,
-				"WIS": 27,
-				"CHA": 30
+				"Strength": 27,
+				"Dexterity": 24,
+				"Constitution": 28,
+				"Intelligence": 26,
+				"Wisdom": 27,
+				"Charisma": 30
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -70136,12 +70164,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 17,
-				"CON": 14,
-				"INT": 19,
-				"WIS": 14,
-				"CHA": 16
+				"Strength": 11,
+				"Dexterity": 17,
+				"Constitution": 14,
+				"Intelligence": 19,
+				"Wisdom": 14,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -70304,12 +70332,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 20,
-				"CON": 16,
-				"INT": 18,
-				"WIS": 15,
-				"CHA": 18
+				"Strength": 15,
+				"Dexterity": 20,
+				"Constitution": 16,
+				"Intelligence": 18,
+				"Wisdom": 15,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -70471,12 +70499,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 19,
-				"CON": 15,
-				"INT": 12,
-				"WIS": 14,
-				"CHA": 13
+				"Strength": 14,
+				"Dexterity": 19,
+				"Constitution": 15,
+				"Intelligence": 12,
+				"Wisdom": 14,
+				"Charisma": 13
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -70610,12 +70638,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 15,
-				"CON": 14,
-				"INT": 16,
-				"WIS": 21,
-				"CHA": 20
+				"Strength": 11,
+				"Dexterity": 15,
+				"Constitution": 14,
+				"Intelligence": 16,
+				"Wisdom": 21,
+				"Charisma": 20
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -70783,12 +70811,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 12,
-				"DEX": 18,
-				"CON": 16,
-				"INT": 17,
-				"WIS": 21,
-				"CHA": 22
+				"Strength": 12,
+				"Dexterity": 18,
+				"Constitution": 16,
+				"Intelligence": 17,
+				"Wisdom": 21,
+				"Charisma": 22
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -71002,12 +71030,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 21,
-				"CON": 16,
-				"INT": 12,
-				"WIS": 14,
-				"CHA": 13
+				"Strength": 14,
+				"Dexterity": 21,
+				"Constitution": 16,
+				"Intelligence": 12,
+				"Wisdom": 14,
+				"Charisma": 13
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -71129,12 +71157,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 20,
-				"DEX": 5,
-				"CON": 19,
-				"INT": 15,
-				"WIS": 14,
-				"CHA": 13
+				"Strength": 20,
+				"Dexterity": 5,
+				"Constitution": 19,
+				"Intelligence": 15,
+				"Wisdom": 14,
+				"Charisma": 13
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -71267,12 +71295,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 17,
-				"DEX": 7,
-				"CON": 12,
-				"INT": 5,
-				"WIS": 5,
-				"CHA": 5
+				"Strength": 17,
+				"Dexterity": 7,
+				"Constitution": 12,
+				"Intelligence": 5,
+				"Wisdom": 5,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -71380,12 +71408,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 11,
-				"CON": 14,
-				"INT": 11,
-				"WIS": 10,
-				"CHA": 9
+				"Strength": 14,
+				"Dexterity": 11,
+				"Constitution": 14,
+				"Intelligence": 11,
+				"Wisdom": 10,
+				"Charisma": 9
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -71499,12 +71527,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 17,
-				"CON": 14,
-				"INT": 15,
-				"WIS": 10,
-				"CHA": 12
+				"Strength": 11,
+				"Dexterity": 17,
+				"Constitution": 14,
+				"Intelligence": 15,
+				"Wisdom": 10,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -71622,12 +71650,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 7,
-				"CON": 12,
-				"INT": 5,
-				"WIS": 5,
-				"CHA": 5
+				"Strength": 18,
+				"Dexterity": 7,
+				"Constitution": 12,
+				"Intelligence": 5,
+				"Wisdom": 5,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -71730,12 +71758,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 16,
-				"CON": 10,
-				"INT": 11,
-				"WIS": 10,
-				"CHA": 12
+				"Strength": 11,
+				"Dexterity": 16,
+				"Constitution": 10,
+				"Intelligence": 11,
+				"Wisdom": 10,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -71862,12 +71890,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 11,
-				"CON": 14,
-				"INT": 11,
-				"WIS": 10,
-				"CHA": 9
+				"Strength": 18,
+				"Dexterity": 11,
+				"Constitution": 14,
+				"Intelligence": 11,
+				"Wisdom": 10,
+				"Charisma": 9
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -71986,12 +72014,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 11,
-				"CON": 17,
-				"INT": 12,
-				"WIS": 12,
-				"CHA": 14
+				"Strength": 18,
+				"Dexterity": 11,
+				"Constitution": 17,
+				"Intelligence": 12,
+				"Wisdom": 12,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -72120,12 +72148,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 11,
-				"CON": 14,
-				"INT": 11,
-				"WIS": 10,
-				"CHA": 9
+				"Strength": 16,
+				"Dexterity": 11,
+				"Constitution": 14,
+				"Intelligence": 11,
+				"Wisdom": 10,
+				"Charisma": 9
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -72237,12 +72265,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 7,
-				"DEX": 8,
-				"CON": 9,
-				"INT": 14,
-				"WIS": 19,
-				"CHA": 16
+				"Strength": 7,
+				"Dexterity": 8,
+				"Constitution": 9,
+				"Intelligence": 14,
+				"Wisdom": 19,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -72353,12 +72381,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 8,
-				"CON": 19,
-				"INT": 14,
-				"WIS": 19,
-				"CHA": 16
+				"Strength": 19,
+				"Dexterity": 8,
+				"Constitution": 19,
+				"Intelligence": 14,
+				"Wisdom": 19,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -72474,12 +72502,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 12,
-				"DEX": 16,
-				"CON": 16,
-				"INT": 14,
-				"WIS": 17,
-				"CHA": 18
+				"Strength": 12,
+				"Dexterity": 16,
+				"Constitution": 16,
+				"Intelligence": 14,
+				"Wisdom": 17,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -72610,12 +72638,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 16,
-				"CON": 16,
-				"INT": 18,
-				"WIS": 11,
-				"CHA": 18
+				"Strength": 14,
+				"Dexterity": 16,
+				"Constitution": 16,
+				"Intelligence": 18,
+				"Wisdom": 11,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -72744,12 +72772,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 21,
-				"CON": 16,
-				"INT": 14,
-				"WIS": 12,
-				"CHA": 18
+				"Strength": 19,
+				"Dexterity": 21,
+				"Constitution": 16,
+				"Intelligence": 14,
+				"Wisdom": 12,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -72866,12 +72894,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 10,
-				"CON": 16,
-				"INT": 18,
-				"WIS": 17,
-				"CHA": 13
+				"Strength": 11,
+				"Dexterity": 10,
+				"Constitution": 16,
+				"Intelligence": 18,
+				"Wisdom": 17,
+				"Charisma": 13
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -72996,12 +73024,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 30,
-				"DEX": 24,
-				"CON": 30,
-				"INT": 2,
-				"WIS": 18,
-				"CHA": 17
+				"Strength": 30,
+				"Dexterity": 24,
+				"Constitution": 30,
+				"Intelligence": 2,
+				"Wisdom": 18,
+				"Charisma": 17
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -73140,12 +73168,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 26,
-				"CON": 25,
-				"INT": 2,
-				"WIS": 21,
-				"CHA": 18
+				"Strength": 19,
+				"Dexterity": 26,
+				"Constitution": 25,
+				"Intelligence": 2,
+				"Wisdom": 21,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -73292,12 +73320,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 23,
-				"DEX": 28,
-				"CON": 23,
-				"INT": 2,
-				"WIS": 21,
-				"CHA": 18
+				"Strength": 23,
+				"Dexterity": 28,
+				"Constitution": 23,
+				"Intelligence": 2,
+				"Wisdom": 21,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Wis": 12,
@@ -73414,12 +73442,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 30,
-				"DEX": 10,
-				"CON": 30,
-				"INT": 2,
-				"WIS": 21,
-				"CHA": 18
+				"Strength": 30,
+				"Dexterity": 10,
+				"Constitution": 30,
+				"Intelligence": 2,
+				"Wisdom": 21,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -73581,12 +73609,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 14,
-				"CON": 14,
-				"INT": 9,
-				"WIS": 10,
-				"CHA": 10
+				"Strength": 18,
+				"Dexterity": 14,
+				"Constitution": 14,
+				"Intelligence": 9,
+				"Wisdom": 10,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -73689,12 +73717,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 10,
-				"CON": 17,
-				"INT": 8,
-				"WIS": 10,
-				"CHA": 10
+				"Strength": 18,
+				"Dexterity": 10,
+				"Constitution": 17,
+				"Intelligence": 8,
+				"Wisdom": 10,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -73795,12 +73823,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 13,
-				"DEX": 18,
-				"CON": 15,
-				"INT": 9,
-				"WIS": 10,
-				"CHA": 10
+				"Strength": 13,
+				"Dexterity": 18,
+				"Constitution": 15,
+				"Intelligence": 9,
+				"Wisdom": 10,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -73912,12 +73940,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 14,
-				"CON": 15,
-				"INT": 8,
-				"WIS": 10,
-				"CHA": 10
+				"Strength": 18,
+				"Dexterity": 14,
+				"Constitution": 15,
+				"Intelligence": 8,
+				"Wisdom": 10,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -74019,12 +74047,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 14,
-				"CON": 17,
-				"INT": 11,
-				"WIS": 12,
-				"CHA": 12
+				"Strength": 18,
+				"Dexterity": 14,
+				"Constitution": 17,
+				"Intelligence": 11,
+				"Wisdom": 12,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -74137,12 +74165,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 17,
-				"DEX": 15,
-				"CON": 14,
-				"INT": 16,
-				"WIS": 15,
-				"CHA": 16
+				"Strength": 17,
+				"Dexterity": 15,
+				"Constitution": 14,
+				"Intelligence": 16,
+				"Wisdom": 15,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -74282,12 +74310,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 16,
-				"CON": 17,
-				"INT": 16,
-				"WIS": 15,
-				"CHA": 17
+				"Strength": 18,
+				"Dexterity": 16,
+				"Constitution": 17,
+				"Intelligence": 16,
+				"Wisdom": 15,
+				"Charisma": 17
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -74405,12 +74433,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 17,
-				"CON": 18,
-				"INT": 16,
-				"WIS": 16,
-				"CHA": 18
+				"Strength": 19,
+				"Dexterity": 17,
+				"Constitution": 18,
+				"Intelligence": 16,
+				"Wisdom": 16,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -74543,12 +74571,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 21,
-				"CON": 18,
-				"INT": 18,
-				"WIS": 20,
-				"CHA": 14
+				"Strength": 16,
+				"Dexterity": 21,
+				"Constitution": 18,
+				"Intelligence": 18,
+				"Wisdom": 20,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -74680,12 +74708,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 19,
-				"CON": 16,
-				"INT": 17,
-				"WIS": 19,
-				"CHA": 13
+				"Strength": 14,
+				"Dexterity": 19,
+				"Constitution": 16,
+				"Intelligence": 17,
+				"Wisdom": 19,
+				"Charisma": 13
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -74803,12 +74831,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 13,
-				"CON": 20,
-				"INT": 3,
-				"WIS": 6,
-				"CHA": 8
+				"Strength": 19,
+				"Dexterity": 13,
+				"Constitution": 20,
+				"Intelligence": 3,
+				"Wisdom": 6,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -74902,12 +74930,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 17,
-				"DEX": 16,
-				"CON": 15,
-				"INT": 5,
-				"WIS": 20,
-				"CHA": 6
+				"Strength": 17,
+				"Dexterity": 16,
+				"Constitution": 15,
+				"Intelligence": 5,
+				"Wisdom": 20,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -75008,12 +75036,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 13,
-				"DEX": 16,
-				"CON": 13,
-				"INT": 4,
-				"WIS": 10,
-				"CHA": 6
+				"Strength": 13,
+				"Dexterity": 16,
+				"Constitution": 13,
+				"Intelligence": 4,
+				"Wisdom": 10,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -75110,12 +75138,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 16,
-				"CON": 15,
-				"INT": 7,
-				"WIS": 12,
-				"CHA": 8
+				"Strength": 15,
+				"Dexterity": 16,
+				"Constitution": 15,
+				"Intelligence": 7,
+				"Wisdom": 12,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -75222,12 +75250,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 16,
-				"CON": 17,
-				"INT": 10,
-				"WIS": 14,
-				"CHA": 10
+				"Strength": 19,
+				"Dexterity": 16,
+				"Constitution": 17,
+				"Intelligence": 10,
+				"Wisdom": 14,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -75340,12 +75368,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 28,
-				"DEX": 12,
-				"CON": 26,
-				"INT": 19,
-				"WIS": 15,
-				"CHA": 18
+				"Strength": 28,
+				"Dexterity": 12,
+				"Constitution": 26,
+				"Intelligence": 19,
+				"Wisdom": 15,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -75471,12 +75499,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 8,
-				"DEX": 17,
-				"CON": 9,
-				"INT": 14,
-				"WIS": 13,
-				"CHA": 10
+				"Strength": 8,
+				"Dexterity": 17,
+				"Constitution": 9,
+				"Intelligence": 14,
+				"Wisdom": 13,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -75575,12 +75603,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 15,
-				"CON": 12,
-				"INT": 23,
-				"WIS": 18,
-				"CHA": 21
+				"Strength": 9,
+				"Dexterity": 15,
+				"Constitution": 12,
+				"Intelligence": 23,
+				"Wisdom": 18,
+				"Charisma": 21
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -75720,12 +75748,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 22,
-				"DEX": 19,
-				"CON": 24,
-				"INT": 6,
-				"WIS": 9,
-				"CHA": 8
+				"Strength": 22,
+				"Dexterity": 19,
+				"Constitution": 24,
+				"Intelligence": 6,
+				"Wisdom": 9,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -75836,12 +75864,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 8,
-				"DEX": 16,
-				"CON": 15,
-				"INT": 14,
-				"WIS": 11,
-				"CHA": 10
+				"Strength": 8,
+				"Dexterity": 16,
+				"Constitution": 15,
+				"Intelligence": 14,
+				"Wisdom": 11,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -75933,12 +75961,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 8,
-				"DEX": 19,
-				"CON": 16,
-				"INT": 19,
-				"WIS": 12,
-				"CHA": 15
+				"Strength": 8,
+				"Dexterity": 19,
+				"Constitution": 16,
+				"Intelligence": 19,
+				"Wisdom": 12,
+				"Charisma": 15
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -76062,12 +76090,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 16,
-				"CON": 21,
-				"INT": 22,
-				"WIS": 13,
-				"CHA": 18
+				"Strength": 15,
+				"Dexterity": 16,
+				"Constitution": 21,
+				"Intelligence": 22,
+				"Wisdom": 13,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -76200,12 +76228,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 8,
-				"CON": 16,
-				"INT": 5,
-				"WIS": 7,
-				"CHA": 7
+				"Strength": 19,
+				"Dexterity": 8,
+				"Constitution": 16,
+				"Intelligence": 5,
+				"Wisdom": 7,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -76298,12 +76326,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 12,
-				"CON": 16,
-				"INT": 5,
-				"WIS": 7,
-				"CHA": 7
+				"Strength": 19,
+				"Dexterity": 12,
+				"Constitution": 16,
+				"Intelligence": 5,
+				"Wisdom": 7,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -76389,12 +76417,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 8,
-				"CON": 16,
-				"INT": 5,
-				"WIS": 7,
-				"CHA": 7
+				"Strength": 19,
+				"Dexterity": 8,
+				"Constitution": 16,
+				"Intelligence": 5,
+				"Wisdom": 7,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -76485,12 +76513,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 8,
-				"CON": 16,
-				"INT": 5,
-				"WIS": 7,
-				"CHA": 7
+				"Strength": 19,
+				"Dexterity": 8,
+				"Constitution": 16,
+				"Intelligence": 5,
+				"Wisdom": 7,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -76578,12 +76606,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 22,
-				"DEX": 16,
-				"CON": 20,
-				"INT": 3,
-				"WIS": 11,
-				"CHA": 4
+				"Strength": 22,
+				"Dexterity": 16,
+				"Constitution": 20,
+				"Intelligence": 3,
+				"Wisdom": 11,
+				"Charisma": 4
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -76702,12 +76730,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 20,
-				"DEX": 12,
-				"CON": 18,
-				"INT": 7,
-				"WIS": 11,
-				"CHA": 7
+				"Strength": 20,
+				"Dexterity": 12,
+				"Constitution": 18,
+				"Intelligence": 7,
+				"Wisdom": 11,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -76810,12 +76838,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 18,
-				"CON": 14,
-				"INT": 15,
-				"WIS": 12,
-				"CHA": 18
+				"Strength": 11,
+				"Dexterity": 18,
+				"Constitution": 14,
+				"Intelligence": 15,
+				"Wisdom": 12,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -76963,12 +76991,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 12,
-				"DEX": 16,
-				"CON": 13,
-				"INT": 11,
-				"WIS": 12,
-				"CHA": 12
+				"Strength": 12,
+				"Dexterity": 16,
+				"Constitution": 13,
+				"Intelligence": 11,
+				"Wisdom": 12,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -77073,12 +77101,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 8,
-				"DEX": 17,
-				"CON": 14,
-				"INT": 19,
-				"WIS": 15,
-				"CHA": 13
+				"Strength": 8,
+				"Dexterity": 17,
+				"Constitution": 14,
+				"Intelligence": 19,
+				"Wisdom": 15,
+				"Charisma": 13
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -77210,12 +77238,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 6,
-				"DEX": 19,
-				"CON": 10,
-				"INT": 10,
-				"WIS": 7,
-				"CHA": 1
+				"Strength": 6,
+				"Dexterity": 19,
+				"Constitution": 10,
+				"Intelligence": 10,
+				"Wisdom": 7,
+				"Charisma": 1
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -77312,12 +77340,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 16,
-				"CON": 17,
-				"INT": 16,
-				"WIS": 15,
-				"CHA": 21
+				"Strength": 14,
+				"Dexterity": 16,
+				"Constitution": 17,
+				"Intelligence": 16,
+				"Wisdom": 15,
+				"Charisma": 21
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -77493,12 +77521,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 17,
-				"DEX": 10,
-				"CON": 19,
-				"INT": 8,
-				"WIS": 13,
-				"CHA": 6
+				"Strength": 17,
+				"Dexterity": 10,
+				"Constitution": 19,
+				"Intelligence": 8,
+				"Wisdom": 13,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -77596,12 +77624,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 10,
-				"CON": 17,
-				"INT": 6,
-				"WIS": 11,
-				"CHA": 6
+				"Strength": 19,
+				"Dexterity": 10,
+				"Constitution": 17,
+				"Intelligence": 6,
+				"Wisdom": 11,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -77698,12 +77726,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 12,
-				"CON": 17,
-				"INT": 6,
-				"WIS": 11,
-				"CHA": 6
+				"Strength": 16,
+				"Dexterity": 12,
+				"Constitution": 17,
+				"Intelligence": 6,
+				"Wisdom": 11,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -77805,12 +77833,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 17,
-				"DEX": 12,
-				"CON": 15,
-				"INT": 6,
-				"WIS": 7,
-				"CHA": 5
+				"Strength": 17,
+				"Dexterity": 12,
+				"Constitution": 15,
+				"Intelligence": 6,
+				"Wisdom": 7,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -77907,12 +77935,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 7,
-				"DEX": 12,
-				"CON": 9,
-				"INT": 5,
-				"WIS": 6,
-				"CHA": 5
+				"Strength": 7,
+				"Dexterity": 12,
+				"Constitution": 9,
+				"Intelligence": 5,
+				"Wisdom": 6,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -77999,12 +78027,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 6,
-				"DEX": 13,
-				"CON": 10,
-				"INT": 9,
-				"WIS": 11,
-				"CHA": 6
+				"Strength": 6,
+				"Dexterity": 13,
+				"Constitution": 10,
+				"Intelligence": 9,
+				"Wisdom": 11,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -78091,12 +78119,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 20,
-				"DEX": 8,
-				"CON": 21,
-				"INT": 7,
-				"WIS": 12,
-				"CHA": 9
+				"Strength": 20,
+				"Dexterity": 8,
+				"Constitution": 21,
+				"Intelligence": 7,
+				"Wisdom": 12,
+				"Charisma": 9
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -78191,12 +78219,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 17,
-				"DEX": 12,
-				"CON": 23,
-				"INT": 18,
-				"WIS": 12,
-				"CHA": 16
+				"Strength": 17,
+				"Dexterity": 12,
+				"Constitution": 23,
+				"Intelligence": 18,
+				"Wisdom": 12,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -78335,12 +78363,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 8,
-				"DEX": 18,
-				"CON": 12,
-				"INT": 11,
-				"WIS": 12,
-				"CHA": 7
+				"Strength": 8,
+				"Dexterity": 18,
+				"Constitution": 12,
+				"Intelligence": 11,
+				"Wisdom": 12,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -78444,12 +78472,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 12,
-				"CON": 18,
-				"INT": 22,
-				"WIS": 19,
-				"CHA": 16
+				"Strength": 14,
+				"Dexterity": 12,
+				"Constitution": 18,
+				"Intelligence": 22,
+				"Wisdom": 19,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -78562,12 +78590,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 16,
-				"CON": 14,
-				"INT": 2,
-				"WIS": 10,
-				"CHA": 3
+				"Strength": 15,
+				"Dexterity": 16,
+				"Constitution": 14,
+				"Intelligence": 2,
+				"Wisdom": 10,
+				"Charisma": 3
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -78661,12 +78689,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 12,
-				"CON": 14,
-				"INT": 2,
-				"WIS": 10,
-				"CHA": 3
+				"Strength": 15,
+				"Dexterity": 12,
+				"Constitution": 14,
+				"Intelligence": 2,
+				"Wisdom": 10,
+				"Charisma": 3
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -78760,12 +78788,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 24,
-				"DEX": 17,
-				"CON": 22,
-				"INT": 4,
-				"WIS": 14,
-				"CHA": 6
+				"Strength": 24,
+				"Dexterity": 17,
+				"Constitution": 22,
+				"Intelligence": 4,
+				"Wisdom": 14,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -78892,12 +78920,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 16,
-				"DEX": 5,
-				"CON": 14,
-				"INT": 5,
-				"WIS": 8,
-				"CHA": 7
+				"Strength": 16,
+				"Dexterity": 5,
+				"Constitution": 14,
+				"Intelligence": 5,
+				"Wisdom": 8,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -78993,12 +79021,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 14,
-				"CON": 18,
-				"INT": 11,
-				"WIS": 12,
-				"CHA": 14
+				"Strength": 18,
+				"Dexterity": 14,
+				"Constitution": 18,
+				"Intelligence": 11,
+				"Wisdom": 12,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -79109,12 +79137,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 12,
-				"CON": 17,
-				"INT": 6,
-				"WIS": 9,
-				"CHA": 10
+				"Strength": 18,
+				"Dexterity": 12,
+				"Constitution": 17,
+				"Intelligence": 6,
+				"Wisdom": 9,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -79211,12 +79239,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 10,
-				"CON": 12,
-				"INT": 11,
-				"WIS": 13,
-				"CHA": 12
+				"Strength": 15,
+				"Dexterity": 10,
+				"Constitution": 12,
+				"Intelligence": 11,
+				"Wisdom": 13,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -79320,12 +79348,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 10,
-				"CON": 12,
-				"INT": 11,
-				"WIS": 15,
-				"CHA": 12
+				"Strength": 14,
+				"Dexterity": 10,
+				"Constitution": 12,
+				"Intelligence": 11,
+				"Wisdom": 15,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -79443,12 +79471,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 22,
-				"DEX": 15,
-				"CON": 21,
-				"INT": 9,
-				"WIS": 11,
-				"CHA": 5
+				"Strength": 22,
+				"Dexterity": 15,
+				"Constitution": 21,
+				"Intelligence": 9,
+				"Wisdom": 11,
+				"Charisma": 5
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -79556,12 +79584,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 13,
-				"CON": 22,
-				"INT": 5,
-				"WIS": 8,
-				"CHA": 4
+				"Strength": 18,
+				"Dexterity": 13,
+				"Constitution": 22,
+				"Intelligence": 5,
+				"Wisdom": 8,
+				"Charisma": 4
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -79658,12 +79686,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 1,
-				"DEX": 17,
-				"CON": 13,
-				"INT": 8,
-				"WIS": 9,
-				"CHA": 16
+				"Strength": 1,
+				"Dexterity": 17,
+				"Constitution": 13,
+				"Intelligence": 8,
+				"Wisdom": 9,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -79775,12 +79803,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 13,
-				"CON": 20,
-				"INT": 7,
-				"WIS": 9,
-				"CHA": 7
+				"Strength": 18,
+				"Dexterity": 13,
+				"Constitution": 20,
+				"Intelligence": 7,
+				"Wisdom": 9,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -79891,12 +79919,12 @@
 				"Hover": true
 			},
 			"Ability Scores": {
-				"STR": 6,
-				"DEX": 16,
-				"CON": 16,
-				"INT": 6,
-				"WIS": 12,
-				"CHA": 7
+				"Strength": 6,
+				"Dexterity": 16,
+				"Constitution": 16,
+				"Intelligence": 6,
+				"Wisdom": 12,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -80009,12 +80037,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 10,
-				"CON": 17,
-				"INT": 5,
-				"WIS": 17,
-				"CHA": 12
+				"Strength": 18,
+				"Dexterity": 10,
+				"Constitution": 17,
+				"Intelligence": 5,
+				"Wisdom": 17,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -80138,12 +80166,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 17,
-				"DEX": 10,
-				"CON": 19,
-				"INT": 7,
-				"WIS": 10,
-				"CHA": 9
+				"Strength": 17,
+				"Dexterity": 10,
+				"Constitution": 19,
+				"Intelligence": 7,
+				"Wisdom": 10,
+				"Charisma": 9
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -80268,12 +80296,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 12,
-				"DEX": 21,
-				"CON": 16,
-				"INT": 19,
-				"WIS": 10,
-				"CHA": 14
+				"Strength": 12,
+				"Dexterity": 21,
+				"Constitution": 16,
+				"Intelligence": 19,
+				"Wisdom": 10,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -80424,12 +80452,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 8,
-				"DEX": 17,
-				"CON": 10,
-				"INT": 17,
-				"WIS": 14,
-				"CHA": 11
+				"Strength": 8,
+				"Dexterity": 17,
+				"Constitution": 10,
+				"Intelligence": 17,
+				"Wisdom": 14,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -80561,12 +80589,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 17,
-				"CON": 18,
-				"INT": 17,
-				"WIS": 16,
-				"CHA": 19
+				"Strength": 19,
+				"Dexterity": 17,
+				"Constitution": 18,
+				"Intelligence": 17,
+				"Wisdom": 16,
+				"Charisma": 19
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -80709,12 +80737,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 14,
-				"CON": 21,
-				"INT": 16,
-				"WIS": 15,
-				"CHA": 18
+				"Strength": 19,
+				"Dexterity": 14,
+				"Constitution": 21,
+				"Intelligence": 16,
+				"Wisdom": 15,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -80852,12 +80880,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 13,
-				"DEX": 15,
-				"CON": 14,
-				"INT": 4,
-				"WIS": 11,
-				"CHA": 6
+				"Strength": 13,
+				"Dexterity": 15,
+				"Constitution": 14,
+				"Intelligence": 4,
+				"Wisdom": 11,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -80949,12 +80977,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 16,
-				"CON": 14,
-				"INT": 16,
-				"WIS": 13,
-				"CHA": 11
+				"Strength": 9,
+				"Dexterity": 16,
+				"Constitution": 14,
+				"Intelligence": 16,
+				"Wisdom": 13,
+				"Charisma": 11
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -81083,12 +81111,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 26,
-				"DEX": 13,
-				"CON": 20,
-				"INT": 16,
-				"WIS": 15,
-				"CHA": 15
+				"Strength": 26,
+				"Dexterity": 13,
+				"Constitution": 20,
+				"Intelligence": 16,
+				"Wisdom": 15,
+				"Charisma": 15
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -81217,12 +81245,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 10,
-				"CON": 16,
-				"INT": 13,
-				"WIS": 14,
-				"CHA": 12
+				"Strength": 19,
+				"Dexterity": 10,
+				"Constitution": 16,
+				"Intelligence": 13,
+				"Wisdom": 14,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -81327,12 +81355,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 9,
-				"DEX": 16,
-				"CON": 13,
-				"INT": 11,
-				"WIS": 10,
-				"CHA": 12
+				"Strength": 9,
+				"Dexterity": 16,
+				"Constitution": 13,
+				"Intelligence": 11,
+				"Wisdom": 10,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -81436,12 +81464,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 14,
-				"CON": 14,
-				"INT": 16,
-				"WIS": 10,
-				"CHA": 8
+				"Strength": 18,
+				"Dexterity": 14,
+				"Constitution": 14,
+				"Intelligence": 16,
+				"Wisdom": 10,
+				"Charisma": 8
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -81574,12 +81602,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 10,
-				"CON": 13,
-				"INT": 11,
-				"WIS": 18,
-				"CHA": 15
+				"Strength": 14,
+				"Dexterity": 10,
+				"Constitution": 13,
+				"Intelligence": 11,
+				"Wisdom": 18,
+				"Charisma": 15
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -81694,12 +81722,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 8,
-				"DEX": 17,
-				"CON": 14,
-				"INT": 15,
-				"WIS": 10,
-				"CHA": 12
+				"Strength": 8,
+				"Dexterity": 17,
+				"Constitution": 14,
+				"Intelligence": 15,
+				"Wisdom": 10,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -81817,12 +81845,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 19,
-				"DEX": 13,
-				"CON": 16,
-				"INT": 10,
-				"WIS": 14,
-				"CHA": 12
+				"Strength": 19,
+				"Dexterity": 13,
+				"Constitution": 16,
+				"Intelligence": 10,
+				"Wisdom": 14,
+				"Charisma": 12
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -81931,12 +81959,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 15,
-				"DEX": 12,
-				"CON": 18,
-				"INT": 11,
-				"WIS": 16,
-				"CHA": 7
+				"Strength": 15,
+				"Dexterity": 12,
+				"Constitution": 18,
+				"Intelligence": 11,
+				"Wisdom": 16,
+				"Charisma": 7
 			},
 			"Saving Throws": {
 				"Strength": true,
@@ -82074,12 +82102,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 16,
-				"CON": 14,
-				"INT": 18,
-				"WIS": 14,
-				"CHA": 10
+				"Strength": 11,
+				"Dexterity": 16,
+				"Constitution": 14,
+				"Intelligence": 18,
+				"Wisdom": 14,
+				"Charisma": 10
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -82216,12 +82244,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 18,
-				"DEX": 16,
-				"CON": 16,
-				"INT": 15,
-				"WIS": 12,
-				"CHA": 14
+				"Strength": 18,
+				"Dexterity": 16,
+				"Constitution": 16,
+				"Intelligence": 15,
+				"Wisdom": 12,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -82369,12 +82397,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 14,
-				"DEX": 12,
-				"CON": 14,
-				"INT": 10,
-				"WIS": 16,
-				"CHA": 16
+				"Strength": 14,
+				"Dexterity": 12,
+				"Constitution": 14,
+				"Intelligence": 10,
+				"Wisdom": 16,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -82508,12 +82536,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 16,
-				"CON": 14,
-				"INT": 12,
-				"WIS": 12,
-				"CHA": 14
+				"Strength": 11,
+				"Dexterity": 16,
+				"Constitution": 14,
+				"Intelligence": 12,
+				"Wisdom": 12,
+				"Charisma": 14
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -82628,12 +82656,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 18,
-				"CON": 14,
-				"INT": 13,
-				"WIS": 12,
-				"CHA": 16
+				"Strength": 11,
+				"Dexterity": 18,
+				"Constitution": 14,
+				"Intelligence": 13,
+				"Wisdom": 12,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -82748,12 +82776,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 11,
-				"DEX": 16,
-				"CON": 13,
-				"INT": 11,
-				"WIS": 11,
-				"CHA": 13
+				"Strength": 11,
+				"Dexterity": 16,
+				"Constitution": 13,
+				"Intelligence": 11,
+				"Wisdom": 11,
+				"Charisma": 13
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -82861,12 +82889,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 13,
-				"DEX": 10,
-				"CON": 14,
-				"INT": 8,
-				"WIS": 10,
-				"CHA": 6
+				"Strength": 13,
+				"Dexterity": 10,
+				"Constitution": 14,
+				"Intelligence": 8,
+				"Wisdom": 10,
+				"Charisma": 6
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -82963,12 +82991,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 20,
-				"DEX": 12,
-				"CON": 16,
-				"INT": 12,
-				"WIS": 14,
-				"CHA": 16
+				"Strength": 20,
+				"Dexterity": 12,
+				"Constitution": 16,
+				"Intelligence": 12,
+				"Wisdom": 14,
+				"Charisma": 16
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -83074,12 +83102,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 8,
-				"DEX": 17,
-				"CON": 15,
-				"INT": 16,
-				"WIS": 13,
-				"CHA": 18
+				"Strength": 8,
+				"Dexterity": 17,
+				"Constitution": 15,
+				"Intelligence": 16,
+				"Wisdom": 13,
+				"Charisma": 18
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -83191,12 +83219,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 10,
-				"DEX": 13,
-				"CON": 16,
-				"INT": 17,
-				"WIS": 12,
-				"CHA": 20
+				"Strength": 10,
+				"Dexterity": 13,
+				"Constitution": 16,
+				"Intelligence": 17,
+				"Wisdom": 12,
+				"Charisma": 20
 			},
 			"Saving Throws": {
 				"Strength": false,
@@ -83336,12 +83364,12 @@
 				"Hover": false
 			},
 			"Ability Scores": {
-				"STR": 30,
-				"DEX": 10,
-				"CON": 30,
-				"INT": 26,
-				"WIS": 26,
-				"CHA": 28
+				"Strength": 30,
+				"Dexterity": 10,
+				"Constitution": 30,
+				"Intelligence": 26,
+				"Wisdom": 26,
+				"Charisma": 28
 			},
 			"Saving Throws": {
 				"Strength": true,
