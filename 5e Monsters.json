@@ -9637,6 +9637,9 @@
 			"Damage Immunities": [
 				"fire"
 			],
+			"Condition Immunities": [
+			
+			],
 			"Senses": {
 				"Blindsight": 60,
 				"Darkvision": 120,
@@ -29212,6 +29215,9 @@
 				"Truesight": 0,
 				"Blind": false
 			},
+			"Languages": [
+			
+			],
 			"Challenge": 3,
 			"Experience": 700,
 			"Features": {
@@ -49802,6 +49808,8 @@
 				"bludgeoning",
 				"piercing",
 				"slashing"
+			],
+			"Damage Immunities": [
 			],
 			"Condition Immunities": [
 				"charmed",
