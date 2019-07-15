@@ -2083,10 +2083,6 @@
 				]
 			},
 			"Druid Circles": {
-				"Description": [
-					"Though their organization is invisible to most outsiders, druids are part of a society that spans the land, ignoring political borders. All druids are nominally members of this druidic society, though some individuals are so isolated that they have never seen any high-ranking members of the society or participated in druidic gatherings. Druids recognize each other as brothers and sisters. Like creatures of the wilderness, however, druids sometimes compete with or even prey on each other.",
-					"At a local scale, druids are organized into circles that share certain perspectives on nature, balance, and the way of the druid."
-				],
 				"Circle of the Land": {
 					"Description": [
 						"The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition, These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic, The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk, As a member of this circle, your magic is influenced by the land where you were initiated into the circle's mysterious rites."
@@ -2594,9 +2590,6 @@
 				]
 			},
 			"Martial Archetypes": {
-				"Description": [
-					"Different fighters choose different approaches to perfecting their fighting prowess. The martial archetype you choose to emulate reflects your approach."
-				],
 				"Champion": {
 					"Description": [
 						"The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows."
@@ -5198,9 +5191,6 @@
 				]
 			},
 			"Sorcerous Origins": {
-				"Description": [
-					"Different sorcerers c1aim different origins for their innate magic. Although many variations exist, most of these origins fall into two categories: a draconic bloodline and wild magic."
-				],
 				"Draconic Bloodline": {
 					"Description": [
 						"Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most of ten, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance."
@@ -5870,10 +5860,6 @@
 				]
 			},
 			"Otherworldly Patrons":{
-				"Description": [
-					"The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and invocations, and expect significant favors in return.",
-					"Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals."
-				],
 				"The Archfey":{
 					"Description":[
 						"Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being’s motivations are of ten inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges. Beings of this sort include the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; her consort Oberon, the Green Lord; Hyrsam, the Prince of Fools; and ancient hags."
@@ -6902,10 +6888,6 @@
 				]
 			},
 			"Arcane Traditions": {
-				"Description": [
-					"The study of wizardry is ancient, stretching back to the earliest mortal discoveries of magic. It is firmly established in the worlds of D&D, with various traditions dedicated to its complex study.",
-					"The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into eight categories called schools. In some places, these traditions are literally schools; a wizard might study at the School of Illusion while another studies across town at the School of Enchantment. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques."
-				],
 				"School of Abjuration": {
 					"Description": [
 						"The School of Abjuration emphasizes magic that blocks, banishes, or protects. Detractors of this school say that its tradition is about denial, negation rather than positive assertion. You understand, however, that ending harmful effects, protecting the weak, and banishing evil influences is anything but a philosophical void. It is a proud and respected vocation.",
