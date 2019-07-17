@@ -31,47 +31,47 @@
 				],
 				"Languages": [
 					"You can speak, read, and write Common and Elvish, Elvish is fluid, with subtle intonations and intricate frammar. Elven literature is rich and varied, and their songs and poems are famous among other races, Many bards learn their language so they can add Elvish ballads to their repertoires."
-				],
-				"Sub Races": {
-					"Wood Elf": {
-						"Description": [
-							"As a wood elf, you have keen senses and intuition, and your fleet feet carry you quickly and stealthily through your native forests. This category includes the wild elves (grugach) of Greyhawk and the Kagonesli of Dragonlance, as well as the races called wood elves in Greyhawk and the Forgotten Realms. In Faerun, wood elves (also called wild elves. green elves, or forest elves) are reclusive and distrusting of non-elves.",
-							"Wood elves' skin lends to be copperish in hue, sometimes with traces of green. Their hair lends toward browns and blacks, but it is occasionally blond or copper-colored. Their eyes are green, brown, or hazel."
-						],
-						"Ability Score Increase": [
-							"Your Charisma score increases by 1."
-						],
-						"Elf Weapon Training": [
-							"You have proficiency with the longsword, shortsword, shortbow, and longbow."
-						],
-						"Fleet of Foot": [
-							"Your base walking speed increases to 35 feet."
-						],
-						"Mask of the Wild": [
-							"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
-						]
-					},
-					"Dark Elf (Drow)": {
-						"Description": [
-							"Descended from an earlier subrace of dark-skinned elves, the drow were banished from the surface world for following the goddess Lolth down the path to evil and corruption. Now they have built their own civilization in the depths of the Underdark, patterned after the Way of Lolth. Also called dark elves, the drow have black skin that resembles polished obsidian and stark white or pale yellow hair. They commonly have very pale eyes (so pale as to be mistaken for white) in shades of lilac, silver, pink, red, and blue. They tend to be smaller and thinner than most elves."
-						],
-						"Ability Score Increase": [
-							"Your Charisma score increases by 1."
-						],
-						"Superior Darkvision": [
-							"Your darkvision has a radius of 120 feet."
-						],
-						"Sunlight Sensitivity": [
-							"You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
-						],
-						"Drow Magic": [
-							"You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once per day. When you reach 5th level, you can cast the darkness spell once per day. Charisma is your spellcasting ability for these spells."
-						],
-						"Drow Weapon Training": [
-							"You have proficiency with rapiers, shortswords, and hand crossbows."
-						]
-					}	
-				}
+				]
+			},
+			"Sub Races": {
+				"Wood Elf": {
+					"Description": [
+						"As a wood elf, you have keen senses and intuition, and your fleet feet carry you quickly and stealthily through your native forests. This category includes the wild elves (grugach) of Greyhawk and the Kagonesli of Dragonlance, as well as the races called wood elves in Greyhawk and the Forgotten Realms. In Faerun, wood elves (also called wild elves. green elves, or forest elves) are reclusive and distrusting of non-elves.",
+						"Wood elves' skin lends to be copperish in hue, sometimes with traces of green. Their hair lends toward browns and blacks, but it is occasionally blond or copper-colored. Their eyes are green, brown, or hazel."
+					],
+					"Ability Score Increase": [
+						"Your Charisma score increases by 1."
+					],
+					"Elf Weapon Training": [
+						"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+					],
+					"Fleet of Foot": [
+						"Your base walking speed increases to 35 feet."
+					],
+					"Mask of the Wild": [
+						"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+					]
+				},
+				"Dark Elf (Drow)": {
+					"Description": [
+						"Descended from an earlier subrace of dark-skinned elves, the drow were banished from the surface world for following the goddess Lolth down the path to evil and corruption. Now they have built their own civilization in the depths of the Underdark, patterned after the Way of Lolth. Also called dark elves, the drow have black skin that resembles polished obsidian and stark white or pale yellow hair. They commonly have very pale eyes (so pale as to be mistaken for white) in shades of lilac, silver, pink, red, and blue. They tend to be smaller and thinner than most elves."
+					],
+					"Ability Score Increase": [
+						"Your Charisma score increases by 1."
+					],
+					"Superior Darkvision": [
+						"Your darkvision has a radius of 120 feet."
+					],
+					"Sunlight Sensitivity": [
+						"You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+					],
+					"Drow Magic": [
+						"You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once per day. When you reach 5th level, you can cast the darkness spell once per day. Charisma is your spellcasting ability for these spells."
+					],
+					"Drow Weapon Training": [
+						"You have proficiency with rapiers, shortswords, and hand crossbows."
+					]
+				}	
 			}
 		},
 		"Half-Elf": {
@@ -164,111 +164,111 @@
 				],
 				"Languages": [
 					"You can speak, read, and write Common and Infernal."
+				]
+			},
+			"Sub Races": {
+				"Description": [
+					"If your tiefling has a subrace, choose one of the following options- whichever one corresponds to the infernal being connected to the tiefling's family.",
+					"The traits of the chosen subrace replace the tiefling's Ability Score Increase and Infernal Legacy traits given in the Player's Handbook. There is one exception: tieflings connected to Asmodeus. Those tieflings use the traits in the Player's Handbook."
 				],
-				"Sub Races": {
+				"Asmodeus": {
 					"Description": [
-						"If your tiefling has a subrace, choose one of the following options- whichever one corresponds to the infernal being connected to the tiefling's family.",
-						"The traits of the chosen subrace replace the tiefling's Ability Score Increase and Infernal Legacy traits given in the Player's Handbook. There is one exception: tieflings connected to Asmodeus. Those tieflings use the traits in the Player's Handbook."
+						"The tieflings connected to Nessus command the power of fire and darkness, guided by a keener than normal intellect, as befits those linked to Asmodeus himself."
 					],
-					"Asmodeus": {
-						"Description": [
-							"The tieftings connected to Nessus command the power of fire and darkness, guided by a keener than normal intellect, as befits those linked to Asmodeus himself."
-						],
-						"Ability Score Increase": [
-							"Your Intelligence score increases by 1, and your Charisma score increases by 2."
-						],
-						"Infernal Legacy": [
-							"You know the thaumaturgy cantrip. Once you reach 3rd level, you can cast the hellish rebuke spell once per day as a 2nd level spell. Once you reach 5th level, you can cast the darkness spell once per day. Charisma is your spellcasting ability for these spells."
-						]
-					},
-					"Baalzebul": {
-						"Description": [
-							"The crumbling realm of Maladomini is ruled by Baalzebul, who excels at corrupting those whose minor sins can be transformed into acts of damnation. Tieflings linked to this archdevil can corrupt others both physically and psychically."
-						],
-						"Ability Score Increase": [
-							"Your Charisma score increases by 2, and your Intelligence score increases by 1."
-						],
-						"Legacy of Maladomini": [
-							"You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the ray of sickness spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the crown of madness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
-						]
-					},
-					"Disapater": {
-						"Description": [
-							"The great city of Dis occupies most of Hell's second layer. It is a place where secrets are uncovered and shared with the highest bidder, making tieflings tied to Dispater excellent spies and infiltrators."
-						],
-						"Ability Score Increase": [
-							"Your Charisma score increases by 2, and your Dexterity score increases by 1."
-						],
-						"Legacy of Dis": [
-							"You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the disguise self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the detect thoughts spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
-						]
-					},
-					"Fierna": {
-						"Description": [
-							"A master manipulator, Fierna grants tieflings tied to her forceful personalities."
-						],
-						"Ability Score Increase": [
-							"Your Charisma score increases by 2, and your Wisdom score increases by 1."
-						],
-						"Legacy of Phlegethos": [
-							"You know the friends cantrip. When you reach 3rd level, you can cast the charm person spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the suggestion spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
-						]
-					},
-					"Glasya": {
-						"Description": [
-							"Glasya, Hell's criminal mastermind, grants her tiefiings magic that is useful for committing heists."
-						],
-						"Ability Score Increase": [
-							"Your Charisma score increases by 2, and your Dexterity score increases by 1."
-						],
-						"Legacy of Malbolge": [
-							"You know the minor illusion cantrip. When you reach 3rd level, you can cast the disguise self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the invisibility spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
-						]
-					},
-					"Levistus": {
-						"Description": [
-							"Frozen Stygia is ruled by Levistus, an archdevil known for offering bargains to those who face an inescapable doom."
-						],
-						"Ability Score Increase": [
-							"Your Charisma score increases by 2, and your Constitution score increases by 1."
-						],
-						"Legacy of Stygia": [
-							"You know the ray of frost cantrip. When you reach 3rd level, you can cast the armor of Agathys spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
-						]
-					},
-					"Mammon": {
-						"Description": [
-							"The great miser Mammon loves coins above all else. Tieflings tied to him excel at gathering and safeguarding wealth."
-						],
-						"Ability Score Increase": [
-							"Your Charisma score increases by 2, and your Intelligence score increases by 1."
-						],
-						"Legacy of Minauros": [
-							"You know the mage hand cantrip. When you reach 3rd level, you can cast the Tenser's floating disk spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the arcane lock spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
-						]
-					},
-					"Mephistopheles": {
-						"Description": [
-							"In the frozen realm of Cania, Mephistopheles offers arcane power to those who entreat with him. Tieflings linked to him master some arcane magic."
-						],
-						"Ability Score Increase": [
-							"Your Charisma score increases by 2, and your Intelligence score increases by 1."
-						],
-						"Legacy of Cania": [
-							"You know the mage hand cantrip. When you reach 3rd level, you can cast the burning hands spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the flame blade spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
-						]
-					},
-					"Zariel": {
-						"Description": [
-							"Tieflings with a blood tie to Zariel are stronger than the typical tiefling and receive magical abilities that aid them in battle."
-						],
-						"Ability Score Increase": [
-							"Your Charisma score increases by 2, and your Strength score increases by 1."
-						],
-						"Legacy of Avernus": [
-							"You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the searing smite spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the branding smite spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
-						]
-					}
+					"Ability Score Increase": [
+						"Your Intelligence score increases by 1, and your Charisma score increases by 2."
+					],
+					"Infernal Legacy": [
+						"You know the thaumaturgy cantrip. Once you reach 3rd level, you can cast the hellish rebuke spell once per day as a 2nd level spell. Once you reach 5th level, you can cast the darkness spell once per day. Charisma is your spellcasting ability for these spells."
+					]
+				},
+				"Baalzebul": {
+					"Description": [
+						"The crumbling realm of Maladomini is ruled by Baalzebul, who excels at corrupting those whose minor sins can be transformed into acts of damnation. Tieflings linked to this archdevil can corrupt others both physically and psychically."
+					],
+					"Ability Score Increase": [
+						"Your Charisma score increases by 2, and your Intelligence score increases by 1."
+					],
+					"Legacy of Maladomini": [
+						"You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the ray of sickness spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the crown of madness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+					]
+				},
+				"Disapater": {
+					"Description": [
+						"The great city of Dis occupies most of Hell's second layer. It is a place where secrets are uncovered and shared with the highest bidder, making tieflings tied to Dispater excellent spies and infiltrators."
+					],
+					"Ability Score Increase": [
+						"Your Charisma score increases by 2, and your Dexterity score increases by 1."
+					],
+					"Legacy of Dis": [
+						"You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the disguise self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the detect thoughts spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+					]
+				},
+				"Fierna": {
+					"Description": [
+						"A master manipulator, Fierna grants tieflings tied to her forceful personalities."
+					],
+					"Ability Score Increase": [
+						"Your Charisma score increases by 2, and your Wisdom score increases by 1."
+					],
+					"Legacy of Phlegethos": [
+						"You know the friends cantrip. When you reach 3rd level, you can cast the charm person spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the suggestion spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+					]
+				},
+				"Glasya": {
+					"Description": [
+						"Glasya, Hell's criminal mastermind, grants her tiefiings magic that is useful for committing heists."
+					],
+					"Ability Score Increase": [
+						"Your Charisma score increases by 2, and your Dexterity score increases by 1."
+					],
+					"Legacy of Malbolge": [
+						"You know the minor illusion cantrip. When you reach 3rd level, you can cast the disguise self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the invisibility spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+					]
+				},
+				"Levistus": {
+					"Description": [
+						"Frozen Stygia is ruled by Levistus, an archdevil known for offering bargains to those who face an inescapable doom."
+					],
+					"Ability Score Increase": [
+						"Your Charisma score increases by 2, and your Constitution score increases by 1."
+					],
+					"Legacy of Stygia": [
+						"You know the ray of frost cantrip. When you reach 3rd level, you can cast the armor of Agathys spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+					]
+				},
+				"Mammon": {
+					"Description": [
+						"The great miser Mammon loves coins above all else. Tieflings tied to him excel at gathering and safeguarding wealth."
+					],
+					"Ability Score Increase": [
+						"Your Charisma score increases by 2, and your Intelligence score increases by 1."
+					],
+					"Legacy of Minauros": [
+						"You know the mage hand cantrip. When you reach 3rd level, you can cast the Tenser's floating disk spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the arcane lock spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+					]
+				},
+				"Mephistopheles": {
+					"Description": [
+						"In the frozen realm of Cania, Mephistopheles offers arcane power to those who entreat with him. Tieflings linked to him master some arcane magic."
+					],
+					"Ability Score Increase": [
+						"Your Charisma score increases by 2, and your Intelligence score increases by 1."
+					],
+					"Legacy of Cania": [
+						"You know the mage hand cantrip. When you reach 3rd level, you can cast the burning hands spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the flame blade spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+					]
+				},
+				"Zariel": {
+					"Description": [
+						"Tieflings with a blood tie to Zariel are stronger than the typical tiefling and receive magical abilities that aid them in battle."
+					],
+					"Ability Score Increase": [
+						"Your Charisma score increases by 2, and your Strength score increases by 1."
+					],
+					"Legacy of Avernus": [
+						"You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the searing smite spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the branding smite spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+					]
 				}
 			}
 		}
