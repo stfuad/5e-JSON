@@ -1,5 +1,66 @@
 ﻿{	
 	"Races": {
+		"Dwarf": {
+			"Dwarf Traits": {
+				"Ability Score Increase": [
+					"Your Constitution score increases by 2."
+				],
+				"Age": [
+					"Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years."
+				],
+				"Alignment": [
+					"Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sese of fair play and a belief that everyone deserves to share in the benefits of a just order."
+				],
+				"Size": [
+					"Dwarve stand between 4 and 5 feet tall and average about 150 pounds. Your size is medium."
+				],
+				"Speed": [
+					"Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor."
+				],
+				"Darkvision": [
+					"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+				],
+				"Dwarven Resilience": [
+					"You have advantage on saving throws against poison damage, and you have resistance against poison damage."
+				],
+				"Dwarven Combat Training": [
+					"You have proficiency with the battleaxe, handaxe, throwing hammer, and warhammer."
+				],
+				"Tool Proficiency": [
+					"You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools."
+				],
+				"Stonecunning": [
+					"Whenever you make an intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and gutteral sounds, and those characteristics spill over into whatever other language a dwarf might speak."
+				]
+			},
+			"Sub Races": {
+				"Hill Dwarf": {
+					"Description": [
+						"As a hill dward, you have keen senses, deep intuition, and remarkable resilience, The gold dwarves of Faerun in their mighty southern kingdom are hill dwarves, as are the exiled Neidar and the debased Klar of Krymm in the Dragonlance setting."
+					],
+					"Ability Score Increase": [
+						"Your Wisdom score increases by 1."
+					],
+					"Dwarven Toughness": [
+						"Your hit point maximum increases by 1, and it increases by 1 every time you gain a level."
+					]
+				},
+				"Mountain Dwarf": {
+					"Description": [
+						"As a mountain dwarf, you're strong and hardy, accustomed to a difficult life in rugged terrain. You're probably on the tall side (for a dwarf), and tend toward lighter coloration. The shield dwarves of northern Faerunm as well as the ruling Hylar clan and the noble Daewar clan of Dragonlance, are mountain dwarves."
+					],
+					"Ability Score Increase": [
+						"Your Strength score increases by 2."
+					],
+					"Dwarven Armor Training": [
+						"You have proficiency with light and medium armor."
+					]
+				}
+			}
+		},
 		"Elf": {
 			"Elf Traits": {
 				"Ability Score Increase": [
@@ -34,6 +95,24 @@
 				]
 			},
 			"Sub Races": {
+				"High Elf": {
+					"Description": [
+						"As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many of the worlds of D&D, there are two kinds of high elves. One type (which includes the gray elves and valley elves of Greyhawk, the Silvanesti of Dragonlance, and the sun elves of the Forgotten Realms) is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type (including the high elves of Greyhawk, Qualinestyi of Dragon lance, and the moon elves of the Forgotten Realms are more common and more friendly, and often encountered among humans and other races.",
+						"The sun elves of Faerun (also called gold elves or sunrise elves) have bronze skin and hair of copper, black, or golden blond. Their eyes are golden, silver, or black. Moon elves (also called silver elves or gray elves) are much paler, with alabaster skin sometimes tinged with blue, but various shades of blond, brown, and red are not uncommon. Their eyes are blue or green and flecked with gold."
+					],
+					"Ability Score Increase": [
+						"Your Intelligence score increases by 1."
+					],
+					"Elf Weapon Training": [
+						"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+					],
+					"Cantrip": [
+						"You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it."
+					],
+					"Extra Language": [
+						"You can speak, read, and write one extra language of your choice."
+					]
+				},
 				"Wood Elf": {
 					"Description": [
 						"As a wood elf, you have keen senses and intuition, and your fleet feet carry you quickly and stealthily through your native forests. This category includes the wild elves (grugach) of Greyhawk and the Kagonesli of Dragonlance, as well as the races called wood elves in Greyhawk and the Forgotten Realms. In Faerun, wood elves (also called wild elves. green elves, or forest elves) are reclusive and distrusting of non-elves.",
@@ -74,6 +153,62 @@
 				}	
 			}
 		},
+		"Halfling": {
+			"Halfling Traits": {
+				"Ability Score Increase": [
+					"Your Dexterity score increases by 2."
+				],
+				"Age": [
+					"A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century."
+				],
+				"Alignment": [
+					"Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways."
+				],
+				"Size": [
+					"Halflings average about 3 feet tall and weigh about 40 pounds. Your size is small."
+				],
+				"Speed": [
+					"Your base walking speed is 25 feet."
+				],
+				"Lucky": [
+					"When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+				],
+				"Brave": [
+					"You have advantage on saving throws against being frightened."
+				],
+				"Halfling Nimbleness": [
+					"You can move through the space of any creature that is of a size larger than yours."
+				],
+				"Languages": [
+					"You can speakm read and write Common and Halfling. The halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling."
+				]
+			},
+			"Sub Races": {
+				"Lightfoot": {
+					"Description": [
+						"As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You're inclined to be affable, and get along well with others. In the Forgotten Realms, lightfoot halflings have spread the farthest and thus are the most common variety.",
+						"Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life. In the world of Greyhawk, these halflings are called hairfeet or tallfellows."
+					],
+					"Ability Score Increase": [
+						"Your Charisma score increases by 1."
+					],
+					"Naturally Stealthy": [
+						"You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you."
+					]
+				},
+				"Stout": {
+					"Description": [
+						"As a stout halfling, you're hardier than average and have some resistance to poison. Some say that stouts have dwarven blood. In the Forgotten Realms, these halflings are called stronghearts, and they're most common in the south."
+					],
+					"Ability Score Increase": [
+						"Your Constitution score increases by 1."
+					],
+					"Stout Resilience": [
+						"You have advantage on saving throws against poison, and you have resistance against poison damage."
+					]
+				}
+			}
+		},
 		"Half-Elf": {
 			"Half-Elf Traits": {
 				"Ability Score Increase": [
@@ -99,37 +234,6 @@
 				],
 				"Skill Versatility": [
 					"You gain proficiency in two skills of your choice."
-				],
-				"Languages": [
-					"You can speak, read, and write Common, Elvish, and one extra language of your choice."
-				]
-			}
-		},
-		"Half-Elf (Drow Variant)": {
-			"Half-Elf (Drow Variant) Traits": {
-				"Ability Score Increase": [
-					"Your Charisma score increases by 2, and two other ability scores of your choice increase by 1."
-				],
-				"Age": [
-					"Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years."
-				],
-				"Alignment": [
-					"Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands and sometimes prove unreliable, or at least unpredictable."
-				],
-				"Size": [
-					"Half-elves are about the same size as humans ranging from 5 to 6 feet tall. Your size is Medium."
-				],
-				"Speed": [
-					"Your base walking speed is 30 feet."
-				],
-				"Darkvision": [
-					"Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
-				],
-				"Fey Ancestry": [
-					"You have advantage on saving throws against being charmed, and magic can't put you to sleep."
-				],
-				"Drow Magic": [
-					"You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once per day. When you reach 5th level, you can cast the darkness spell once per day. Charisma is your spellcasting ability for these spells."
 				],
 				"Languages": [
 					"You can speak, read, and write Common, Elvish, and one extra language of your choice."
