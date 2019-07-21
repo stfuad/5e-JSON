@@ -39,7 +39,7 @@
 			"Sub Races": {
 				"Hill Dwarf": {
 					"Description": [
-						"As a hill dward, you have keen senses, deep intuition, and remarkable resilience, The gold dwarves of Faerun in their mighty southern kingdom are hill dwarves, as are the exiled Neidar and the debased Klar of Krymm in the Dragonlance setting."
+						"As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience, The gold dwarves of Faerun in their mighty southern kingdom are hill dwarves, as are the exiled Neidar and the debased Klar of Krymm in the Dragonlance setting."
 					],
 					"Ability Score Increase": [
 						"Your Wisdom score increases by 1."
@@ -57,6 +57,30 @@
 					],
 					"Dwarven Armor Training": [
 						"You have proficiency with light and medium armor."
+					]
+				},
+				"Duergar": {
+					"Description": [
+						"Those duergar who become adventurers are almost invariably exiles from their society. The duergar have no patience for those who fail to conduct themselves with an appropriate amount of ambition and cruelty.",
+						"Any gray dwarves who leave the Underdark and take up adventuring, after having been raised among their own kind, are paranoid about possible treachery from within the party. Once might insist on sleeping separately from the rest of the group, never displaying or sharing treasure, and trying to hoard treasures that can help survival, such as potions and items or spells that can allow the user to teleport to safety."
+					],
+					"Ability Score Increase": [
+						"Your Strength score increases by 1."
+					],
+					"Superior Darkvision": [
+						"Your darkvision has a radius of 120 feet."
+					],
+					"Extra Language": [
+						"You can speak, read, and write Undercommon."
+					],
+					"Duergar Resilience": [
+						"You have advantage on saving throws against illusions and against being charmed or paralyzed."
+					],
+					"Duergar Magic": [
+						"When you reach 3rd level, you can cast the enlarge/reduce spell on yourself once with this trait, using only the spell's option. When you reach 5th level, you can cast the invisibility spell on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has nop effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells."
+					],
+					"Sunlight Sensitivity": [
+						"You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack or whatever you are trying to perceive is in direct sunlight."
 					]
 				}
 			}
@@ -150,7 +174,64 @@
 					"Drow Weapon Training": [
 						"You have proficiency with rapiers, shortswords, and hand crossbows."
 					]
-				}	
+				},
+				"Eladrin": {
+					"Description": [
+						"Eladrin are elves native to the Feywild, a realm of beauty, unpredictable emotion, and boundless magic. An eladrin is associated with one of the four seasons and has coloration reminiscent of that season, which can also affect the eladrin's mood:",
+						"Autumn# is the season of peace and goodwill, when summer's harvest is shared with all.",
+						"Winter# is the season of contemplation and dolor, when the vibrant energy of the world slumbers.",
+						"Spring# is the season of cheerfulness and celebration, marked by merriment as winter's sorrow passes.",
+						"Summer# is the season of boldness and aggression. a time of unfettered energy.",
+						"Some eladrin remain associated with a particular season for their entire lives, whereas other eladrin transform, adopting characteristics of a new season.",
+						"When finishing a long rest, any eladrin can change their season. An eladrin might choose the season that is present in the world or perhaps the season that most closely matches the eladrin's current emotional state. For example, an eladrin might shift to autumn if filled with contentment, another eladrin could change to winter if plunged into sorrow, still another might be bursting with joy and become an eladrin of spring, and fury might cause an eladrin to change to summer."
+					],
+					"Ability Score Increase": [
+						"Your Charisma score increases by 1."
+					],
+					"Fey Step": [
+						"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a short or long rest.",
+						"When you reach 3rd level, your Fey Step gains an additional effect based on your season; if the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Charisma modifier:",
+						"Autumn# Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be charmed by you for 1 minute, or until you or your companions deal any damage to it.",
+						"Winter# When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.",
+						"Spring# When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.",
+						"Summer# Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage)."
+					]
+				},
+				"Sea Elf": {
+					"Description": [
+						"Sea elves fell in love with the wild beauty of the ocean in the earliest days of the multiverse. While other elves traveled from realm to realm, the sea elves navigated the deepest currents and explored the waters across a hundred worlds. Today, they live in small, hidden communities in the ocean shallows and on the Elemental Plane of Water."
+					],
+					"Ability Score Increase": [
+						"Your Constitution score increases by 1."
+					],
+					"Sea Elf Training": [
+						"You have proficiency with the spear, trident, light crossbow, and net."
+					],
+					"Child of the Sea": [
+						"You have a swimming speed of 30 feet, and can breath air and water."
+					],
+					"Friend of the Sea": [
+						"Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed."
+					],
+					"Languages": [
+						"You can speak, read, and write Aquan."
+					]
+				},
+				"Shadar-Kai": {
+					"Description": [
+						"Sworn to the Raven Queen's service, the mysterious shadar-kai venture into the Material Plane from the Shadowfell to advance her will. Once they were fey like the rest of their elven kin, and now they exist in a strange state between life and death. Eladrin and shadar-kai are like reflections of each other: one bursting with emotion, the other nearly devoid of it."
+					],
+					"Ability Score Increase": [
+						"Your Constitution score increases by 1."
+					],
+					"Necrotic Resistance": [
+						"You have resistance to necrotic damage."
+					],
+					"Blessing of the Raven Queen": [
+						"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest.",
+						"Starting at 3rd-level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent."
+					]
+				}
 			}
 		},
 		"Halfling": {
@@ -209,6 +290,465 @@
 				}
 			}
 		},
+		"Human": {
+			"Human Traits": {
+				"Ability Score Increase": [
+					"Your Ability scores each increase by 1."
+				],
+				"Age": [
+					"Humans reach adulthood in their late teens and live less than a century."
+				],
+				"Alignment": [
+					"Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range your size is medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on."
+				]
+			},
+			"Variant Human Traits": {
+				"Ability Score Increase": [
+					"Two different ability scores of your choice increase by 1."
+				],
+				"Skills": [
+					"You gain proficiency in one skill of your choice."
+				],
+				"Feat": [
+					"You gain one feat of your choice."
+				]
+			}
+		},
+		"Aarakocra": {
+			"Aarakocra Traits": {
+				"Ability Score Increase": [
+					"Your Dexterity score increases by 2, and your wisdom score increases by 1."
+				],
+				"Age": [
+					"Aaracokra reach roach maturity by age 3. Compared to humans, aarakocra don't usually live longer than 30 years."
+				],
+				"Alignment": [
+					"Most aarakocra are good and rarely choose sides when it comes to law and chaos. Tribal leaders and warriors might be lawful, while explorers and adventurers might tend toward chaotic."
+				],
+				"Size": [
+					"Aarakocra are about 5 feet tall. They have thin lightweight bodies that weigh between 80 and 100 pounds. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 25 feet."
+				],
+				"Flight": [
+					"You have a flying speed of 50 feet. To use this speed, you can't be wearing medium or heavy armor."
+				],
+				"Talons": [
+					"You are proficient with your unarmed strikes, which deal 1d4 slashing damage on a hit."
+				],
+				"Language": [
+					"You can speak, read, and write Common, Aarakocra, and Auran"
+				]
+			}
+		},
+		"Dragonborn": {
+			"Dragonborn Traits": {
+				"Ability Score Increase": [
+					"Your Strength score increases by 2, and your Charisma score increases by 1."
+				],
+				"Age": [
+					"Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80."
+				],
+				"Alignment": [
+					"Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil (represented by Bahamut and Tiamat, respectively). Most dragonborn are good, but those who side with Tiamat can be terrible villains."
+				],
+				"Size": [
+					"Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Draconic Ancestry Table": {
+					"Title": "Draconic Ancestry",
+					"Headers": [
+						"Dragon",
+						"Damage Type",
+						"Breath Weapon"
+					],
+					"Rows": [
+						{
+							"Dragon": "Black",
+							"Damage Type": "Acid",
+							"Breath Weapon": "5 by 30 ft. line (Dex. save)"
+						},
+						{
+							"Dragon": "Blue",
+							"Damage Type": "Lightning",
+							"Breath Weapon": "5 by 30 ft. line (Dex. save)"
+						},
+						{
+							"Dragon": "Brass",
+							"Damage Type": "Fire",
+							"Breath Weapon": "5 by 30 ft. line (Dex. save)"
+						},
+						{
+							"Dragon": "Bronze",
+							"Damage Type": "Lightning",
+							"Breath Weapon": "5 by 30 ft. line (Dex. save)"
+						},
+						{
+							"Dragon": "Copper",
+							"Damage Type": "Acid",
+							"Breath Weapon": "5 by 30 ft. line (Dex. save)"
+						},
+						{
+							"Dragon": "Gold",
+							"Damage Type": "Fire",
+							"Breath Weapon": "15 ft. cone (Dex. save)"
+						},
+						{
+							"Dragon": "Green",
+							"Damage Type": "Poison",
+							"Breath Weapon": "15 ft. cone (Con. save)"
+						},
+						{
+							"Dragon": "Red",
+							"Damage Type": "Fire",
+							"Breath Weapon": "15 ft. cone (Dex. save)"
+						},
+						{
+							"Dragon": "Silver",
+							"Damage Type": "Cold",
+							"Breath Weapon": "15 ft. cone (Con. save)"
+						},
+						{
+							"Dragon": "White",
+							"Damage Type": "Cold",
+							"Breath Weapon": "15 ft. cone (Con. save)"
+						}
+					]
+				},
+				"Draconic Ancestry": [
+					"You have draconic ancestry. Choose one type of dragon from the Draconic ANcestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table."
+				],
+				"Breath Weapon": [
+					"You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.",
+					"When you use your breath weapon, each creature in the area of the exhalation must make a saving throw. the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save. and half as much damage on a successful one. The damage increases to 3d6 at 6th level. 4d6 at 11th level, and 5d6 at 16th level.",
+					"After you use your breath weapon, you can't use it again until you complete a short or long rest."
+				],
+				"Damage Resistance": [
+					"You have resistance to the damage type associated with your draconic ancestry."
+				],
+				"Languages": [
+					"You can speak. read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants."
+				]
+			}
+		},
+		"Genasi": {
+			"Genasi Traits": {
+				"Ability Score Increase": [
+					"Your Constitution score increases by 2."
+				],
+				"Age": [
+					"Genasi mature at about the same rate as humans and reach adulthood in their late teens. They live somewhat longer than humans do, up to 120 years."
+				],
+				"Alignment": [
+					"Independent and self-reliant, genasi tend toward a neutral alignment."
+				],
+				"Size": [
+					"Genasi are as varied as their mortal parents but are generally built like humans, standing anywhere from 5 feet to over 6 feet tall. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and Primordial. Primordial is a gutteral language, filled with harsh syllables and hard consonants."
+				]
+			},
+			"Sub Races": {
+				"Air Genasi": {
+					"Description": [
+						"As an air genasi, you are descended from the djinn. As changable as the weatherm your moods shift from clam to wild and violent with little warning, but these storms rarely last long.",
+						"Air genasi typically have light blue skin, hair, and eyes. As faint but constant breeze accompanies them, tousling the hair and stirring the clothing. Some air genasi speak with breathy voices, marked by a faint echo. A few display odd patterns in their flesh or grow crystals from their scalps."
+					],
+					"Ability Score Increase": [
+						"Your Dexterity score increases by 1."
+					],
+					"Unending Breath": [
+						"You can hold your breath indefinitely while your're not incapacitated."
+					],
+					"Mingle with the Wind": [
+						"You can cast the levitate spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for this spell."
+					]
+				},
+				"Earth Genasi": {
+					"Description": [
+						"As an earth genasi, you are descended from the cruel and greedy dao, though you aren’t necessarily evil. You have inherited some measure of control over earth, reveling in superior strength and solid power. You tend to avoid rash decisions, pausing long enough to consider your options before taking action.",
+						"Elemental earth manifests differently from one individual to the next. Some earth genasi always have bits of dust falling from their bodies and mud clinging to their clothes, never getting clean no matter how often they bathe. Others are as shiny and polished as gemstones, with skin tones of deep brown or black, eyes sparkling like agates. Earth genasi can also have smooth metallic flesh, dull iron skin spotted with rust, a pebbled and rough hide, or even a coating of tiny embedded crystals. The most arresting have fissures in their flesh, from which faint light shines."
+					],
+					"Ability Score Increase": [
+						"Your Strength score increases by 1."
+					],
+					"Earth Walk": [
+						"You can move across difficult terrain made of earth or stone without expending extra movement."
+					],
+					"Merge with Stone": [
+						"You can cast the pass without trace spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for this spell."
+					]
+				},
+				"Fire Genasi": {
+					"Description": [
+						"As a fire genasi, you have inherited the volatile mood and keen mind of the efreet. You tend toward impatience and making snap judgments. Rather than hide your distinctive appearance, you exult in it.",
+						"Nearly all fire genasi are feverishly hot as if burning inside, an impression reinforced by flaming red, coal-black, or ash-gray skin tones. The more human-looking have fiery red hair that writhes under extreme emotion, while more exotic specimens sport actual flames dancing on their heads. Fire genasi voices might sound like crackling flames, and their eyes flare when angered. Some are accompanied by the faint scent of brimstone."
+					],
+					"Ability Score Increase": [
+						"Your Intelligence score increases by 1."
+					],
+					"Darkvision": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. Your ties to the Elemental Plane of Fire make your darkvision unusual: everything you see in darkness is in a shade of red."
+					],
+					"Fire Resistance": [
+						"You have resistance to fire damage."
+					],
+					"Reach to the Blaze": [
+						"You know the produce flame cantrip. Once you reach 3rd level, you can cast the burning hands spell once with this trait as a 1st-level spell, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells."
+					]
+				},
+				"Water Genasi": {
+					"Description": [
+						"The lapping of waves, the spray of sea foam on the wind, the ocean depths—all of these things call to your heart. You wander freely and take pride in your independence, though others might consider you selfish.",
+						"Most water genasi look as if they just finished bathing, with beads of moisture collecting on their skin and hair. They smell of fresh rain and clean water. Blue or green skin is common, and most have somewhat overlarge eyes, blue-black in color. A water genasi’s hair might float freely, swaying and waving as if underwater. Some have voices with undertones reminiscent of whale song or trickling streams."
+					],
+					"Ability Score Increase": [
+						"Your Wisdom score increases by 1."
+					],
+					"Acid Resistance": [
+						"You have resistance to acid damage."
+					],
+					"Amphibious": [
+						"You can breathe air and water."
+					],
+					"Swim": [
+						"You have a swimming speed of 30 feet."
+					],
+					"Call to the Wave": [
+						"You know the shape water cantrip (see chapter 2). When you reach 3rd level, you can cast the create or destroy water spell as a 2nd-level spell once with this trait, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells."
+					]
+				}
+			}
+		},
+		"Gith": {
+			"Gith Traits": {
+				"Ability Score Increase": [
+					"Your Intelligence score increases by 1."
+				],
+				"Age": [
+					"Gith reach adulthood in their late teens and live for about a century."
+				],
+				"Size": [
+					"Your base walking speed is 30 feet."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and Gith."
+				]
+			},
+			"Sub Races": {
+				"Githyanki": {
+					"Description": [
+						"The brutal githyanki are trained from birth as warriors."
+					],
+					"Ability Score Increase": [
+						"Your Strength score increases by 2."
+					],
+					"Alignment": [
+						"Githyanki tend toward lawful evil. They are aggressive and arrogant, and they remain the faithful servants of their lich-queen, Vlaakith. Renegade githyanki tend toward chaos."
+					],
+					"Decadent Mastery": [
+						"You learn one language of your choice, and you are proficient with one skill or tool of your choice, In the timeless city of Tu'narath, githyanki have bountiful time to master odd bits of knowledge."
+					],
+					"Martial Prodigy": [
+						"You are proficient with ligth and medium armor and with shortswords, longswords, and greatswords."
+					],
+					"Githyanki Psionics": [
+						"You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.",
+						"When you reach 3rd level, you can cast the jump spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the misty step spell once with this trait, and you regain the ability to do so when you finish a long rest.",
+						"Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don't require components."
+					]
+				},
+				"Githzerai": {
+					"Description": [
+						"In their fortresses within Limbo, the githzerai hone their minds to a razor's edge."
+					],
+					"Ability Score Increase": [
+						"Your Wisdom score increases by 2."
+					],
+					"Alignment": [
+						"Githzerai tend toward lawful neutral. Their rigorous training in psychic abilities requires an implacable mental discipline."
+					],
+					"Mental Discipline": [
+						"You have advantage on saving throws against the charmed and frightened conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds."
+					],
+					"Githzerai Psionics": [
+						"You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.",
+						"When you reach 3rd level, you can cast the shield spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the detect thoughts spell once with this trait, and you regain the ability to do so when you finish a long rest.",
+						"Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require comonents."
+					]
+				}
+			}
+		},
+		"Gnome": {
+			"Gnome Traits": {
+				"Ability Score Increase": [
+					"Your Intelligence score increases by 2."
+				],
+				"Age": [
+					"Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years."
+				],
+				"Alignment": [
+					"Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious."
+				],
+				"Size": [
+					"Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small."
+				],
+				"Speed": [
+					"Your base walking speed is 25 feet."
+				],
+				"Darkvision": [
+					"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+				],
+				"Gnome Cunning": [
+					"You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world."
+				]
+			},
+			"Sub Races": {
+				"Forest Gnome": {
+					"Description": [
+						"As a forest gnome, you have a natural knack for illusions and inherent quickness and stealth. In the worlds of D&D, forest gnomes are rare and secretive. They gather in hidden communities in sylvan forests, using illusions and trickery to conceal themselves from threats or to mask their escape should they be detected. Forest gnomes tend to be friendly with other good-spirited woodland folk, and they regard elves and good fey their most important allies. These gnomes also befriend small forest animals and rely on them for information about threats that might prowl their lands."
+					],
+					"Ability Score Increase": [
+						"Your Dexterity score increases by 1."
+					],
+					"Natural Illusionist": [
+						"You know the minor illusion cantrip. Intelligence is your spellcasting ability for it."
+					],
+					"Speak with Small Beasts": [
+						"Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Forest gnomes love animaIs and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets."
+					]
+				},
+				"Rock Gnome": {
+					"Description": [
+						"As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes. Most gnomes in the worlds of D&D are rock gnomes, including the tinker gnomes of the Dragonlance setting."
+					],
+					"Ability Score Increase": [
+						"Your Constitution score increases by 1."
+					],
+					"Artificer's Lore": [
+						"Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
+					],
+					"Tinker": [
+						"You have proficiency with artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.",
+						"When you create a device, choose one of the following options:",
+						"Clockwork Toy# This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.",
+						"Fire Starter. The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.",
+ 						"Music Box. When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed."
+					]
+				},
+				"Deep Gnome": {
+					"Description": [
+						"Unlike other gnomes, svirfneblin tend to weigh 80 to 120 pounds.",
+						"Short-lived compared to other gnomes, deep gnomes mature at the same rate humans do and are considered full-grown adults by age 25. They live 200-250 years, although toil and the dangers of the Underdark often claim them befor their time.",
+						"Sivrfneblin believe that survival depends on avoiding entanglements with other creatures and not making enemies, so they favor neutral alignments. They rarely wish others ill, and they are unlikely to take risks on behalf of others, except those dearest to them."
+					],
+					"Ability Score Increase": [
+						"Your Dexterity score increases by 1."
+					],
+					"Superior Darkvision": [
+						"Your darkvision has a radius of 120 feet."
+					],
+					"Stone Camouflage": [
+						"You have advantage on Dexterity (Stealth) checks to hide in rocky terrain and underground."
+					],
+					"Extra Language": [
+						"You can speak, read, and write Undercommon."
+					]
+				}
+			}
+		},
+		"Goliath": {
+			"Goliath Traits": {
+				"Ability Score Increase": [
+					"Your Strength score increases by 2, and your Constitution score increases by 1."
+				],
+				"Age": [
+					"Goliaths have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century."
+				],
+				"Alignment": [
+					"Goliath society, with its clear roles and tasks, has a strong lawful bent. The goliath sense of fairness, balanced with an emphasis on selfsufficiency and personal accountability, pushes them toward neutrality."
+				],
+				"Size": [
+					"Goliaths are between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Natural Athlete": [
+					"You have proficiency in the Athletics skill."
+				],
+				"Stone's Endurance": [
+					"You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a short or long rest."
+				],
+				"Powerful Build": [
+					"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+				],
+				"Mountain Born": [
+					"You’re acclimated to high altitude, including elevations above 20,000 feet. You’re also naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master’s Guide."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and Giant."
+				]
+			}
+		},
+		"Grung": {
+			"Grung Traits": {
+				"Ability Score Increase": [
+					"Your Dexterity score increases by 2 and your Constitution score increases by 1."
+				],
+				"Age": [
+					"Grungs mature to adulthood in a single year, but have been known to live up to 50 years."
+				],
+				"Alignment": [
+					"Most grungs are lawful, having been raised in a strict caste system. They tend toward evil as well, coming from a culture where social advancement occurs rarely, and most often because another member of your army has died and there is no one else of that caste to fill the vacancy."
+				],
+				"Arboreal Alertness": [
+					"You have proficiency in the Perception skill."
+				],
+				"Size": [
+					"Grungs stand between 2 ½ and 3 ½ feet tall and average about 30 pounds. Your size is Small."
+				],
+				"Speed": [
+					"Your base walking speed is 25 feet, and you have a climbing speed of 25 feet."
+				],
+				"Amphibious": [
+					"You can breathe air and water."
+				],
+				"Poison Immunity": [
+					"You’re immune to poison damage and the poisoned condition."
+				],
+				"Poisonous Skin": [
+					"Any creature that grapples you or otherwise comes into direct contact with your skin must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A poisoned creature no longer in direct contact with you can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+					"You can also apply this poison to any piercing weapon as part of an attack with that weapon, though when you hit the poison reacts differently. The target must succeed on a DC 12 Constitution saving throw or take 2d4 poison damage."
+				],
+				"Standing Leap": [
+					"Your long jump is up to 25 feet and your high jump is up to 15 feet, with or without a running start."
+				],
+				"Water Dependency": [
+					"If you fail to immerse yourself in water for at least 1 hour during a day, you suffer one level of exhaustion at the end of that day. You can only recover from this exhaustion through magic or by immersing yourself in water for at least 1 hour."
+				],
+				"Languages": [
+					"You can speak, read, and write Grung."
+				]
+			}
+		},
 		"Half-Elf": {
 			"Half-Elf Traits": {
 				"Ability Score Increase": [
@@ -237,6 +777,37 @@
 				],
 				"Languages": [
 					"You can speak, read, and write Common, Elvish, and one extra language of your choice."
+				]
+			}
+		},
+		"Half-Orc": {
+			"Half-Orc Traits": {
+				"Ability Score Increase": [
+					"Your Strength score increases by 2, and your Constitution score increases by 1."
+				],
+				"Age": [
+					"Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years."
+				],
+				"Alignment": [
+					"Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among orcs and willing to live out their lives among them are usually evil."
+				],
+				"Size": [
+					"Half-orcs are somewhat larger and bulkier than humans and they range from 5 to well over 6 feet tall. Your size is Medium."
+				],
+				"Darkvision": [
+					"Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only in shades of gray."
+				],
+				"Menacing": [
+					"You gain proficiency in the Intimidation skill."
+				],
+				"Relentless Endurance": [
+					"When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest."
+				],
+				"Savage Attacks": [
+					"When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and Orc. Orc is harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script."
 				]
 			}
 		},
@@ -374,6 +945,40 @@
 						"You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the searing smite spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the branding smite spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
 					]
 				}
+			}
+		},
+		"Tortle": {
+			"Tortle Traits": {
+				"Ability Score Increase": [
+					"Your Strength score increases by 2, and your Wisdom score increases by 1."
+				],
+				"Age": [
+					"Young tortles crawl for a few weeks after birth before learning to walk on two legs. They reach adulthood by the age of 15 and live an average of 50 years."
+				],
+				"Alignment": [
+					"Tortles tend to lead orderly, ritualistic lives. They develop customs and routines, becoming more set in their ways as they age. Most are lawful good. A few can be selfish and greedy, tending more toward evil, but it's unusual for a tortle to shuck off order in favor of chaos."
+				],
+				"Size": [
+					"Tortle adults stand 5 to 6 feet tall and average 450 pounds. Their shells account for roughly one-third of their weight. Your size is Medium."
+				],
+				"Claws": [
+					"Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with the, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+				],
+				"Hold Breath": [
+					"You can hold your breath for up to 1 hour at a time. Tortles aren't natural swimmers, but they can remain underwater for some time before needing to come up for air."
+				],
+				"Natural Armor": [
+					"Due to your shell and the shape of your body, you are ill-suited to wearing armor. Your shell provides ample protection, however; it gives you a base AC of 17 (your Dexterity modifier doesn't affect this number). You gain no benefit from wearing armor, but if you are using a shield, you can apply the shield's bonus as normal."
+				],
+				"Shell Defense": [
+					"You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are prone, your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell."
+				],
+				"Survival Instinct": [
+					"You gain proficiency in the Survival skill. Tortles have finely honed survival instincts."
+				],
+				"Languages": [
+					"You can speak, read, and write Aquan and Common."
+				]
 			}
 		}
 	}
