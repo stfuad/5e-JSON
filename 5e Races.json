@@ -348,6 +348,81 @@
 				]
 			}
 		},
+		"Aasimar": {
+			"Aasimar Traits": {
+				"Ability Score Increase": [
+					"Your Charisma score increases by 2."
+				],
+				"Age": [
+					"Aasimar mature at the same rate as humans, but they can live up to 160 years."
+				],
+				"Alignment": [
+					"Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil."
+				],
+				"Size": [
+					"Aasimar have the same range of height and weight as humans."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Darkvision": [
+					"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+				],
+				"Celestial Resistance": [
+					"You have resistance to necrotic damage and radiant damage."
+				],
+				"Healing Hands": [
+					"As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest."
+				],
+				"Light Bearer": [
+					"You know the light cantrip. Charisma is your spellcasting ability for it."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and Celestial."
+				]
+			},
+			"Sub Races": {
+				"Protector Aasimar": {
+					"Description": [
+						"Protector aasimar are charged by the powers of good to guard the weak, to strike at evil wherever it arises, and to stand vigilant against the darkness. From a young age, a protector aasimar receives advice and directives that urge to stand against evil."
+					],
+					"Ability Score Increase": [
+						"Your Wisdom score increases by 1."
+					],
+					"Radiant Soul": [
+						"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.",
+						"Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.",
+						"Once you use this trait, you can't use it again until you finish a long rest."
+					]
+				},
+				"Scourge Aasimar": {
+					"Description": [
+						"Scourge aasimar are imbued with a divine energy that blazes intensely within them. It feeds a powerful desire to destroy evil-a desire that is, at its best, unflinching and, at its worst, all-consuming. Many scourge aasimar wear masks to block out the world and focus on containing this power, unmasking themselves only in battle."
+					],
+					"Ability Score Increase": [
+						"Your Constitution score increases by 1."
+					],
+					"Radiant Consumption": [
+						"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you.",
+						"Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take radiant damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.",
+						"Once you use this trait, you can't use it again until you finish a long rest."
+					]
+				},
+				"Fallen Aasimar": {
+					"Description": [
+						"An aasimar who was touched by dark powers as a youth or who turns to evil in early adulthood can become one of the fallen-a group of aasimar whose inner light has been replaced by shadow."
+					],
+					"Ability Score Increase": [
+						"Your Strength score increases by 1."
+					],
+					"Necrotic Shroud": [
+						"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back. The instant you transform, other creatures within 10 feet of you that can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become frightened of you until the end of your next turn.",
+						"Your transformation lasts for 1 minute or until you end it as a bonus action. During it, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra necrotic damage equals your level.",
+						"Once you use this trait, you can't use it again until you finish a long rest."
+					]
+				}
+			}
+		},
 		"Dragonborn": {
 			"Dragonborn Traits": {
 				"Ability Score Increase": [
@@ -438,6 +513,40 @@
 				],
 				"Languages": [
 					"You can speak. read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants."
+				]
+			}
+		},
+		"Firbolg": {
+			"Firbolg Traits": {
+				"Ability Score Increase": [
+					"Your Wisdom score increases by 2, and your Strength score increases by 1."
+				],
+				"Age": [
+					"As humanoids related to the fey, firbolg have long lifespans. A firbolg reaches adulthood around 30, and the oldest of them can live for 500 years."
+				],
+				"Alignment": [
+					"As people who follow the rhythm of nature and see themselves as its caretakers, firbolg are typically neutral good. Evil firbolg are rare and are usually the sworn enemies of the rest of their kind."
+				],
+				"Size": [
+					"Firbolg are between 7 and 8 feet tall and weigh between 240 and 300 pounds. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Firbolg Magic": [
+					"You can cast detect magic and disguise self with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest. When you use this version of disguise self, you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves."
+				],
+				"Hidden Step": [
+					"As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest."
+				],
+				"Powerful Build": [
+					"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+				],
+				"Speech of Beast and Leaf": [
+					"You have the ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them."
+				],
+				"Languages": [
+					"You can speak, read, and write Common, Elvish, and Giant."
 				]
 			}
 		},
@@ -811,6 +920,105 @@
 				]
 			}
 		},
+		"Kenku": {
+			"Kenuku Traits": {
+				"Ability Score Increase": [
+					"Your Dexterity score increases by 2, and your Wisdom score increases by 1."
+				],
+				"Age": [
+					"Kenku have shorter lifespans than humans. They reach maturity at about 12 years old and can live to 60."
+				],
+				"Alignment": [
+					"Kenku are chaotic creatures, rarely making enduring commitments, and they care mostly for preserving their own hides. They are generally chaotic neutral in outlook."
+				],
+				"Size": [
+					"Kenku are around 5 feet tall and weigh between 90 and 120 pounds. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Expert Forgery": [
+					"You can duplicate other creatures' handwriting and craftwork. You have advantage on all checks made to produce forgeries or duplicates of existing objects."
+				],
+				"Kenku Training": [
+					"You are proficient in your choice of two of the following skills: Acrobatics, Deception, Stealth, and Sleight of Hand."
+				],
+				"Mimicry": [
+					"You can mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations with a successful Wisdom (Insight) check opposed by your Charisma (Deception) check."
+				],
+				"Languages": [
+					"You can read and write Common and Auran, but you can speak only by using your Mimicry trait."
+				]
+			}
+		},
+		"Lizardfolk": {
+			"Lizardfolk Traits": {
+				"Ability Score Increase": [
+					"Your Constitution score increases by 2, and your Wisdom score increases by 1."
+				],
+				"Age": [
+					"Lizardfolk reach maturity arqund age 14 and rarely live longer than 60 years."
+				],
+				"Alignment": [
+					"Most lizardfolk are neutral. They see the world as a place of predators and prey, where life and death are natural processes. They wish only to survive, and prefer to leave other creatures to their own devices."
+				],
+				"Size": [
+					"Lizardfolk are a little bulkier and taller than humans, and their colorful frills make them appear even larger. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet, and you have a swimming speed of 30 feet."
+				],
+				"Bite": [
+					"Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+				],
+				"Cunning Artisan": [
+					"As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size Small or larger to create one of the following items: a shield, a club, a javelin, or 1d4 darts or blowgun needles. To use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools."
+				],
+				"Hold Breath": [
+					"You can hold your breath for up to 15 minutes at a time."
+				],
+				"Hunter's Lore": [
+					"You gain proficiency with two of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, and Survival."
+				],
+				"Natural Armor": [
+					"You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor."
+				]
+			}
+		},
+		"Tabaxi": {
+			"Tabaxi Traits": {
+				"Ability Score Increase": [
+					"Your Dexterity score increases by 2, and your Charisma score increases by 1."
+				],
+				"Age": [
+					"Tabaxi have lifespans equivalent to humans."
+				],
+				"Alignment": [
+					"Tabaxi tend toward chaotic alignments, as they let impulse and fancy guide their decisions. They are rarely evil, with most of them driven by curiosity rather than greed or other dark impulses."
+				],
+				"Size": [
+					"Tabaxi are taller on average than humans and relatively slender. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Darkvision": [
+					"You have a cat's keen senses, especially in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+				],
+				"Feline Agility": [
+					"Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns."
+				],
+				"Cat's Claws": [
+					"Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+				],
+				"Cat's Talent": [
+					"You have proficiency in the Perception and Stealth skills."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and one other language of your choice."
+				]
+			}
+		},
 		"Tiefling": {
 			"Tiefling Traits": {
 				"Ability Score Increase": [
@@ -843,7 +1051,7 @@
 			},
 			"Sub Races": {
 				"Description": [
-					"If your tiefling has a subrace, choose one of the following options- whichever one corresponds to the infernal being connected to the tiefling's family.",
+					"If your tiefling has a subrace, choose one of the following options-whichever one corresponds to the infernal being connected to the tiefling's family.",
 					"The traits of the chosen subrace replace the tiefling's Ability Score Increase and Infernal Legacy traits given in the Player's Handbook. There is one exception: tieflings connected to Asmodeus. Those tieflings use the traits in the Player's Handbook."
 				],
 				"Asmodeus": {
@@ -978,6 +1186,40 @@
 				],
 				"Languages": [
 					"You can speak, read, and write Aquan and Common."
+				]
+			}
+		},
+		"Triton": {
+			"Triton Traits": {
+				"Ability Score Increase": [
+					"Your Strength, Constitution, and Charisma scores each increase by 1."
+				],
+				"Age": [
+					"Tritons reach maturity around age 15 and can live up to 200 years."
+				],
+				"Alignment": [
+					"Tritons tend toward lawful good. As guardians of the darkest reaches of the sea, their culture pushes them toward order and benevolence."
+				],
+				"Size": [
+					"Tritons are slightly sli'orter than humans, averaging about 5 feet tall. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet, and you have a swimming speed of 30 feet."
+				],
+				"Amphibious": [
+					"You can breathe air and water."
+				],
+				"Control Air and Water": [
+					"A child of the sea, you can call on the magic of elemental air and water. You can cast fog cloud with this trait. Starting at 3rd level, you can cast gust of wind with it, and starting at 5th level, you can also cast wall of water with it (see the spell in the sidebar). Once you cast a spell with this trait, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells."
+				],
+				"Emissary of the Sea": [
+					"Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return."
+				],
+				"Guardians of the Depths": [
+					"Adapted to even the most extreme ocean depths, you have resistance to cold damage, and you ignore any of the drawbacks caused by a deep, underwater environment."
+				],
+				"Lansuages": [
+					"You can speak, read, and write Common and Primordial."
 				]
 			}
 		}
