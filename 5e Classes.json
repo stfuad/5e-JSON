@@ -252,6 +252,12 @@
 						"Eagle": [
 							"While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you, and you can use the Dash action as a bonus action on your turn, The spirit of the eagle makes you into a predator who can weave through the fray with ease."
 						],
+						"Elk": [
+							"While you're raging and aren't wearing heavy armor, your walking speed increases by 15 feet. The spirit of the elk makes you extraordinarily swift."
+						],
+						"Tiger": [
+							"While raging, you can add 10 feet to your long jump distance and 3 feet to your high jump distance. The spirit of the tiger empowers your leaps."
+						],
 						"Wolf": [
 							"While you're raging, your friends have advantage on melee attack rolls against any creature within 5 feet of you that is hostile to you. The spirit of the wolf makes you a leader of hunters."
 						]
@@ -265,6 +271,12 @@
 						],
 						"Eagle": [
 							"You gain the eyesight of an eagle. You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks."
+						],
+						"Elk": [
+							"Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they're within 60 feet of you and you're not incapacitated (see chapter 8 in the Player's Handbook for more information about travel pace). The elk spirit helps you roam far and fast."
+						],
+						"Tiger": [
+							"You gain proficiency in two skills from the following list: Athletics, Acrobatics, Stealth, and Survival. The cat spirit hones your survival instincts."
 						],
 						"Wolf": [
 							"You gain the hunting sensibilities of a wolf. You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace (see chapter 8 for rules on travel pace)."
@@ -282,6 +294,12 @@
 						],
 						"Eagle": [
 							"While raging. you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft."
+						],
+						"Elk": [
+							"While raging, you can use a bonus action during your move to pass through the space of a Large or smaller creature. That creature must succeed on a Strength saving throw (DC 8 + your Strength bonus + your proficiency bonus) or be knocked prone and take bludgeoning damage equal to 1d12 + your Strength modifier."
+						],
+						"Tiger": [
+							"While you're raging, if you move at least 20 feet in a straight line toward a Large or smaller target right before making a melee weapon attack against it, you can use a bonus action to make an additional melee weapon attack against it."
 						],
 						"Wolf": [
 							"While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature prone when you hit it with melee weapon attack."
@@ -382,6 +400,29 @@
 					"Rage beyond Death": [
 						"Beginning at 14th level, the divine power that fuels your rage allows you to shrug off fatal blows.",
 						"While you're raging, having 0 hit points doesn't knock you unconscious. You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failing death saving throws, you don't die until your rage ends, and you die then only if you still have 0 hit points."
+					]
+				},
+				"Path of the Battlerager": {
+					"Description": [
+						"Known as Kuldjargh (literally \"axe idiot\") in Dwarvish, battleragers are dwarf followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, spiked armor and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle."
+					],
+					"Restriction: Dwarves Only": [
+						"Only dwarves can follow the Path of the Battlerager. The battlerager fills a particular niche in dwarven society and culture.",
+						"Your DM can lift this restriction to better suit the campaign. The restriction exists for the Forgotten Realms. It might not apply to your DM's setting or your DM's version of the Realms."
+					],
+					"Battlerager Armor": [
+						"When you choose this path at 3rd level, you gain the ability to use spiked armor (see the \"Spiked Armor\" sidebar) as a weapon.",
+						"While you are wearing spiked armor and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes against a target within 5 feet of you. If the attack hits, the spikes deal ld4 piercing damage. You use your Strength modifier for the attack and damage rolls.",
+						"Additionally, when you use the Attack action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds."
+					],
+					"Reckless Abandon": [
+						"Beginning at 6th level, when you use Reckless Attack while raging, you also gain temporary hit points equal to your Constitution modifier (minimum of 1). They vanish if any of them are left when your rage ends."
+					],
+					"Battlerager Charge": [
+						"Beginning at 10th level, you can take the Dash action as a bonus action while you are raging."
+					],
+					"Spiked Retribution": [
+						"Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't incapacitated, and are wearing spiked armor."
 					]
 				}
 			}
@@ -734,8 +775,10 @@
 						"You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. See chapter 10 for the general rules of spellcasting and chapter 11 for the bard spell list."
 					],
 					"Cantrips": [
-						"You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table.",
-						"The Bard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.",
+						"You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table."
+					],
+					"Spell Slots": [
+						"The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.",
 						"For example, if you know the 1st-level spell cure wounds and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot."
 					],
 					"Spells Known of 1st-Level and Higher": [
@@ -765,7 +808,7 @@
 					"Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn’t already include your proficiency bonus."
 				],
 				"Song of Rest": [
-					"Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest, each of those creatures regains an extra 1d6 hit points.",
+					"Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.",
 					"The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level."
 				],
 				"Bard College": [
@@ -785,9 +828,9 @@
 					"At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required)."
 				],
 				"Magical Secrets": [
-					"By 10th level, you have plundered magical knowledge from a w ide spectrum of disciplines. Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.",
+					"By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.",
 					"The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.",
-					"You learn two additional spells from any class at 14th level and again at 18th level."
+					"You learn two additional spells from any classes at 14th level and again at 18th level."
 				],
 				"Superior Inspiration": [
 					"At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use."
@@ -1258,7 +1301,7 @@
 						"At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table."
 					],
 					"Preparing and Casting Spells": [
-						"The Cleric table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.",
+						"The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.",
 						"You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.",
 						"For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.",
 						"You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list."
@@ -1986,6 +2029,103 @@
 					"Keeper of Souls": [
 						"Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet ofyou regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't incapacitated. Once you use it, you can't do so again until the start of your next turn."
 					]
+				},
+				"Arcana Domain": {
+					"Description": [
+						"Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.",
+						"The gods of this domain are often associated with knowledge, as learning and arcane power tend to go hand-in-hand. In the Realms, deities of this domain include Azuth and Mystra, as well as Corellon Larethian of the elven pantheon. In other worlds, this domain includes Hecate, Math Mathonwy, and Isis; the triple moon gods of Solinari, Lunitari, and Nuitari of Krynn; and Boccob, Vecna, and WeeJas of Greyhawk."
+					],
+					"Arcana Domain Spells Table": {
+						"Title": "Arcana Domain Spells",
+						"Headers": [
+							"Cleric Level",
+							"Spells"
+						],
+						"Rows": [
+							{
+								"Cleric Level": "1st",
+								"Spells": [
+									"Detect Magic",
+									"Magic Missle"
+								]
+							},
+							{
+								"Cleric Level": "2nd",
+								"Spells": [
+									"Magic Weapon",
+									"Nystul's Magic Aura"
+								]
+							},
+							{
+								"Cleric Level": "3rd",
+								"Spells": [
+									"Dispel Magic",
+									"Magic Circle"
+								]
+							},
+							{
+								"Cleric Level": "4th",
+								"Spells": [
+									"Arcane Eye",
+									"Leomund's Secret Chest"
+								]
+							},
+							{
+								"Cleric Level": "5th",
+								"Spells": [
+									"Planar Binding",
+									"Teleportation Circle"
+								]
+							}
+						]
+					},
+					"Arcane Initiate": [
+						"When you choose this domain at 1st level, you gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips."
+					],
+					"Channel Divinity: Arcane Abjuration": [
+						"Starting at 2nd level, you can use your Channel Divinity to abjure otherworldly creatures.",
+						"As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.",
+						"A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. It also can't take reactions. For its action, it can only use the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.",
+						"After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the banishment spell, no concentration required) if it isn't on its plane of origin and its challenge rating is at or below a certain threshold, as shown on the Arcane Banishment table."
+					],
+					"Arcane Banishment Table": {
+						"Title": "Arcane Banishment",
+						"Headers": [
+							"Cleric Level",
+							"Banishes Creatures of CR ..."
+						],
+						"Rows": [
+							{
+								"Cleric Level": "5th",
+								"Banishes Creatures of CR ...": "1/2 or lower"
+							},
+							{
+								"Cleric Level": "8th",
+								"Banishes Creatures of CR ...": "1 or lower"
+							},
+							{
+								"Cleric Level": "11th",
+								"Banishes Creatures of CR ...": "2 or lower"
+							},
+							{
+								"Cleric Level": "14th",
+								"Banishes Creatures of CR ...": "3 or lower"
+							},
+							{
+								"Cleric Level": "17th",
+								"Banishes Creatures of CR ...": "4 or lower"
+							}
+						]
+					},
+					"Spell Breaker": [
+						"Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell."
+					],
+					"Potent Spellcasting": [
+						"Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip."
+					],
+					"Arcane Mastery": [
+						"At 17th level, you choose four spells from the wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you."
+					]
 				}
 			}
 		},
@@ -2322,7 +2462,7 @@
 						"At 1st level, you know two cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table."
 					],
 					"Preparing and Casting Spells": [
-						"The Druid table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
+						"The Druid table shows how many spell slots you have to cast your druid spells of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
 						"You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots.",
 						"For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the lst.level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.",
 						"You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list."
@@ -3055,7 +3195,7 @@
 							"When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving."
 						],
 						"Feinting Attack": [
-							"You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature. If that attack hits, add the superiority die to the attack’s damage roll."
+							"You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature this turn. If that attack hits, add the superiority die to the attack’s damage roll."
 						],
 						"Goading Attack": [
 							"When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack’s damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn."
@@ -3104,14 +3244,14 @@
 							"You learn two cantrips of your choice from the wizard spell list. You learn an additional wizard cantrip of your choice at 10th level."
 						],
 						"Spell Slots": [
-							"The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.",
+							"The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.",
 							"For example, if you know the 1st-level spell shield and have a 1st-level and a 2nd-level spell slot available, you can cast shield using either slot."
 						],
 						"Spells Known of 1st-Level and Higher": [
 							"You know three 1st-level wizard spells of your choice, two of which you must choose from the abjuration and evocation spells on the wizard spell list.",
 							"The Spells Known column of the Eldritch Knight Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an abjuration or evocation spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.",
 							"The spells you learn at 8th, 14th, and 20th level can come from any school of magic.",
-							"Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an abjuration or evocation spell, unless you’re replacing the spell you gained at 8th, 14th, or 20th level."
+							"Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an abjuration or evocation spell, unless you’re replacing the spell you gained at 3rd, 8th, 14th, or 20th level from any school of magic."
 						],
 						"Spellcasting Ability": [
 							"Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.",
@@ -3780,7 +3920,7 @@
 						],
 						"Elemental Attunement": {
 							"Description": [
-								"You can use your action to briefly control elemental forces nearby, causing one of the following effects of your choice:"
+								"You can use your action to briefly control elemental forces within 30 feet of you, causing one of the following effects of your choice:"
 							],
 							"Unordered List": [
 								"Create a harmless, instantaneous sensory effect related to air, earth, fire, or water, such as a shower of sparks, a puff of wind, a spray of light mist, or a gentle rumbling of stone.",
@@ -3789,7 +3929,7 @@
 								"Cause earth, fire, water, or mist that can fit within a 1-foot cube to shape itself into a crude form you designate for 1 minute."
 							]
 						},
-						"Eternal Mountain Defense (11th Level Required)": [
+						"Eternal Mountain Defense (17th Level Required)": [
 							"You can spend 5 ki points to cast stoneskin, targeting yourself."
 						],
 						"Fangs of the Fire Snake": [
@@ -3826,7 +3966,7 @@
 							"You can spend 2 ki points to cast burning hands."
 						],
 						"Water Whip": [
-							"You can spend 2 ki points as a bonus action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a Dexterity saving throw. On a failed save, the creature takes 3d10 bludgeoning damage, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can either knock it prone or pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don't pull It or knock it prone."
+							"You can spend 2 ki points as an action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a Dexterity saving throw. On a failed save, the creature takes 3d10 bludgeoning damage, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can either knock it prone or pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don't pull It or knock it prone."
 						],
 						"Wave of Rolling Earth (17th Level Required)": [
 							"You can spend 6 ki points to cast wall of stone."
@@ -3899,6 +4039,23 @@
 					"Sun Shield": [
 						"At 17th level, you become wreathed in a luminous, magical aura. You shed bright light in a 30-foot radius and dim light for an additional 30 feet. You can extinguish or restore the light as a bonus action.",
 						"If a creature hits you with a melee attack while this light shines, you can use your reaction to deal radiant damage to the creature. The radiant damage equals 5 + your Wisdom modifier."
+					]
+				},
+				"Way of the Long Death": {
+					"Description": [
+						"Monks of the Way of the Long Death are obsessed with the meaning and mechanics of dying. They capture creatures and prepare elaborate experiments to capture, record, and understand the moments of their demise. They then use this knowledge to guide their understanding of martial arts, yielding a deadly fighting style."
+					],
+					"Touch of Death": [
+						"Starting when you choose this tradition at 3rd level, your study of death allows you to extract vitality from another creature as it nears its demise. When you reduce a creature within 5 feet of you to 0 hit points, you gain temporary hit points equal to your Wisdom modifier + your monk level (minimum of 1 temporary hit point)."
+					],
+					"Hour of Reaping": [
+						"At 6th level, you gain the ability to unsettle or terrify those around you as an action, for your soul has been touched by the shadow of death. When you take this action, each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn."
+					],
+					"Mastery of Death": [
+						"Beginning at 11th level, you use your familiarity with death to escape its grasp. When you are reduced to 0 hit points, you can expend 1 ki point (no action required) to have 1 hit point instead."
+					],
+					"Touch of the Long Death": [
+						"Starting at 17th level, your touch can channel the energy of death into a creature. As an action, you touch one creature within 5 feet of you, and you expend 1 to 10 ki points. The target must make a Constitution saving throw, and it takes 2d10 necrotic damage per ki point spent on a failed save, or half as much damage on a successful one."
 					]
 				}
 			}
@@ -4152,7 +4309,7 @@
 						"By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See chapter 10 for the general rules of spellcasting and chapter 11 for the paladin spell list."
 					],
 					"Preparing and Casting Spells": [
-						"The Paladin table show s how many spell slots you have to cast your spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.",
+						"The Paladin table shows how many spell slots you have to cast your paladin spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.",
 						"You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.",
 						"For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.",
 						"You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list."
@@ -4167,7 +4324,7 @@
 					]
 				},
 				"Divine Smite": [
-					"Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one paladin spell slot to deal radiant damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend."
+					"Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8."
 				],
 				"Divine Health": [
 					"By 3rd level, the divine magic flowing through you makes you immune to disease."
@@ -4202,7 +4359,7 @@
 					"At 18th level, the range of this aura increases to 30 feet."
 				],
 				"Improved Divine Smite": [
-					"By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage. If you also use your Divine Smite with an attack, you add this damage to the extra damage of your Divine Smite."
+					"By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage."
 				],
 				"Cleansing Touch": [
 					"Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.",
@@ -4214,14 +4371,26 @@
 					"Description": [
 						"The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms."
 					],
-					"Tenets of Devotion": [
-						"Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.",
-						"Honesty# Don’t lie or cheat. Let your word be your promise.",
-						"Courage# Never fear to act, though caution is wise.",
-						"Compassion# Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.",
-						"Honor# Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.",
-						"Duty# Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you."
-					],
+					"Tenets of Devotion": {
+						"Description": [
+							"Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets."
+						],
+						"Honesty": [
+							"Don’t lie or cheat. Let your word be your promise."
+						],
+						"Courage": [
+							"Never fear to act, though caution is wise."
+						],
+						"Compassion": [
+							"Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom."
+						],
+						"Honor": [
+							"Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm."
+						],
+						"Duty": [
+							"Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you."
+						]
+					},
 					"Oath Spells": [
 						"You gain oath spells at the paladin levels listed."
 					],
@@ -4300,13 +4469,23 @@
 					"Description": [
 						"The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their arm or and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world."
 					],
-					"Tenets of the Ancients": [
-						"The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.",
-						"Kindle the Light# Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.",
-						"Shelter the Light# Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.",
-						"Preserve Your Own Light# Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can’t preserve it in the world.",
-						"Be the Light# Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds."
-					],
+					"Tenets of the Ancients": {
+						"Description": [
+							"The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple."
+						],
+						"Kindle the Light": [
+							"Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair."
+						],
+						"Shelter the Light": [
+							"Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren."
+						],
+						"Preserve Your Own Light": [
+							"Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can’t preserve it in the world."
+						],
+						"Be the Light": [
+							"Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds."
+						]
+					},
 					"Oath Spells": [
 						"You gain oath spells at the paladin levels listed."
 					],
@@ -4354,14 +4533,20 @@
 							}
 						]
 					},
-					"Channel Divinity": [
-						"When you take this oath at 3rd level, you gain the following two Channel Divinity options.",
-						"Nature’s Wrath# You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish.",
-						"Turn the Faithless# You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.",
-						"A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.",
-						"If the creature’s true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned."
-
-					],
+					"Channel Divinity": {
+						"Description": [
+							"When you take this oath at 3rd level, you gain the following two Channel Divinity options."
+						],
+						"Nature’s Wrath": [
+							" You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish."
+													
+						],
+						"Turn the Faithless": [
+							"You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.",
+							"A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.",
+							"If the creature’s true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned."
+						]
+					},
 					"Aura of Warding": [
 						"Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to damage from spells.",
 						"At 18th level, the range of this aura increases to 30 feet."
@@ -4389,14 +4574,23 @@
 					"Description": [
 						"The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves’ guild grows too violent and powerful, when a dragon rampages through the countryside—at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins—sometimes called avengers or dark knights—their own purity is not as important as delivering justice."
 					],
-					"Tenets of the Ancients": [
-						"The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are of ten neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.",
-						"Fight the Greater Evil# Faced with a choice of fighting my sworn foes or combating a lesser evil. 1 choose the greater evil.",
-						"No Mercy for the Wicked# Ordinary foes might win my mercy, but my sworn enemies do not.",
-						"By Any Means Necessary# My qualms can’t get in the way of exterminating my foes.",
-						"Restitution# If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds."
-
-					],
+					"Tenets of the Ancients": {
+						"Description": [
+							"The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are of ten neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple."
+						],
+						"Fight the Greater Evil": [
+							"Faced with a choice of fighting my sworn foes or combating a lesser evil. 1 choose the greater evil."
+						],
+						"No Mercy for the Wicked": [
+							"Ordinary foes might win my mercy, but my sworn enemies do not."
+						],
+						"By Any Means Necessary": [
+							"My qualms can’t get in the way of exterminating my foes."
+						],
+						"Restitution": [
+							"If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds."
+						]
+					},
 					"Oath Spells": [
 						"You gain oath spells at the paladin levels listed."
 					],
@@ -4444,13 +4638,19 @@
 							}
 						]
 					},
-					"Channel Divinity": [
-						"When you take this oath at 3rd level, you gain the following two Channel Divinity options.",
-						"Abjure Enemy# As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being frightened. Fiends and undead have disadvantage on this saving throw.",
-						"On a failed save, the creature is frightened for 1 minute or until it takes any damage. While frightened, the creature’s speed is 0, and it can’t benefit from any bonus to its speed.",
-						"On a successful save, the creature’s speed is halved for 1 minute or until the creature takes any damage.",
-						"Vow of Enmity# As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls unconscious."
-					],
+					"Channel Divinity": {
+						"Description": [
+							"When you take this oath at 3rd level, you gain the following two Channel Divinity options."
+						],
+						"Abjure Enemy": [
+							"As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being frightened. Fiends and undead have disadvantage on this saving throw.",
+							"On a failed save, the creature is frightened for 1 minute or until it takes any damage. While frightened, the creature’s speed is 0, and it can’t benefit from any bonus to its speed.",
+							"On a successful save, the creature’s speed is halved for 1 minute or until the creature takes any damage."
+						],
+						"Vow of Enmity": [
+							"As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls unconscious."
+						]
+					},
 					"Relentless Avenger": [
 						"By 7th level, your supernatural focus helps you close of f a foe’s retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn’t provoke opportunity attacks."
 					],
@@ -4475,12 +4675,20 @@
 						"The Oath of Conquest calls to paladins who seek glory in battle and the subjugation of their enemies. It isn't enough for these paladins to establish order. They must crush the forces of chaos. Sometimes called knight tyrants or iron mongers, those who swear this oath gather into grim orders that serve gods or philosophies of war and well-ordered might.",
 						"Some of these paladins go so far as to consort with the powers of the Nine Hells, valuing the rule of law over the balm of mercy. The archdevil Bel, warlord of Avernus, counts many of these paladins-called hell knights-as his most ardent supporters. Hell knights cover their armor with trophies taken from fallen enemies, a grim-warning to any who dare oppose them and the decrees of their lords. These knights are often most fiercely resisted by other paladins of this oath, who believe that the hell knights have wandered too far into darkness."
 					],
-					"Tenets of Conquest": [
-						"A paladin who takes this oath has the tenets of conquest seared on the upper arm.",
-						"Douse the Flame of Hope# It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies' will to fight is shattered forever. A blade can end a life. Fear can end an empire.",
-						"Rule with an Iron Fist. Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.",
-						"Strength Above All# You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin."
-					],
+					"Tenets of Conquest": {
+						"Description": [
+							"A paladin who takes this oath has the tenets of conquest seared on the upper arm."
+						],
+						"Douse the Flame of Hope": [
+							"It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies' will to fight is shattered forever. A blade can end a life. Fear can end an empire."
+						],
+						"Rule with an Iron Fist": [
+							"Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow."
+						],
+						"Strength Above All": [
+							"You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin."
+						]
+					},
 					"Oath Spells": [
 						"You gain oath spells at the paladin levels listed in the Oath of Conquest Spells table. See the Sacred Oath class feature for how oath spells work."
 					],
@@ -4528,11 +4736,17 @@
 							}
 						]
 					},
-					"Channel Divinity": [
-						"When you take this oath at 3rd level, you gain the following two Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.",
-						"Conquering Presence# You can use your Channel Divinity to exude a terrifying presence. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, a creature becomes frightened of you for 1 minute. The frightened creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.",
-						"Guided Strike# You can use your Channel Divinity to strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses."
-					],
+					"Channel Divinity": {
+						"Description": [
+							"When you take this oath at 3rd level, you gain the following two Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works."
+						],
+						"Conquering Presence": [
+							"You can use your Channel Divinity to exude a terrifying presence. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, a creature becomes frightened of you for 1 minute. The frightened creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success."
+						],
+						"Guided Strike": [
+							"You can use your Channel Divinity to strike with supernatural accuracy. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses."
+						]
+					},
 					"Aura of Conquest": [
 						"Starting at 7th level, you constantly emanate a menacing aura while you're not incapacitated. The aura extends 10 feet from you in every direction, but not through total cover.",
 						"If a creature is frightened of you, its speed is reduced to 0 while in the aura, and that creature takes psychic damage equal to half your paladin level if it starts its turn there.",
@@ -4560,13 +4774,23 @@
 						"The Oath of Redemption sets a paladin on a difficult path, one that requires a holy warrior to use violence only as a last resort. Paladins who dedicate themselves to this oath believe that any person can be redeemed and that the path of benevolence and justice is one that anyone can walk. These paladins face evil creatures in the hope of turning their foes to the light, and they slay their enemies only when such a deed will clearly save other lives. Paladins who follow this path are known as redeemers.",
 						"While redeemers are idealists, they are no fools. Redeemers know that undead, demons, devils, and other supernatural threats can be inherently evil. Against such foes, paladins who swear this oath bring the full wrath of their weapons and spells to bear. Yet the redeemers still pray that, one day, even creatures of wickedness will invite their own redemption."
 					],
-					"Tenets of Redemption": [
-						"The tenets of the Oath of Redemption hold a paladin to a high standard of peace and justice.",
-						"Peace# Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace.",
-						"Innocence# All people begin life in an innocent state, and it is their environment or the influence of dark forces that drives them to evil. By setting the proper example, and working to heal the wounds of a deeply flawed world, you can set anyone on a righteous path.",
-						"Patience# Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow that seed to survive and flourish.",
-						"Wisdom# Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just."
-					],
+					"Tenets of Redemption": {
+						"Description": [
+							"The tenets of the Oath of Redemption hold a paladin to a high standard of peace and justice."
+						],
+						"Peace": [
+							"Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace."
+						],
+						"Innocence": [
+							"All people begin life in an innocent state, and it is their environment or the influence of dark forces that drives them to evil. By setting the proper example, and working to heal the wounds of a deeply flawed world, you can set anyone on a righteous path."
+						],
+						"Patience": [
+							"Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow that seed to survive and flourish."
+						],
+						"Wisdom": [
+							"Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just."
+						]
+					},
 					"Oath Spells": [
 						"You gain oath spells at the paladin levels listed in the Oath of Redemption Spells table. See the Sacred Oath class feature for how oath spells work."
 					],
@@ -4614,11 +4838,17 @@
 							}
 						]
 					},
-					"Channel Divinity": [
-						"When you take this oath at 3rd level, you gain the following two Channel Divinity options.",
-						"Emissary of Peace# You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma (Persuasion) checks for the next 10 minutes.",
-						"Rebuke the Violent# You can use your Channel Divinity to rebuke those who use violence. Immediately after an attacker within 30 feet of you deals damage with an attack against a creature other than you, you can use your reaction to force the attacker to make a Wisdom saving throw. On a failed save, the attacker takes radiant damage equal to the damage it just dealt. On a successful save, it takes half as much damage."
-					],
+					"Channel Divinity": {
+						"Description": [
+							"When you take this oath at 3rd level, you gain the following two Channel Divinity options."
+						],
+						"Emissary of Peace": [
+							"You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma (Persuasion) checks for the next 10 minutes."
+						],
+						"Rebuke the Violent": [
+							"You can use your Channel Divinity to rebuke those who use violence. Immediately after an attacker within 30 feet of you deals damage with an attack against a creature other than you, you can use your reaction to force the attacker to make a Wisdom saving throw. On a failed save, the attacker takes radiant damage equal to the damage it just dealt. On a successful save, it takes half as much damage."
+						]
+					},
 					"Aura of the Guardian": [
 						"Starting at 7th level, you can shield others from harm at the cost of your own health. When a creature within 10 feet of you takes damage, you can use your reaction to magically take that damage, instead of that creature taking it. This feature doesn't transfer any other effects that might accompany the damage, and this damage can't be reduced in any way.",
 						"At 18th level, the range of this aura increases to 30 feet."
@@ -4636,6 +4866,105 @@
 						],
 						"Description-cont": [
 							"If you attack a creature, cast a spell on it, or deal damage to it by any means but this feature, neither benefit works against that creature until you finish a long rest."
+						]
+					}
+				},
+				"Oath of the Crown": {
+					"Description": [
+						"The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the just laws that hold society together. These paladins are the watchful guardians on the walls, standing agai nst the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or a sovereign, and undergo their oath as part of their admission to the order's ranks."
+					],
+					"Tenets of the Crown": {
+						"Description": [
+							"The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets."
+						],
+						"Law": [
+							"The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected."
+						],
+						"Loyalty": [
+							"Your word is your bond. Without loyalty, oaths and laws are meaningless."
+						],
+						"Courage": [
+							"You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?"
+						],
+						"Responsibility": [
+							"You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations."
+						]
+					},
+					"Oath Spells": [
+						"You gain oath spells at the paladin levels listed."
+					],
+					"Oath of the Crown Spells Table": {
+						"Title": "Oath of the Crown Spells",
+						"Headers": [
+							"Paladin Level",
+							"Spells"
+						],
+						"Rows": [
+							{
+								"Paladin Level": "3rd",
+								"Spells": [
+									"Command",
+									"Compelled Duel"
+								]
+							},
+							{
+								"Paladin Level": "5th",
+								"Spells": [
+									"Warding Bond",
+									"Zone of Truth"
+								]
+							},
+							{
+								"Paladin Level": "9th",
+								"Spells": [
+									"Aura of Vitality",
+									"Spirit Guardians"
+								]
+							},
+							{
+								"Paladin Level": "13th",
+								"Spells": [
+									"Banishment",
+									"Guardian of Faith"
+								]
+							},
+							{
+								"Paladin Level": "17th",
+								"Spells": [
+									"Circle of Power",
+									"Geas"
+								]
+							}
+						]
+					},
+					"Channel Divinity": {
+						"Description": [
+							"When you take this oath at 3rd level, you gain the following Channel Divinity options."
+						],
+						"Champion Challenge": [
+							"You issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you. This effect ends on the creature if you are incapacitated or die or if the creature is moved more than 30 feet away from you."
+						],
+						"Turn the Tide": [
+							"As a bonus action, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 +your Charisma modifier (minimum of 1) if it has no more than half of its hit points."
+						]
+					},
+					"Divine Allegiance": [
+						"Starting at 7th level, when a creature within 5 feet of you takes damage, you can use your reaction to magically substitute your own health for that of the target creature, causing that creature not to take the damage. Instead, you take the damage. This damage to you can't be reduced or prevented in any way."
+					],
+					"Unyielding Spirit": [
+						"Starting at 15th level, you have advantage on saving throws to avoid becoming paralyzed or stunned."
+					],
+					"Exalted Champion": {
+						"Description": [
+							"At 20th level, your presence on the field of battle is an inspiration to those dedicated to your cause. You can use your action to gain the following benefits for 1 hour:"
+						],
+						"Unordered List": [
+							"You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.",
+							"Your allies have advantage on death saving throws while within 30 feet of you.",
+							"You have advantage on Wisdom saving throws, as do your allies within 30 feet of you."
+						],
+						"Description-cont": [
+							"This effect ends early if you are incapacitated or die. Once you use this feature, you can't use it again until you finish a long rest."
 						]
 					}
 				}
@@ -4925,7 +5254,7 @@
 						"By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See chapter 10 for the general rules of spellcasting and chapter 11 for the ranger spell list."
 					],
 					"Spell Slots": [
-						"The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
+						"The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
 						"For example, if you know the 1st-level spell animal friendship and have a 1st-level and a 2nd-level spell slot available, you can cast animal friendship using either slot."
 					],
 					"Spells Known of 1st-Level and Higher": [
@@ -5008,15 +5337,16 @@
 						"The Beast Master archetype embodies a friendship between the civilized races and the beasts of the world. United in focus, beast and ranger work as one to fight the monstrous foes that threaten civilization and the wilderness alike. Emulating the Beast Master archetype means committing yourself to this ideal, working in partnership with all animal as its companion and friend."
 					],
 					"Ranger's Companion": [
-						"At 3rd level, you gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower. Add your proficiency bonus to the beast's AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher.",
-						"The beast obeys your commands as best as it can. It takes its turn on your initiative, though it doesn't take an action unless you command it to. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, Dodge, or Help action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the Attack action.",
+						"At 3rd level, you gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower. Add your proficiency bonus to the beast's AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher. Like any creature, the beast can spend Hit Dice during a short rest.",
+						"The beast obeys your commands as best as it can. It takes its turn on your initiative. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, or Help action. If you don’t issue a command, the beast takes the Dodge action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the Attack action.",
+						"If you are incapacitated or absent, the beast acts on its own, focusing on protecting you and itself. The beast never requires your command to use its reaction, such as when making an opportunity attack.",
 						"While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace. If the beast dies, you can obtain another one by spending 8 hours magically bonding with another beast that isn't hostile to you, either the same type of beast as before or a different one."
 					],
 					"Exceptional Training": [
-						"Beginning at 7th level, on any of your turns when your beast companion doesn't attack, you can use a bonus action to command the beast to take the Dash, Disengage, Dodge, or Help action on its turn."
+						"Beginning at 7th level, on any of your turns when your beast companion doesn't attack, you can use a bonus action to command the beast to take the Dash, Disengage, or Help action on its turn. In addition, the beast’s attacks now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage."
 					],
 					"Bestial Fury": [
-						"Starting at 11th level, your beast companion can make two attacks when you command it to use the Attack action."
+						"Starting at 11th level, when you command your beast companion to take the Attack action, the beast can make two attacks, or it can take the Multiattack action if it has that action."
 					],
 					"Share Spells": [
 						"Beginning at 15th level, when you cast a spell targeting yourself, you can also affect your beast companion with the spell if the beast is within 30 feet of you."
@@ -5440,17 +5770,27 @@
 					"Description": [
 						"Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers."
 					],
-					"Spellcasting": [
-						"When you reach 3rd level, you gain the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list.",
-						"Cantrips# You learn three cantrips: Mage Hand and two other cantrips of your choice from the wizard spell list. At 10th level you learn another cantrip from the wizard spell list. You learn another wizard cantrip of your choice at 10th level.",
-						"Spell Slots# The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.",
-						"For example, if you know the 1st-level spell charm person and have a 1st-level and a 2nd-level spell slot available, you can cast charm person using either slot.",
-						"Spells Known of 1st-Level and Higher# You know three 1st-level wizard spells of your choice, two of which you must choose from the enchantment and illusion spells on the wizard spell list.",
-						"The Spells Known column of the Arcane Trickster Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.",
-						"The spells you learn at 8th, 14th, and 20th level can come from any school of magic.",
-						"Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an enchantment or illusion spell, unless you’re replacing the spell you gained at 8th, 14th, or 20th level",
-						"Spellcasting Ability# Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one."
-					],
+					"Spellcasting": {
+						"Description": [
+							"When you reach 3rd level, you gain the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list."
+						],
+						"Cantrips": [
+							"You learn three cantrips: Mage Hand and two other cantrips of your choice from the wizard spell list. At 10th level you learn another cantrip from the wizard spell list. You learn another wizard cantrip of your choice at 10th level."
+						],
+						"Spell Slots": [
+							"The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.",
+							"For example, if you know the 1st-level spell charm person and have a 1st-level and a 2nd-level spell slot available, you can cast charm person using either slot."
+						],
+						"Spells Known of 1st-Level and Higher": [
+							"You know three 1st-level wizard spells of your choice, two of which you must choose from the enchantment and illusion spells on the wizard spell list.",
+							"The Spells Known column of the Arcane Trickster Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.",
+							"The spells you learn at 8th, 14th, and 20th level can come from any school of magic.",
+							"Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an enchantment or illusion spell, unless you’re replacing the spell you gained at 8th, 14th, or 20th level"
+						],
+						"Spellcasting Ability": [
+							"Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one."
+						]
+					},
 					"Arcane Trickster Spellcasting Table": {
 						"Title": "Arcane Trickster Spellcasting",
 						"Headers": [
@@ -6130,7 +6470,7 @@
 						"At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn additional sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Sorcerer table"
 					],
 					"Spell Slots": [
-						"The Sorcerer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
+						"The Sorcerer table shows how many spell slots you have to cast your sorcerer spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
 						"For example, if you know the 1st-level spell burning hands and have a 1st-level and a 2nd-level spell slot available, you can cast burning hands using either slot."
 					],
 					"Spells Known of 1st Level and Higher": [
@@ -6160,7 +6500,7 @@
 					],
 					"Flexible Casting": {
 						"Description": [
-							"You can use your sorcery points to gain additional spell slots. or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels."
+							"You can use your sorcery points to gain additional spell slots. or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels. Any spell slot you create with this feature vanishes when you finish a long rest."
 						],
 						"Creating Spell Slots": {
 							"Description": [
@@ -6230,7 +6570,8 @@
 						"When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components."
 					],
 					"Twinned Spell": [
-						"When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip)."
+						"When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).",
+						"To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, magic missile and scorching ray aren’t eligible, but ray of frost and chromatic orb are."
 					]
 				},
 				"Ability Score Improvement": [
@@ -6303,7 +6644,7 @@
 						"Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armor, your AC equals 13 + your Dexterity modifier."
 					],
 					"Elemental Affinity": [
-						"Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, add your Charisma modifier to that damage. At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour."
+						"Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour."
 					],
 					"Dragon Wings": [
 						"At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.",
@@ -6318,7 +6659,7 @@
 						"Your innate magic comes from the wild forces of chaos that underlie the order of creation. You might have endured exposure to some form of raw magic, perhaps through a planar portal leading to Limbo, the Elemental Planes, or The mysterious Far Realm. Perhaps you were blessed by a powerful fey creature or marked by a demon. Or your magic could be a fluke of your birth, with no apparent cause or reason. However it came to be, this chaotic magic churns within you, waiting for any outlet."
 					],
 					"Wild Magic Surge": [
-						"Starting when you choose this origin at 1st level, your spellcasting can unleash surges of untamed magic. Immediately after you cast a sorcerer spell of 1st level or higher, the DM can have you roll a d20. If you roll a 1, roll on the Wild Magic Surge table to create a random magical effect."
+						"Starting when you choose this origin at 1st level, your spellcasting can unleash surges of untamed magic. Once per turn, the DM can have you roll a d20 immediately after you cast a sorcerer spell of 1st level or higher. If you roll a 1, roll on the Wild Magic Surge table to create a magical effect. If that effect is a spell, it is too wild to be affected by your Metamagic, and if it normally requires concentration, it doesn’t require concentration in this case; the spell lasts for its full duration."
 					],
 					"Tides of Chaos": [
 						"Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so you must finish a long rest before you can use this feature again.",
@@ -6931,8 +7272,8 @@
 						"You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table."
 					],
 					"Spell Slots": [
-						"The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.",
-						"For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell thunderwave, you must spend one of those slots, and you cast it as a 3rd-level spell."
+						"The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.",
+						"For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell witch bolt, you must spend one of those slots, and you cast it as a 3rd-level spell."
 					],
 					"Spells Known of 1st Level and Higher": [
 						"At 1st level, you know two 1st-level spells of your choice from the warlock spell list.",
@@ -6960,7 +7301,7 @@
 					"Pact of the Chain":[
 						"You learn the find familiar spell and can cast it as a ritual. The spell doesn’t count against your number of spells known.",
 						"When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.",
-						"Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own."
+						"Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack with its reaction"
 					],
 					"Pact of the Blade":[
 						"You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see chapter 5 for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.",
@@ -6968,7 +7309,7 @@
 						"You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks."
 					],
 					"Pact of the Tome":[
-						"Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class’s spell list. While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known.",
+						"Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class’s spell list (the three needn’t be from the same list). While the book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the warlock spell list, they are nonetheless warlock spells for you.",
 						"If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die."
 					]
 				},
@@ -7334,6 +7675,74 @@
 					"Master of Hexes": [
 						"Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't incapacitated. When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature."
 					]
+				},
+				"The Undying": {
+					"Description": [
+						"Death holds no sway over your patron, who has unlocked the secrets of everlasting life, although such a prize-like all power-comes at a price. Once mortal, the Undying has seen mortal lifetimes pass like the seasons, like the flicker of endless days and nights. It has the secrets of the ages to share, secrets of life and death. Beings of this sort include Vecna, Lord of the Hand and the Eye; the dread Iuz; the lich-queen Vol; the Undying Court of Aerenal; Vlaakith, lich-queen of the githyanki; and the deathless wizard Fistandantalus."
+					],
+					"Expanded Spell List": [
+						"The Undying lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you."
+					],
+					"Undying Expanded Spells Table": {
+						"Title": "Undying Expanded Spells",
+						"Headers": [
+							"Spell Level",
+							"Spells"
+						],
+						"Rows": [
+							{
+								"Spell Level": "1st",
+								"Spells": [
+									"False Life",
+									"Ray of Sickness"
+								]
+							},
+							{
+								"Spell Level": "2nd",
+								"Spells": [
+									"Blindness/Deafness",
+									"Silence"
+								]
+							},
+							{
+								"Spell Level": "3rd",
+								"Spells": [
+									"Feign Death",
+									"Speak with Dead"
+								]
+							},
+							{
+								"Spell Level": "4th",
+								"Spells": [
+									"Aura of Life",
+									"Death Ward"
+								]
+							},
+							{
+								"Spell Level": "5th",
+								"Spells": [
+									"Contagion",
+									"Legend Lore"
+								]
+							}
+						]
+					},
+					"Among the Dead": [
+						"Starting at 1st level, you learn the spare the dying cantrip, which counts as a warlock cantrip for you. You also have advantage on saving throws against any disease.",
+						"Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn't make the save when it includes you in an area effect, such as the explosion of fireball). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell."
+					],
+					"Defy Death": [
+						"Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to 1d8 +your Constitution modifier (minimum of 1 hit point) when you succeed on a death saving throw or when you stabilize a creature with spare the dying.",
+						"Once you use this feature, you can't use it again until you finish a long rest."
+					],
+					"Undying Nature": [
+						"Beginning at 10th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.",
+						"In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged."
+					],
+					"Indestructible Life": [
+						"When you reach 14th level, you partake of some of the true secrets of the Undying. On your turn, you can use a bonus action to regain hit points equal to 1d8 +your warlock level. Additionally, if you put a severed body part of yours back in place when you use this feature, the part reattaches.",
+						"Once you use this feature, you can't use it again until you finish a short or long rest."
+					]
 				}
 			},
 			"Eldritch Invocations": {
@@ -7379,7 +7788,7 @@
 				"Book of Ancient Secrets": {
 					"Prerequisite": "Pact of the Tome feature",
 					"Description": [
-						"You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class’s spell list. The spells appear in the book and don’t count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.",
+						"You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.",
 						"On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell’s level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it."
 					]
 				},
@@ -7942,10 +8351,10 @@
 						"At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table."
 					],
 					"Spellbook": [
-						"At 1st level. you have a spellbook containing six 1st-level wizard spells of your choice."
+						"At 1st level. you have a spellbook containing six 1st-level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind."
 					],
 					"Preparing and Casting Spells": [
-						"The Wizard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
+						"The Wizard table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
 						"You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.",
 						"For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.",
 						"You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list."
@@ -8019,7 +8428,7 @@
 					],
 					"Minor Conjuration": [
 						"Starting at 2nd level when you select this school, you can use your action to conjure up an inanimate object in your hand or on the ground in an unoccupied space that you can see within 10 feet of you. This object can be no larger than 3 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen. The object is visibly magical, radiating dim light out to 5 fee!.",
-						"The object disappears after 1 hour, when you use this feature again, or if it takes any damage."
+						"The object disappears after 1 hour, when you use this feature again, or if it takes or deals any damage."
 					],
 					"Benign Transposition": [
 						"Starting at 6th level, you can use your action to teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.",
@@ -8096,10 +8505,10 @@
 						"Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip"
 					],
 					"Empowered Evocation": [
-						"Beginning at 10th level, you can add your Intelligence modifier to the damage roll of any wizard evocation spell you cast."
+						"Beginning at 10th level, you can add your Intelligence modifier to one damage roll. of any wizard evocation spell you cast."
 					],
 					"Overchannel": [
-						"Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 5th level or lower that deals damage, you can deal maximum damage with that spell. The first time you do so, you suffer no adverse effect.",
+						"Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th level that deals damage, you can deal maximum damage with that spell. The first time you do so, you suffer no adverse effect.",
 						"If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity."
 					]
 				},
@@ -8217,6 +8626,44 @@
 					],
 					"Deflecting Shroud": [
 						"At 14th level, your Arcane Deflection becomes infused with deadly magic. When you use your Arcane Deflection feature, you can cause magical energy to arc from you. Up to three creatures of your choice that you can see within 60 feet of you each take force damage equal to half your wizard level."
+					]
+				},
+				"Bladesinging": {
+					"Description": [
+						"Bladesingers are elves who bravely defend their people and lands. They are elf wizards who master a school of sword fighting grounded in a tradition of arcane magic. In combat, a bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the bladesinger to channel magic into devastating attacks and a cunning defense."
+					],
+					"Restriction: Elf Only": [
+						"Only elves and half-elves can choose the bladesinger arcane tradition. In the world of Faerfln, elves closely guard the secrets of bladesinging.",
+						"Your DM can lift this restriction to better suit the campaign. The restriction reflects the story of bladesingers in the Forgotten Realms, but it might not apply to your DM's setting or your DM's version of the Realms."
+					],
+					"Training in War and Song": [
+						"When you adopt this tradition at 2nd level, you gain proficiency with light armor, and you gain proficiency with one type of one-handed melee weapon of your choice.",
+						"You also gain proficiency in the Performance skill if you don't already have it."
+					],
+					"Bladesong": {
+						"Description": [
+							"Starting at 2nd level, you can invoke a secret elven magic called the Bladesong, provided that you aren't wearing medium or heavy armor or using a shield. It graces you with supernatural speed, agility, and focus.",
+							"You can use a bonus action to start the Bladesong, which lasts for 1 minute. It ends early if you are incapacitated, if you don medium or heavy armor or a shield, or if you use two hands to make an attack with a weapon. You can also dismiss the Bladesong at any time you choose (no action required).",
+							"While your Bladesong is active, you gain the following benefits:"
+						],
+						"Unordered List": [
+							"You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1).",
+							"Your walking speed increases by 10 feet.",
+							"You have advantage on Dexterity (Acrobatics) checks.",
+							"You gain a bonus to any Constitution saving throw you make to maintain your concentration on a spell. The bonus equals your Intelligence modifier (minimum of +l)."
+						],
+						"Description-cont": [
+							"You can use this feature twice. You regain all expended uses of it when you finish a short or long rest."
+						]
+					},
+					"Extra Attack": [
+						"Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."
+					],
+					"Song of Defense": [
+						"Beginning at 10th level, you can direct your magic to absorb damage while your Bladesong is active. When you take damage, you can use your reaction to expend one spell slot and reduce that damage to you by an amount equal to five times the spell slot's level."
+					],
+					"Song of Victory": [
+						"Starting at 14th level, you add your Intelligence modifier (minimum of +1) to the damage of your melee weapon attacks while your Bladesong is active."
 					]
 				}
 			}
