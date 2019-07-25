@@ -105,7 +105,7 @@
 			"Rarity": "rare",
 			"Attunement": true,
 			"Description": [
-				"Your Constitution score is 19 while you wear this amulet. It has no effect on you if your Constitution is already 19 or higher."
+				"Your Constitution score is 19 while you wear this amulet. It has no effect on you if your Constitution is 19 or higher without it."
 			],
 			"Book": "Dungeon Master's Guide",
 			"Page": 150
@@ -448,7 +448,7 @@
 			"Attunement": false,
 			"Description": [
 				"This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.",
-				"You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table that corresponds to the bag's color. See the Monster Manual for the creature's statistics.",
+				"You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table that corresponds to the bag's color. See the Monster Manual for the creature's statistics. The creature vanishes at the next dawn or when it is reduced to 0 hit points.",
 				"The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.",
 				"Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn."
 			],
@@ -619,7 +619,7 @@
 			"Rarity": "rare",
 			"Attunement": false,
 			"Description": [
-				"While wearing this belt, your Strength score changes to 21. If your Strength is already equal to or greater than the belt's score, the item has no effect on you."
+				"While wearing this belt, your Strength score changes to 21. The item has no effect on you if your Strength without the belt is equal to or greater than the belt’s score."
 			],
 			"Book": "Dungeon Master's Guide",
 			"Page": 155
@@ -629,7 +629,7 @@
 			"Rarity": "very rare",
 			"Attunement": false,
 			"Description": [
-				"While wearing this belt, your Strength score changes to 23. If your Strength is already equal to or greater than the belt's score, the item has no effect on you."
+				"While wearing this belt, your Strength score changes to 23. The item has no effect on you if your Strength without the belt is equal to or greater than the belt’s score."
 			],
 			"Book": "Dungeon Master's Guide",
 			"Page": 155
@@ -639,7 +639,7 @@
 			"Rarity": "very rare",
 			"Attunement": false,
 			"Description": [
-				"While wearing this belt, your Strength score changes to 23. If your Strength is already equal to or greater than the belt's score, the item has no effect on you."
+				"While wearing this belt, your Strength score changes to 23. The item has no effect on you if your Strength without the belt is equal to or greater than the belt’s score."
 			],
 			"Book": "Dungeon Master's Guide",
 			"Page": 155
@@ -649,7 +649,7 @@
 			"Rarity": "very rare",
 			"Attunement": false,
 			"Description": [
-				"While wearing this belt, your Strength score changes to 25. If your Strength is already equal to or greater than the belt's score, the item has no effect on you."
+				"While wearing this belt, your Strength score changes to 25. The item has no effect on you if your Strength without the belt is equal to or greater than the belt’s score."
 			],
 			"Book": "Dungeon Master's Guide",
 			"Page": 155
@@ -659,7 +659,7 @@
 			"Rarity": "legendary",
 			"Attunement": false,
 			"Description": [
-				"While wearing this belt, your Strength score changes to 27. If your Strength is already equal to or greater than the belt's score, the item has no effect on you."
+				"While wearing this belt, your Strength score changes to 27. The item has no effect on you if your Strength without the belt is equal to or greater than the belt’s score."
 			],
 			"Book": "Dungeon Master's Guide",
 			"Page": 155
@@ -669,7 +669,7 @@
 			"Rarity": "legendary",
 			"Attunement": false,
 			"Description": [
-				"While wearing this belt, your Strength score changes to 29. If your Strength is already equal to or greater than the belt's score, the item has no effect on you."
+				"While wearing this belt, your Strength score changes to 29. The item has no effect on you if your Strength without the belt is equal to or greater than the belt’s score."
 			],
 			"Book": "Dungeon Master's Guide",
 			"Page": 155
@@ -1876,7 +1876,7 @@
 			"Rarity": "uncommon",
 			"Attunement": true,
 			"Description": [
-				"Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is already 19 or higher."
+				"Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is 19 or higher without them."
 			],
 			"Book": "Dungeon Master's Guide",
 			"Page": 171
@@ -1998,7 +1998,7 @@
 			"Rarity": "uncommon",
 			"Attunement": true,
 			"Description": [
-				"Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher."
+				"Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is 19 or higher without it."
 			],
 			"Book": "Dungeon Master's Guide",
 			"Page": 173
@@ -2176,7 +2176,7 @@
 			"Description": [
 				"An instrument of the bards is an exquisite example of its kind, superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a legendary bard college. The following table lists the spells common to all instruments, as well as the spells specific to each one and its rarity. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 psychic damage.",
 				"You can use an action to play the instrument and cast one of its spells. Once the instrument has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.",
-				"When you use the instrument to cast a spell that causes targets to become charmed on a failed save, the targets have disadvantage on the saving throw. This effect applies whether you are using the instrument as the source of the spell or as a spellcasting focus."
+				"You can play the instrument while casting a spell that causes any of its targets to be charmed on a failed saving throw, thereby imposing disadvantage on the save. This effect applies only if the spell has a somatic or a material component."
 			],
 			"Table": {
 				"Headers": [
@@ -2804,7 +2804,7 @@
 			"Attunement": true,
 			"Add-Attunement": "spellcaster",
 			"Description": [
-				"You can use an action to speak this pearl's command word and regain one expended spell slot of up to 3rd level. Once you have used the pearl, it can't be used again until the next dawn."
+				"While this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you have used the pearl, it can't be used again until the next dawn."
 			],
 			"Book": "Dungeon Master's Guide",
 			"Page": 184
@@ -3820,7 +3820,7 @@
 			"Description": [
 				"This rod has a flanged head, and it functions as a magic mace that grants a +3 bonus to attack and damage rolls made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.",
 				"Six Buttons# You can press one of the rod's six buttons as a bonus action. A button's effect lasts until you push a different button or until you push the same button again, which causes the rod to revert to its normal form.",
-				"If you press button 1, the rod becomes a flame tongue as a fiery blade sprouts from the end opposite the rod's flanged head.",
+				"If you press button 1, the rod becomes a flame tongue as a fiery blade sprouts from the end opposite the rod's flanged head (you choose the type of sword).",
 				"If you press button 2, the rod's flanged head folds down and two crescent-shaped blades spring out, transforming the rod into a magic battleaxe that grants a +3 bonus to attack and damage rolls made with it.",
 				"If you press button 3, the rod's flanged head folds down, a spear point springs from the rod's tip, and the rod's handle lengthens into a 6-foot haft, transforming the rod into a magic spear that grants a +3 bonus to attack and damage rolls made with it.",
 				"If you press button 4, the rod transforms into a climbing pole up to 50 feet long, as you specify. In surfaces as hard as granite, a spike at the bottom and three hooks at the top anchor the pole. Horizontal bars 3 inches long fold out from the sides, 1 foot apart, forming a ladder. The pole can bear up to 4,000 pounds.",
@@ -4105,7 +4105,7 @@
 			"Rarity": "varies",
 			"Attunement": false,
 			"Description": [
-				"A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spells components. Otherwise, the scroll is unintelligible.",
+				"A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class’s spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell’s normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.",
 				"If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the scroll with no other effect.",
 				"Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.",
 				"The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table."
@@ -4797,7 +4797,7 @@
 			"Attunement": true,
 			"Add-Attunement": "by a spellcaster",
 			"Description": [
-				"This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cause a thin blue ray to streak from the tip toward a creature you can see within 60 feet of you. Make a ranged attack roll against that creature using your spell attack bonus. On a hit, the target is paralyzed for 1 minute. At the end of each of the target's turns, it can repeat the saving throw, ending the effect on itself on a success.",
+				"This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cause a thin blue ray to streak from the tip toward a creature you can see within 60 feet of you. Make a ranged attack roll against that creature using your spell attack bonus. The target must succeed on a DC 15 Constitution saving throw or be paralyzed for 1 minute. At the end of each of the target's turns, it can repeat the saving throw, ending the effect on itself on a success.",
 				"The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed."
 			],
 			"Book": "Dungeon Master's Guide",
