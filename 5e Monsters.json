@@ -89205,7 +89205,3995 @@
 			},
 			"Book": "Guildmaster's Guide to Ravnica",
 			"Page": 228
-		}
+		}		,
+		"Precognitive Mage": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "lawful neutral",
+			"Armor Class": 11,
+			"Armor Type": "14 with mage armor",
+			"Hit Dice": "14d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 9,
+				"Dexterity": 13,
+				"Constitution": 10,
+				"Intelligence": 18,
+				"Wisdom": 13,
+				"Charisma": 11
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": true,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
 
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 120,
+				"Blind": false
+			},
+			"Languages": [
+				"Common plus any one language"
+			],
+			"Challenge": 3,
+			"Experience": 700,
+			"Features": {
+				"Innate Spellcasting": {
+					"Description": [
+						"The mage's innate spellcasting ability is Intelligence (spell save DC 14). It can cast the following spells, requiring no material components:"
+					],
+					"3/day": [
+						"Detect Thoughts",
+						"Mage Armor"
+					],
+					"1/day each": [
+						"Clairvoyance",
+						"Locate Object"
+					]
+				}
+			},
+			"Actions": {
+				"Quarterstaff": {
+					"Description": [
+						"Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands."
+					]
+				},
+				"Glimpse the Temporal Flood (Recharge 5-6)": {
+					"Description": [
+						"The mage targets one creature within 120 feet of it that it can see. The target takes 18 (4d8) psychic damage, and it must succeed on a DC 14 Intelligence saving throw or be stunned until the end of its next turn."
+					]
+				}
+			},
+			"Rections": {
+				"Precognitive Insight (3/Day)": {
+					"Description": [
+						"When the mage or a creature it can see makes an attack roll, a saving throw, or an ability check, the mage can cause the roll to be made with advantage or disadvantage."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 228
+		},
+		"Aurelia": {
+			"Size": "Medium",
+			"Type": "celestial",
+			"SubType": "angel",
+			"Alignment": "lawful good",
+			"Armor Class": 22,
+			"Armor Type": "natural armor",
+			"Hit Dice": "25d8",
+			"Speed": {
+				"Walk": 50,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 150,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 26,
+				"Dexterity": 24,
+				"Constitution": 25,
+				"Intelligence": 17,
+				"Wisdom": 25,
+				"Charisma": 30
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": true,
+				"Constitution": true,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": true,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+				"necrotic",
+				"radiant",
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"Damage Immunities": [
+                "poison"
+			],
+			"Condition Immunities": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"paralyzed",
+				"poisoned"
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 120,
+				"Blind": false
+			},
+			"Languages": [
+				"all"
+			],
+			"Challenge": 23,
+			"Experience": 50000,
+			"Features": {
+				"Legendary Resistance (3/Day)": {
+					"Description": [
+						"If Aurelia fails a saving throw, she can choose to succeed instead."
+					]
+				},
+				"Magic Resistance": {
+					"Description": [
+						"Aurelia has advantage on saving throws against spells and other magical effects."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"Aurelia makes three longsword attacks and uses Leadership."
+					]
+				},
+				"Longsword": {
+					"Description": [
+						"Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 12 (1d8 + 8) slashing damage, or 13 (1d10 + 8) slashing damage when used with two hands, plus 27 (6d8) radiant damage."
+					]
+				},
+				"Leadership": {
+					"Description": [
+						"Aurelia utters a few inspiring words to one creature she can see within 30 feet of her. If the creature can hear her, it can add a d10 to one attack roll or saving throw it makes before the start of Aurelia's next turn."
+					]
+				},
+				"Warleader's Helix (Recharge 5-6)": {
+					"Description": [
+						"Ranged Spell Attack: +17 to hit, range 60 ft., one creature. Hit: 54 (12d8) radiant damage, and Aurelia can choose another creature she can see within 10 feet of the target. The second creature regains 27 (6d8) hit points."
+					]
+				}
+			},
+			"Reaction": {
+				"Parry": {
+					"Description": [
+						"Aurelia adds 7 to her AC against one melee attack that would hit her. To do so, Aurelia must see the attacker and be wielding a melee weapon."
+					]
+				},
+				"Unyielding": {
+					"Description": [
+						"When Aurelia is subjected to an effect that would move her, knock her prone, or both, she can use her reaction to be neither moved nor knocked prone."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"Aurelia can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Aurelia regains spent legendary actions at the start of her turn."
+				],
+				"Command Allies": {
+					"Description": [
+						"Aurelia chooses up to three creatures she can see within 30 feet of her. If a chosen creature can see or hear Aurelia, it can immediately use its reaction to make one weapon attack, with advantage on the attack roll."
+					]
+				},
+				"Longsword Attack (Costs 2 Actions)": {
+					"Description": [
+						"Aurelia makes one longsword attack."
+					]
+				},
+				"Frighten Foes (Costs 3 Actions)": {
+					"Description": [
+						"Aurelia targets up to five creatures she can see within 30 feet of her. Each target must succeed on a DC 2S Wisdom saving throw or be frightened of her until the end of her next turn. Any target within 5 feet of Aurelia has disadvantage on the saving throw."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 230
+		},
+		"Firefist": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "lawful good",
+			"Armor Class": 18,
+			"Armor Type": "plate",
+			"Hit Dice": "18d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 16,
+				"Dexterity": 10,
+				"Constitution": 14,
+				"Intelligence": 11,
+				"Wisdom": 17,
+				"Charisma": 13
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": true,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": true,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": true,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"any one language (usually Common)"
+			],
+			"Challenge": 7,
+			"Experience": 2900,
+			"Features": {
+				"Spellcasting": {
+					"Description": [
+						"The firefist is a 9th-level Boros spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It has the following cleric spells prepared:"
+					],
+					"Cantrips (at will)": [
+						"Fire Bolt",
+						"Sacred Flame",
+						"Spare the Dying"
+					],
+					"1st level (4 slots)": [
+						"Guiding Bolt",
+						"Healing Word",
+						"Heroism",
+						"Shield of Faith"
+					],
+					"2nd level (3 slots)": [
+						"Lesser Restoration",
+						"Scorching Ray"
+					],
+					"3rd level (3 slots)": [
+						"Blinding Smite",
+						"Crusader's Mantle",
+						"Revivify"
+					],
+					"4th level (3 slots)": [
+						"Banishment",
+						"Wall of Fire"
+					],
+					"5th level (1 slot)": [
+						"Flame Strike"
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The firefist makes two greatsword attacks."
+					]
+				},
+				"Greatsword": {
+					"Description": [
+						"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."
+					]
+				}
+			},
+			"Reactions": {
+				"Guided Attack (Recharges after a Short or Long Rest)": {
+					"Description": [
+						"When the firefist or one creature it can see within 30 feet of it makes an attack roll, the firefist grants a +10 bonus to that roll."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 231
+		},
+		"Frontline Medic": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "lawful good",
+			"Armor Class": 19,
+			"Hit Dice": "3d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 15,
+				"Dexterity": 10,
+				"Constitution": 14,
+				"Intelligence": 10,
+				"Wisdom": 13,
+				"Charisma": 12
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": true,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"any one language (usually Common)"
+			],
+			"Challenge": "1/4",
+			"Experience": 50,
+			"Features": {
+				"Spellcasting": {
+					"Description": [
+						"The medic is a 3rd-level Boros spellcaster. Its spellcasting ability is Wisdom (spell save DC 11). The medic has the following cleric spells prepared:"
+					],
+					"Cantrips (at will)": [
+						"Mending",
+						"Resistance",
+						"Spare the Dying"
+					],
+					"1st level (4 slots)": [
+						"Cure Wounds",
+						"Sanctuary"
+					],
+					"2nd level (2 slots)": [
+						"Aid",
+						"Lesser Restoration"
+					]
+				}
+			},
+			"Actions": {
+				"Spear": {
+					"Description": [
+						"Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 231
+		},
+		"Reckoner": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "lawful neutral",
+			"Armor Class": 18,
+			"Armor Type": "plate",
+			"Hit Dice": "8d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 16,
+				"Dexterity": 12,
+				"Constitution": 15,
+				"Intelligence": 15,
+				"Wisdom": 12,
+				"Charisma": 10
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": true,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common plus any one language"
+			],
+			"Challenge": 4,
+			"Experience": 1100,
+			"Features": {
+				"First Strike": {
+					"Description": [
+						"The reckoner has advantage on initiative rolls."
+					]
+				},
+				"Spellcasting": {
+					"Description": [
+						"The reckoner is a 5th-level Boros spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The reckoner has the following wizard spells prepared:"
+					],
+					"Cantrips (at will)": [
+						"Blade Ward",
+						"Light",
+						"Message",
+						"Shocking Grab"
+					],
+					"1st level (4 slots)": [
+						"Guiding Bolt",
+						"Shield",
+						"Thunderwave",
+						"Witch Bolt"
+					],
+					"2nd level (3 slots)": [
+						"Blur",
+						"Levitate"
+					],
+					"3rd level (2 slots)": [
+						"Lightning Bolt"
+					]
+				}
+			},
+			"Actions": {
+				"Longsword": {
+					"Description": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
+					]
+				}
+			},
+			"Reactions": {
+				"Lightning Backlash (Recharge 5-6)": {
+					"Description": [
+						"When a creature hits the reckoner with an attack, the attacker takes lightning damage equal to half the damage dealt by the attack."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 231
+		},
+		"Lazav": {
+			"Size": "Medium",
+			"Type": "monstrosity",
+			"SubType": "shapechanger",
+			"Alignment": " neutral evil",
+			"Armor Class": 18,
+			"Armor Type": "natural armor",
+			"Hit Dice": "24d8",
+			"Speed": {
+				"Walk": 40,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 16,
+				"Dexterity": 24,
+				"Constitution": 18,
+				"Intelligence": 22,
+				"Wisdom": 20,
+				"Charisma": 22
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": true,
+				"Constitution": false,
+				"Intelligence": true,
+				"Wisdom": true,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": true,
+				"History": false,
+				"Insight": true,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": true,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+				"necrotic",
+				"psychic"
+			],
+			"Damage Immunities": [
+                "poison"
+			],
+			"Condition Immunities": [
+				"charmed",
+				"frightened",
+				"poisoned"
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 120,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"thieves' cant"
+			],
+			"Challenge": 17,
+			"Experience": 18000,
+			"Features": {
+				"Elusive": {
+					"Description": [
+						"No attack roll has advantage against Lazav unless he is incapacitated."
+					]
+				},
+				"Innate Spellcasting": {
+					"Description": [
+						"Lazav's innate spellcasting ability is Intelligence (spell save DC 20). He can innatelycast the following spells, requiring no material components:"
+					],
+					"At will": [
+						"Detect Thoughts",
+						"Encode Thoughts (see chapter 2)",
+						"Freedom of Movement",
+						"Vicious Mockery (4d4 psychic damage)"
+					],
+					"3/day each": [
+						"Blur",
+						"Confusion",
+						"Mirror Image"
+					],
+					"1/day each": [
+						"Modify Memory",
+						"Rary's Telepathic Bond"
+					]
+				},
+				"Legendary Resistance (3/Day)": {
+					"Description": [
+						"If Lazav fails a saving throw, he can choose to succeed instead."
+					]
+				},
+				"Shapechanger Savant": {
+					"Description": [
+						"Lazav can use a bonus action to polymorph into a Small or Medium humanoid he has seen. His statistics, other than his size, are the same in each form. Any equipment he is wearing or carrying isn't transformed."
+					]
+				},
+				"Psychic Defenses": {
+					"Description": [
+						"Unless Lazav is incapacitated, he is immune to magic that allows other creatures to read his thoughts, determine whether he is lying, know his alignment, or know his creature type. Creatures can telepathically communicate with Lazav only if he allows it."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"Lazav makes three shortsword attacks."
+					]
+				},
+				"Shortsword": {
+					"Description": [
+						"Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 10 (1d6 + 7) piercing damage plus 10 (3d6) psychic damage, and the target has disadvantage on the next attack roll it makes before Lazav's next turn."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"Lazav can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Lazav regains spent legendary actions at the start of his turn."
+				],
+				"Attack": {
+					"Description": [
+						"Lazav makes a weapon attack."
+					]
+				},
+				"Cast a Spell (Costs 2 Actions)": {
+					"Description": [
+						"Lazav casts one of his innate spells."
+					]
+				},
+				"Shifting Nightmare (Costs 3 Actions)": {
+					"Description": [
+						"Lazav rapidly takes the form of several nightmarish creatures, lashing out at all nearby. Each creature within 10 feet of Lazav must succeed on a DC 21 Dexterity saving throw or take 18 (4d8) damage of a type chosen by Lazav: acid, cold, fire, lightning, or necrotic."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 232
+		},
+		"Mind Mage": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "neutral evil",
+			"Armor Class": 12,
+			"Armor Type": "15 with mage armor",
+			"Hit Dice": "11d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 10,
+				"Dexterity": 14,
+				"Constitution": 10,
+				"Intelligence": 20,
+				"Wisdom": 15,
+				"Charisma": 16
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": true,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": true,
+				"History": false,
+				"Insight": true,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": true,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common plus any four languages"
+			],
+			"Challenge": 5,
+			"Experience": 1800,
+			"Features": {
+				"Special Equipment": {
+					"Description": [
+						"The mage wears a spies' murmur (see chapter 5)."
+					]
+				},
+				"Innate Spellcasting (Psionics)": {
+					"Description": [
+						"The mage's spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no components:"
+					],
+					"At will:": [
+						"Encode Thoughts (See chapter 2)",
+						"Friends"
+					],
+					"3/day each": [
+						"Charm Person",
+						"Detect Thoughts",
+						"Mage Armor",
+						"Sleep",
+						"Suggestion"
+					],
+					"1/day each": [
+						"Dominate Person",
+						"Mass Suggestion",
+						"Modify Memory"
+					]
+				}
+			},
+			"Actions": {
+				"Dagger": {
+					"Description": [
+						"Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 233
+		},
+		"Though Spy": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "neutral evil",
+			"Armor Class": 13,
+			"Armor Type": "leather armor",
+			"Hit Dice": "6d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 11,
+				"Dexterity": 14,
+				"Constitution": 10,
+				"Intelligence": 16,
+				"Wisdom": 13,
+				"Charisma": 14
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": true,
+				"History": false,
+				"Insight": true,
+				"Intimidation": false,
+				"Investigation": true,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": true,
+				"Stealth": true,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 30,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common plus any one language"
+			],
+			"Challenge": 1,
+			"Experience": 200,
+			"Features": {
+				"Cunning Action": {
+					"Description": [
+						"On each of its turns, the thought spy can use a bonus action to take the Dash, Disengage, or Hide action."
+					]
+				},
+				"Innate Spellcasting (Psionics)": {
+					"Description": [
+						"The thought spy's innate spellcasting ability is Intelligence (spell save DC 13). The thought spy can innately cast the following spells, requiring no components:"
+					],
+					"At will": [
+						"Charm Person",
+						"Disguise Self",
+						"Encode Thoughts (see chapter 2)"
+					],
+					"1/day each": [
+						"Blur",
+						"Detect Thoughts",
+						"Gaseous Form"
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The thought spy makes two melee attacks, or it makes three ranged attacks with its daggers."
+					]
+				},
+				"Dagger": {
+					"Description": [
+						"Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+					]
+				},
+				"Rapier": {
+					"Description": [
+						"Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 233
+		},
+		"Jarad Vod Savo": {
+			"Size": "Medium",
+			"Type": "undead",
+			"Alignment": "neutral evil",
+			"Armor Class": 17,
+			"Armor Type": "natural armor",
+			"Hit Dice": "24d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 14,
+				"Dexterity": 16,
+				"Constitution": 16,
+				"Intelligence": 20,
+				"Wisdom": 16,
+				"Charisma": 15
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": true,
+				"Intelligence": true,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": true,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+				"necrotic",
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"Damage Immunities": [
+                "poison"
+			],
+			"Condition Immunities": [
+				"poison",
+				"exhausted",
+				"frightened",
+				"paralyzed",
+				"poisoned"
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 120,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Elvish",
+				"Kraul"
+			],
+			"Challenge": 22,
+			"Experience": 41000,
+			"Features": {
+				"Legendary Resistance (3/Day)": {
+					"Description": [
+						"If Jarad fails a saving throw, he can choose to succeed instead."
+					]
+				},
+				"Magic Resistance": {
+					"Description": [
+						"Jarad has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				"Regeneration": {
+					"Description": [
+						"Jarad regains 25 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. He dies only if he starts its turn with 0 hit points and doesn't regenerate."
+					]
+				},
+				"Spellcasting": {
+					"Description": [
+						"Jarad is a 14th-level Golgari spellcaster. His spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). Jarad has the following wizard spells prepared:"
+					],
+					"Cantrips (at will)": [
+						"Acid Splash",
+						"Chill Touch",
+						"Mage Hand",
+						"Poison Spray",
+						"Prestidigitation"
+					],
+					"1st level (4 slots)": [
+						"Entangle",
+						"Ray of Sickness",
+						"Sleep"
+					],
+					"2nd level (3 slots)": [
+						"Melf's Acid Arrow",
+						"Ray of Enfeeblement",
+						"Spider Climb",
+						"Web"
+					],
+					"3rd level (3 slots)": [
+						"Animate Dead",
+						"Plant Growth",
+						"Vampiric Touch"
+					],
+					"4th level (3 slots)": [
+						"Blight",
+						"Giant Insect",
+						"Grasping Vine"
+					],
+					"5th level (2 slots)": [
+						"Cloudkill",
+						"Insect Plague"
+					],
+					"6th level (1 slot)": [
+						"Circle of Death",
+						"Create Undead"
+					],
+					"7th level (1 slot)": [
+						"Finger of Death",
+						"Forcecage"
+					]
+				},
+				"Spore Infusion": {
+					"Description": [
+						"Jarad is surrounded by a cloud of spores. As a bonus action, he can cause the spores to deal 11 (2d10) poison damage to a creature he can see within 10 feet of him."
+					]
+				},
+				"Turn Resistance": {
+					"Description": [
+						"Jarad has advantage on saving throws against any effect that turns undead."
+					]
+				},
+				"Undead Fortitude": {
+					"Description": [
+						"If damage reduces Jarad to 0 hit points, he must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, he drops to 1 hit point instead."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"Jarad makes two attacks: one with his Noxious Touch and one with his Staff of Svogthir. He can cast a spell with a casting time of 1 action in place of one of these attacks."
+					]
+				},
+				"Noxious Touch": {
+					"Description": [
+						"Melee Spell Attack: +12 to hit, reach 5 ft., one creature. Hit: 28 (8d6) poison damage, and the target must succeed on a DC 20 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+					]
+				},
+				"Staff of Svogthir": {
+					"Description": [
+						"Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 13 (3d8) poison damage and 13 (3d8) necrotic damage."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"Jarad can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Jarad regains spent legendary actions at the start of his turn."
+				],
+				"Cantrip": {
+					"Description": [
+						"Jarad casts one of his cantrips."
+					]
+				},
+				"Noxious Touch (Costs 2 Actions)": {
+					"Description": [
+						"Jarad uses Noxious Touch"
+					]
+				},
+				"Disrupt Life (Costs 3 Actions)": {
+					"Description": [
+						"Each creature within 30 feet of Jarad must make a DC 20 Constitution saving throw, taking 35 (10d6) necrotic damage on a failed save, or half as much damage on a successful one."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 235
+		},
+		"Golgari Shaman": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "elf",
+			"Alignment": "neutral evil",
+			"Armor Class": 14,
+			"Armor Type": "hide armor",
+			"Hit Dice": "16d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 11,
+				"Dexterity": 15,
+				"Constitution": 12,
+				"Intelligence": 12,
+				"Wisdom": 17,
+				"Charisma": 16
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": true,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": true,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": true,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": true,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 60,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Elvish"
+			],
+			"Challenge": 5,
+			"Experience": 1800,
+			"Features": {
+				"Fey Ancestry": {
+					"Description": [
+						"The shaman has advantage on saving throws against being charmed, and magic can't put it to sleep."
+					]
+				},
+				"Spellcasting": {
+					"Description": [
+						"The shaman is an 8th-level Golgari spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The shaman has the following druid spells prepared:"
+					],
+					"Cantrips (at will)": [
+						"Poison Spray",
+						"Shillelagh",
+						"Thorn Whip"
+					],
+					"1st level (4 slots)": [
+						"Cure Wounds",
+						"Entangle",
+						"Ray of Sickness"
+					],
+					"2nd level (3 slots)": [
+						"Pass without Trace",
+						"Ray of Enfeeblement",
+						"Spike Growth"
+					],
+					"3rd level (3 slots)": [
+						"Animate Dead",
+						"Dispel Magic",
+						"Plant Growth"
+					],
+					"4th level (2 slots)": [
+						"Blight",
+						"Giant Insect"
+					]
+				}
+			},
+			"Actions": {
+				"Quarterstaff": {
+					"Description": [
+						"Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two hands."
+					]
+				},
+				"Fungal Rot": {
+					"Description": [
+						"Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d8) necrotic damage, and the target must make a DC 14 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one."
+					]
+				}
+			},
+			"Reactions": {
+				"Feed on Death": {
+					"Description": [
+						"When a creature within 30 feet of the shaman drops to 0 hit points, the shaman gains 5 (1d10) temporary hit points."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 236
+		},
+		"Borborygmos": {
+			"Size": "Huge",
+			"Type": "giant",
+			"Alignment": "chaotic neutral",
+			"Armor Class": 14,
+			"Armor Type": "natural armor",
+			"Hit Dice": "20d12",
+			"Speed": {
+				"Walk": 40,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 24,
+				"Dexterity": 11,
+				"Constitution": 24,
+				"Intelligence": 8,
+				"Wisdom": 17,
+				"Charisma": 16
+			},
+			"Saving Throws": {
+				"Strength": true,
+				"Dexterity": false,
+				"Constitution": true,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": true,
+				"Deception": false,
+				"History": false,
+				"Insight": true,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  true
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+				"poison",
+				"psychic"
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+				"charmed",
+				"frightened"
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 60,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Giant"
+			],
+			"Challenge": 18,
+			"Experience": 20000,
+			"Features": {
+				"Legendary Resistance (3/Day)": {
+					"Description": [
+						"If Borborygmos fails a saving throw, he can choose to succeed instead."
+					]
+				},
+				"Poor Depth Perception": {
+					"Description": [
+						"Borborygmos has disadvantage on any attack roll against a target more than 30 feet away."
+					]
+				},
+				"Siege Monster": {
+					"Description": [
+						"Borborygmos deals double damage to objects and structures."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"Borborygmos can use his Frightful Presence. He also makes two attacks: one with his maul and one with his stomp."
+					]
+				},
+				"Maul": {
+					"Description": [
+						"Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 28 (6d6 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be knocked prone."
+					]
+				},
+				"Stomp": {
+					"Description": [
+						"Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 18 (2d10 + 7) bludgeoning damage."
+					]
+				},
+				"Rock": {
+					"Description": [
+						"Ranged Weapon Attack: +13 to hit, range 30/120 ft., one target. Hit: 29 (4d10 + 7) bludgeoning damage."
+					]
+				},
+				"Frightful Presence": {
+					"Description": [
+						"Each creature of Borborygmos's choice that is within 60 feet of him and can see or hear him must succeed on a DC 17 Wisdom saving throw or become frightened of him for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Borborygmos's Frightful Presence for the next 24 hours."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"Borborygmos can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Borborygmos regains spent legendary actions at the start of his turn."
+				],
+				"Attack": {
+					"Description": [
+						"Borborygmos makes a weapon attack."
+					]
+				},
+				"Bellow (Costs 2 Actions)": {
+					"Description": [
+						"Borborygmos yells menacingly at one creature he can see within 60 feet of him. That creature must succeed on a DC 17 Wisdom saving throw or become frightened of him for 1 minute. If the creature is already frightened, it becomes stunned instead. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Borborygmos's Bellow for the next 24 hours."
+					]
+				},
+				"Wide Berth (Costs 3 Actions)": {
+					"Description": [
+						"Borborygmos moves up to half his speed and can move through the space of any creature smaller than Huge. The first time Borborygmos enters a creature's space during this move, the creature must make a DC 21 Dexterity saving throw. If the saving throw succeeds, the creature is pushed 5 feet away from Borborygmos. If the saving throw fails, that creature is knocked prone, and Borborygmos can make a stomp attack against it."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 238
+		},
+		"Anarch": {
+			"Size": "Small or Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "chaotic neutral",
+			"Armor Class": 13,
+			"Armor Type": "hide armor",
+			"Hit Dice": "2d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 14,
+				"Dexterity": 13,
+				"Constitution": 12,
+				"Intelligence": 9,
+				"Wisdom": 11,
+				"Charisma": 10
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  true
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"any one language (usually Common)"
+			],
+			"Challenge": "1/4",
+			"Experience": 50,
+			"Features": {
+				"Aggressive": {
+					"Description": [
+						"As a bonus action, the anarch can move up to its speed toward a hostile creature it can see."
+					]
+				},
+				"Siege Monster": {
+					"Description": [
+						"The anarch deals double damage to objects and structures."
+					]
+				}
+			},
+			"Actions": {
+				"Spiked Club": {
+					"Description": [
+						"Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage, or 7 (1d10 + 2) piercing damage if used with two hands."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 239
+		},
+		"Druid of the Old Ways": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "chaotic neutral",
+			"Armor Class": 14,
+			"Armor Type": "hide armor",
+			"Hit Dice": "12d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 11,
+				"Dexterity": 15,
+				"Constitution": 16,
+				"Intelligence": 10,
+				"Wisdom": 20,
+				"Charisma": 14
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": true,
+				"Constitution": true,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": true,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  true
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Druidic"
+			],
+			"Challenge": 7,
+			"Experience": 2900,
+			"Features": {
+				"Siege Monster": {
+					"Description": [
+						"The druid deals double damage to objects and structures."
+					]
+				},
+				"Speak with Beasts and Plants": {
+					"Description": [
+						"The druid can communicate with beasts and plants as if they shared a language."
+					]
+				},
+				"Spellcasting": {
+					"Description": [
+						"The druid is a 12th-level Gruul spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It has the following druid spells prepared:"
+					],
+					"Cantrips (at will)": [
+						"Druidcraft",
+						"Produce Fire",
+						"Resistance",
+						"Thorn Whip"
+					],
+					"1st level (4 slots)": [
+						"Cure Wounds",
+						"Faerie Fire",
+						"Thunderwave"
+					],
+					"2nd level (3 slots)": [
+						"Beast Sense",
+						"Flame Blade",
+						"Pass without Trace"
+					],
+					"3rd level (3 slots)": [
+						"Conjure Animals",
+						"Dispel Magic",
+						"Plant Growth"
+					],
+					"4th level (3 slots)": [
+						"Dominate Beast",
+						"Freedom of Movement",
+						"Wall of Fire"
+					],
+					"5th level (2 slots)": [
+						"Commune with Nature",
+						"Conjure Elemental",
+						"Scrying"
+					],
+					"6th level (1 slot)": [
+						"Transport via Plants",
+						"Wall of Thorns"
+					]
+				}
+			},
+			"Actions": {
+				"Quarterstaff": {
+					"Description": [
+						"Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 239
+		},
+		"Niv-Mizzet": {
+			"Size": "Gargantuan",
+			"Type": "dragon",
+			"Alignment": "chaotic neutral",
+			"Armor Class": 22,
+			"Armor Type": "natural armor",
+			"Hit Dice": "19d20",
+			"Speed": {
+				"Walk": 40,
+				"Burrow": 0,
+				"Climb": 30,
+				"Fly": 80,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 29,
+				"Dexterity": 14,
+				"Constitution": 29,
+				"Intelligence": 30,
+				"Wisdom": 17,
+				"Charisma": 25
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": true,
+				"Intelligence": true,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": true,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+				"cold",
+				"psychic",
+				"thunder"
+			],
+			"Damage Immunities": [
+				"fire",
+				"lightning"
+			],
+			"Condition Immunities": [
+                "charmed"
+			],
+			"Senses": {
+				"Blindsight": 60,
+				"Darkvision": 120,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Draconic"
+			],
+			"Challenge": 26,
+			"Experience": 90000,
+			"Features": {
+				"Legendary Resistance (3/Day)": {
+					"Description": [
+						"If Niv-Mizzet fails a saving throw, he can choose to succeed instead."
+					]
+				},
+				"Locus of the Firemind": {
+					"Description": [
+						"Niv-Mizzet can maintain concentration on two different spells at the same time. In addition, he has advantage on saving throws to maintain concentration on spells."
+					]
+				},
+				"Magic Resistance": {
+					"Description": [
+						"Niv·Mizzet has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				"Master Chemister": {
+					"Description": [
+						"When Niv-Mizzet casts a spell that deals damage, he can change the spell's damage to cold, fire, force, lightning, or thunder."
+					]
+				},
+				"Spellcasting": {
+					"Description": [
+						"Niv-Mizzet is a 20th-level Izzet spellcaster. His spellcasting ability is Intelligence (spell save DC 26, +18 to hit with spell attacks). He has the following wizard spells prepared:"
+					],
+					"Cantrips (at will)": [
+						"Fire Bolt",
+						"Light",
+						"Prestidigitation",
+						"Ray of Frost",
+						"Shocking Grasp"
+					],
+					"1st level (4 slots)": [
+						"Detect Magic",
+						"Magic Missile",
+						"Shield",
+						"Thunderwave",
+						"Unseen Servant"
+					],
+					"2nd level (3 slots)": [
+						"Blur",
+						"Enlarge/Reduce",
+						"Flaming Sphere",
+						"Scorching Ray"
+					],
+					"3rd level (3 slots)": [
+						"Counterspell",
+						"Fireball",
+						"Hold Person",
+						"Lightning Bolt",
+						"Slow"
+					],
+					"4th level (3 slots)": [
+						"Confusion",
+						"Dimension Door",
+						"Fabricate"
+					],
+					"5th level (2 slots)": [
+						"Conjure Elemental",
+						"Polymorph",
+						"Wall of Fire",
+						"Wall of Force"
+					],
+					"6th level (1 slot)": [
+						"Chain Lightning",
+						"Disintegrate",
+						"True Seeing"
+					],
+					"7th level (1 slot)": [
+						"Project Image",
+						"Reverse Gravity",
+						"Teleport"
+					],
+					"8th level (1 slot):": [
+						"Control Weather",
+						"Maze",
+						"Power Word Stun"
+					],
+					"9th level (1 slot)": [
+						"Prismatic Wall"
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						" Niv-Mizzet makes three attacks: one with his bite and two with his claws."
+					]
+				},
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +17 to hit, reach 15 ft. , one target. Hit: 18 (2d8 + 9) piercing damage plus 14 (4d6) fire damage."
+					]
+				},
+				"Claw": {
+					"Description": [
+						"Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 14 (2d4 + 9) slashing damage."
+					]
+				},
+				"Tail": {
+					"Description": [
+						"Melee Weapon Attack: +17 to hit, reach 20 ft., one target. Hit: 16 (2d6 + 9) bludgeoning damage."
+					]
+				},
+				"Fire Breath (Recharge 5-6)": {
+					"Description": [
+						"Niv-Mizzet exhales fire in a 90-foot cone. Each creature in that area must make a DC 25 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"Niv-Mizzet can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Niv-Mizzet regains spent legendary actions at the start of his turn."
+				],
+				"Cantrip": {
+					"Description": [
+						"Niv-Mizzet casts o ne of his cantrips."
+					]
+				},
+				"Tail Attack": {
+					"Description": [
+						"Niv-Mizzet makes a tail attack."
+					]
+				},
+				"Wing Attack (Costs 2 Actions)": {
+					"Description": [
+						"Niv-Mizzet beats his wings. Each creature within 15 feet of him must succeed on a DC 25 Dexterity saving throw or take 14 (2d4 + 9) bludgeoning damage and be knocked prone. Niv·Mizzet can then Ay up to half his Aying speed."
+					]
+				},
+				"Dracogenius (Costs 3 Actions)": {
+					"Description": [
+						"Niv-Mizzet regains a spell slot of 3rd level or lower"
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 241
+		},
+		"Cosmotronic Blastseeker": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "chaotic neutral",
+			"Armor Class": 15,
+			"Armor Type": "chain shirt",
+			"Hit Dice": "5d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 14,
+				"Dexterity": 15,
+				"Constitution": 16,
+				"Intelligence": 18,
+				"Wisdom": 9,
+				"Charisma": 12
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": true,
+				"Constitution": true,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": true,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"any one language (usually Common)"
+			],
+			"Challenge": 4,
+			"Experience": 1100,
+			"Features": {
+				"Empowered Spell (3/Day)": {
+					"Description": [
+						"When the blastseeker rolls damage for a spell, it can reroll up to four dice of damage. It must use the new dice."
+					]
+				},
+				"Innate Spellcasting": {
+					"Description": [
+						"The blastseeker's innate spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks) . The blastseeker can innately cast the following spells, requiring no components other than its Izzet gear, which doesn't function for others:"
+					],
+					"3/day each": [
+						"Scorching Ray",
+						"Shield",
+						"Thunderwave"
+					],
+					"2/day": [
+						"Fireball"
+					]
+				},
+				"Tides of Chaos (1/Day)": {
+					"Description": [
+						"The blastseeker makes one attack roll, ability check, or saving throw with advantage."
+					]
+				}
+			},
+			"Actions": {
+				"Warhammer": {
+					"Description": [
+						"Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage, or 7 (1d10 + 2) bludgeoning damage if used with two hands"
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 242
+		},
+		"Counterflux Blastseeker": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "chaotic neutral",
+			"Armor Class": 13,
+			"Armor Type": "16 with mage armor",
+			"Hit Dice": "6d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 13,
+				"Dexterity": 16,
+				"Constitution": 15,
+				"Intelligence": 18,
+				"Wisdom": 11,
+				"Charisma": 14
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": true,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common plus any one language"
+			],
+			"Challenge": 2,
+			"Experience": 450,
+			"Features": {
+				"Counterflux Overcast (Recharge 5-6)": {
+					"Description": [
+						"The blastseeker can create an additional effect immediately after casting a spell. Roll a d6 to determine the effect:",
+						"1-3. The blastseeker creates a 15-foot-radius invisible sphere centered on itself that lasts until the end of its next turn. Creatures in the sphere have disadvantage on saving throws against spells and other magical effects.",
+						"4-6. The blastseeker creates a 15-foot-radius invisible sphere centered on itself that lasts until the end of its next turn. Creatures in the sphere have advantage on saving throws against spells and other magical effects."
+					]
+				},
+				"Innate Spellcasting": {
+					"Description": [
+						"The blastseeker's innate spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The blastseeker can innately cast the following spells, requiring no components other than its Izzet gear, which doesn't function for others:"
+					],
+					"3/day each": [
+						"Enlarge/Reduce",
+						"Mage Armor (self only)",
+						"Scorching Ray"
+					],
+					"1/day each": [
+						"Counterspell",
+						"Dispel Magic",
+						"Protection from Energy"
+					]
+				}
+			},
+			"Actions": {
+				"Rapier": {
+					"Description": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 242
+		},
+		"Flux Blastseeker": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "chaotic neutral",
+			"Armor Class": 12,
+			"Armor Type": "15 with mage armor",
+			"Hit Dice": "10d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 10,
+				"Dexterity": 15,
+				"Constitution": 12,
+				"Intelligence": 20,
+				"Wisdom": 9,
+				"Charisma": 14
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": true,
+				"Constitution": false,
+				"Intelligence": true,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common plus any one language"
+			],
+			"Challenge": 5,
+			"Experience": 1800,
+			"Features": {
+				"Fluxbending Overcast (Recharge 5-6)": {
+					"Description": [
+						"The blastseeker can create an additional effect immediately after casting a spell. Roll a d6 to determine the effect:",
+						"1-3. The blastseeker teleports, swapping places with a creature it can see within 30 feet of it.",
+						"4-6. The blastseeker and each creature within 10 feet of it must succeed on a DC 16 Constitution saving throw or take 11 (2d10) thunder damage."
+					]
+				},
+				"Innate Spellcasting": {
+					"Description": [
+						"The blastseeker's innate spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The blastseeker can innately cast the following spells, requiring no components other than its Izzet gear, which doesn't function for others:"
+					],
+					"3/day each": [
+						"Mage Armor (self only)",
+						"Scorching Ray"
+					],
+					"1/day each": [
+						"Banishment",
+						"Cone of Cold",
+						"Dimension Door",
+						"Fireball",
+						"Ice Storm"
+					]
+				}
+			},
+			"Actions": {
+				"Quarterstaff": {
+					"Description": [
+						"Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 242
+		},
+		"Galvanic Blastseeker": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "chaotic neutral",
+			"Armor Class": 13,
+			"Hit Dice": "8d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 10,
+				"Dexterity": 17,
+				"Constitution": 14,
+				"Intelligence": 19,
+				"Wisdom": 10,
+				"Charisma": 13
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": true,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": true,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+				"lightning",
+				"thunder"
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common and Primordial, plus any one language"
+			],
+			"Challenge": 5,
+			"Experience": 1800,
+			"Features": {
+				"Galvanic Overcast (Recharge 5-6)": {
+					"Description": [
+						"When the blastseeker casts lightning bolt or thunderwave, it can roll a die. On an odd number, the blastseeker takes 9 (2d8) force damage. On an even number, the spell also deals 9 (2d8) lightning damage to each target that fails its saving throw."
+					]
+				},
+				"Heart of the Storm": {
+					"Description": [
+						"When the blastseeker casts lightning bolt or thunderwave, all other creatures within 10 feet ofthe blastseeker each take 3 lightning damage."
+					]
+				},
+				"Innate Spellcasting": {
+					"Description": [
+						"The blastseeker's innate spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The blastseeker can innately cast the following spells, requiring no components other than its Izzet gear, which doesn't function for others:"
+					],
+					"3/day each": [
+						"Levitate",
+						"Lightning Bolt",
+						"Thunderwave"
+					],
+					"1/day": [
+						"Stoneskin"
+					]
+				},
+				"Gust-Propelled Leap": {
+					"Description": [
+						"The blastseeker can use a bonus action to fly up to 10 feet without provoking opportunity attacks."
+					]
+				}
+			},
+			"Actions": {
+				"Spear": {
+					"Description": [
+						"Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 243
+		},
+		"Scorchbringer Guard": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "chaotic neutral",
+			"Armor Class": 16,
+			"Armor Type": "breastplate",
+			"Hit Dice": "2d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 13,
+				"Dexterity": 14,
+				"Constitution": 12,
+				"Intelligence": 10,
+				"Wisdom": 9,
+				"Charisma": 10
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"any one language (usually Common)"
+			],
+			"Challenge": "1/2",
+			"Experience": 100,
+			"Features": {
+				"Explosive Tank": {
+					"Description": [
+						"When the guard dies, or if it rolls a 1 when checking whether its Scorchbringer action recharges, the tank on its back explodes in a 10-foot radius sphere. Each creature in that area must make a DC 12 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites Aammable objects that aren't being worn or carried, and it destroys the scorchbringer."
+					]
+				}
+			},
+			"Actions": {
+				"Light Hammer": {
+					"Description": [
+						"Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
+					]
+				},
+				"Scorchbringer (Recharge 4-6)": {
+					"Description": [
+						"The guard's scorchbringer spouts a stream of flame in a line that is 30 feet long and 5 feet wide. Each creature in the line must make a DC 12 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 243
+		},
+		"Obzedat Ghost": {
+			"Size": "Medium",
+			"Type": "undead",
+			"Alignment": "lawful evil",
+			"Armor Class": 14,
+			"Armor Type": "natural armor, plus 1 for each other Obzedat ghost within 30 feet of it",
+			"Hit Dice": "20d8",
+			"Speed": {
+				"Walk": 0,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 30,
+				"Swim": 0,
+				"Hover": true
+			},
+			"Ability Scores": {
+				"Strength": 10,
+				"Dexterity": 10,
+				"Constitution": 13,
+				"Intelligence": 18,
+				"Wisdom": 20,
+				"Charisma": 17
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": true,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": true,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+				"acid",
+				"cold",
+				"fire",
+				"lightning",
+				"thunder",
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"Damage Immunities": [
+				"necrotic",
+				"poison"
+			],
+			"Condition Immunities": [
+				"charmed",
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained"
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 60,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common"
+			],
+			"Challenge": 8,
+			"Experience": 3900,
+			"Features": {
+				"Council of Five": {
+					"Description": [
+						"The ghost has a trait based on who it is, as shown below:"
+					]
+				},
+				"Enezesku: Enfeebling Ray": {
+					"Description": [
+						"Enezesku's Innate Spellcasting trait includes ray of enfeeblement, which he can cast at will."
+					]
+				},
+				"Fautomni: Undead Fortitude": {
+					"Description": [
+						"If damage reduces Fautomni to 0 hit points, he must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, Fautomni drops to 1 hit point instead."
+					]
+				},
+				"Karlov: Unnatural Vigor": {
+					"Description": [
+						"When Karlov regains hit points, he has advantage on attack rolls he makes on his next turn."
+					]
+				},
+				"Vuliev: Teleportation": {
+					"Description": [
+						"Vuliev's Innate Spellcasting trait includes misty step, which he can cast at will."
+					]
+				},
+				"Xii Xaxosz: Lingering Spite": {
+					"Description": [
+						"When Xii Xaxosz is reduced to 0 hit points, his incorporeal form explodes in a burst of necrotic energy. Each creature within 5 feet of him must make a DC 16 Constitution saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one."
+					]
+				},
+				"Ethereal Sight": {
+					"Description": [
+						"The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa."
+					]
+				},
+				"Incorporeal Movement": {
+					"Description": [
+						"The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
+					]
+				},
+				"Innate Spellcasting": {
+					"Description": [
+						"The ghost's innate spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no components:"
+					],
+					"At will": [
+						"Chill Touch (at 5th level, and the ghost regains hit points equal to half the amount of damage the target takes)"
+					],
+					"1/day each": [
+						"Sanctuary",
+						"Spirit Guardians (at 4th level)"
+					]
+				},
+				"Legendary Resistance (1/Day)": {
+					"Description": [
+						"If the ghost fails a saving throw, it can choose to succeed instead."
+					]
+				}
+			},
+			"Actions": {
+				"Life Drain": {
+					"Description": [
+						"Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 18 (4d8) necrotic damage, and the ghost regains hit points equal to half the amount of damage the target takes. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. The target dies if its hit point maximum is reduced to 0. This reduction to the target's hit point maximum lasts until the target finishes a long rest."
+					]
+				},
+				"Convene the Ghost Council": {
+					"Description": [
+						"The ghost summons the other four members of the Obzedat. At the start of the ghost's next turn, the other members appear in unoccupied spaces within 30 feet of the summoner. The ghosts each roll initiative when they appear."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"If five Obzedat ghosts are all within 30 feet of each other, they can collectively take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. Obzedat ghosts regain spent legendary actions at the start of the turn of the ghost with the highest initiative."
+				],
+				"Forced Obedience": {
+					"Description": [
+						"A target that all of the Obzedat ghosts can see must succeed on a DC 16 Wisdom saving throw or bow until the end of its next turn. Until this bow ends, the target can't take actions or reactions, and its speed is 0 and can't be increased."
+					]
+				},
+				"Indentured Spirits (Costs 3 Actions)": {
+					"Description": [
+						"The Obzedat ghosts conjure 1d6 indentured spirits within 60 feet of one of them."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 245
+		},
+		"Rakdos": {
+			"Size": "Huge",
+			"Type": "fiend",
+			"SubType": "demon",
+			"Alignment": "chaotic evil",
+			"Armor Class": 20,
+			"Armor Type": "natural armor",
+			"Hit Dice": "24d12",
+			"Speed": {
+				"Walk": 40,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 80,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 26,
+				"Dexterity": 15,
+				"Constitution": 22,
+				"Intelligence": 14,
+				"Wisdom": 18,
+				"Charisma": 30
+			},
+			"Saving Throws": {
+				"Strength": true,
+				"Dexterity": false,
+				"Constitution": true,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": true,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": true,
+				"Persuasion": true,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+				"necrotic",
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"Damage Immunities": [
+				"fire",
+				"poison"
+			],
+			"Condition Immunities": [
+				"charmed",
+				"exhausted",
+				"frightened",
+				"poisoned"
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 120,
+				"Blind": false
+			},
+			"Languages": [
+				"Abyssal",
+				"Common"
+			],
+			"Challenge": 24,
+			"Experience": 62000,
+			"Features": {
+				"Captivating Presence": {
+					"Description": [
+						"Any creature that starts its turn within 30 feet of Rakdos must make a DC 25 Wisdom saving throw. On a failed save, the creature becomes charmed by Rakdos for 1 minute or until the creature is farther than 30 feet away from him. On a successful save, the creature becomes immune to Rakdos's Captivating Presence for 24 hours."
+					]
+				},
+				"Cruel Entertainment": {
+					"Description": [
+						"When a creature Rakdos can see within 60 feet of him is reduced to 0 hit points, Rakdos gains 25 temporary hit points."
+					]
+				},
+				"Innate Spellcasting": {
+					"Description": [
+						"Rakdos's spellcasting ability is Charisma (spell save DC 25). He can innately cast hellish rebuke (at 5th level) at will, requiring no material components."
+					],
+					"At will": [
+						"Hellish Rebuke (at 5th level)"
+					]
+				},
+				"Legendary Resistance (3/Day)": {
+					"Description": [
+						"If Rakdos fails a saving throw, he can choose to succeed instead."
+					]
+				},
+				"Magic Resistance": {
+					"Description": [
+						"Rakdos has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				"Magic Weapons": {
+					"Description": [
+						"Rakdos's weapon attacks are magical."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"Rakdos makes two attacks with his Curtain-Call Scythe or his claws."
+					]
+				},
+				"Curtain-Call Scythe": {
+					"Description": [
+						"Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 24 (3d10 + 8) slashing damage plus 13 (3d8) fire damage."
+					]
+				},
+				"Claw": {
+					"Description": [
+						"Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) slashing damage."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"Rakdos can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Rakdos regains spent legendary actions at the start of his turn."
+				],
+				"Sadistic Revelry": {
+					"Description": [
+						"Each creature within 60 feet of Rakdos that is his ally or is charmed by him must use its reaction to move up to half its speed toward the creature closest to it that it can see, provided it isn't already within 5 feet of that creature. It then must make one melee attack against that creature if it is able to do so."
+					]
+				},
+				"Scythe (Costs 2 Actions)": {
+					"Description": [
+						"Rakdos uses Curtain-Call Scythe."
+					]
+				},
+				"Touch of Pain (Costs 3 Actions)": {
+					"Description": [
+						"Rakdos makes a claw attack against one creature within 10 feet ofhim. The target must succeed on a DC 25 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the creature can't maintain concentration on a spell or any other effect that requires concentration. The poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 247
+		},
+		"Blood Witch": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "chaolic evil",
+			"Armor Class": 12,
+			"Armor Type": "15 with mage armor",
+			"Hit Dice": "12d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 16,
+				"Dexterity": 14,
+				"Constitution": 15,
+				"Intelligence": 13,
+				"Wisdom": 9,
+				"Charisma": 19
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": true,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": true,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+				"psychic"
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 120,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Abyssal plus any one language (usually Common)"
+			],
+			"Challenge": 7,
+			"Experience": 2900,
+			"Features": {
+				"Blood Witch Dance": {
+					"Description": [
+						"The witch can use a bonus action to control the movement of one creature cursed by its hex spell that it can see within 30 feet of it. The creature must succeed on a DC 15 Charisma saving throw or use its reaction to move up to 30 feet in a direction of the witch's choice."
+					]
+				},
+				"Devil's Sight": {
+					"Description": [
+						"Magical darkness doesn't impede the witch's darkvision."
+					]
+				},
+				"Innate Spellcasting": {
+					"Description": [
+						"The witch's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The witch can innately cast the following spells, requiring no material components:"
+					],
+					"At will": [
+						"Alter Self",
+						"Detect Magic",
+						"Eldritch Blast (at 11th level)",
+						"False Life",
+						"Levitate (self only)",
+						"Mage Armor (self only)"
+					],
+					"1/day each": [
+						"Circle of Death",
+						"Enthrall",
+						"Suggestion"
+					],
+					"3/day each": [
+						"Hellish Rebuke",
+						"Hex",
+						"Scorching Ray (at 3rd level)"
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The witch makes two attacks: one with its longsword and one with its shortsword."
+					]
+				},
+				"Longsword": {
+					"Description": [
+						"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage."
+					]
+				},
+				"Shortsword": {
+					"Description": [
+						"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 248
+		},
+		"Rakdos Lampooner": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "chaotic evil",
+			"Armor Class": 12,
+			"Armor Type": "leather armor",
+			"Hit Dice": "5d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 11,
+				"Dexterity": 12,
+				"Constitution": 13,
+				"Intelligence": 12,
+				"Wisdom": 9,
+				"Charisma": 18
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": true,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": true,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common plus any one language"
+			],
+			"Challenge": 2,
+			"Experience": 450,
+			"Features": {
+				"Spellcasting": {
+					"Description": [
+						"The lampooner is a 4th-level Rakdos spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following bard spells:"
+					],
+					"Cantrips (at will)": [
+						"Dancing Lights",
+						"Minor Illusion",
+						"Vicious Mockery"
+					],
+					"1st level (4 slots)": [
+						"Bane",
+						"Dissonant Whispers",
+						"Silent Image",
+						"Tasha's Hideous Laughter",
+						"Thunderwave"
+					],
+					"2nd level (3 slots)": [
+						"Crown of Madness",
+						"Enthrall",
+						"Suggestion"
+					]
+				}
+			},
+			"Actions": {
+				"Club": {
+					"Description": [
+						"Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 248
+		},
+		"Rakdos Blade Juggler": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "chaotic evil",
+			"Armor Class": 13,
+			"Hit Dice": "4d8",
+			"Speed": {
+				"Walk": 40,
+				"Burrow": 0,
+				"Climb": 30,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 13,
+				"Dexterity": 17,
+				"Constitution": 12,
+				"Intelligence": 10,
+				"Wisdom": 8,
+				"Charisma": 15
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": true,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": true,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": true,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"any one language (usually Common)"
+			],
+			"Challenge": 1,
+			"Experience": 200,
+			"Features": {
+				"Nimble": {
+					"Description": [
+						"The juggler can take the Disengage action as a bonus action on each of its turns."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The juggler makes three dagger attacks."
+					]
+				},
+				"Dagger": {
+					"Description": [
+						"Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/ 60 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 249
+		},
+		"Rakdos Fire Eater": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "chaotic evil",
+			"Armor Class": 13,
+			"Hit Dice": "4d8",
+			"Speed": {
+				"Walk": 40,
+				"Burrow": 0,
+				"Climb": 30,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 13,
+				"Dexterity": 17,
+				"Constitution": 12,
+				"Intelligence": 10,
+				"Wisdom": 8,
+				"Charisma": 15
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": true,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": true,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": true,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"any one language (usually Common)"
+			],
+			"Challenge": 1,
+			"Experience": 200,
+			"Features": {
+				"Nimble": {
+					"Description": [
+						"The fire eater can take the Disengage action as a bonus action on each of its turns."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The fire eater makes two attacks with its bladed chain."
+					]
+				},
+				"Bladed Chain": {
+					"Description": [
+						"Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
+					]
+				},
+				"Spew Flame (Recharge 4-6)": {
+					"Description": [
+						"The fire eater exhales flames. Each creature in a 15-foot cone must make a DC 13 Dexterity saving throw, taking 9 (2d8) fire damage on a failed save, or half as much damage on a successful one."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 249
+		},
+		"Rakdos High-Wire Acrobat": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "chaotic evil",
+			"Armor Class": 13,
+			"Hit Dice": "4d8",
+			"Speed": {
+				"Walk": 40,
+				"Burrow": 0,
+				"Climb": 30,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 13,
+				"Dexterity": 17,
+				"Constitution": 12,
+				"Intelligence": 10,
+				"Wisdom": 8,
+				"Charisma": 15
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": true,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": true,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": true,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"any one language (usually Common)"
+			],
+			"Challenge": 1,
+			"Experience": 200,
+			"Features": {
+				"Nimble": {
+					"Description": [
+						"The acrobat can take the Disengage action as a bonus action on each of its turns."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The acrobat makes two at tacks with its barbed pole."
+					]
+				},
+				"Barbed Pole": {
+					"Description": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage, and the acrobat can jump up to 20 feet. This movement doesn't provoke opportunity attacks."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 249
+		},
+		"Trostani": {
+			"Size": "Large",
+			"Type": "fey",
+			"Alignment": "neutral good",
+			"Armor Class": 17,
+			"Armor Type": "natural armor",
+			"Hit Dice": "24d10",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 19,
+				"Dexterity": 14,
+				"Constitution": 20,
+				"Intelligence": 16,
+				"Wisdom": 30,
+				"Charisma": 25
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": true,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": true,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": true,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": true,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+				"charmed",
+				"grappled"
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 120,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Druidic",
+				"Elvish",
+				"Sylvan"
+			],
+			"Challenge": 18,
+			"Experience": 20000,
+			"Features": {
+				"Innate Spellcasting": {
+					"Description": [
+						"Trostani's innate spellcasting ability is Wisdom (spell save DC 24). She can innately cast the following spells, requiring no material components:"
+					],
+					"At will": [
+						"Dispel Magic",
+						"Druidcraft"
+					],
+					"3/day each": [
+						"Bless",
+						"Conjure Animals",
+						"Giant Insect",
+						"Moonbeam",
+						"Plant Growth",
+						"Spike Growth",
+						"Suggestion"
+					],
+					"1/day each": [
+						"Conjure Fey",
+						"Mass Cure Wounds"
+					]
+				},
+				"Legendary Resistance (3/Day)": {
+					"Description": [
+						"If Trostani fails a saving throw, she can choose to succeed instead."
+					]
+				},
+				"Magic Resistance": {
+					"Description": [
+						"Trostani has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				"Magic Weapons": {
+					"Description": [
+						"Trostani's weapon attacks are magical."
+					]
+				},
+				"Speak with Beasts and Plants": {
+					"Description": [
+						"Trostani can communicate with beasts and plants as if they shared a language."
+					]
+				},
+				"Tree Stride": {
+					"Description": [
+						"Once on her turn, Trostani can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"Trostani takes three actions: she uses Constrict and Touch of Order, and she casts a spell with a casting time of 1 action."
+					]
+				},
+				"Constrict": {
+					"Description": [
+						"Melee Weapon Attack: +11 to hit, reach 5 ft., one creature. Hit: 15 (3d6 + 5) bludgeoning damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained. Trostani can grapple no more than three targets at a time."
+					]
+				},
+				"Touch of Order": {
+					"Description": [
+						"Melee Spell Attack: +16 to hit. reach 5 ft., one creature. Hit: 23 (3d8 + 10) radiant damage, and Trostani can choose one magic item she can see in the target's possession. Unless it's an artifact, the item's magic is suppressed until the start of Trostani's next turn."
+					]
+				},
+				"Wrath of Mat'Selesnya (Recharge 5-6).": {
+					"Description": [
+						"Trostani conjures a momentary whirl of branches and vines at a point she can see within 60 feet of her. Each creature in a 30-foot cube on that point must make a DC 24 Dexterity saving throw, taking 21 (6d6) bludgeoning damage and 21 (6d6) slashing damage on a failed save, or half as much damage on a successful one."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"Trostani can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end ofanother creature's turn. Trostani regains spent legendary actions at the start of her turn."
+				],
+				"Voice of Harmony": {
+					"Description": [
+						"Trostani makes one melee attack, with advantage on the attack roll."
+					]
+				},
+				"Voice of Life": {
+					"Description": [
+						"Trostani bestows 20 temporary hit points on another creature she can see within 120 feet of her."
+					]
+				},
+				"Voice of Order.": {
+					"Description": [
+						"Trostani casts dispel magic."
+					]
+				},
+				"Chorus of the Conclave (Costs 2 Actions)": {
+					"Description": [
+						"Trostani casts suggestion. This counts as one of her daily uses of the spell."
+					]
+				},
+				"Awaken Grove Guardians (Costs 3 Actions)": {
+					"Description": [
+						"Trostani animates one or two trees she can see within 120 feet of her, causing them to uproot themselves and become awakened trees (see the Monster Manual for their stat blocks) for 1 minute or until Trostani uses a bonus action to end the effect. These trees understand Druidic and obey Trostani's spoken commands, but can't speak. If she issues no commands to them, the trees do nothing but follow her and take the Dodge action."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 252
+		},
+		"Horn Caller": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "lawful good",
+			"Armor Class": 13,
+			"Armor Type": "hide armor",
+			"Hit Dice": "6d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 13,
+				"Dexterity": 12,
+				"Constitution": 14,
+				"Intelligence": 10,
+				"Wisdom": 14,
+				"Charisma": 13
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": true,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": true,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common plus any one language"
+			],
+			"Challenge": 1,
+			"Experience": 200,
+			"Features": {
+				"Innate Spellcasting": {
+					"Description": [
+						"The horncaller's innate spellcasting ability is Wisdom (spell save DC 14). The horncaller can innatelycast the following spells, requiring no material components:"
+					],
+					"1/day each": [
+						"Bless",
+						"Conjure Animals"
+					]
+				},
+				"Speak with Beasts": {
+					"Description": [
+						"The horncaller can communicate with beasts as if they shared a language."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The horncaller makes two melee attacks with its staff and uses One with the Worldsoul"
+					]
+				},
+				"Staff": {
+					"Description": [
+						"Melee Weapon Attack: +3 to hit, reach 5 ft ., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) bludgeoning damage if used with two hands."
+					]
+				},
+				"One with the Worldsoul": {
+					"Description": [
+						"The horncaller chooses one beast it can see within 30 feet of it. If the beast can hear the horncaller, the beast uses its reaction to make one melee attack against a target that the horncaller can see."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 253
+		},
+		"Zegana": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "merfolk",
+			"Alignment": "lawful neutral",
+			"Armor Class": 16,
+			"Armor Type": "natural armor",
+			"Hit Dice": "20d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 40,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 11,
+				"Dexterity": 14,
+				"Constitution": 14,
+				"Intelligence": 20,
+				"Wisdom": 18,
+				"Charisma": 16
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": true,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": true,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": true,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+				"cold",
+				"poison"
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 60,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Elvish",
+				"Merfolk"
+			],
+			"Challenge": 16,
+			"Experience": 15000,
+			"Features": {
+				"Amphibious": {
+					"Description": [
+						"Zegana can breathe air and water."
+					]
+				},
+				"Legendary Resistance (3/Day)": {
+					"Description": [
+						"If Zegana fails a saving throw, she can choose to succeed instead."
+					]
+				},
+				"Magic Resistance": {
+					"Description": [
+						"Zegana has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				"Spellcasting": {
+					"Description": [
+						"Zegana is a 15th-level Simic spellcaster. Her spell· casting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). She has the following wizard spells prepared:"
+					],
+					"Cantrips (At will)": [
+						"Acid Splash",
+						"Druidcraft",
+						"Ray of Frost",
+						"Shape Water"
+					],
+					"1st level (4 slots)": [
+						"Color Spray",
+						"Expeditious Retreat",
+						"Fog Cloud",
+						"Shield"
+					],
+					"2nd level (3 slots)": [
+						"Enlarge/Reduce",
+						"Gust of Wind"
+					],
+					"3rd level (3 slots)": [
+						"Counterspell",
+						"Fly",
+						"Slow"
+					],
+					"4th level (3 slots)": [
+						"Control Water",
+						"Ice Storm",
+						"Polymorph"
+					],
+					"5th level (2 slots)": [
+						"Conjure Elemental",
+						"Creation"
+					],
+					"6th level (1 slot)": [
+						"Move Earth",
+						"Wall of Ice"
+					],
+					"7th level (1 slot)": [
+						"Prismatic Spray",
+						"Teleport"
+					],
+					"8th level (1 slot)": [
+						"Control Weather",
+						"Dominate Monster"
+					]
+				}
+			},
+			"Actions": {
+				"Prime Speaker's Trident": {
+					"Description": [
+						"Melee or Ranged Weapon Attack: +10 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 12 (2d6 + 5) piercing damage, and the trident emits a thunderous boom. Each creature in a 15-foot cube originating from the prongs of the trident must make a DC 18 Constitution saving throw. On a failed save, the creature takes 9 (2d8) thunder damage and is pushed 10 feet away from Zegana. If the creature is underwater, the damage is increased to 13 (3d8). On a successful save, the creature takes half as much damage and isn't pushed."
+					]
+				},
+				"Deluge (Recharge 4-6)": {
+					"Description": [
+						"Zegana conjures a wave of water that crashes down on an area within 120 feet of her. The area can be up to 30 feet long, up to 10 feet wide, and up to 10 feet tall. Each creature in that area must make a DC 18 Dexterity saving throw. On a failed save, a creature takes 18 (4d8) bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone. The water spreads out across the ground, extinguishing unprotected flames it comes in contact with, and then vanishes."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"Zegana can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Zegana regains spent legendary actions at the start of her turn."
+				],
+				"Adaptive Skin": {
+					"Description": [
+						"Zegana gains resistance to one damage type of her choice-acid, fire, lightning, or thunder-until the start of her next turn."
+					]
+				},
+				"Trident": {
+					"Description": [
+						"Zegana makes one melee attack with the Prime Speaker's Trident."
+					]
+				},
+				"Enlarge (Costs 2 Actions)": {
+					"Description": [
+						"Zegana casts enlarge/reduce on herself, using the enlarge option, without expending a spell slot."
+					]
+				},
+				"Deluge (Costs 3 Actions)": {
+					"Description": [
+						"Zegana uses Deluge, if available."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 255
+		},
+		"Biomancer": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"SubType": "any race",
+			"Alignment": "neutral good",
+			"Armor Class": 17,
+			"Armor Type": "splint",
+			"Hit Dice": "17d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 10,
+				"Dexterity": 15,
+				"Constitution": 14,
+				"Intelligence": 20,
+				"Wisdom": 14,
+				"Charisma": 15
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": true,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": true,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common plus any one language"
+			],
+			"Challenge": 10,
+			"Experience": 5900,
+			"Features": {
+				"Bolstering Presence": {
+					"Description": [
+						"The biomancer magically emanates life-giving energy within 30 feet of itself. Any ally of the biomancer that starts its turn there regains 5 (1d10) hit points."
+					]
+				},
+				"Magic Resistance": {
+					"Description": [
+						"The biomancer has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				"Spellcasting": {
+					"Description": [
+						"The biomancer is a 16th-level Simic spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The biomancer has the following wizard spells prepared:"
+					],
+					"Cantrips (At will)": [
+						"Acid Splash",
+						"Light",
+						"Mending",
+						"Poison Spray",
+						"Shocking Grasp"
+					],
+					"1st level (4 slots)": [
+						"Detect Magic",
+						"Grease",
+						"Shield"
+					],
+					"2nd level (3 slots)": [
+						"Alter Self",
+						"Darkvision",
+						"Enlarge/Reduce",
+						"Hold Person"
+					],
+					"3rd level (3 slots)": [
+						"Counterspell",
+						"Dispel Magic",
+						"Haste",
+						"Protection from Energy"
+					],
+					"4th level (3 slots)": [
+						"Confusion",
+						"Conjure Minor Elementals",
+						"Polymorph"
+					],
+					"5th level (2 slots)": [
+						"Cone of Cold",
+						"Creation",
+						"Hold Monster"
+					],
+					"6th level (1 slot)": [
+						"Move Earth",
+						"Wall of Ice"
+					],
+					"7th level (1 slot)": [
+						"Prismatic Spray"
+					],
+					"8th level (1 slot)": [
+						"Control Weather"
+					]
+				}
+			},
+			"Actions": {
+				"Scimitar": {
+					"Description": [
+						"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (ld6 + 2) slashing damage."
+					]
+				}
+			},
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 256
+		}
 	}
 }
