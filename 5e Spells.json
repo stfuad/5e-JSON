@@ -2657,7 +2657,7 @@
 			"Duration":"Concentration, up to 10 minutes",
 			"Description":[
 				"Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it.",
-				"If the point you choose is on an object you are holding or one that isn’t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bow l or a helm, blocks the darkness.",
+				"If the point you choose is on an object you are holding or one that isn’t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.",
 				"If any of this spell’s area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled."
 			],
 			"Book":"Players Handbook",
@@ -5226,7 +5226,7 @@
 			"Level":6,
 			"Casting Time":"10 minutes",
 			"Range":"30 feet",
-			"Components":"V, S, M (a gem-encrusted bow l worth at least 1,000 gp, which the spell consumes)",
+			"Components":"V, S, M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)",
 			"Duration":"Instantaneous",
 			"Description":[
 				"You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don’t set in until this hour is over. Up to twelve creatures can partake of the feast.",
@@ -13314,6 +13314,33 @@
 				"Sorcerer": true,
 				"Warlock": true,
 				"Wizard": true
+			}
+		},
+		"Encode Thoughts": {
+			"School": "Enchantment",
+			"Cantrip": true,
+			"Ritual": false,
+			"Level": 0,
+			"Casting Time": "1 action",
+			"Range": "Self",
+			"Components": "S",
+			"Duration": "Up to 8 hours",
+			"Description": [
+				"Putting a finger to your head, you pull a memory, an idea, or a message from your mind and transform it into a tangible string of glowing energy called a thought strand, which persists for the duration or until you cast this spell again. The thought strand appears in an unoccupied space within 5 feet of you as a Tiny, weightless, semisolid object that can be held and carried like a ribbon. It is otherwise stationary.",
+				"If you cast this spell while concentrating on a spell or an ability that allows you to read or manipulate the thoughts of others (such as detect thoughts or modify memory), you can transform the thoughts or memories you read, rather than your own, into a thought strand.",
+				"Casting this spell while holding a thought strand allows you to instantly receive whatever memory. idea, or message the thought strand contains. (Casting detect thoughts on the strand has the same effect.)"
+			],
+			"Book": "Guildmaster's Guide to Ravnica",
+			"Page": 47,
+			"Classes": {
+				"Bard": false,
+				"Cleric": false,
+				"Druid": false,
+				"Paladin": false,
+				"Ranger": false,
+				"Sorcerer": false,
+				"Warlock": false,
+				"Wizard": false
 			}
 		}
 	}

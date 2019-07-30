@@ -86271,7 +86271,7 @@
 						"Rows": [
 							{
 								"d8": 1,
-								"Major Adaptation": "Acidic Skin# Any creature that touches the krasis or hits it with a melee attack while within 5 feet of it takes 2 (1d4) acid damage (category 1), 4 (1d8) acid damage (category 2), or 6 (1 d12) acid damage (category 3)."
+								"Major Adaptation": "Acidic Skin# Any creature that touches the krasis or hits it with a melee attack while within 5 feet of it takes 2 (1d4) acid damage (category 1), 4 (1d8) acid damage (category 2), or 6 (1d12) acid damage (category 3)."
 							},
 							{
 								"d8": 2,
@@ -86465,7 +86465,7 @@
 						"Rows": [
 							{
 								"d8": 1,
-								"Major Adaptation": "Acidic Skin# Any creature that touches the krasis or hits it with a melee attack while within 5 feet of it takes 2 (1d4) acid damage (category 1), 4 (1d8) acid damage (category 2), or 6 (1 d12) acid damage (category 3)."
+								"Major Adaptation": "Acidic Skin# Any creature that touches the krasis or hits it with a melee attack while within 5 feet of it takes 2 (1d4) acid damage (category 1), 4 (1d8) acid damage (category 2), or 6 (1d12) acid damage (category 3)."
 							},
 							{
 								"d8": 2,
@@ -86659,7 +86659,7 @@
 						"Rows": [
 							{
 								"d8": 1,
-								"Major Adaptation": "Acidic Skin# Any creature that touches the krasis or hits it with a melee attack while within 5 feet of it takes 2 (1d4) acid damage (category 1), 4 (1d8) acid damage (category 2), or 6 (1 d12) acid damage (category 3)."
+								"Major Adaptation": "Acidic Skin# Any creature that touches the krasis or hits it with a melee attack while within 5 feet of it takes 2 (1d4) acid damage (category 1), 4 (1d8) acid damage (category 2), or 6 (1d12) acid damage (category 3)."
 							},
 							{
 								"d8": 2,
@@ -93194,6 +93194,1987 @@
 			},
 			"Book": "Guildmaster's Guide to Ravnica",
 			"Page": 256
+		},
+		"Homarid": {
+			"Size": "Medium",
+			"Type": "monstrosity",
+			"Alignment": "chaotic evil",
+			"Armor Class": 14,
+			"Armor Type": "natural armor",
+			"Hit Dice": "8d8",
+			"Speed": {
+				"Walk": 20,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 30,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 13,
+				"Dexterity": 8,
+				"Constitution": 13,
+				"Intelligence": 9,
+				"Wisdom": 14,
+				"Charisma": 10
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": true,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 60,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Homarid"
+			],
+			"Challenge": 1,
+			"Experience": 200,
+			"Features": {
+				"Amphibious": {
+					"Description": [
+						"The homarid can breathe air and water."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The homarid makes two claw attacks"
+					]
+				},
+				"Claw": {
+					"Description": [
+						"Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, and the target is grappled (escape DC 11). The homarid has two claws, each of which can grapple only one target."
+					]
+				}
+			},
+			"Book": "Plane Shift Dominaria",
+			"Page": 15
+		},
+		"Kavu Predator": {
+			"Size": "Large",
+			"Type": "beast",
+			"Alignment": "unaligned",
+			"Armor Class": 15,
+			"Armor Type": "natural armor",
+			"Hit Dice": "10d10",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 30,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 18,
+				"Dexterity": 12,
+				"Constitution": 15,
+				"Intelligence": 6,
+				"Wisdom": 14,
+				"Charisma": 8
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": true,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 60,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"understands Elvish"
+			],
+			"Challenge": 2,
+			"Experience": 450,
+			"Features": {
+				"Pounce": {
+					"Description": [
+						"If the kavu moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the kavu can make one bite attack against it as a bonus action."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The kavu makes two claw attacks."
+					]
+				},
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage."
+					]
+				},
+				"Claw": {
+					"Description": [
+						"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage."
+					]
+				}
+			},
+			"Book": "Plane Shift Dominaria",
+			"Page": 24
+		},
+		"Steel Leaf Kavu": {
+			"Size": "Large",
+			"Type": "beast",
+			"Alignment": "unaligned",
+			"Armor Class": 16,
+			"Armor Type": "natural armor",
+			"Hit Dice": "15d10",
+			"Speed": {
+				"Walk": 4,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 20,
+				"Dexterity": 12,
+				"Constitution": 18,
+				"Intelligence": 6,
+				"Wisdom": 14,
+				"Charisma": 8
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+                
+			],
+			"Condition Immunities": [
+                
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 60,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"understands Elvish"
+			],
+			"Challenge": 4,
+			"Experience": 1100,
+			"Features": {
+				"Raking Charge": {
+					"Description": [
+						"If the kavu moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the kavu can make one rend attack against it as a bonus action."
+					]
+				}
+			},
+			"Actions": {
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage."
+					]
+				},
+				"Rend": {
+					"Description": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one prone creature. Hit: 23 (4d8 + 5) slashing damage."
+					]
+				}
+			},
+			"Book": "Plane Shift Dominaria",
+			"Page": 15
+		},
+		"Criosphinx": {
+			"Size": "Large",
+			"Type": "monstrosity",
+			"Alignment": "neutral",
+			"Armor Class": 18,
+			"Armor Type": "natural armor",
+			"Hit Dice": "24d10",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 60,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 18,
+				"Dexterity": 15,
+				"Constitution": 18,
+				"Intelligence": 16,
+				"Wisdom": 16,
+				"Charisma": 16
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": false,
+				"History": true,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": true,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"Damage Immunities": [
+                "psychic"
+			],
+			"Condition Immunities": [
+				"charmed",
+				"frightened"
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 120,
+				"Blind": false
+			},
+			"Languages": [
+				"understands Common",
+				"Sphinx"
+			],
+			"Challenge": 13,
+			"Experience": 10000,
+			"Features": {
+				"Inscrutable": {
+					"Description": [
+						"The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx’s intentions or sincerity have disadvantage."
+					]
+				},
+				"Magic Weapons": {
+					"Description": [
+						"The sphinx’s weapon attacks are magical."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The sphinx makes a ram attack and two claw attacks."
+					]
+				},
+				"Ram": {
+					"Description": [
+						"Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) bludgeoning damage."
+					]
+				},
+				"Claw": {
+					"Description": [
+						"Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The sphinx regains spent legendary actions at the start of its turn."
+				],
+				"Ram Attack": {
+					"Description": [
+						"The sphinx makes one ram attack."
+					]
+				},
+				"Teleport (Costs 2 Actions)": {
+					"Description": [
+						"The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see."
+					]
+				}
+			},
+			"Book": "Plane Shift Amonkhet",
+			"Page": 32
+		},
+		"Manticore, Heart-Piercer": {
+			"Size": "Large",
+			"Type": "monstrosity",
+			"Alignment": "chaotic evil",
+			"Armor Class": 15,
+			"Armor Type": "natural armor",
+			"Hit Dice": "16d10",
+			"Speed": {
+				"Walk": 50,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 19,
+				"Dexterity": 14,
+				"Constitution": 16,
+				"Intelligence": 5,
+				"Wisdom": 12,
+				"Charisma": 6
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+		
+			],
+			"Damage Resistances": [
+		
+			],
+			"Damage Immunities": [
+				
+			],
+			"Condition Immunities": [
+				
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 60,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+			
+			],
+			"Challenge": 5,
+			"Experience": 1800,
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The manticore makes two attacks, one with its bite and one with its claws."
+					]
+				},
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage."
+					]
+				},
+				"Claws": {
+					"Description": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage."
+					]
+				},
+				"Stinger": {
+					"Description": [
+						"Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) piercing damage. The target must make a DC 14 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one."
+					]
+				}
+			},
+			"Book": "Plane Shift Dominaria",
+			"Page": 15
+		},
+		"Serpopard": {
+			"Size": "Large",
+			"Type": "beast",
+			"Alignment": "unaligned",
+			"Armor Class": 12,
+			"Hit Dice": "7d10",
+			"Speed": {
+				"Walk": 40,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 18,
+				"Dexterity": 14,
+				"Constitution": 15,
+				"Intelligence": 3,
+				"Wisdom": 12,
+				"Charisma": 8
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": true,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+		
+			],
+			"Damage Resistances": [
+		
+			],
+			"Damage Immunities": [
+				
+			],
+			"Condition Immunities": [
+				
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+			
+			],
+			"Challenge": 3,
+			"Experience": 700,
+			"Features": {
+				"Keen Smell": {
+					"Description": [
+						"The serpopard has advantage on Wisdom (Perception) checks that rely on smell."
+					]
+				},
+				"Pounce": {
+					"Description": [
+						"If the serpopard moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the serpopard can make one bite attack against it as a bonus action."
+					]
+				}
+			},
+			"Actions": {
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage, and the target must make a DC 14 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one."
+					]
+				}
+			},
+			"Book": "Plane Shift Dominaria",
+			"Page": 37
+		},
+		"Frilled Death Spitter": {
+			"Size": "Small",
+			"Type": "beast",
+			"Alignment": "unaligned",
+			"Armor Class": 13,
+			"Hit Dice": "4d6",
+			"Speed": {
+				"Walk": 40,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 12,
+				"Dexterity": 16,
+				"Constitution": 13,
+				"Intelligence": 4,
+				"Wisdom": 12,
+				"Charisma": 6
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+		
+			],
+			"Damage Resistances": [
+		
+			],
+			"Damage Immunities": [
+				
+			],
+			"Condition Immunities": [
+				
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+			
+			],
+			"Challenge": "1/2",
+			"Experience": 100,
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The deathspitter makes three attacks: one with its bite and two with its claws."
+					]
+				},
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+					]
+				},
+				"Claw": {
+					"Description": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
+					]
+				},
+				"Spit Poison": {
+					"Description": [
+						"Ranged Weapon Attack: +5 to hit, range 15/30 ft., one target. Hit: The target must make a DC 13 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. In addition, a creature that fails its saving throw is blinded until the end of the deathspitter’s next turn."
+					]
+				}
+			},
+			"Book": "Plane Shift Ixalan",
+			"Page": 30
+		},
+		"Gisath, Sun's Avatar": {
+			"Size": "Gargantuan",
+			"Type": "beast",
+			"Alignment": "unaligned",
+			"Armor Class": 16,
+			"Armor Type": "natural armor",
+			"Hit Dice": "14d20",
+			"Speed": {
+				"Walk": 40,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 24,
+				"Dexterity": 12,
+				"Constitution": 18,
+				"Intelligence": 12,
+				"Wisdom": 16,
+				"Charisma": 6
+			},
+			"Saving Throws": {
+				"Strength": true,
+				"Dexterity": false,
+				"Constitution": true,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+		
+			],
+			"Damage Resistances": [
+		
+			],
+			"Damage Immunities": [
+				
+			],
+			"Condition Immunities": [
+				
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+			
+			],
+			"Challenge": 10,
+			"Experience": 5900,
+			"Features": {
+				"Legendary Resistance (3/Day)": {
+					"Description": [
+						"If Gishath fails a saving throw, it can choose to succeed instead."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"Gishath makes two attacks: one with its bite and one with its stomp or tail. It can’t make both attacks against the same target."
+					]
+				},
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 39 (5d12 + 7) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or it is grappled (escape DC 19). Until this grapple ends, the target is restrained, and Gishath can’t bite another target."
+					]
+				},
+				"Swallow": {
+					"Description": [
+						"Gishath makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside Gishath, and it takes 21 (6d6) acid damage at the start of each of Gishath’s turns.",
+						"If Gishath takes 30 damage or more on a single turn from a creature inside it, it must succeed on a DC 18 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If Gishath dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone."
+					]
+				},
+				"Stomp": {
+					"Description": [
+						"Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 29 (5d8 + 7) bludgeoning damage, and the target must succeed on a DC 19 Strength saving throw or be knocked prone."
+					]
+				},
+				"Tail": {
+					"Description": [
+						"Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 25 (4d8 + 7) bludgeoning damage."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"Gishath can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Gishath regains spent legendary actions at the start of its turn."
+				],
+				"Attack": {
+					"Description": [
+						"Gishath makes one stomp or tail attack."
+					]
+				},
+				"Roar (Costs 2 Actions)": {
+					"Description": [
+						"Each creature that is within 120 feet of Gishath and can hear it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to Gishath’s Roar for the next 24 hours."
+					]
+				}
+			},
+			"Book": "Plane Shift Ixalan",
+			"Page": 32
+		},
+		"Zetalpa, Primal Dawn": {
+			"Size": "Gargantuan",
+			"Type": "monstrosity",
+			"SubType": "titan",
+			"Alignment": "unaligned",
+			"Armor Class": 25,
+			"Armor Type": "natural armor",
+			"Hit Dice": "33d20",
+			"Speed": {
+				"Walk": 20,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 60,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 30,
+				"Dexterity": 11,
+				"Constitution": 30,
+				"Intelligence": 3,
+				"Wisdom": 11,
+				"Charisma": 11
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": true,
+				"Wisdom": true,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+		
+			],
+			"Damage Resistances": [
+				"radiant"
+			],
+			"Damage Immunities": [
+				"fire",
+				"poison",
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"Condition Immunities": [
+				
+			],
+			"Senses": {
+				"Blindsight": 120,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+			
+			],
+			"Challenge": 30,
+			"Experience": 155000,
+			"Features": {
+				"Legendary Resistance (3/Day)": {
+					"Description": [
+						"If the elder dinosaur fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				"Magic Resistance": {
+					"Description": [
+						"The elder dinosaur has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				"Siege Monster": {
+					"Description": [
+						"The elder dinosaur deals double damage to objects and structures."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The elder dinosaur can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, and two with its wings. It can use its Swallow instead of its bite."
+					]
+				},
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the elder dinosaur can’t bite another target."
+					]
+				},
+				"Claw": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 15 ft., one target. Hit: 28 (4d8 + 10) slashing damage."
+					]
+				},
+				"Wing": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 20 ft., one target. Hit: 28 (4d8 + 10) bludgeoning damage."
+					]
+				},
+				"Frightful Presence": {
+					"Description": [
+						"Each creature of the elder dinosaur’s choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the elder dinosaur is within line of sight, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the elder dinosaur’s Frightful Presence for the next 24 hours."
+					]
+				},
+				"Swallow": {
+					"Description": [
+						"The elder dinosaur makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, that creature takes the bite’s damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the elder dinosaur, and it takes 56 (16d6) acid damage at the start of each of the elder dinosaur’s turns.",
+						"If the elder dinosaur takes 60 damage or more on a single turn from a creature inside it, it must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the elder dinosaur dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"The elder dinosaur can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The elder dinosaur regains spent legendary actions at the start of its turn."
+				],
+				"Attack": {
+					"Description": [
+						"The elder dinosaur makes one claw attack, tail attack, wing attack, or flipper attack."
+					]
+				},
+				"Move": {
+					"Description": [
+						"The elder dinosaur moves up to half its speed."
+					]
+				},
+				"Chomp (Costs 2 Actions)": {
+					"Description": [
+						"The elder dinosaur makes one bite attack or uses its Swallow."
+					]
+				}
+			},
+			"Book": "Plane Shift Ixalan",
+			"Page": 34
+		},
+		"Nezahal, Primal Tide": {
+			"Size": "Gargantuan",
+			"Type": "monstrosity",
+			"SubType": "titan",
+			"Alignment": "unaligned",
+			"Armor Class": 25,
+			"Armor Type": "natural armor",
+			"Hit Dice": "33d20",
+			"Speed": {
+				"Walk": 20,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 60,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 30,
+				"Dexterity": 11,
+				"Constitution": 30,
+				"Intelligence": 3,
+				"Wisdom": 11,
+				"Charisma": 11
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": true,
+				"Wisdom": true,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+		
+			],
+			"Damage Resistances": [
+		
+			],
+			"Damage Immunities": [
+				"fire",
+				"poison",
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"Condition Immunities": [
+				
+			],
+			"Senses": {
+				"Blindsight": 120,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+			
+			],
+			"Challenge": 30,
+			"Experience": 155000,
+			"Features": {
+				"Hold Breath": {
+					"Description": [
+						"The elder dinosaur can hold its breath for 4 hours."
+					]
+				},
+				"Legendary Resistance (3/Day)": {
+					"Description": [
+						"If the elder dinosaur fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				"Magic Resistance": {
+					"Description": [
+						"The elder dinosaur has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				"Siege Monster": {
+					"Description": [
+						"The elder dinosaur deals double damage to objects and structures."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The elder dinosaur can use its Frightful Presence. It then makes five attacks: one with its bite and four with its flippers. No two flipper attacks can target the same creature. It can use its Swallow instead of its bite."
+					]
+				},
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the elder dinosaur can’t bite another target."
+					]
+				},
+				"Flipper": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 5 ft., one target. Hit: 28 (4d8 + 10) bludgeoning damage."
+					]
+				},
+				"Frightful Presence": {
+					"Description": [
+						"Each creature of the elder dinosaur’s choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the elder dinosaur is within line of sight, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the elder dinosaur’s Frightful Presence for the next 24 hours."
+					]
+				},
+				"Swallow": {
+					"Description": [
+						"The elder dinosaur makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, that creature takes the bite’s damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the elder dinosaur, and it takes 56 (16d6) acid damage at the start of each of the elder dinosaur’s turns.",
+						"If the elder dinosaur takes 60 damage or more on a single turn from a creature inside it, it must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the elder dinosaur dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"The elder dinosaur can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The elder dinosaur regains spent legendary actions at the start of its turn."
+				],
+				"Attack": {
+					"Description": [
+						"The elder dinosaur makes one claw attack, tail attack, wing attack, or flipper attack."
+					]
+				},
+				"Move": {
+					"Description": [
+						"The elder dinosaur moves up to half its speed."
+					]
+				},
+				"Chomp (Costs 2 Actions)": {
+					"Description": [
+						"The elder dinosaur makes one bite attack or uses its Swallow."
+					]
+				}
+			},
+			"Book": "Plane Shift Ixalan",
+			"Page": 34
+		},
+		"Etali, Primal Storm": {
+			"Size": "Gargantuan",
+			"Type": "monstrosity",
+			"SubType": "titan",
+			"Alignment": "unaligned",
+			"Armor Class": 25,
+			"Armor Type": "natural armor",
+			"Hit Dice": "33d20",
+			"Speed": {
+				"Walk": 40,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 30,
+				"Dexterity": 11,
+				"Constitution": 30,
+				"Intelligence": 3,
+				"Wisdom": 11,
+				"Charisma": 11
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": true,
+				"Wisdom": true,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+		
+			],
+			"Damage Resistances": [
+		
+			],
+			"Damage Immunities": [
+				"fire",
+				"poison",
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"Condition Immunities": [
+				
+			],
+			"Senses": {
+				"Blindsight": 120,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+			
+			],
+			"Challenge": 30,
+			"Experience": 155000,
+			"Features": {
+				"Lightning Storm": {
+					"Description": [
+						"The elder dinosaur is always accompanied by a raging thunderstorm similar to the effect of a call lightning spell. A storm cloud in the shape of a cylinder that is 10 feet tall with a 60-foot radius instantly forms 100 feet in the air over the elder dinosaur when it is angered or becomes violent, as long as it is outdoors. On each of its turns, as an action, the elder dinosaur can choose a point it can see within 120 feet of it. A bolt of lightning flashes down from the cloud to that point. Each creature within 10 feet of that point must make a DC 20 Dexterity saving throw, taking 21 (6d6) lightning damage on a failed save, or half as much damage on a successful one."
+					]
+				},
+				"Legendary Resistance (3/Day)": {
+					"Description": [
+						"If the elder dinosaur fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				"Magic Resistance": {
+					"Description": [
+						"The elder dinosaur has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				"Siege Monster": {
+					"Description": [
+						"The elder dinosaur deals double damage to objects and structures."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The elder dinosaur can use its Frightful Presence and call down two lightning strikes from its Lightning Storm. It then makes three attacks: one with its bite and two with its claws."
+					]
+				},
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the elder dinosaur can’t bite another target."
+					]
+				},
+				"Claw": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 15 ft., one target. Hit: 28 (4d8 + 10) slashing damage."
+					]
+				},
+				"Frightful Presence": {
+					"Description": [
+						"Each creature of the elder dinosaur’s choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the elder dinosaur is within line of sight, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the elder dinosaur’s Frightful Presence for the next 24 hours."
+					]
+				},
+				"Swallow": {
+					"Description": [
+						"The elder dinosaur makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, that creature takes the bite’s damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the elder dinosaur, and it takes 56 (16d6) acid damage at the start of each of the elder dinosaur’s turns.",
+						"If the elder dinosaur takes 60 damage or more on a single turn from a creature inside it, it must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the elder dinosaur dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"The elder dinosaur can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The elder dinosaur regains spent legendary actions at the start of its turn."
+				],
+				"Attack": {
+					"Description": [
+						"The elder dinosaur makes one claw attack, tail attack, wing attack, or flipper attack."
+					]
+				},
+				"Move": {
+					"Description": [
+						"The elder dinosaur moves up to half its speed."
+					]
+				},
+				"Chomp (Costs 2 Actions)": {
+					"Description": [
+						"The elder dinosaur makes one bite attack or uses its Swallow."
+					]
+				}
+			},
+			"Book": "Plane Shift Ixalan",
+			"Page": 34
+		},
+		"Tetzimoc, Primal Death": {
+			"Size": "Gargantuan",
+			"Type": "monstrosity",
+			"SubType": "titan",
+			"Alignment": "unaligned",
+			"Armor Class": 25,
+			"Armor Type": "natural armor",
+			"Hit Dice": "33d20",
+			"Speed": {
+				"Walk": 40,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 30,
+				"Dexterity": 11,
+				"Constitution": 30,
+				"Intelligence": 3,
+				"Wisdom": 11,
+				"Charisma": 11
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": true,
+				"Wisdom": true,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+		
+			],
+			"Damage Resistances": [
+		
+			],
+			"Damage Immunities": [
+				"fire",
+				"poison",
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"Condition Immunities": [
+				
+			],
+			"Senses": {
+				"Blindsight": 120,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+			
+			],
+			"Challenge": 30,
+			"Experience": 155000,
+			"Features": {
+				"Spiny Carapace": {
+					"Description": [
+						"The elder dinosaur is covered in an armored carapace bristling with thick, sharp spines. Any creature that hits or misses Tetzimoc with a melee attack takes 7 (2d6) piercing damage."
+					]
+				},
+				"Tail Spike Regrowth": {
+					"Description": [
+						"The elder dinosaur has forty tail spikes. Used spikes regrow when the elder dinosaur finishes a long rest."
+					]
+				},
+				"Legendary Resistance (3/Day)": {
+					"Description": [
+						"If the elder dinosaur fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				"Magic Resistance": {
+					"Description": [
+						"The elder dinosaur has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				"Siege Monster": {
+					"Description": [
+						"The elder dinosaur deals double damage to objects and structures."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The elder dinosaur can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its tail spikes in place of any or all of those attacks, and it can use its Swallow instead of its bite."
+					]
+				},
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the elder dinosaur can’t bite another target."
+					]
+				},
+				"Claw": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 15 ft., one target. Hit: 28 (4d8 + 10) slashing damage."
+					]
+				},
+				"Horns": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 32 (4d10 + 10) piercing damage."
+					]
+				},
+				"Tail": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 20 ft., one target. Hit: 24 (4d6 + 10) piercing damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone."
+					]
+				},
+				"Tail Spikes": {
+					"Description": [
+						"Ranged Weapon Attack: +9 to hit, range 100/300 ft., two targets. Hit: 7 (2d6) piercing damage."
+					]
+				},
+				"Frightful Presence": {
+					"Description": [
+						"Each creature of the elder dinosaur’s choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the elder dinosaur is within line of sight, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the elder dinosaur’s Frightful Presence for the next 24 hours."
+					]
+				},
+				"Swallow": {
+					"Description": [
+						"The elder dinosaur makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, that creature takes the bite’s damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the elder dinosaur, and it takes 56 (16d6) acid damage at the start of each of the elder dinosaur’s turns.",
+						"If the elder dinosaur takes 60 damage or more on a single turn from a creature inside it, it must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the elder dinosaur dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"The elder dinosaur can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The elder dinosaur regains spent legendary actions at the start of its turn."
+				],
+				"Attack": {
+					"Description": [
+						"The elder dinosaur makes one claw attack, tail attack, wing attack, or flipper attack."
+					]
+				},
+				"Move": {
+					"Description": [
+						"The elder dinosaur moves up to half its speed."
+					]
+				},
+				"Chomp (Costs 2 Actions)": {
+					"Description": [
+						"The elder dinosaur makes one bite attack or uses its Swallow."
+					]
+				}
+			},
+			"Book": "Plane Shift Ixalan",
+			"Page": 34
+		},
+		"Ghalta, Primal Hunter": {
+			"Size": "Gargantuan",
+			"Type": "monstrosity",
+			"SubType": "titan",
+			"Alignment": "unaligned",
+			"Armor Class": 25,
+			"Armor Type": "natural armor",
+			"Hit Dice": "33d20",
+			"Speed": {
+				"Walk": 40,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 30,
+				"Dexterity": 11,
+				"Constitution": 30,
+				"Intelligence": 3,
+				"Wisdom": 11,
+				"Charisma": 11
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": true,
+				"Wisdom": true,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+		
+			],
+			"Damage Resistances": [
+		
+			],
+			"Damage Immunities": [
+				"fire",
+				"poison",
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"Condition Immunities": [
+				
+			],
+			"Senses": {
+				"Blindsight": 120,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+			
+			],
+			"Challenge": 30,
+			"Experience": 155000,
+			"Features": {
+				"Legendary Resistance (3/Day)": {
+					"Description": [
+						"If the elder dinosaur fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				"Magic Resistance": {
+					"Description": [
+						"The elder dinosaur has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				"Siege Monster": {
+					"Description": [
+						"The elder dinosaur deals double damage to objects and structures."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The elder dinosaur can use its Frightful Presence. It then makes three attacks: one with its bite, one with its stomp, and one with its tail. It can use its Swallow instead of its bite."
+					]
+				},
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 62 (8d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the elder dinosaur can’t bite another target."
+					]
+				},
+				"Stomp": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 5 ft., one target. Hit: 46 (8d8 + 10) bludgeoning damage."
+					]
+				},
+				"Tail": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 20 ft., one target. Hit: 38 (8d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone."
+					]
+				},
+				"Frightful Presence": {
+					"Description": [
+						"Each creature of the elder dinosaur’s choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the elder dinosaur is within line of sight, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the elder dinosaur’s Frightful Presence for the next 24 hours."
+					]
+				},
+				"Swallow": {
+					"Description": [
+						"The elder dinosaur makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, that creature takes the bite’s damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the elder dinosaur, and it takes 56 (16d6) acid damage at the start of each of the elder dinosaur’s turns.",
+						"If the elder dinosaur takes 60 damage or more on a single turn from a creature inside it, it must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the elder dinosaur dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"The elder dinosaur can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The elder dinosaur regains spent legendary actions at the start of its turn."
+				],
+				"Attack": {
+					"Description": [
+						"The elder dinosaur makes one claw attack, tail attack, wing attack, or flipper attack."
+					]
+				},
+				"Move": {
+					"Description": [
+						"The elder dinosaur moves up to half its speed."
+					]
+				},
+				"Chomp (Costs 2 Actions)": {
+					"Description": [
+						"The elder dinosaur makes one bite attack or uses its Swallow."
+					]
+				}
+			},
+			"Book": "Plane Shift Ixalan",
+			"Page": 34
+		},
+		"Zacma, Primal Calamity": {
+			"Size": "Gargantuan",
+			"Type": "monstrosity",
+			"SubType": "titan",
+			"Alignment": "unaligned",
+			"Armor Class": 25,
+			"Armor Type": "natural armor",
+			"Hit Dice": "33d20",
+			"Speed": {
+				"Walk": 40,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 30,
+				"Dexterity": 11,
+				"Constitution": 30,
+				"Intelligence": 3,
+				"Wisdom": 11,
+				"Charisma": 11
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": true,
+				"Wisdom": true,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+		
+			],
+			"Damage Resistances": [
+		
+			],
+			"Damage Immunities": [
+				"fire",
+				"poison",
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"Condition Immunities": [
+				
+			],
+			"Senses": {
+				"Blindsight": 120,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+			
+			],
+			"Challenge": 30,
+			"Experience": 155000,
+			"Features": {
+				"Legendary Resistance (3/Day)": {
+					"Description": [
+						"If the elder dinosaur fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				"Magic Resistance": {
+					"Description": [
+						"The elder dinosaur has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				"Siege Monster": {
+					"Description": [
+						"The elder dinosaur deals double damage to objects and structures."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The elder dinosaur can use its Frightful Presence. It then makes five attacks: three with its bite, one with its stomp, and one with its tail. It can use its Swallow instead of a bite."
+					]
+				},
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 10 ft., one target. Hit: 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained. If the elder dinosaur has three targets restrained in this way, it can’t bite another target."
+					]
+				},
+				"Stomp": {
+					"Description": [
+						"Melee Weapon Attack: +19 to hit, reach 5 ft., one target. Hit: 46 (8d8 + 10) bludgeoning damage."
+					]
+				},
+				"Frightful Presence": {
+					"Description": [
+						"Each creature of the elder dinosaur’s choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the elder dinosaur is within line of sight, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the elder dinosaur’s Frightful Presence for the next 24 hours."
+					]
+				},
+				"Swallow": {
+					"Description": [
+						"The elder dinosaur makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, that creature takes the bite’s damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the elder dinosaur, and it takes 56 (16d6) acid damage at the start of each of the elder dinosaur’s turns.",
+						"If the elder dinosaur takes 60 damage or more on a single turn from a creature inside it, it must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of it. If the elder dinosaur dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone."
+					]
+				}
+			},
+			"Legendary Actions": {
+				"Description": [
+					"The elder dinosaur can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The elder dinosaur regains spent legendary actions at the start of its turn."
+				],
+				"Attack": {
+					"Description": [
+						"The elder dinosaur makes one claw attack, tail attack, wing attack, or flipper attack."
+					]
+				},
+				"Move": {
+					"Description": [
+						"The elder dinosaur moves up to half its speed."
+					]
+				},
+				"Chomp (Costs 2 Actions)": {
+					"Description": [
+						"The elder dinosaur makes one bite attack or uses its Swallow."
+					]
+				}
+			},
+			"Book": "Plane Shift Ixalan",
+			"Page": 34
+		},
+		"Sunbird": {
+			"Size": "Gargantuan",
+			"Type": "monstrosity",
+			"Alignment": "unaligned",
+			"Armor Class": 17,
+			"Armor Type": "natural armor",
+			"Hit Dice": "18d20",
+			"Speed": {
+				"Walk": 20,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 120,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 28,
+				"Dexterity": 10,
+				"Constitution": 20,
+				"Intelligence": 13,
+				"Wisdom": 14,
+				"Charisma": 15
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": true,
+				"Constitution": true,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+		
+			],
+			"Damage Resistances": [
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"Damage Immunities": [
+				"fire"
+			],
+			"Condition Immunities": [
+				
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 120,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Giant Owl",
+				"understands Common but can’t speak it"
+			],
+			"Challenge": 13,
+			"Experience": 10000,
+			"Features": {
+				"Death Throes": {
+					"Description": [
+						"When the sunbird dies, it explodes, and each creature within 30 feet of it must make a DC 18 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren’t being worn or carried. The sunbird’s body turns to ash, but an egg is left where the sunbird was."
+					]
+				},
+				"Fire Aura": {
+					"Description": [
+						"At the start of each of the sunbird’s turns, each creature within 5 feet of it takes 11 (2d10) fire damage, and flammable objects in the area that aren’t being worn or carried ignite. A creature that touches the sunbird or hits it with a melee attack while within 5 feet of it takes 11 (2d10) fire damage. The aura also sheds bright light in a 60-foot radius and dim light for an additional 60 feet."
+					]
+				},
+				"Flyby": {
+					"Description": [
+						"The sunbird doesn’t provoke opportunity attacks when it flies out of an enemy’s reach."
+					]
+				},
+				"Keen Hearing and Sight": {
+					"Description": [
+						"The sunbird has advantage on Wisdom (Perception) checks that rely on hearing or sight."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The sunbird makes two talon attacks."
+					]
+				},
+				"Talon": {
+					"Description": [
+						"Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 16 (2d6 + 9) slashing damage plus 14 (4d6) fire damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained, and the sunbird can’t attack another target with that talon. A grappled creature takes 11 (2d10) fire damage at the start of each of the sunbird’s turns."
+					]
+				}
+			},
+			"Book": "Plane Shift Ixalan",
+			"Page": 35
+		},
+		"Chupacabra": {
+			"Size": "Medium",
+			"Type": "monstrosity",
+			"Alignment": "neutral evil",
+			"Armor Class": 14,
+			"Armor Type": "natural armor",
+			"Hit Dice": "6d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 15,
+				"Dexterity": 14,
+				"Constitution": 16,
+				"Intelligence": 6,
+				"Wisdom": 13,
+				"Charisma": 9
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": true,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+		
+			],
+			"Damage Resistances": [
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"Damage Immunities": [
+				
+			],
+			"Condition Immunities": [
+				
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 120,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+			
+			],
+			"Challenge": 3,
+			"Experience": 700,
+			"Features": {
+				"Sunlight Sensitivity": {
+					"Description": [
+						"While in sunlight, the chupacabra has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+					]
+				}
+			},
+			"Actions": {
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone."
+					]
+				},
+				"Drain Blood": {
+					"Description": [
+						"Melee Weapon Attack: +4 to hit, reach 5 ft., one creature that is prone, incapacitated, or restrained. Hit: 5 (1d6 + 2) necrotic damage. Additionally, the target’s hit point maximum is reduced by an amount equal to the damage taken, and the chupacabra regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
+					]
+				}
+			},
+			"Reactions": {
+				"Pin": {
+					"Description": [
+						"If a creature within 5 feet of the chupacabra stands up, the chupacabra can use its reaction to make a bite attack."
+					]
+				}
+			},
+			"Book": "Plane Shift Ixalan",
+			"Page": 37
 		}
 	}
 }

@@ -1,5 +1,336 @@
 ﻿{	
 	"Races": {
+		"Aarakocra": {
+			"Aarakocra Traits": {
+				"Ability Score Increase": [
+					"Your Dexterity score increases by 2, and your wisdom score increases by 1."
+				],
+				"Age": [
+					"Aaracokra reach roach maturity by age 3. Compared to humans, aarakocra don't usually live longer than 30 years."
+				],
+				"Alignment": [
+					"Most aarakocra are good and rarely choose sides when it comes to law and chaos. Tribal leaders and warriors might be lawful, while explorers and adventurers might tend toward chaotic."
+				],
+				"Size": [
+					"Aarakocra are about 5 feet tall. They have thin lightweight bodies that weigh between 80 and 100 pounds. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 25 feet."
+				],
+				"Flight": [
+					"You have a flying speed of 50 feet. To use this speed, you can't be wearing medium or heavy armor."
+				],
+				"Talons": [
+					"You are proficient with your unarmed strikes, which deal 1d4 slashing damage on a hit."
+				],
+				"Language": [
+					"You can speak, read, and write Common, Aarakocra, and Auran"
+				]
+			},
+			"Books": [
+				"Elemental Evil Players Companion"
+			]
+		},
+		"Aasimar": {
+			"Aasimar Traits": {
+				"Ability Score Increase": [
+					"Your Charisma score increases by 2."
+				],
+				"Age": [
+					"Aasimar mature at the same rate as humans, but they can live up to 160 years."
+				],
+				"Alignment": [
+					"Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil."
+				],
+				"Size": [
+					"Aasimar have the same range of height and weight as humans."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Darkvision": [
+					"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+				],
+				"Celestial Resistance": [
+					"You have resistance to necrotic damage and radiant damage."
+				],
+				"Healing Hands": [
+					"As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest."
+				],
+				"Light Bearer": [
+					"You know the light cantrip. Charisma is your spellcasting ability for it."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and Celestial."
+				]
+			},
+			"Sub Races": {
+				"Protector Aasimar": {
+					"Description": [
+						"Protector aasimar are charged by the powers of good to guard the weak, to strike at evil wherever it arises, and to stand vigilant against the darkness. From a young age, a protector aasimar receives advice and directives that urge to stand against evil."
+					],
+					"Ability Score Increase": [
+						"Your Wisdom score increases by 1."
+					],
+					"Radiant Soul": [
+						"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.",
+						"Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.",
+						"Once you use this trait, you can't use it again until you finish a long rest."
+					]
+				},
+				"Scourge Aasimar": {
+					"Description": [
+						"Scourge aasimar are imbued with a divine energy that blazes intensely within them. It feeds a powerful desire to destroy evil-a desire that is, at its best, unflinching and, at its worst, all-consuming. Many scourge aasimar wear masks to block out the world and focus on containing this power, unmasking themselves only in battle."
+					],
+					"Ability Score Increase": [
+						"Your Constitution score increases by 1."
+					],
+					"Radiant Consumption": [
+						"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you.",
+						"Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take radiant damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.",
+						"Once you use this trait, you can't use it again until you finish a long rest."
+					]
+				},
+				"Fallen Aasimar": {
+					"Description": [
+						"An aasimar who was touched by dark powers as a youth or who turns to evil in early adulthood can become one of the fallen-a group of aasimar whose inner light has been replaced by shadow."
+					],
+					"Ability Score Increase": [
+						"Your Strength score increases by 1."
+					],
+					"Necrotic Shroud": [
+						"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back. The instant you transform, other creatures within 10 feet of you that can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become frightened of you until the end of your next turn.",
+						"Your transformation lasts for 1 minute or until you end it as a bonus action. During it, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra necrotic damage equals your level.",
+						"Once you use this trait, you can't use it again until you finish a long rest."
+					]
+				}
+			},
+			"Books": [
+				"Volo's Guide to Monsters"
+			]
+		},
+		"Aven": {
+			"Aven Traits": {
+				"Ability Score Increase": [
+					"Your Dexterity score increases by 2."
+				],
+				"Age": [
+					"Like humans, aven reach adulthood in their late teens and can live into their 80s."
+				],
+				"Alignment": [
+					"Most aven lean toward some form of neutrality."
+				],
+				"Size": [
+					"Aven stand from 5 to 6 feet tall, but their bodies are slender and their bones are partially hollow to facilitate their flight. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 25 feet. You have a flying speed of 30 feet. You can’t use your flying speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can’t use your flying speed if you are encumbered.)"
+				],
+				"Languages": [
+					"You can speak, read, and write Aven and Common."
+				]
+			},
+			"Sub Races": {
+				"Ibis-Headed Aven": {
+					"Ability Score Increase": [
+						"Your Intelligence score increases by 1."
+					],
+					"Kefnet's Blessing": [
+						"You can add half your proficiency bonus, rounded down, to any Intelligence check you make that doesn’t already include your proficiency bonus."
+					]
+
+				},
+				"Hawk-Headed Aven": {
+					"Ability Score Increase": [
+						"Your Wisdom score increases by 2."
+					],
+					"Hawkeyed": [
+						"You can add half your proficiency bonus, rounded down, to any Intelligence check you make that doesn’t already include your proficiency bonus."
+					]
+				}
+			},
+			"Books": [
+				"Plane Shift Amonkhet",
+				"Plane Shift Dominaria"
+			]
+		},
+		"Bugbear": {
+			"Bugbear Traits": {
+				"Ability Score Increase": [
+					"Your Strength score increases by 2, and your Dexterity score increases by 1."
+				],
+				"Age": [
+					"Bugbears reach adulthood at age 16 and live up to 80 years."
+				],
+				"Alignment": [
+					"Bugbears endure a harsh existence that demands each of them to remain self-sufficient, even at the expense of their fellows. They tend to be chaotic evil."
+				],
+				"Size": [
+					"Bugbears are between 6 and 8 feet tall and weigh between 250 and 350 pounds. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and Goblin."
+				],
+				"Darkvision": [
+					"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+				],
+				"Long-Limbed": [
+					"When you make a melee attack on your turn, your reach for it is 5 feet greater than normal."
+				],
+				"Powerful Build": [
+					"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+				],
+				"Sneaky": [
+					"You are proficient in the Stealth skill."
+				],
+				"Surprise Attack": [
+					"If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat."
+				]
+			},
+			"Books": [
+				"Volo's Guide to Monsters"
+			]
+		},
+		"Centaur": {
+			"Centaur Traits": {
+				"Ability Score Increase": [
+					"Your Strength score increases by 2, and your Wisdom score increases by 1."
+				],
+				"Age": [
+					"Centaurs mature and age at about the same rate as humans"
+				],
+				"Alignment": [
+					"Centaurs are inclined toward neutrality. Those who join the Selesnya are more often neutral good, while those who join the Gruul are typically chaotic neutral."
+				],
+				"Size": [
+					"Centaurs stand between 6 and 7 feet tall, with their equine bodies reaching about 4 feet at the withers. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 40 feet."
+				],
+				"Fey": [
+					"Your creature type is fey, rather than humanoid."
+				],
+				"Charge": [
+					"If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can immediately follow that attack with a bonus action, making one attack against the target with your hooves."
+				],
+				"Hooves": [
+					"Your hooves are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal bludgeoning damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+				],
+				"Equine Build": [
+					"You count as one size larger when determining your carrying capacity and the weight you can push or drag.",
+					"In addition, any climb that requires hands and feet is especially difficult for you because of your equine legs. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot."
+				],
+				"Survivor": [
+					"You have proficiency in one of the following skills of your choice: Animal Handling, Medicine, Nature, or Survival."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and Sylvan. Sylvan is widely spoken in the Selesnya Conclave, for it is rich in vocabulary to describe natural phenomena and spiritual forces."
+				]
+			},
+			"Books": [
+				"Guildmaster's Guide to Ravnica"
+			]
+		},
+		"Dragonborn": {
+			"Dragonborn Traits": {
+				"Ability Score Increase": [
+					"Your Strength score increases by 2, and your Charisma score increases by 1."
+				],
+				"Age": [
+					"Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80."
+				],
+				"Alignment": [
+					"Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil (represented by Bahamut and Tiamat, respectively). Most dragonborn are good, but those who side with Tiamat can be terrible villains."
+				],
+				"Size": [
+					"Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Draconic Ancestry Table": {
+					"Title": "Draconic Ancestry",
+					"Headers": [
+						"Dragon",
+						"Damage Type",
+						"Breath Weapon"
+					],
+					"Rows": [
+						{
+							"Dragon": "Black",
+							"Damage Type": "Acid",
+							"Breath Weapon": "5 by 30 ft. line (Dex. save)"
+						},
+						{
+							"Dragon": "Blue",
+							"Damage Type": "Lightning",
+							"Breath Weapon": "5 by 30 ft. line (Dex. save)"
+						},
+						{
+							"Dragon": "Brass",
+							"Damage Type": "Fire",
+							"Breath Weapon": "5 by 30 ft. line (Dex. save)"
+						},
+						{
+							"Dragon": "Bronze",
+							"Damage Type": "Lightning",
+							"Breath Weapon": "5 by 30 ft. line (Dex. save)"
+						},
+						{
+							"Dragon": "Copper",
+							"Damage Type": "Acid",
+							"Breath Weapon": "5 by 30 ft. line (Dex. save)"
+						},
+						{
+							"Dragon": "Gold",
+							"Damage Type": "Fire",
+							"Breath Weapon": "15 ft. cone (Dex. save)"
+						},
+						{
+							"Dragon": "Green",
+							"Damage Type": "Poison",
+							"Breath Weapon": "15 ft. cone (Con. save)"
+						},
+						{
+							"Dragon": "Red",
+							"Damage Type": "Fire",
+							"Breath Weapon": "15 ft. cone (Dex. save)"
+						},
+						{
+							"Dragon": "Silver",
+							"Damage Type": "Cold",
+							"Breath Weapon": "15 ft. cone (Con. save)"
+						},
+						{
+							"Dragon": "White",
+							"Damage Type": "Cold",
+							"Breath Weapon": "15 ft. cone (Con. save)"
+						}
+					]
+				},
+				"Draconic Ancestry": [
+					"You have draconic ancestry. Choose one type of dragon from the Draconic ANcestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table."
+				],
+				"Breath Weapon": [
+					"You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.",
+					"When you use your breath weapon, each creature in the area of the exhalation must make a saving throw. the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save. and half as much damage on a successful one. The damage increases to 3d6 at 6th level. 4d6 at 11th level, and 5d6 at 16th level.",
+					"After you use your breath weapon, you can't use it again until you complete a short or long rest."
+				],
+				"Damage Resistance": [
+					"You have resistance to the damage type associated with your draconic ancestry."
+				],
+				"Languages": [
+					"You can speak. read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants."
+				]
+			},
+			"Books": [
+				"Player's Handbook"
+			]
+		},
 		"Dwarf": {
 			"Dwarf Traits": {
 				"Ability Score Increase": [
@@ -83,7 +414,12 @@
 						"You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack or whatever you are trying to perceive is in direct sunlight."
 					]
 				}
-			}
+			},
+			"Books": [
+				"Elemental Evil Players Companion",
+				"Mordenkainen's Tome of Foes",
+				"Sword Coast Adventurer's Guide"
+			]
 		},
 		"Elf": {
 			"Elf Traits": {
@@ -241,328 +577,78 @@
 						"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest.",
 						"Starting at 3rd-level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent."
 					]
-				}
-			}
-		},
-		"Halfling": {
-			"Halfling Traits": {
-				"Ability Score Increase": [
-					"Your Dexterity score increases by 2."
-				],
-				"Age": [
-					"A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century."
-				],
-				"Alignment": [
-					"Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways."
-				],
-				"Size": [
-					"Halflings average about 3 feet tall and weigh about 40 pounds. Your size is small."
-				],
-				"Speed": [
-					"Your base walking speed is 25 feet."
-				],
-				"Lucky": [
-					"When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
-				],
-				"Brave": [
-					"You have advantage on saving throws against being frightened."
-				],
-				"Halfling Nimbleness": [
-					"You can move through the space of any creature that is of a size larger than yours."
-				],
-				"Languages": [
-					"You can speak, read and write Common and Halfling. The halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling."
-				]
-			},
-			"Sub Races": {
-				"Lightfoot": {
-					"Description": [
-						"As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You're inclined to be affable, and get along well with others. In the Forgotten Realms, lightfoot halflings have spread the farthest and thus are the most common variety.",
-						"Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life. In the world of Greyhawk, these halflings are called hairfeet or tallfellows."
-					],
-					"Ability Score Increase": [
-						"Your Charisma score increases by 1."
-					],
-					"Naturally Stealthy": [
-						"You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you."
-					]
 				},
-				"Stout": {
+				"Zendikar": {
 					"Description": [
-						"As a stout halfling, you're hardier than average and have some resistance to poison. Some say that stouts have dwarven blood. In the Forgotten Realms, these halflings are called stronghearts, and they're most common in the south."
+						"The elves of Zendikar have much in common with the elves of other worlds.",
+						"Instead of adding an additional ability score, all ability scores are replaced. You lose the Trance feature and may choose a nation."
 					],
 					"Ability Score Increase": [
-						"Your Constitution score increases by 1."
+						"Your Wisdom score increases by 2."
 					],
-					"Stout Resilience": [
-						"You have advantage on saving throws against poison, and you have resistance against poison damage."
-					]
-				}
-			}
-		},
-		"Human": {
-			"Human Traits": {
-				"Ability Score Increase": [
-					"Your Ability scores each increase by 1."
-				],
-				"Age": [
-					"Humans reach adulthood in their late teens and live less than a century."
-				],
-				"Alignment": [
-					"Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range your size is medium."
-				],
-				"Speed": [
-					"Your base walking speed is 30 feet."
-				],
-				"Languages": [
-					"You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on."
-				]
-			},
-			"Variant Human Traits": {
-				"Ability Score Increase": [
-					"Two different ability scores of your choice increase by 1."
-				],
-				"Skills": [
-					"You gain proficiency in one skill of your choice."
-				],
-				"Feat": [
-					"You gain one feat of your choice."
-				]
-			}
-		},
-		"Aarakocra": {
-			"Aarakocra Traits": {
-				"Ability Score Increase": [
-					"Your Dexterity score increases by 2, and your wisdom score increases by 1."
-				],
-				"Age": [
-					"Aaracokra reach roach maturity by age 3. Compared to humans, aarakocra don't usually live longer than 30 years."
-				],
-				"Alignment": [
-					"Most aarakocra are good and rarely choose sides when it comes to law and chaos. Tribal leaders and warriors might be lawful, while explorers and adventurers might tend toward chaotic."
-				],
-				"Size": [
-					"Aarakocra are about 5 feet tall. They have thin lightweight bodies that weigh between 80 and 100 pounds. Your size is Medium."
-				],
-				"Speed": [
-					"Your base walking speed is 25 feet."
-				],
-				"Flight": [
-					"You have a flying speed of 50 feet. To use this speed, you can't be wearing medium or heavy armor."
-				],
-				"Talons": [
-					"You are proficient with your unarmed strikes, which deal 1d4 slashing damage on a hit."
-				],
-				"Language": [
-					"You can speak, read, and write Common, Aarakocra, and Auran"
-				]
-			}
-		},
-		"Aasimar": {
-			"Aasimar Traits": {
-				"Ability Score Increase": [
-					"Your Charisma score increases by 2."
-				],
-				"Age": [
-					"Aasimar mature at the same rate as humans, but they can live up to 160 years."
-				],
-				"Alignment": [
-					"Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil."
-				],
-				"Size": [
-					"Aasimar have the same range of height and weight as humans."
-				],
-				"Speed": [
-					"Your base walking speed is 30 feet."
-				],
-				"Darkvision": [
-					"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
-				],
-				"Celestial Resistance": [
-					"You have resistance to necrotic damage and radiant damage."
-				],
-				"Healing Hands": [
-					"As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest."
-				],
-				"Light Bearer": [
-					"You know the light cantrip. Charisma is your spellcasting ability for it."
-				],
-				"Languages": [
-					"You can speak, read, and write Common and Celestial."
-				]
-			},
-			"Sub Races": {
-				"Protector Aasimar": {
-					"Description": [
-						"Protector aasimar are charged by the powers of good to guard the weak, to strike at evil wherever it arises, and to stand vigilant against the darkness. From a young age, a protector aasimar receives advice and directives that urge to stand against evil."
-					],
-					"Ability Score Increase": [
-						"Your Wisdom score increases by 1."
-					],
-					"Radiant Soul": [
-						"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.",
-						"Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.",
-						"Once you use this trait, you can't use it again until you finish a long rest."
-					]
-				},
-				"Scourge Aasimar": {
-					"Description": [
-						"Scourge aasimar are imbued with a divine energy that blazes intensely within them. It feeds a powerful desire to destroy evil-a desire that is, at its best, unflinching and, at its worst, all-consuming. Many scourge aasimar wear masks to block out the world and focus on containing this power, unmasking themselves only in battle."
-					],
-					"Ability Score Increase": [
-						"Your Constitution score increases by 1."
-					],
-					"Radiant Consumption": [
-						"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you.",
-						"Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take radiant damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.",
-						"Once you use this trait, you can't use it again until you finish a long rest."
-					]
-				},
-				"Fallen Aasimar": {
-					"Description": [
-						"An aasimar who was touched by dark powers as a youth or who turns to evil in early adulthood can become one of the fallen-a group of aasimar whose inner light has been replaced by shadow."
-					],
-					"Ability Score Increase": [
-						"Your Strength score increases by 1."
-					],
-					"Necrotic Shroud": [
-						"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back. The instant you transform, other creatures within 10 feet of you that can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become frightened of you until the end of your next turn.",
-						"Your transformation lasts for 1 minute or until you end it as a bonus action. During it, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra necrotic damage equals your level.",
-						"Once you use this trait, you can't use it again until you finish a long rest."
-					]
-				}
-			}
-		},
-		"Centaur": {
-			"Centaur Traits": {
-				"Ability Score Increase": [
-					"Your Strength score increases by 2, and your Wisdom score increases by 1."
-				],
-				"Age": [
-					"Centaurs mature and age at about the same rate as humans"
-				],
-				"Alignment": [
-					"Centaurs are inclined toward neutrality. Those who join the Selesnya are more often neutral good, while those who join the Gruul are typically chaotic neutral."
-				],
-				"Size": [
-					"Centaurs stand between 6 and 7 feet tall, with their equine bodies reaching about 4 feet at the withers. Your size is Medium."
-				],
-				"Speed": [
-					"Your base walking speed is 40 feet."
-				],
-				"Fey": [
-					"Your creature type is fey, rather than humanoid."
-				],
-				"Charge": [
-					"If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can immediately follow that attack with a bonus action, making one attack against the target with your hooves."
-				],
-				"Hooves": [
-					"Your hooves are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal bludgeoning damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
-				],
-				"Equine Build": [
-					"You count as one size larger when determining your carrying capacity and the weight you can push or drag.",
-					"In addition, any climb that requires hands and feet is especially difficult for you because of your equine legs. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot."
-				],
-				"Survivor": [
-					"You have proficiency in one of the following skills of your choice: Animal Handling, Medicine, Nature, or Survival."
-				],
-				"Languages": [
-					"You can speak, read, and write Common and Sylvan. Sylvan is widely spoken in the Selesnya Conclave, for it is rich in vocabulary to describe natural phenomena and spiritual forces."
-				]
-			}
-		},
-		"Dragonborn": {
-			"Dragonborn Traits": {
-				"Ability Score Increase": [
-					"Your Strength score increases by 2, and your Charisma score increases by 1."
-				],
-				"Age": [
-					"Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80."
-				],
-				"Alignment": [
-					"Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil (represented by Bahamut and Tiamat, respectively). Most dragonborn are good, but those who side with Tiamat can be terrible villains."
-				],
-				"Size": [
-					"Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium."
-				],
-				"Speed": [
-					"Your base walking speed is 30 feet."
-				],
-				"Draconic Ancestry Table": {
-					"Title": "Draconic Ancestry",
-					"Headers": [
-						"Dragon",
-						"Damage Type",
-						"Breath Weapon"
-					],
-					"Rows": [
-						{
-							"Dragon": "Black",
-							"Damage Type": "Acid",
-							"Breath Weapon": "5 by 30 ft. line (Dex. save)"
+					"Nations": {
+						"Description": [
+							"Ancient divides that arose as the elven people migrated across Zendikar resulted in three main elf nations: the Tajuru, the Mul Daya, and the Joraga. Choose one of these nations."
+						],
+						"Tajuru Nation": {
+							"Description": [
+								"The Tajuru nation is the largest of the three main elven nations, concentrated in Murasa and spread across other parts of Zendikar as hundreds of far-flung clans. Tajuru elves are the most open to people of other races, seeing their skills and perspectives as valuable new tools for survival. The Tajuru are also more open to new lifestyles, be it living in a mountaintop citadel or roaming grassy plains."
+							],
+							"Ability Score Increase": [
+								"Your Charisma score increases by 1."
+							],
+							"Skill Versatility": [
+								"You gain proficiency in any combination of two skills or tools of your choice."
+							]
 						},
-						{
-							"Dragon": "Blue",
-							"Damage Type": "Lightning",
-							"Breath Weapon": "5 by 30 ft. line (Dex. save)"
+						"Joraga Nation": {
+							"Description": [
+								"The elves of the imperious Joraga nation of Bala Ged have little respect for any other race of Zendikar—or even for other elves. The survival of their nation and its traditions is the Joraga elves’ only goal, and they view the influence of others as a weakness. The Joraga eschew the goods and habits of others, even avoiding the pathways blazed by the Tajuru when possible. Many view the nomadic Joraga clans as little more than bands of roving murderers, but a complex culture hides behind those clans’ aggressive exterior"
+							],
+							"Ability Score Increase": [
+								"Your Dexterity score increases by 1."
+							],
+							"Elf Weapon Training": [
+								"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+							],
+							"Fleet of Foot": [
+								"Your base walking speed increases to 35 feet."
+							],
+							"Mask of the Wild": [
+								"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+							]
 						},
-						{
-							"Dragon": "Brass",
-							"Damage Type": "Fire",
-							"Breath Weapon": "5 by 30 ft. line (Dex. save)"
-						},
-						{
-							"Dragon": "Bronze",
-							"Damage Type": "Lightning",
-							"Breath Weapon": "5 by 30 ft. line (Dex. save)"
-						},
-						{
-							"Dragon": "Copper",
-							"Damage Type": "Acid",
-							"Breath Weapon": "5 by 30 ft. line (Dex. save)"
-						},
-						{
-							"Dragon": "Gold",
-							"Damage Type": "Fire",
-							"Breath Weapon": "15 ft. cone (Dex. save)"
-						},
-						{
-							"Dragon": "Green",
-							"Damage Type": "Poison",
-							"Breath Weapon": "15 ft. cone (Con. save)"
-						},
-						{
-							"Dragon": "Red",
-							"Damage Type": "Fire",
-							"Breath Weapon": "15 ft. cone (Dex. save)"
-						},
-						{
-							"Dragon": "Silver",
-							"Damage Type": "Cold",
-							"Breath Weapon": "15 ft. cone (Con. save)"
-						},
-						{
-							"Dragon": "White",
-							"Damage Type": "Cold",
-							"Breath Weapon": "15 ft. cone (Con. save)"
+						"Mul Daya Nation": {
+							"Description": [
+								"Elves of the Mul Daya nation of Bala Ged are set apart from other elves by their relationship with the spirits of their elven ancestors. To the Mul Daya, the spirit world and the mortal realm are different only in terms of their tangibility. Death and the spirits of the dead are as much a part of the lives of the Mul Daya as is the natural world. This is not a macabre sentiment to the elves; they simply view it as the truest sense of the natural order.",
+								"Mul Daya elves can often be recognized by their face painting and tattooing. Many Mul Daya decorate their skins with an enwrapping vine motif, and make use of poisons and acids collected at great cost from strange creatures and plants in the depths of Kazandu."
+							],
+							"Ability Score Increase": [
+								"Your Strength score increases by 1."
+							],
+							"Superior Darkvision": [
+								"Your darkvision has a radius of 120 feet."
+							],
+							"Sunlight Sensitivity": [
+								"You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+							],
+							"Mul Daya Magic": [
+								"You know the chill touch cantrip. When you reach 3rd level, you can cast the hex spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for these spells."
+							],
+							"Elf Weapon Training": [
+								"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+							]
 						}
-					]
-				},
-				"Draconic Ancestry": [
-					"You have draconic ancestry. Choose one type of dragon from the Draconic ANcestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table."
-				],
-				"Breath Weapon": [
-					"You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.",
-					"When you use your breath weapon, each creature in the area of the exhalation must make a saving throw. the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save. and half as much damage on a successful one. The damage increases to 3d6 at 6th level. 4d6 at 11th level, and 5d6 at 16th level.",
-					"After you use your breath weapon, you can't use it again until you complete a short or long rest."
-				],
-				"Damage Resistance": [
-					"You have resistance to the damage type associated with your draconic ancestry."
-				],
-				"Languages": [
-					"You can speak. read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants."
-				]
-			}
+					}
+					
+				}
+			},
+			"Books": [
+				"Elemental Evil Players Companion",
+				"Mordenkainen's Tome of Foes",
+				"Plane Shift Zendikar",
+				"Player's Handbook"
+			]
 		},
 		"Firbolg": {
 			"Firbolg Traits": {
@@ -596,7 +682,10 @@
 				"Languages": [
 					"You can speak, read, and write Common, Elvish, and Giant."
 				]
-			}
+			},
+			"Books": [
+				"Volo's Guide to Monsters"
+			]
 		},
 		"Genasi": {
 			"Genasi Traits": {
@@ -689,7 +778,10 @@
 						"You know the shape water cantrip (see chapter 2). When you reach 3rd level, you can cast the create or destroy water spell as a 2nd-level spell once with this trait, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells."
 					]
 				}
-			}
+			},
+			"Books": [
+				"Elemental Evil Players Companion"
+			]
 		},
 		"Gith": {
 			"Gith Traits": {
@@ -748,7 +840,10 @@
 						"Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require comonents."
 					]
 				}
-			}
+			},
+			"Books": [
+				"Mordenkainen's Tome of Foes"
+			]
 		},
 		"Gnome": {
 			"Gnome Traits": {
@@ -837,7 +932,11 @@
 						"You can speak, read, and write Undercommon."
 					]
 				}
-			}
+			},
+			"Books": [
+				"Elemental Evil Players Companion",
+				"Player's Handbook"
+			]
 		},
 		"Goblin": {
 			"Goblin Traits": {
@@ -848,7 +947,7 @@
 					"Goblins reach adulthood around age 8. They age noticeably faster than humans, and though few goblins live to old age, the most cautious rarely live longer than 60 years."
 				],
 				"Alignment": [
-					"Most of the goblins of Ravnica are chaotic, with no inclination toward good or evil."
+					"Most goblins are chaotic, with no inclination toward good or evil."
 				],
 				"Size": [
 					"Goblins are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small."
@@ -859,16 +958,81 @@
 				"Darkvision": [
 					"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray"
 				],
+				"Languages": [
+					"You can speak, read, and write Common and Goblin."
+				],
 				"Fury of the Small": [
 					"When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
 				],
 				"Nimble Escape": [
 					"You can take the Disengage or Hide action as a bonus action on each of your turns."
-				],
-				"Languages": [
-					"You can speak, read, and write Common and Goblin. In Ravnica, Goblin is a simplistic language with a limited vocabulary and fluid rules of grammar, unsuited for any sophisticated conversation."
 				]
-			}
+			},
+			"Sub Races": {
+				"Ixalan": {
+					"Description": [
+						"Instead of adding an additional ability score, all ability scores are replaced. Fury of the Small and Nimble Escape are replaced by Agile Climber. Your walking speed drops to 25 feet."
+					],
+					"Ability Score Increase": [
+						"Your Dexterity score increases by 2"
+					],
+					"Speed": [
+						"Your base walking speed is 30 feet."
+					],
+					"Agile Climber": [
+						"You have a climbing speed of 25 feet. You can’t use your climbing speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can’t use your climbing speed if you are encumbered.)"
+					]
+				},
+				"Zendikar": {
+					"Description": [
+						"Instead of adding an additional ability score, all ability scores are replaced. Fury of the Small and Nimble Escape are replaced by Grit. Your walking speed drops to 25 feet. You may also choose a tribal feature."
+					],
+					"Ability Score Increase": [
+						"Your Constitution score increases by 2."
+					],
+					"Speed": [
+						"Your base walking speed is 30 feet."
+					],
+					"Grit": [
+						"You have resistance to fire damage and psychic damage. In addition, when you are wearing no armor, your AC is equal to 11 + your Dexterity modifier."
+					],
+					"Tribes": {
+						"Description": [
+							"Most goblins on Zendikar belong to one of three tribes: the Grotag, the Lavastep, and the Tuktuk. Choose one of these tribes."
+						],
+						"Grotag Tribe": {
+							"Description": [
+								"Smaller and weaker than their cousins, and with larger hands and feet, goblins of the Grotag tribe attempt to live by their wits—though seldom with much success. When a Grotag goblin has the bright idea of trying to tame fleshpiercer mites, at least a few others will be willing to follow that goblin into a nest—usually to predictably horrible results. But though the Grotag seem to have a never-ending supply of bad ideas, and a horrible ratio of bad ideas to good, the Grotag likewise seem to have a never-ending supply of Grotag. As such, by trial and error (and more error), these goblins have stumbled across a great deal of knowledge useful for surviving the deep places of Zendikar, and for dealing with the creatures that live there. The Grotag imagine themselves to have a sort of empathy with beasts, and they lose hundreds of goblins each year to ill-advised attempts at monster taming. But, every now and again, one of these efforts is successful."
+							],
+							"Grotag Tamer": [
+								"You have proficiency in the Animal Handling skill."
+							]
+						},
+						"Lavastep Tribe": {
+							"Description": [
+								"The Lavastep tribe is the most industrious of the goblin tribes, and possesses much hard-won knowledge of the geothermal activity in Akoum. More so than members of the other tribes, the Lavastep goblins build surprisingly effective equipment out of the crystal shards and veins of strange metals that occasionally boil up to the surface. The most warlike of their kind, Lavastep goblins frequently harass the kor, elves, and humans of Akoum."
+							],
+							"Lavastep Grit": [
+								"You have advantage on Dexterity (Stealth) checks made to hide in rocky or subterranean environments."
+							]
+						},
+						"Tuktuk Tribe": {
+							"Description": [
+								"Among the goblins, the Tuktuk are most likely to hire themselves out as ruin guides to other races. Of course, their usual plan is to help find something of value, steal it, trigger a trap intentionally, and then run."
+							],
+							"Tuktuk Cunning": [
+								"You have proficiency with thieves' tools."
+							]
+						}
+					}
+				}
+			},
+			"Books": [
+				"Guildmaster's Guide to Ravnica",
+				"Plane Shift Ixalan",
+				"Plane Shift Zendikar",
+				"Volo's Guide to Monsters"
+			]
 		},
 		"Goliath": {
 			"Goliath Traits": {
@@ -902,7 +1066,11 @@
 				"Languages": [
 					"You can speak, read, and write Common and Giant."
 				]
-			}
+			},
+			"Books": [
+				"Elemental Evil Players Companion",
+				"Volo's Guide to Monsters"
+			]
 		},
 		"Grung": {
 			"Grung Traits": {
@@ -943,7 +1111,10 @@
 				"Languages": [
 					"You can speak, read, and write Grung."
 				]
-			}
+			},
+			"Books": [
+				"One Grung Above"
+			]
 		},
 		"Half-Elf": {
 			"Half-Elf Traits": {
@@ -974,7 +1145,69 @@
 				"Languages": [
 					"You can speak, read, and write Common, Elvish, and one extra language of your choice."
 				]
-			}
+			},
+			"Books": [
+				"Player's Handbook"
+			]
+		},
+		"Halfling": {
+			"Halfling Traits": {
+				"Ability Score Increase": [
+					"Your Dexterity score increases by 2."
+				],
+				"Age": [
+					"A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century."
+				],
+				"Alignment": [
+					"Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways."
+				],
+				"Size": [
+					"Halflings average about 3 feet tall and weigh about 40 pounds. Your size is small."
+				],
+				"Speed": [
+					"Your base walking speed is 25 feet."
+				],
+				"Lucky": [
+					"When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+				],
+				"Brave": [
+					"You have advantage on saving throws against being frightened."
+				],
+				"Halfling Nimbleness": [
+					"You can move through the space of any creature that is of a size larger than yours."
+				],
+				"Languages": [
+					"You can speak, read and write Common and Halfling. The halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling."
+				]
+			},
+			"Sub Races": {
+				"Lightfoot": {
+					"Description": [
+						"As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You're inclined to be affable, and get along well with others. In the Forgotten Realms, lightfoot halflings have spread the farthest and thus are the most common variety.",
+						"Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life. In the world of Greyhawk, these halflings are called hairfeet or tallfellows."
+					],
+					"Ability Score Increase": [
+						"Your Charisma score increases by 1."
+					],
+					"Naturally Stealthy": [
+						"You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you."
+					]
+				},
+				"Stout": {
+					"Description": [
+						"As a stout halfling, you're hardier than average and have some resistance to poison. Some say that stouts have dwarven blood. In the Forgotten Realms, these halflings are called stronghearts, and they're most common in the south."
+					],
+					"Ability Score Increase": [
+						"Your Constitution score increases by 1."
+					],
+					"Stout Resilience": [
+						"You have advantage on saving throws against poison, and you have resistance against poison damage."
+					]
+				}
+			},
+			"Books": [
+				"Player's Handbook"
+			]
 		},
 		"Half-Orc": {
 			"Half-Orc Traits": {
@@ -1005,7 +1238,116 @@
 				"Languages": [
 					"You can speak, read, and write Common and Orc. Orc is harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script."
 				]
-			}
+			},
+			"Books": [
+				"Player's Handbook"
+			]
+		},
+		"Hobgoblin": {
+			"Hobgoblin Traits": {
+				"Ability Score Increase": [
+					"Your Constitution score increases by 2, and your Intelligence score increases by 1."
+				],
+				"Age": [
+					"Hobgoblins mature at the same rate as humans and have lifespans similar in length to theirs."
+				],
+				"Alignment": [
+					"Hobgoblin society is built on fidelity to a rigid, unforgiving code of conduct. As such, they tend toward lawful evil."
+				],
+				"Size": [
+					"Hobgoblins are between 5 and 6 feet tall and weigh between 150 and 200 pounds. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and Goblin."
+				],
+				"Darkvision": [
+					"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+				],
+				"Martial Training": [
+					"You are proficient with two martial weapons of your choice and with light armor."
+				],
+				"Saving Face": [
+					"Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest."
+				]
+			},
+			"Books": [
+				"Volo's Guide to Monsters"
+			]
+		},
+		"Human": {
+			"Human Traits": {
+				"Ability Score Increase": [
+					"Your Ability scores each increase by 1."
+				],
+				"Age": [
+					"Humans reach adulthood in their late teens and live less than a century."
+				],
+				"Alignment": [
+					"Humans tend toward no particular alignment."
+				],
+				"Size": [
+					"Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and one extra language of your choice."
+				]
+			},
+			"Variant Human Traits": {
+				"Ability Score Increase": [
+					"Two different ability scores of your choice increase by 1."
+				],
+				"Skills": [
+					"You gain proficiency in one skill of your choice."
+				],
+				"Feat": [
+					"You gain one feat of your choice."
+				]
+			},
+			"Sub Races": {
+				"Keldon":{
+					"Description": [
+						"The people of Keld are human, but they are like no other humans anywhere. Nearly all adults stand over six feet tall, and heights above seven feet are not uncommon. They are massively muscled and have gray skin, ranging from an ashy gray-white to a deeper bluegray. The typical Keldon’s hairline points sharply down in the middle of the forehead and at either temple, but recedes elsewhere—sometimes dramatically. Keldons are remarkably resistant to the cold of their homeland, baring skin even in near-freezing temperatures without discomfort.",
+						"Keldons value self-reliance, strength, and courage above all else. Anything that is the product of their own labor is a fine thing. Anything else is treated with a healthy dose of skepticism. At best, they are a proud, pragmatic, passionate people, and their loyalty is fierce once earned. At worst, they can be reckless, hot-tempered, and violent—and no small number of Keldons still consider these qualities virtues rather than vices.",
+						"Because of their many exploits as both conquerors and mercenaries, Keldons appear in the legends and histories of other peoples across the world. Sometimes these tales are exaggerated—but many that sound exaggerated are not.",
+						"Instead of adding an additional ability score, all ability scores are replaced."
+					],
+					"Ability Score Increase": [
+						"Your Strength score increases by 2, and your Constitution score increases by 1."
+					],
+					"Age": [
+						"Keldons reach adulthood in their late teens and live less than a century."
+					],
+					"Alignment": [
+						"Keldons tend toward chaotic alignments, and many walk a fine line between good and evil."
+					],
+					"Size": [
+						"Keldons are taller and heavier than the human norms of other cultures, standing almost universally above 6 feet tall and reaching heights above 7 feet. Your size is Medium."
+					],
+					"Languages": [
+						"You can speak, read, and write Common and Keldon."
+					],
+					"Natural Athlete": [
+						"You have proficiency in the Athletics skill."
+					],
+					"Keldon Resilience": [
+						"You have proficiency in Strength saving throws."
+					],
+					"Icehave Born": [
+						"You are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master’s Guide."
+					]
+				}
+			},
+			"Books": [
+				"Player's Handbook",
+				"Plane Shift Dominaria"
+			]
+
 		},
 		"Kenku": {
 			"Kenuku Traits": {
@@ -1036,7 +1378,112 @@
 				"Languages": [
 					"You can read and write Common and Auran, but you can speak only by using your Mimicry trait."
 				]
-			}
+			},
+			"Books": [
+				"Volo's Guide to Monsters"
+			]
+		},
+		"Khenra": {
+			"Khenra Traits": {
+				"Ability Score Increase": [
+					"Your Dexterity score increases by 2, and your Strength score increases by 1."
+				],
+				"Age": [
+					"Khenra mature quickly, reaching adulthood in their early teens. Khenra initiates are usually the youngest in a crop, completing the trials by their late teens. Even without a violent death, they rarely live past 60."
+				],
+				"Alignment": [
+					"Most khenra lean toward chaotic alignments. They have no particular inclination toward good or evil."
+				],
+				"Size": [
+					"Khenra have similar builds to humans. Your size is Medium"
+				],
+				"Speed": [
+					"Your base walking speed is 35 feet."
+				],
+				"Languages": [
+					"You can speak, read, and write Aven and Common."
+				],
+				"Khenra Weapon Training": [
+					"You have proficiency with the khopesh, spear, and javelin."
+				],
+				"Khenra Twins": [
+					"If your twin is alive and you can see your twin, whenever you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. If your twin is dead (or if you were born without a twin), you can’t be frightened."
+				]
+			},
+			"Books": [
+				"Plane Shift Amonkhet"
+			]
+		},
+		"Kobold": {
+			"Kobold Traits": {
+				"Ability Score Increase": [
+					"Your Dexterity score increases by 2, and your Strength score is reduced by 2."
+				],
+				"Age": [
+					"Kobolds reach adulthood at age 6 and can live up to 120 years but rarely do so."
+				],
+				"Alignment": [
+					"Kobolds are fundamentally selfish, making them evil, but their reliance on the strength of their group makes them trend toward law."
+				],
+				"Size": [
+					"Kobolds are between 2 and 3 feet tall and weigh between 25 and 35 pounds. Your size is Small."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and Draconic."
+				],
+				"Darkvision": [
+					"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+				],
+				"Grovel, Cower, and Beg": [
+					"As an action on your turn, you can cower pathetically to distract nearby foes. Until the end of your next turn, your allies gain advantage on attack rolls against enemies within 10 feet of you that can see you. Once you use this trait, you can't use it again until you finish a short or long rest."
+				],
+				"Pack Tactics": [
+					"You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated."
+				],
+				"Sunlight Sensitivity": [
+					"You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+				]
+			},
+			"Books": [
+				"Volo's Guide to Monsters"
+			]
+		},
+		"Kor": {
+			"Kor Traits": {
+				"Ability Score Increase": [
+					"Your Dexterity score increases by 2, and your Wisdom score increases by 1."
+				],
+				"Age": [
+					"Kor mature at the same rate as humans and live about as long."
+				],
+				"Alignment": [
+					"Most kor are lawful good, with a strong dedication to community and the traditions of their ancestors."
+				],
+				"Size": [
+					"Kor average nearly 6 feet tall, but are much lighter and more slender than humans. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet. You also have a climbing speed of 30 feet as long as you are not encumbered or wearing heavy armor."
+				],
+				"Languages": [
+					"You can speak, read, and write Common, and communicate in the silent speech of the kor."
+				],
+				"Kor Climbing": [
+					"You have proficiency in the Athletics and Acrobatics skills."
+				],
+				"Lucky": [
+					"When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+				],
+				"Brave": [
+					"You have advantage on saving throws against being frightened."
+				]
+			},
+			"Books": [
+				"Plane Shift Zendikar"
+			]
 		},
 		"Lizardfolk": {
 			"Lizardfolk Traits": {
@@ -1070,7 +1517,10 @@
 				"Natural Armor": [
 					"You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor."
 				]
-			}
+			},
+			"Books": [
+				"Volo's Guide to Monsters"
+			]
 		},
 		"Loxodon": {
 			"Loxodon Traits": {
@@ -1108,12 +1558,121 @@
 				"Languages": [
 					"You can speak, read, and write Common and Loxodon."
 				]
-			}
+			},
+			"Books": [
+				"Guildmaster's Guide to Ravnica"
+			]
+		},
+		"Merfolk": {
+			"Merfolk Traits": {
+				"Ability Score Increase": [
+					"Your Charisma score increases by 1."
+				],
+				"Age": [
+					"Merfolk mature at the same rate humans do and reach adulthood around the age of 20. They live considerably longer than humans, though, often reaching well over 100 years."
+				],
+				"Alignment": [
+					"Most merfolk are neutral, living in close harmony with nature."
+				],
+				"Size": [
+					"Merfolk are significantly taller than most humans, standing between seven and eight feet tall and averaging about 300 pounds. Your size is Medium."
+				],
+				"Amphibious": [
+					"Your base walking speed is 30 feet. You also have a swimming speed of 30 feet."
+				],
+				"Languages": [
+					"You can speak, read, and write Common (if it exists in your campaign), Merfolk and one additional language of your choice."
+				]
+			},
+			"Sub Races": {
+				"Blue Merfolk": {
+					"Description": [
+						"Blue merfolk often have burgundy or magenta on their faces and chests, with lighter shades of blue and purple elsewhere. Their eyes are red, orange, or blue, and their long, thin, and elegant fins resemble scarves or veils of fine fabric. They swim easily, even upstream, and clamber over rocks and through rapids with ease. They prefer to dwell in shallow waters, but spend a fair amount of time on land as well."
+					],
+					"Ability Score Increase": [
+						"Your Intelligence score increases by 2."
+					],
+					"Lore of the Waters": [
+						"You gain proficiency in History and Nature."
+					],
+					"Cantrip": [
+						"You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it."
+					]
+				},
+				"Green Merfolk": {
+					"Description": [
+						"Green merfolk generally have yellow chests and pale green faces, shading to dark blues and purples on their backs and limbs. The patterns on their skin suggest the colors of the tree frogs common in the rain forest, as do their eyes of orange, lime green, or sky blue. Their fins are relatively short and thick. They climb trees with ease, move through undergrowth unhindered, and often wield magic to shape vines and branches to their will."
+					],
+					"Ability Score Increase": [
+						"Your Wisdom score increases by 2."
+					],
+					"Mask of the Wild": [
+						"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+					],
+					"Cantrip": [
+						"You know one cantrip of your choice from the druid spell list. Wisdom is your spellcasting ability for it."
+					]
+				}
+			},
+			"Creeds": {
+				"Description": [
+					"In Zendikar merfolk upon reaching adulthood choose a creed. Creeds effectivly replace sub races."
+				],
+				"Emeria (Wind) Creed": {
+					"Description": [
+						"Merfolk who followed Emeria’s creed seek wisdom and truth in the Wind Realm, exploring the mystical forces—rather than natural causes—behind historical events. They are evasive and intentionally enigmatic in their interactions with others, and are often described as manipulative and deceptive."
+					],
+					"Ability Score Increase": [
+						"Your Wisdom score increases by 2."
+					],
+					"Wind Creed Manipulation": [
+						"You have proficiency in the Deception and Persuasion skills."
+					],
+					"Cantrip": [
+						"You know one cantrip of your choice from the druid spell list. Wisdom is your spellcasting ability for it."
+					]
+				},
+				"Ula (Water) Creed": {
+					"Description": [
+						"Ula-creed merfolk emphasize intellectual pursuits, stressing hard evidence and reason over passion. They are analytical scholars, chroniclers, explorers, and navigators who pride themselves on being blunt and straightforward."
+					],
+					"Ability Score Increase": [
+						"Your Intelligence score increases by 2."
+					],
+					"Water Creed Navigation": [
+						"You have proficiency with navigator’s tools and in the Survival skill."
+					],
+					"Cantrip": [
+						"You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it."
+					]
+				},
+				"Cosi Creed": {
+					"Description": [
+						"No merfolk will openly admit to following the creed of the trickster, but those who do view Cosi as an ally who can grant them control over the chaotic forces of the world."
+					],
+					"Ability Score Increase": [
+						"Your Charisma score increases by an additional 1 (for a total of 2), and your Intelligence score increases by 1."
+					],
+					"Creed of the Trickster": [
+						"You have proficiency in the Sleight of Hand and Stealth skills."
+					],
+					"Cantrip": [
+						"You know one cantrip of your choice from the bard spell list. Charisma is your spellcasting ability for it."
+					]
+				}
+			},
+			"Books": [
+				"Plane Shift Ixalan",
+				"Plane Shift Zendikar"
+			]
 		},
 		"Minotaur": {
 			"Minotaur Traits": {
 				"Ability Score Increase": [
 					"Your Strength score increases by 2, and your Constitution score increases by 1."
+				],
+				"Age": [
+					"Minotaurs develop more slowly than humans, reaching full maturity around the age of 20. They typically become acolytes at around 8 or 9 years old, making them among the older members of their crops. Once they reach maturity, though, minotaurs age quickly, rushing headlong through the trials (as they do all aspects of life) to complete them before they pass their peak. A minotaur allowed to die of old age would rarely live beyond 40."
 				],
 				"Alignment": [
 					"Most minotaurs who join the Boros Legion lean toward lawful alignments, while those associated with the Cult of Rakdos or the Gruul Clans tend toward chaotic alignments."
@@ -1139,12 +1698,106 @@
 				"Languages": [
 					"You can speak, read, and write Common and Minotaur."
 				]
-			}
+			},
+			"Books": [
+				"Guildmaster's Guide to Ravnica"
+			]
+		},
+		"Naga": {
+			"Naga Traits": {
+				"Ability Score Increase": [
+					"Your Constitution score increases by 2, and your Intelligence score increases by 1."
+				],
+				"Age": [
+					"Like humans, naga reach adulthood in their late teens. They show no signs of aging beyond that point except for growing larger, so in theory, a naga could live well over a century."
+				],
+				"Alignment": [
+					"Most naga are either neutral or neutral evil in alignment."
+				],
+				"Size": [
+					"Naga stand about 5 feet tall when upright, but the total length of their bodies, head to tail, ranges from 10 to as much as 20 feet. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and Naga."
+				],
+				"Speed Burst": [
+					"By lowering your body to the ground and propelling yourself with your arms, you can move more quickly for a time. As a bonus action on your turn, if you have both hands free, you can increase your walking speed by 5 feet until the end of your turn."
+				],
+				"Natural Weapons": [
+					"Your fanged maw and constricting serpentine body are natural weapons, which you can use to make unarmed strikes. If you hit with your bite, you deal piercing damage equal to 1d4 + your Strength modifier, and your target must make a Constitution saving throw (DC 8 + your proficiency bonus + your Constitution modifier). On a failed save, the target takes 1d4 poison damage.",
+					"If you hit with your constrict attack, you deal bludgeoning damage equal to 1d6 + your Strength modifier, and the target is grappled (escape DC 8 + your proficiency bonus + your Strength modifier). Until this grapple ends, the target is restrained, and you can’t constrict another target."
+				],
+				"Poison Immunity": [
+					"You are immune to poison damage and can’t be poisoned."
+				],
+				"Poison Affinity": [
+					"You gain proficiency with the poisoner’s kit."
+				]
+			},
+			"Books": [
+				"Plane Shift Amonkhet"
+			]
+		},
+		"Orc": {
+			"Orc Traits": {
+				"Ability Score Increase": [
+					"Your Strength score increases by 2, your Constitution score increases by 1, and your Intelligence score is reduced by 2."
+				],
+				"Age": [
+					"Orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years."
+				],
+				"Alignment": [
+					"Orcs are vicious raiders, who believe that the world should be theirs. They also respect strength above all else and believe the strong must bully the weak to ensure that weakness does not spread like a disease. They are usually chaotic evil."
+				],
+				"Size": [
+					"Orcs are usually over 6 feet tall and weigh between 230 and 280 pounds. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Languages": [
+					"You can speak, read, and write Common and Orc."
+				],
+				"Darkvision": [
+					"You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+				],
+				"Menacing": [
+					"You gain proficiency in the Intimidation skill."
+				],
+				"Aggressive": [
+					"As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started."
+				],
+				"Powerful Build": [
+					"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+				]
+			},
+			"Sub Races": {
+				"Ixalan": {
+					"Description": [
+						"Instead of adding an additional ability score, all ability scores are replaced. Aggressive and Powerful build are replaced with Relentless Endurance and Savage Attacks."
+					],
+					"Ability Score Increase": [
+						"Your Strength score increases by 2, and your Constitution score increases by 1."
+					],
+					"Relentless Endurance": [
+						"When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest."
+					],
+					"Savage Attacks": [
+						"When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit."
+					]
+				}
+			},
+			"Books": [
+				"Plane Shift Ixalan"
+			]
 		},
 		"Simic Hybrid": {
 			"Simic Hybrid Traits": {
 				"Ability Score Increase": [
-					"Your Constitution score increases by 2, and one other ability score ofyour choice increases by 1."
+					"Your Constitution score increases by 2, and one other ability score of your choice increases by 1."
 				],
 				"Age": [
 					"Hybrids begin their lives as adult humans, elves, or vedalken. They age at a slightly accelerated rate, so their maximum life spans are probably reduced somewhat. The Guardian Project has not been operating long enough to observe the full effect of this phenomenon."
@@ -1169,7 +1822,7 @@
 						"Your body has been altered to incorporate certain animal characteristics. You choose one animal enhancement now and a second enhancement at 5th level.",
 						"At 1st level, choose one of the following options:"
 					],
-					"Mantra GLide": [
+					"Mantra Glide": [
 						"You have ray-like fins that you can use as wings to slow your fall or allow you to glide. When you fall and aren't incapacitated, you can subtract up to 100 feet from the fall when calculating falling damage, and you can move up to 2 feet horizontally for every 1 foot you descend."
 					],
 					"Nimble Climber": [
@@ -1191,7 +1844,38 @@
 						"As an action, you can spray acid from glands in your mouth, targeting one creature or object you can see within 30 feet of you. The target takes 2d10 acid damage unless it succeeds on a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. This damage increases by 1d10 when you reach 11th level (3d10) and 17th level (4d10). You can use this trait a number of times equal to your Consitution modifier (minimum of once), and you regain all expended uses of it when you finish a long rest."
 					]
 				}
-			}
+			},
+			"Books": [
+				"Guildmaster's Guide to Ravnica"
+			]
+		},
+		"Siren": {
+			"Siren Traits": {
+				"Ability Score Increase": [
+					"Your Charisma score increases by 2."
+				],
+				"Alignment": [
+					"Most sirens lean toward chaotic alignment, cherishing the freedom and independence that comes from joining a pirate crew."
+				],
+				"Size": [
+					"Sirens stand about 5 to 6 feet tall, but their bodies are slender and their bones partially hollow to facilitate their flight. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 25 feet."
+				],
+				"Languages": [
+					"You can speak, read, and write Common (if it exists in your campaign) and Siren."
+				],
+				"Flight": [
+					"You have a flying speed of 30 feet. You can’t use your flying speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can’t use your flying speed if you are encumbered.)"
+				],
+				"Siren's Song": [
+					"You know the friends cantrip and can cast it without material components."
+				]
+			},
+			"Books": [
+				"Plane Shift Ixalan"
+			]
 		},
 		"Tabaxi": {
 			"Tabaxi Traits": {
@@ -1225,7 +1909,10 @@
 				"Languages": [
 					"You can speak, read, and write Common and one other language of your choice."
 				]
-			}
+			},
+			"Books": [
+				"Volo's Guide to Monsters"
+			]
 		},
 		"Tiefling": {
 			"Tiefling Traits": {
@@ -1361,7 +2048,10 @@
 						"You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the searing smite spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the branding smite spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
 					]
 				}
-			}
+			},
+			"Books": [
+				"Player's Handbook"
+			]
 		},
 		"Tortle": {
 			"Tortle Traits": {
@@ -1395,7 +2085,10 @@
 				"Languages": [
 					"You can speak, read, and write Aquan and Common."
 				]
-			}
+			},
+			"Books": [
+				"The Tortle Package"
+			]
 		},
 		"Triton": {
 			"Triton Traits": {
@@ -1429,7 +2122,60 @@
 				"Lansuages": [
 					"You can speak, read, and write Common and Primordial."
 				]
-			}
+			},
+			"Books": [
+				"Volo's Guide to Monsters"
+			]
+		},
+		"Vampire": {
+			"Vampire Traits": {
+				"Ability Score Increase": [
+					"Your Charisma score increases by 2."
+				],
+				"Age": [
+					"Vampires don’t mature and age in the same way that other races do."
+				],
+				"Alignment": [
+					"Vampires might not have an innate tendency toward evil, but many of them end up there. Evil or not, their strict hierarchies incline them toward a lawful alignment."
+				],
+				"Size": [
+					"Vampires are the same size and build as humans. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Languages": [
+					"You can speak, read, and write Common (if it exists in your campaign) and Vampire."
+				],
+				"Vampiric Resistance": [
+					"You have resistance to necrotic damage."
+				],
+				"Bloodthirst": [
+					"You can drain blood and life energy from a willing creature, or one that is grappled by you, incapacitated, or restrained. Make a melee attack against the target. If you hit, you deal 1 piercing damage and 1d6 necrotic damage. The target’s hit point maximum is reduced by an amount equal to the necrotic damage taken, and you regain hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
+				]
+			},
+			"Sub Races": {
+				"Ixalan": {
+					"Ability Score Increase": [
+						"Your Wisdom score increases by 1."
+					],
+					"Feast of Blood": [
+						"When you drain blood with your Bloodthirst ability, you experience a surge of vitality. Your speed increases by 10 feet, and you gain advantage on Strength and Dexterity checks and saving throws for 1 minute."
+					]
+				},
+				"Zendikar": {
+					"Ability Score Increase": [
+						"Your Intelligence score increases by 1."
+					],
+					"Null Transformation": [
+						"A humanoid killed with your Bloodthirst ability becomes a null (see \"A Zendikar Bestiary\")."
+					]
+				}
+			},
+			"Books": [
+				"Plane Shift Ixalan",
+				"Plane Shift Zendikar"
+			]
 		},
 		"Vedalken": {
 			"Vedalken Traits": {
@@ -1461,7 +2207,47 @@
 				"Languages": [
 					"You can speak, read, and write Common, Vedalken, and one other language of your choice."
 				]
-			}
+			},
+			"Books": [
+				"Guildmaster's Guide to Ravnica"
+			]
+		},
+		"Yuan-Ti Pureblood": {
+			"Yuan-Ti Pureblood Traits": {
+				"Ability Score Increase": [
+					"Your Charisma score increases by 2, and your Intelligence score increases by 1."
+				],
+				"Age": [
+					"Purebloods mature at the same rate as humans and have lifespans similar in length to theirs."
+				],
+				"Alignment": [
+					"Purebloods are devoid of emotion and see others as tools to manipulate. They care little for law or chaos and are typically neutral evil."
+				],
+				"Size": [
+					"Purebloods match humans in average size and weight. Your size is Medium."
+				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
+				"Languages": [
+					"You can speak, read, and write Common, Abyssal, and Draconic."
+				],
+				"Darkvision": [
+					"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+				],
+				"Innate Spellcasting": [
+					"You know the poison spray cantrip. You can cast animal friendship an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast suggestion with this trait. Once you cast it, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells."
+				],
+				"Magic Resistance": [
+					"You have advantage on saving throws against spells and other magical effects."
+				],
+				"Poison Immunity": [
+					"You are immune to poison damage and the poisoned condition."
+				]
+			},
+			"Books": [
+				"Volo's Guide to Monsters"
+			]
 		}
 	}
 }
