@@ -1791,7 +1791,8 @@
 				}
 			},
 			"Books": [
-				"Plane Shift Ixalan"
+				"Plane Shift Ixalan",
+				"Volo's Guide to Monsters"
 			]
 		},
 		"Simic Hybrid": {
@@ -2102,7 +2103,7 @@
 					"Tritons tend toward lawful good. As guardians of the darkest reaches of the sea, their culture pushes them toward order and benevolence."
 				],
 				"Size": [
-					"Tritons are slightly sli'orter than humans, averaging about 5 feet tall. Your size is Medium."
+					"Tritons are slightly shorter than humans, averaging about 5 feet tall. Your size is Medium."
 				],
 				"Speed": [
 					"Your base walking speed is 30 feet, and you have a swimming speed of 30 feet."
