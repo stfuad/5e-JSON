@@ -12,142 +12,185 @@
 				],
 				"Rows": [
 					{
-						"Level": "1st",
-						"Proficiency Bonus": "+2",
-						"Features": "Rage, Unarmored Defense",
+						"Level": 1,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Rage",
+							"Unarmored Defense"
+						],
 						"Rages": 2,
 						"Rage Damage": 2
 					},
 					{
-						"Level": "2nd",
-						"Proficiency Bonus": "+2",
-						"Features": "Reckless Attack, Danger Sense",
+						"Level": 2,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Reckless Attack",
+							"Danger Sense"
+						],
 						"Rages": 2,
 						"Rage Damage": 2
 					},
 					{
-						"Level": "3rd",
-						"Proficiency Bonus": "+2",
-						"Features": "Primal Path",
+						"Level": 3,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Primal Path"
+						],
 						"Rages": 3,
 						"Rage Damage": 2
 					},
 					{
-						"Level": "4th",
-						"Proficiency Bonus": "+2",
-						"Features": "Ability Score Improvement",
+						"Level": 4,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Rages": 3,
 						"Rage Damage": 2
 					},
 					{
-						"Level": "5th",
-						"Proficiency Bonus": "+3",
-						"Features": "Extra Attack, Fast Movement",
+						"Level": 5,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Extra Attack",
+							"Fast Movement"
+						],
 						"Rages": 3,
 						"Rage Damage": 2
 					},
 					{
-						"Level": "6th",
-						"Proficiency Bonus": "+3",
-						"Features": "Path Feature",
+						"Level": 6,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Path Feature"
+						],
 						"Rages": 4,
 						"Rage Damage": 2
 					},
 					{
-						"Level": "7th",
-						"Proficiency Bonus": "+3",
-						"Features": "Feral Instinct",
+						"Level": 7,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Feral Instinct"
+						],
 						"Rages": 4,
 						"Rage Damage": 2
 					},
 					{
-						"Level": "8th",
-						"Proficiency Bonus": "+3",
-						"Features": "Ability Score Improvement",
+						"Level": 8,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Rages": 4,
 						"Rage Damage": 2
 					},
 					{
-						"Level": "9th",
-						"Proficiency Bonus": "+4",
-						"Features": "Brutal Critical (1 die)",
+						"Level": 9,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Brutal Critical (1 die)"
+						],
 						"Rages": 4,
 						"Rage Damage": 3
 					},
 					{
-						"Level": "10th",
-						"Proficiency Bonus": "+4",
-						"Features": "Path Feature",
+						"Level": 10,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Path Feature"
+						],
 						"Rages": 4,
 						"Rage Damage": 3
 					},
 					{
-						"Level": "11th",
-						"Proficiency Bonus": "+4",
-						"Features": "Relentless Rage",
+						"Level": 11,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Relentless Rage"
+						],
 						"Rages": 4,
 						"Rage Damage": 3
 					},
 					{
-						"Level": "12th",
-						"Proficiency Bonus": "+4",
-						"Features": "Ability Score Improvement",
+						"Level": 12,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Rages": 5,
 						"Rage Damage": 3
 					},
 					{
-						"Level": "13th",
-						"Proficiency Bonus": "+5",
-						"Features": "Brutal Critical (2 dice)",
+						"Level": 13,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Brutal Critical (2 dice)"
+						],
 						"Rages": 5,
 						"Rage Damage": 3
 					},
 					{
-						"Level": "14th",
-						"Proficiency Bonus": "+5",
-						"Features": "Path Feature",
+						"Level": 14,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Path Feature"
+						],
 						"Rages": 4,
 						"Rage Damage": 3
 					},
 					{
-						"Level": "15th",
-						"Proficiency Bonus": "+5",
-						"Features": "Persistent Rage",
+						"Level": 15,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Persistent Rage"
+						],
 						"Rages": 5,
 						"Rage Damage": 3
 					},
 					{
-						"Level": "16th",
-						"Proficiency Bonus": "+5",
-						"Features": "Ability Score Improvement",
+						"Level": 16,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Rages": 5,
 						"Rage Damage": 4
 					},
 					{
-						"Level": "17th",
-						"Proficiency Bonus": "+6",
-						"Features": "Brutal Critical (3 dice)",
+						"Level": 17,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Brutal Critical (3 dice)"
+						],
 						"Rages": 6,
 						"Rage Damage": 4
 					},
 					{
-						"Level": "18th",
-						"Proficiency Bonus": "+6",
-						"Features": "Indomitable Might",
+						"Level": 18,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Indomitable Might"
+						],
 						"Rages": 6,
 						"Rage Damage": 4
 					},
 					{
-						"Level": "19th",
-						"Proficiency Bonus": "+6",
-						"Features": "Ability Score Improvement",
+						"Level": 19,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Rages": 6,
 						"Rage Damage": 4
 					},
 					{
-						"Level": "20th",
-						"Proficiency Bonus": "+6",
-						"Features": "Primal Champion",
+						"Level": 20,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Primal Champion"
+						],
 						"Rages": "Unlimited",
 						"Rage Damage": 4
 					}
@@ -453,9 +496,12 @@
 				],
 				"Rows": [
 					{
-						"Level": "1st",
-						"Proficiency Bonus": "+2",
-						"Features": "Spellcasting, Bardic Inspiration (d6)",
+						"Level": 1,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Spellcasting", 
+							"Bardic Inspiration (d6)"
+						],
 						"Cantrips Known": 2,
 						"Spells Known": 4,
 						"1st": 2,
@@ -469,9 +515,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "2nd",
-						"Proficiency Bonus": "+2",
-						"Features": "Jack of All Trades, Song of Rest (d6)",
+						"Level": 2,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Jack of All Trades", 
+							"Song of Rest (d6)"
+						],
 						"Cantrips Known": 2,
 						"Spells Known": 5,
 						"1st": 3,
@@ -485,9 +534,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "3rd",
-						"Proficiency Bonus": "+2",
-						"Features": "Bard College, Expertise",
+						"Level": 3,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Bard College", 
+							"Expertise"
+						],
 						"Cantrips Known": 2,
 						"Spells Known": 6,
 						"1st": 4,
@@ -501,9 +553,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "4th",
-						"Proficiency Bonus": "+2",
-						"Features": "Ability Score Improvement",
+						"Level": 4,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 3,
 						"Spells Known": 7,
 						"1st": 4,
@@ -517,9 +571,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "5th",
-						"Proficiency Bonus": "+3",
-						"Features": "Bardic Inspiration (d8), Font of Inspiration",
+						"Level": 5,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Bardic Inspiration (d8)", 
+							"Font of Inspiration"
+						],
 						"Cantrips Known": 3,
 						"Spells Known": 8,
 						"1st": 4,
@@ -533,9 +590,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "6th",
-						"Proficiency Bonus": "+3",
-						"Features": "Countercharm, Bard College feature",
+						"Level": 6,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Countercharm", 
+							"Bard College feature"
+						],
 						"Cantrips Known": 3,
 						"Spells Known": 9,
 						"1st": 4,
@@ -549,9 +609,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "7th",
-						"Proficiency Bonus": "+3",
-						"Features": "-",
+						"Level": 7,
+						"Proficiency Bonus": 3,
+						"Features": [
+							
+						],
 						"Cantrips Known": 3,
 						"Spells Known": 10,
 						"1st": 4,
@@ -565,9 +627,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "8th",
-						"Proficiency Bonus": "+3",
-						"Features": "Ability Score Improvement",
+						"Level": 8,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 3,
 						"Spells Known": 11,
 						"1st": 4,
@@ -581,9 +645,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "9th",
-						"Proficiency Bonus": "+4",
-						"Features": "Song of Rest (d8)",
+						"Level": 9,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Song of Rest (d8)"
+						],
 						"Cantrips Known": 3,
 						"Spells Known": 12,
 						"1st": 4,
@@ -597,9 +663,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "10th",
-						"Proficiency Bonus": "+4",
-						"Features": "Bardic Inspiration (d10), Expertise, Magical Secrets",
+						"Level": 10,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Bardic Inspiration (d10)", 
+							"Expertise", "Magical Secrets"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 14,
 						"1st": 4,
@@ -613,9 +682,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "11th",
-						"Proficiency Bonus": "+4",
-						"Features": "-",
+						"Level": 11,
+						"Proficiency Bonus": 4,
+						"Features": [
+
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 15,
 						"1st": 4,
@@ -629,9 +700,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "12th",
-						"Proficiency Bonus": "+4",
-						"Features": "Ability Score Improvement",
+						"Level": 12,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 15,
 						"1st": 4,
@@ -645,9 +718,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "13th",
-						"Proficiency Bonus": "+5",
-						"Features": "Song of Rest (d10)",
+						"Level": 13,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Song of Rest (d10)"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 16,
 						"1st": 4,
@@ -661,9 +736,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "14th",
-						"Proficiency Bonus": "+5",
-						"Features": "Magical Secrets, Bard College feature",
+						"Level": 14,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Magical Secrets", 
+							"Bard College feature"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 18,
 						"1st": 4,
@@ -677,9 +755,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "15th",
-						"Proficiency Bonus": "+5",
-						"Features": "Bardic Inspiration (d12)",
+						"Level": 15,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Bardic Inspiration (d12)"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 19,
 						"1st": 4,
@@ -693,9 +773,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "16th",
-						"Proficiency Bonus": "+5",
-						"Features": "Ability Score Improvement",
+						"Level": 16,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 19,
 						"1st": 4,
@@ -709,9 +791,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "17th",
-						"Proficiency Bonus": "+6",
-						"Features": "Song of Rest (d12)",
+						"Level": 17,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Song of Rest (d12)"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 20,
 						"1st": 4,
@@ -725,9 +809,11 @@
 						"9th": 1
 					},
 					{
-						"Level": "18th",
-						"Proficiency Bonus": "+6",
-						"Features": "Magical Secrets",
+						"Level": 18,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Magical Secrets"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 22,
 						"1st": 4,
@@ -741,9 +827,11 @@
 						"9th": 1
 					},
 					{
-						"Level": "19th",
-						"Proficiency Bonus": "+6",
-						"Features": "Ability Score Improvement",
+						"Level": 19,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 22,
 						"1st": 4,
@@ -757,9 +845,11 @@
 						"9th": 1
 					},
 					{
-						"Level": "20th",
-						"Proficiency Bonus": "+6",
-						"Features": "Superior Inspiration",
+						"Level": 20,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Superior Inspiration"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 22,
 						"1st": 4,
@@ -1004,9 +1094,12 @@
 				],
 				"Rows": [
 					{
-						"Level": "1st",
-						"Proficiency Bonus": "+2",
-						"Features": "Spellcasting, Divine Domain",
+						"Level": 1,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Spellcasting", 
+							"Divine Domain"
+						],
 						"Cantrips Known": 3,
 						"1st": 2,
 						"2nd": 0,
@@ -1019,9 +1112,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "2nd",
-						"Proficiency Bonus": "+2",
-						"Features": "Channel Divinity (1/rest), Divine Domain feature",
+						"Level": 2,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Channel Divinity (1/rest)", 
+							"Divine Domain feature"
+						],
 						"Cantrips Known": 3,
 						"1st": 3,
 						"2nd": 0,
@@ -1034,9 +1130,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "3rd",
-						"Proficiency Bonus": "+2",
-						"Features": "-",
+						"Level": 3,
+						"Proficiency Bonus": 2,
+						"Features": [
+
+						],
 						"Cantrips Known": 3,
 						"1st": 4,
 						"2nd": 2,
@@ -1049,9 +1147,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "4th",
-						"Proficiency Bonus": "+2",
-						"Features": "Ability Score Improvement",
+						"Level": 4,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -1064,9 +1164,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "5th",
-						"Proficiency Bonus": "+3",
-						"Features": "Destroy Undead (CR 1/2)",
+						"Level": 5,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Destroy Undead (CR 1/2)"
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -1079,9 +1181,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "6th",
-						"Proficiency Bonus": "+3",
-						"Features": "Channel Divinity (2/rest), Divine Domain feature",
+						"Level": 6,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Channel Divinity (2/rest)", 
+							"Divine Domain feature"
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -1094,9 +1199,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "7th",
-						"Proficiency Bonus": "+3",
-						"Features": "-",
+						"Level": 7,
+						"Proficiency Bonus": 3,
+						"Features": [
+
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -1109,9 +1216,13 @@
 						"9th": 0
 					},
 					{
-						"Level": "8th",
-						"Proficiency Bonus": "+3",
-						"Features": "Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature",
+						"Level": 8,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Ability Score Improvement", 
+							"Destroy Undead (CR 1)", 
+							"Divine Domain feature"
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -1124,9 +1235,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "9th",
-						"Proficiency Bonus": "+4",
-						"Features": "-",
+						"Level": 9,
+						"Proficiency Bonus": 4,
+						"Features": [
+
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -1139,9 +1252,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "10th",
-						"Proficiency Bonus": "+4",
-						"Features": "Divine Intervention",
+						"Level": 10,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Divine Intervention"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -1154,9 +1269,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "11th",
-						"Proficiency Bonus": "+4",
-						"Features": "Destroy Undead (CR 2)",
+						"Level": 11,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Destroy Undead (CR 2)"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -1169,9 +1286,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "12th",
-						"Proficiency Bonus": "+4",
-						"Features": "Ability Score Improvement",
+						"Level": 12,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -1184,9 +1303,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "13th",
-						"Proficiency Bonus": "+5",
-						"Features": "-",
+						"Level": 13,
+						"Proficiency Bonus": 5,
+						"Features": [
+
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -1199,9 +1320,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "14th",
-						"Proficiency Bonus": "+5",
-						"Features": "Destroy Undead (CR 3)",
+						"Level": 14,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Destroy Undead (CR 3)"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -1214,9 +1337,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "15th",
-						"Proficiency Bonus": "+5",
-						"Features": "-",
+						"Level": 15,
+						"Proficiency Bonus": 5,
+						"Features": [
+
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -1229,9 +1354,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "16th",
-						"Proficiency Bonus": "+5",
-						"Features": "Ability Score Improvement",
+						"Level": 16,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -1244,9 +1371,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "17th",
-						"Proficiency Bonus": "+6",
-						"Features": "Destroy Undead (CR 4), Divine Domain feature",
+						"Level": 17,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Destroy Undead (CR 4)", 
+							"Divine Domain feature"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -1259,9 +1389,11 @@
 						"9th": 1
 					},
 					{
-						"Level": "18th",
-						"Proficiency Bonus": "+6",
-						"Features": "Channel Divinity (3/rest)",
+						"Level": 18,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Channel Divinity (3/rest)"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -1274,9 +1406,11 @@
 						"9th": 1
 					},
 					{
-						"Level": "19th",
-						"Proficiency Bonus": "+6",
-						"Features": "Ability Score Improvement",
+						"Level": 19,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -1289,9 +1423,11 @@
 						"9th": 1
 					},
 					{
-						"Level": "20th",
-						"Proficiency Bonus": "+6",
-						"Features": "Divine Intervention improvement",
+						"Level": 20,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Divine Intervention improvement"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -2514,9 +2650,12 @@
 				],
 				"Rows": [
 					{
-						"Level": "1st",
-						"Proficiency Bonus": "+2",
-						"Features": "Druidic, Spellcasting",
+						"Level": 1,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Druidic", 
+							"Spellcasting"
+						],
 						"Cantrips Known": 2,
 						"1st": 2,
 						"2nd": 0,
@@ -2529,9 +2668,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "2nd",
-						"Proficiency Bonus": "+2",
-						"Features": "Wild Shape, Druid Circle",
+						"Level": 2,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Wild Shape", 
+							"Druid Circle"
+						],
 						"Cantrips Known": 2,
 						"1st": 3,
 						"2nd": 0,
@@ -2544,9 +2686,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "3rd",
-						"Proficiency Bonus": "+2",
-						"Features": "-",
+						"Level": 3,
+						"Proficiency Bonus": 2,
+						"Features": [
+
+						],
 						"Cantrips Known": 2,
 						"1st": 4,
 						"2nd": 2,
@@ -2559,9 +2703,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "4th",
-						"Proficiency Bonus": "+2",
-						"Features": "Wild Shape Improvement, Ability Score Improvement",
+						"Level": 4,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Wild Shape Improvement", 
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 3,
 						"1st": 4,
 						"2nd": 3,
@@ -2574,9 +2721,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "5th",
-						"Proficiency Bonus": "+3",
-						"Features": "-",
+						"Level": 5,
+						"Proficiency Bonus": 3,
+						"Features": [
+
+						],
 						"Cantrips Known": 3,
 						"1st": 4,
 						"2nd": 3,
@@ -2589,9 +2738,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "6th",
-						"Proficiency Bonus": "+3",
-						"Features": "Druid Circle feature",
+						"Level": 6,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Druid Circle feature"
+						],
 						"Cantrips Known": 3,
 						"1st": 4,
 						"2nd": 3,
@@ -2604,9 +2755,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "7th",
-						"Proficiency Bonus": "+3",
-						"Features": "-",
+						"Level": 7,
+						"Proficiency Bonus": 3,
+						"Features": [
+
+						],
 						"Cantrips Known": 3,
 						"1st": 4,
 						"2nd": 3,
@@ -2619,9 +2772,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "8th",
-						"Proficiency Bonus": "+3",
-						"Features": "Wild Shape Improvement, Ability Score Improvement",
+						"Level": 8,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Wild Shape Improvement", 
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 3,
 						"1st": 4,
 						"2nd": 3,
@@ -2634,9 +2790,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "9th",
-						"Proficiency Bonus": "+4",
-						"Features": "-",
+						"Level": 9,
+						"Proficiency Bonus": 4,
+						"Features": [
+
+						],
 						"Cantrips Known": 3,
 						"1st": 4,
 						"2nd": 3,
@@ -2649,9 +2807,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "10th",
-						"Proficiency Bonus": "+4",
-						"Features": "Druid Circle feature",
+						"Level": 10,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Druid Circle feature"
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -2664,9 +2824,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "11th",
-						"Proficiency Bonus": "+4",
-						"Features": "-",
+						"Level": 11,
+						"Proficiency Bonus": 4,
+						"Features": [
+
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -2679,9 +2841,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "12th",
-						"Proficiency Bonus": "+4",
-						"Features": "Ability Score Improvement",
+						"Level": 12,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -2694,9 +2858,9 @@
 						"9th": 0
 					},
 					{
-						"Level": "13th",
-						"Proficiency Bonus": "+5",
-						"Features": "-",
+						"Level": 13,
+						"Proficiency Bonus": 5,
+						"Features": [],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -2709,9 +2873,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "14th",
-						"Proficiency Bonus": "+5",
-						"Features": "Druid Circle feature",
+						"Level": 14,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Druid Circle feature"
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -2724,9 +2890,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "15th",
-						"Proficiency Bonus": "+5",
-						"Features": "-",
+						"Level": 15,
+						"Proficiency Bonus": 5,
+						"Features": [
+
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -2739,9 +2907,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "16th",
-						"Proficiency Bonus": "+5",
-						"Features": "Ability Score Improvement",
+						"Level": 16,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -2754,9 +2924,9 @@
 						"9th": 0
 					},
 					{
-						"Level": "17th",
-						"Proficiency Bonus": "+6",
-						"Features": "-",
+						"Level": 17,
+						"Proficiency Bonus": 6,
+						"Features": [],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -2769,9 +2939,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "18th",
-						"Proficiency Bonus": "+6",
-						"Features": "Timeless Body, Beast Spells",
+						"Level": 18,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Timeless Body", 
+							"Beast Spells"
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -2784,9 +2957,11 @@
 						"9th": 1
 					},
 					{
-						"Level": "19th",
-						"Proficiency Bonus": "+6",
-						"Features": "Ability Score Improvement",
+						"Level": 19,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -2799,9 +2974,11 @@
 						"9th": 1
 					},
 					{
-						"Level": "20th",
-						"Proficiency Bonus": "+6",
-						"Features": "Archdruid",
+						"Level": 20,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Archdruid"
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -3414,104 +3591,146 @@
 				],
 				"Rows": [
 					{
-						"Level": "1st",
-						"Proficiency Bonus": "+2",
-						"Features":  "Fighting Style, Second Wind"
+						"Level": 1,
+						"Proficiency Bonus": 2,
+						"Features":  [
+							"Fighting Style", 
+							"Second Wind"
+						]
 					},
 					{
-						"Level": "2nd",
-						"Proficiency Bonus": "+2",
-						"Features": "Action Surge (one use)"
+						"Level": 2,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Action Surge (one use)"
+						]
 					},
 					{
-						"Level": "3rd",
-						"Proficiency Bonus": "+2",
-						"Features": "Martial Archetype"
+						"Level": 3,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Martial Archetype"
+						]
 					},
 					{
-						"Level": "4th",
-						"Proficiency Bonus": "+2",
-						"Features": "Ability Score Improvement"
+						"Level": 4,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "5th",
-						"Proficiency Bonus": "+3",
-						"Features": "Extra Attack"
+						"Level": 5,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Extra Attack"
+						]
 					},
 					{
-						"Level": "6th",
-						"Proficiency Bonus": "+3",
-						"Features": "Ability Score Improvement"
+						"Level": 6,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "7th",
-						"Proficiency Bonus": "+3",
-						"Features": "Martial Archetype feature"
+						"Level": 7,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Martial Archetype feature"
+						]
 					},
 					{
-						"Level": "8th",
-						"Proficiency Bonus": "+3",
-						"Features": "Ability Score Improvement"
+						"Level": 8,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "9th",
-						"Proficiency Bonus": "+4",
-						"Features": "Indomitable (one use)"
+						"Level": 9,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Indomitable (one use)"
+						]
 					},
 					{
-						"Level": "10th",
-						"Proficiency Bonus": "+4",
-						"Features": "Martial Archetype feature"
+						"Level": 10,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Martial Archetype feature"
+						]
 					},
 					{
-						"Level": "11th",
-						"Proficiency Bonus": "+4",
-						"Features": "Extra Attack (2)"
+						"Level": 11,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Extra Attack (2)"
+						]
 					},
 					{
-						"Level": "12th",
-						"Proficiency Bonus": "+4",
-						"Features": "Ability Score Improvement"
+						"Level": 12,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "13th",
-						"Proficiency Bonus": "+5",
-						"Features": "Indomitable (two uses)"
+						"Level": 13,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Indomitable (two uses)"
+						]
 					},
 					{
-						"Level": "14th",
-						"Proficiency Bonus": "+5",
-						"Features": "Ability Score Improvement"
+						"Level": 14,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "15th",
-						"Proficiency Bonus": "+5",
-						"Features": "Martial Archetype feature"
+						"Level": 15,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Martial Archetype feature"
+						]
 					},
 					{
-						"Level": "16th",
-						"Proficiency Bonus": "+5",
-						"Features": "Ability Score Improvement"
+						"Level": 16,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "17th",
-						"Proficiency Bonus": "+6",
-						"Features": "Action Surge (two uses), Indomitable (three uses)"
+						"Level": 17,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Action Surge (two uses)", 
+							"Indomitable (three uses)"
+						]
 					},
 					{
-						"Level": "18th",
-						"Proficiency Bonus": "+6",
-						"Features": "Martial Archetype feature"
+						"Level": 18,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Martial Archetype feature"
+						]
 					},
 					{
-						"Level": "19th",
-						"Proficiency Bonus": "+6",
-						"Features": "Ability Score Improvement"
+						"Level": 19,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "20th",
-						"Proficiency Bonus": "+6",
-						"Features": "Extra Attack (3)"
+						"Level": 20,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Extra Attack (3)"
+						]
 					}
 				]
 			},
@@ -4037,164 +4256,211 @@
 				],
 				"Rows": [
 					{
-						"Level": "1st",
-						"Proficiency Bonus": "+2",
+						"Level": 1,
+						"Proficiency Bonus": 2,
 						"Martial Arts": "1d4",
 						"Ki Points": 0,
 						"Unarmored Movement": 0,
-						"Features": "Unarmored Defense, Martial Arts"
+						"Features": [
+							"Unarmored Defense", 
+							"Martial Arts"
+						]
 					},
 					{
-						"Level": "2nd",
-						"Proficiency Bonus": "+2",
+						"Level": 2,
+						"Proficiency Bonus": 2,
 						"Martial Arts": "1d4",
 						"Ki Points": 2,
 						"Unarmored Movement": 10,
-						"Features": "Ki, Unarmored Movement"
+						"Features": [
+							"Ki", 
+							"Unarmored Movement"
+						]
 					},
 					{
-						"Level": "3rd",
-						"Proficiency Bonus": "+2",
+						"Level": 3,
+						"Proficiency Bonus": 2,
 						"Martial Arts": "1d4",
 						"Ki Points": 3,
 						"Unarmored Movement": 10,
-						"Features": "Monastic Tradition, Deflect Missiles"
+						"Features": [
+							"Monastic Tradition", 
+							"Deflect Missiles"
+						]
 					},
 					{
-						"Level": "4th",
-						"Proficiency Bonus": "+2",
+						"Level": 4,
+						"Proficiency Bonus": 2,
 						"Martial Arts": "1d4",
 						"Ki Points": 4,
 						"Unarmored Movement": 10,
-						"Features": "Ability Score Improvement, Slow Fall"
+						"Features": [
+							"Ability Score Improvement", 
+							"Slow Fall"
+						]
 					},
 					{
-						"Level": "5th",
-						"Proficiency Bonus": "+3",
+						"Level": 5,
+						"Proficiency Bonus": 3,
 						"Martial Arts": "1d6",
 						"Ki Points": 5,
 						"Unarmored Movement": 10,
-						"Features": "Extra Attack, Stunning Strike"
+						"Features": [
+							"Extra Attack", 
+							"Stunning Strike"
+						]
 					},
 					{
-						"Level": "6th",
-						"Proficiency Bonus": "+3",
+						"Level": 6,
+						"Proficiency Bonus": 3,
 						"Martial Arts": "1d6",
 						"Ki Points": 6,
 						"Unarmored Movement": 15,
-						"Features": "Ki-Empowered Strikes, Monastic Tradition feature"
+						"Features": [
+							"Ki-Empowered Strikes", 
+							"Monastic Tradition feature"
+						]
 					},
 					{
-						"Level": "7th",
-						"Proficiency Bonus": "+3",
+						"Level": 7,
+						"Proficiency Bonus": 3,
 						"Martial Arts": "1d6",
 						"Ki Points": 7,
 						"Unarmored Movement": 15,
-						"Features": "Evasion, Stillness of Mind"
+						"Features": [
+							"Evasion", 
+							"Stillness of Mind"
+						]
 					},
 					{
-						"Level": "8th",
-						"Proficiency Bonus": "+3",
+						"Level": 8,
+						"Proficiency Bonus": 3,
 						"Martial Arts": "1d6",
 						"Ki Points": 8,
 						"Unarmored Movement": 15,
-						"Features": "Ability Score Improvement"
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "9th",
-						"Proficiency Bonus": "+4",
+						"Level": 9,
+						"Proficiency Bonus": 4,
 						"Martial Arts": "1d6",
 						"Ki Points": 9,
 						"Unarmored Movement": 15,
-						"Features": "Unarmored Movement improvement"
+						"Features": [
+							"Unarmored Movement improvement"
+						]
 					},
 					{
-						"Level": "10th",
-						"Proficiency Bonus": "+4",
+						"Level": 10,
+						"Proficiency Bonus": 4,
 						"Martial Arts": "1d6",
 						"Ki Points": 10,
 						"Unarmored Movement": 20,
-						"Features": "Purity of Body"
+						"Features": [
+							"Purity of Body"
+						]
 					},
 					{
-						"Level": "11th",
-						"Proficiency Bonus": "+4",
+						"Level": 11,
+						"Proficiency Bonus": 4,
 						"Martial Arts": "1d8",
 						"Ki Points": 11,
 						"Unarmored Movement": 20,
-						"Features": "Monastic Tradition feature"
+						"Features": [
+							"Monastic Tradition feature"
+						]
 					},
 					{
-						"Level": "12th",
-						"Proficiency Bonus": "+4",
+						"Level": 12,
+						"Proficiency Bonus": 4,
 						"Martial Arts": "1d8",
 						"Ki Points": 12,
 						"Unarmored Movement": 20,
-						"Features": "Ability Score Improvement"
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "13th",
-						"Proficiency Bonus": "+5",
+						"Level": 13,
+						"Proficiency Bonus": 5,
 						"Martial Arts": "1d8",
 						"Ki Points": 13,
 						"Unarmored Movement": 20,
-						"Features": "Tongue of the Sun and Moon"
+						"Features": [
+							"Tongue of the Sun and Moon"
+						]
 					},
 					{
-						"Level": "14th",
-						"Proficiency Bonus": "+5",
+						"Level": 14,
+						"Proficiency Bonus": 5,
 						"Martial Arts": "1d8",
 						"Ki Points": 14,
 						"Unarmored Movement": 25,
-						"Features": "Diamond Soul"
+						"Features": [
+							"Diamond Soul"
+						]
 					},
 					{
-						"Level": "15th",
-						"Proficiency Bonus": "+5",
+						"Level": 15,
+						"Proficiency Bonus": 5,
 						"Martial Arts": "1d8",
 						"Ki Points": 15,
 						"Unarmored Movement": 25,
-						"Features": "Timeless Body"
+						"Features": [
+							"Timeless Body"
+						]
 					},
 					{
-						"Level": "16th",
-						"Proficiency Bonus": "+5",
+						"Level": 16,
+						"Proficiency Bonus": 5,
 						"Martial Arts": "1d8",
 						"Ki Points": 16,
 						"Unarmored Movement": 25,
-						"Features": "Ability Score Improvement"
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "17th",
-						"Proficiency Bonus": "+6",
+						"Level": 17,
+						"Proficiency Bonus": 6,
 						"Martial Arts": "1d10",
 						"Ki Points": 17,
 						"Unarmored Movement": 25,
-						"Features": "Monastic Tradition feature"
+						"Features": [
+							"Monastic Tradition feature"
+						]
 					},
 					{
-						"Level": "18th",
-						"Proficiency Bonus": "+6",
+						"Level": 18,
+						"Proficiency Bonus": 6,
 						"Martial Arts": "1d10",
 						"Ki Points": 18,
 						"Unarmored Movement": 30,
-						"Features": "Empty Body"
+						"Features": [
+							"Empty Body"
+						]
 					},
 					{
-						"Level": "19th",
-						"Proficiency Bonus": "+6",
+						"Level": 19,
+						"Proficiency Bonus": 6,
 						"Martial Arts": "1d10",
 						"Ki Points": 19,
 						"Unarmored Movement": 30,
-						"Features": "Ability Score Improvement"
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "20th",
-						"Proficiency Bonus": "+6",
+						"Level": 20,
+						"Proficiency Bonus": 6,
 						"Martial Arts": "1d10",
 						"Ki Points": 20,
 						"Unarmored Movement": 30,
-						"Features": "Perfect Self"
+						"Features": [
+							"Perfect Self"
+						]
 					}
 				]
 			},
@@ -4532,9 +4798,12 @@
 				],
 				"Rows": [
 					{
-						"Level": "1st",
-						"Proficiency Bonus": "+2",
-						"Features": "Divine Sense, Lay on Hands",
+						"Level": 1,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Divine Sense", 
+							"Lay on Hands"
+						],
 						"1st": 0,
 						"2nd": 0,
 						"3rd": 0,
@@ -4542,9 +4811,13 @@
 						"5th": 0
 					},
 					{
-						"Level": "2nd",
-						"Proficiency Bonus": "+2",
-						"Features": "Fighting Style, Spellcasting, Divine Smite",
+						"Level": 2,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Fighting Style", 
+							"Spellcasting", 
+							"Divine Smite"
+						],
 						"1st": 2,
 						"2nd": 0,
 						"3rd": 0,
@@ -4552,9 +4825,12 @@
 						"5th": 0
 					},
 					{
-						"Level": "3rd",
-						"Proficiency Bonus": "+2",
-						"Features": "Divine Health, Sacred Oath",
+						"Level": 3,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Divine Health", 
+							"Sacred Oath"
+						],
 						"1st": 3,
 						"2nd": 0,
 						"3rd": 0,
@@ -4562,9 +4838,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "4th",
-						"Proficiency Bonus": "+2",
-						"Features": "Ability Score Improvement",
+						"Level": 4,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"1st": 3,
 						"2nd": 0,
 						"3rd": 0,
@@ -4572,9 +4850,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "5th",
-						"Proficiency Bonus": "+3",
-						"Features": "Extra Attack",
+						"Level": 5,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Extra Attack"
+						],
 						"1st": 0,
 						"2nd": 0,
 						"3rd": 0,
@@ -4582,9 +4862,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "6th",
-						"Proficiency Bonus": "+3",
-						"Features": "-",
+						"Level": 6,
+						"Proficiency Bonus": 3,
+						"Features": [
+
+						],
 						"1st": 4,
 						"2nd": 2,
 						"3rd": 0,
@@ -4592,9 +4874,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "7th",
-						"Proficiency Bonus": "+3",
-						"Features": "Sacred Oath feature",
+						"Level": 7,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Sacred Oath feature"
+						],
 						"1st": 4,
 						"2nd": 3,
 						"3rd": 0,
@@ -4602,9 +4886,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "8th",
-						"Proficiency Bonus": "+3",
-						"Features": "Ability Score Improvement",
+						"Level": 8,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"1st": 4,
 						"2nd": 3,
 						"3rd": 0,
@@ -4612,9 +4898,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "9th",
-						"Proficiency Bonus": "+4",
-						"Features": "-",
+						"Level": 9,
+						"Proficiency Bonus": 4,
+						"Features": [
+
+						],
 						"1st": 4,
 						"2nd": 3,
 						"3rd": 2,
@@ -4622,9 +4910,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "10th",
-						"Proficiency Bonus": "+4",
-						"Features": "Aura of Courage",
+						"Level": 10,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Aura of Courage"
+						],
 						"1st": 4,
 						"2nd": 3,
 						"3rd": 2,
@@ -4632,9 +4922,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "11th",
-						"Proficiency Bonus": "+4",
-						"Features": "Improved Divine Smite",
+						"Level": 11,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Improved Divine Smite"
+						],
 						"1st": 4,
 						"2nd": 3,
 						"3rd": 3,
@@ -4642,9 +4934,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "12th",
-						"Proficiency Bonus": "+4",
-						"Features": "Ability Score Improvement",
+						"Level": 12,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"1st": 4,
 						"2nd": 3,
 						"3rd": 3,
@@ -4652,9 +4946,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "13th",
-						"Proficiency Bonus": "+5",
-						"Features": "-",
+						"Level": 13,
+						"Proficiency Bonus": 5,
+						"Features": [
+
+						],
 						"1st": 4,
 						"2nd": 3,
 						"3rd": 3,
@@ -4662,9 +4958,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "14th",
-						"Proficiency Bonus": "+5",
-						"Features": "Cleansing Touch",
+						"Level": 14,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Cleansing Touch"
+						],
 						"1st": 4,
 						"2nd": 3,
 						"3rd": 3,
@@ -4672,9 +4970,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "15th",
-						"Proficiency Bonus": "+5",
-						"Features": "Sacred Oath feature",
+						"Level": 15,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Sacred Oath feature"
+						],
 						"1st": 4,
 						"2nd": 3,
 						"3rd": 3,
@@ -4682,9 +4982,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "16th",
-						"Proficiency Bonus": "+5",
-						"Features": "Ability Score Improvement",
+						"Level": 16,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"1st": 4,
 						"2nd": 3,
 						"3rd": 3,
@@ -4692,9 +4994,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "17th",
-						"Proficiency Bonus": "+6",
-						"Features": "-",
+						"Level": 17,
+						"Proficiency Bonus": 6,
+						"Features": [
+
+						],
 						"1st": 4,
 						"2nd": 3,
 						"3rd": 3,
@@ -4702,9 +5006,11 @@
 						"5th": 1
 					},
 					{
-						"Level": "18th",
-						"Proficiency Bonus": "+6",
-						"Features": "Aura improvements",
+						"Level": 18,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Aura improvements"
+						],
 						"1st": 4,
 						"2nd": 3,
 						"3rd": 3,
@@ -4712,9 +5018,11 @@
 						"5th": 1
 					},
 					{
-						"Level": "19th",
-						"Proficiency Bonus": "+6",
-						"Features": "Ability Score Improvement",
+						"Level": 19,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"1st": 4,
 						"2nd": 3,
 						"3rd": 3,
@@ -4722,9 +5030,11 @@
 						"5th": 2
 					},
 					{
-						"Level": "20th",
-						"Proficiency Bonus": "+6",
-						"Features": "Sacred Oath feature",
+						"Level": 20,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Sacred Oath feature"
+						],
 						"1st": 4,
 						"2nd": 3,
 						"3rd": 3,
@@ -5448,9 +5758,12 @@
 				],
 				"Rows": [
 					{
-						"Level": "1st",
-						"Proficiency Bonus": "+2",
-						"Features": "Favored Enemy, Natural Explorer",
+						"Level": 1,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Favored Enemy", 
+							"Natural Explorer"
+						],
 						"Spells Known": 0,
 						"1st": 0,
 						"2nd": 0,
@@ -5459,9 +5772,12 @@
 						"5th": 0
 					},
 					{
-						"Level": "2nd",
-						"Proficiency Bonus": "+2",
-						"Features": "Fighting Style, Spellcasting",
+						"Level": 2,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Fighting Style", 
+							"Spellcasting"
+						],
 						"Spells Known": 2,
 						"1st": 2,
 						"2nd": 0,
@@ -5470,9 +5786,12 @@
 						"5th": 0
 					},
 					{
-						"Level": "3rd",
-						"Proficiency Bonus": "+2",
-						"Features": "Ranger Archetype, Primeval Awareness",
+						"Level": 3,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Ranger Archetype", 
+							"Primeval Awareness"
+						],
 						"Spells Known": 3,
 						"1st": 3,
 						"2nd": 0,
@@ -5481,9 +5800,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "4th",
-						"Proficiency Bonus": "+2",
-						"Features": "Ability Score Improvement",
+						"Level": 4,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Spells Known": 3,
 						"1st": 3,
 						"2nd": 0,
@@ -5492,9 +5813,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "5th",
-						"Proficiency Bonus": "+3",
-						"Features": "Extra Attack",
+						"Level": 5,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Extra Attack"
+						],
 						"Spells Known": 4,
 						"1st": 4,
 						"2nd": 2,
@@ -5503,9 +5826,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "6th",
-						"Proficiency Bonus": "+3",
-						"Features": "Favored Enemy and Natural Explorer improvements",
+						"Level": 6,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Favored Enemy and Natural Explorer improvements"
+						],
 						"Spells Known": 4,
 						"1st": 4,
 						"2nd": 2,
@@ -5514,9 +5839,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "7th",
-						"Proficiency Bonus": "+3",
-						"Features": "Ranger Archetype feature",
+						"Level": 7,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Ranger Archetype feature"
+						],
 						"Spells Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -5525,9 +5852,13 @@
 						"5th": 0
 					},
 					{
-						"Level": "8th",
-						"Proficiency Bonus": "+3",
-						"Features": "Ability Score Improvement, Land's Stride",
+						"Level": 8,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Ability Score Improvement", 
+							"Land's Stride"
+						]
+						,
 						"Spells Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -5536,9 +5867,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "9th",
-						"Proficiency Bonus": "+4",
-						"Features": "-",
+						"Level": 9,
+						"Proficiency Bonus": 4,
+						"Features": [
+
+						],
 						"Spells Known": 6,
 						"1st": 4,
 						"2nd": 3,
@@ -5547,9 +5880,12 @@
 						"5th": 0
 					},
 					{
-						"Level": "10th",
-						"Proficiency Bonus": "+4",
-						"Features": "Natural Explorer improvement, Hide in plain Sight",
+						"Level": 10,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Natural Explorer improvement", 
+							"Hide in plain Sight"
+						],
 						"Spells Known": 6,
 						"1st": 4,
 						"2nd": 3,
@@ -5558,9 +5894,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "11th",
-						"Proficiency Bonus": "+4",
-						"Features": "Ranger Archetype feature",
+						"Level": 11,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Ranger Archetype feature"
+						],
 						"Spells Known": 7,
 						"1st": 4,
 						"2nd": 3,
@@ -5569,9 +5907,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "12th",
-						"Proficiency Bonus": "+4",
-						"Features": "Ability Score Improvement",
+						"Level": 12,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Spells Known": 7,
 						"1st": 4,
 						"2nd": 3,
@@ -5580,9 +5920,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "13th",
-						"Proficiency Bonus": "+5",
-						"Features": "-",
+						"Level": 13,
+						"Proficiency Bonus": 5,
+						"Features": [
+
+						],
 						"Spells Known": 8,
 						"1st": 4,
 						"2nd": 3,
@@ -5591,9 +5933,12 @@
 						"5th": 0
 					},
 					{
-						"Level": "14th",
-						"Proficiency Bonus": "+5",
-						"Features": "Favored Enemy improvement, Vanish",
+						"Level": 14,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Favored Enemy improvement", 
+							"Vanish"
+						],
 						"Spells Known": 8,
 						"1st": 4,
 						"2nd": 3,
@@ -5602,9 +5947,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "15th",
-						"Proficiency Bonus": "+5",
-						"Features": "Ranger Archetype feature",
+						"Level": 15,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Ranger Archetype feature"
+						],
 						"Spells Known": 9,
 						"1st": 4,
 						"2nd": 3,
@@ -5613,9 +5960,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "16th",
-						"Proficiency Bonus": "+5",
-						"Features": "Ability Score Improvement",
+						"Level": 16,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Spells Known": 9,
 						"1st": 4,
 						"2nd": 3,
@@ -5624,9 +5973,11 @@
 						"5th": 0
 					},
 					{
-						"Level": "17th",
-						"Proficiency Bonus": "+6",
-						"Features": "-",
+						"Level": 17,
+						"Proficiency Bonus": 6,
+						"Features": [
+
+						],
 						"Spells Known": 10,
 						"1st": 4,
 						"2nd": 3,
@@ -5635,9 +5986,11 @@
 						"5th": 1
 					},
 					{
-						"Level": "18th",
-						"Proficiency Bonus": "+6",
-						"Features": "Feral Senses",
+						"Level": 18,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Feral Senses"
+						],
 						"Spells Known": 10,
 						"1st": 4,
 						"2nd": 3,
@@ -5646,9 +5999,11 @@
 						"5th": 1
 					},
 					{
-						"Level": "19th",
-						"Proficiency Bonus": "+6",
-						"Features": "Ability Score Improvement",
+						"Level": 19,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Spells Known": 11,
 						"1st": 4,
 						"2nd": 3,
@@ -5657,9 +6012,11 @@
 						"5th": 2
 					},
 					{
-						"Level": "20th",
-						"Proficiency Bonus": "+6",
-						"Features": "Foe Slayer",
+						"Level": 20,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Foe Slayer"
+						],
 						"Spells Known": 11,
 						"1st": 4,
 						"2nd": 3,
@@ -6028,124 +6385,164 @@
 				],
 				"Rows": [
 					{
-						"Level": "1st",
-						"Proficiency Bonus": "+2",
+						"Level": 1,
+						"Proficiency Bonus": 2,
 						"Sneak Attack": "1d6",
-						"Features": "Expertise, Sneak Attack, Thieves’ Cant"
+						"Features": [
+							"Expertise", 
+							"Sneak Attack", 
+							"Thieves’ Cant"
+						]
 					},
 					{
-						"Level": "2nd",
-						"Proficiency Bonus": "+2",
+						"Level": 2,
+						"Proficiency Bonus": 2,
 						"Sneak Attack": "1d6",
-						"Features": "Cunning Action"
+						"Features": [
+							"Cunning Action"
+						]
 					},
 					{
-						"Level": "3rd",
-						"Proficiency Bonus": "+2",
+						"Level": 3,
+						"Proficiency Bonus": 2,
 						"Sneak Attack": "2d6",
-						"Features": "Roguish Archetype"
+						"Features": [
+							"Roguish Archetype"
+						]
 					},
 					{
-						"Level": "4th",
-						"Proficiency Bonus": "+2",
+						"Level": 4,
+						"Proficiency Bonus": 2,
 						"Sneak Attack": "2d6",
-						"Features": "Ability Score Improvement"
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "5th",
-						"Proficiency Bonus": "+3",
+						"Level": 5,
+						"Proficiency Bonus": 3,
 						"Sneak Attack": "3d6",
-						"Features": "Uncanny Dodge"
+						"Features": [
+							"Uncanny Dodge"
+						]
 					},
 					{
-						"Level": "6th",
-						"Proficiency Bonus": "+3",
+						"Level": 6,
+						"Proficiency Bonus": 3,
 						"Sneak Attack": "3d6",
-						"Features": "Expertise"
+						"Features": [
+							"Expertise"
+						]
 					},
 					{
-						"Level": "7th",
-						"Proficiency Bonus": "+3",
+						"Level": 7,
+						"Proficiency Bonus": 3,
 						"Sneak Attack": "4d6",
-						"Features": "Evasion"
+						"Features": [
+							"Evasion"
+						]
 					},
 					{
-						"Level": "8th",
-						"Proficiency Bonus": "+3",
+						"Level": 8,
+						"Proficiency Bonus": 3,
 						"Sneak Attack": "4d6",
-						"Features": "Ability Score Improvement"
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "9th",
-						"Proficiency Bonus": "+4",
+						"Level": 9,
+						"Proficiency Bonus": 4,
 						"Sneak Attack": "5d6",
-						"Features": "Roguish Archetype feature"
+						"Features": [
+							"Roguish Archetype feature"
+						]
 					},
 					{
-						"Level": "10th",
-						"Proficiency Bonus": "+4",
+						"Level": 10,
+						"Proficiency Bonus": 4,
 						"Sneak Attack": "5d6",
-						"Features": "Ability Score Improvement"
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "11th",
-						"Proficiency Bonus": "+4",
+						"Level": 11,
+						"Proficiency Bonus": 4,
 						"Sneak Attack": "6d6",
-						"Features": "Reliable Talent"
+						"Features": [
+							"Reliable Talent"
+						]
 					},
 					{
-						"Level": "12th",
-						"Proficiency Bonus": "+4",
+						"Level": 12,
+						"Proficiency Bonus": 4,
 						"Sneak Attack": "6d6",
-						"Features": "Ability Score Improvement"
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "13th",
-						"Proficiency Bonus": "+5",
+						"Level": 13,
+						"Proficiency Bonus": 5,
 						"Sneak Attack": "7d6",
-						"Features": "Roguish Archetype feature"
+						"Features": [
+							"Roguish Archetype feature"
+						]
 					},
 					{
-						"Level": "14th",
-						"Proficiency Bonus": "+5",
+						"Level": 14,
+						"Proficiency Bonus": 5,
 						"Sneak Attack": "7d6",
-						"Features": "Blindsense"
+						"Features": [
+							"Blindsense"
+						]
 					},
 					{
-						"Level": "15th",
-						"Proficiency Bonus": "+5",
+						"Level": 15,
+						"Proficiency Bonus": 5,
 						"Sneak Attack": "8d6",
-						"Features": "Slippery Mind"
+						"Features": [
+							"Slippery Mind"
+						]
 					},
 					{
-						"Level": "16th",
-						"Proficiency Bonus": "+5",
+						"Level": 16,
+						"Proficiency Bonus": 5,
 						"Sneak Attack": "8d6",
-						"Features": "Ability Score Improvement"
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "17th",
-						"Proficiency Bonus": "+6",
+						"Level": 17,
+						"Proficiency Bonus": 6,
 						"Sneak Attack": "9d6",
-						"Features": "Roguish Archetype feature"
+						"Features": [
+							"Roguish Archetype feature"
+						]
 					},
 					{
-						"Level": "18th",
-						"Proficiency Bonus": "+6",
+						"Level": 18,
+						"Proficiency Bonus": 6,
 						"Sneak Attack": "9d6",
-						"Features": "Elusive"
+						"Features": ["Elusive"]
 					},
 					{
-						"Level": "19th",
-						"Proficiency Bonus": "+6",
+						"Level": 19,
+						"Proficiency Bonus": 6,
 						"Sneak Attack": "10d6",
-						"Features": "Ability Score Improvement"
+						"Features": [
+							"Ability Score Improvement"
+						]
 					},
 					{
-						"Level": "20th",
-						"Proficiency Bonus": "+6",
+						"Level": 20,
+						"Proficiency Bonus": 6,
 						"Sneak Attack": "10d6",
-						"Features": "Stroke of Luck"
+						"Features": [
+							"Stroke of Luck"
+						]
 					}
 				]
 			},
@@ -6592,10 +6989,13 @@
 				],
 				"Rows": [
 					{
-						"Level": "1st",
-						"Proficiency Bonus": "+2",
+						"Level": 1,
+						"Proficiency Bonus": 2,
 						"Sorcery Points": 0,
-						"Features": "Spellcasting, Sorcerous Origin",
+						"Features": [
+							"Spellcasting", 
+							"Sorcerous Origin"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 2,
 						"1st": 2,
@@ -6609,10 +7009,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "2nd",
-						"Proficiency Bonus": "+2",
+						"Level": 2,
+						"Proficiency Bonus": 2,
 						"Sorcery Points": 2,
-						"Features": "Font of Magic",
+						"Features": [
+							"Font of Magic"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 3,
 						"1st": 3,
@@ -6626,10 +7028,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "3rd",
-						"Proficiency Bonus": "+2",
+						"Level": 3,
+						"Proficiency Bonus": 2,
 						"Sorcery Points": 3,
-						"Features": "Metamagic",
+						"Features": [
+							"Metamagic"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 4,
 						"1st": 4,
@@ -6643,10 +7047,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "4th",
-						"Proficiency Bonus": "+2",
+						"Level": 4,
+						"Proficiency Bonus": 2,
 						"Sorcery Points": 4,
-						"Features": "Ability Score Improvement",
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 5,
 						"Spells Known": 5,
 						"1st": 4,
@@ -6660,10 +7066,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "5th",
-						"Proficiency Bonus": "+3",
+						"Level": 5,
+						"Proficiency Bonus": 3,
 						"Sorcery Points": 5,
-						"Features": "-",
+						"Features": [
+
+						],
 						"Cantrips Known": 5,
 						"Spells Known": 6,
 						"1st": 4,
@@ -6677,10 +7085,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "6th",
-						"Proficiency Bonus": "+3",
+						"Level": 6,
+						"Proficiency Bonus": 3,
 						"Sorcery Points": 6,
-						"Features": "Sorcerous Origin Feature",
+						"Features": [
+							"Sorcerous Origin Feature"
+						],
 						"Cantrips Known": 5,
 						"Spells Known": 7,
 						"1st": 4,
@@ -6694,10 +7104,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "7th",
-						"Proficiency Bonus": "+3",
+						"Level": 7,
+						"Proficiency Bonus": 3,
 						"Sorcery Points": 7,
-						"Features": "-",
+						"Features": [
+
+						],
 						"Cantrips Known": 5,
 						"Spells Known": 8,
 						"1st": 4,
@@ -6711,10 +7123,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "8th",
-						"Proficiency Bonus": "+3",
+						"Level": 8,
+						"Proficiency Bonus": 3,
 						"Sorcery Points": 8,
-						"Features": "Ability Score Improvement",
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 5,
 						"Spells Known": 9,
 						"1st": 4,
@@ -6728,10 +7142,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "9th",
-						"Proficiency Bonus": "+4",
+						"Level": 9,
+						"Proficiency Bonus": 4,
 						"Sorcery Points": 9,
-						"Features": "-",
+						"Features": [
+
+						],
 						"Cantrips Known": 5,
 						"Spells Known": 10,
 						"1st": 4,
@@ -6745,10 +7161,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "10th",
-						"Proficiency Bonus": "+4",
+						"Level": 10,
+						"Proficiency Bonus": 4,
 						"Sorcery Points": 10,
-						"Features": "-",
+						"Features": [
+
+						],
 						"Cantrips Known": 6,
 						"Spells Known": 11,
 						"1st": 4,
@@ -6762,10 +7180,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "11th",
-						"Proficiency Bonus": "+4",
+						"Level": 11,
+						"Proficiency Bonus": 4,
 						"Sorcery Points": 11,
-						"Features": "-",
+						"Features": [
+
+						],
 						"Cantrips Known": 6,
 						"Spells Known": 12,
 						"1st": 4,
@@ -6779,10 +7199,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "12th",
-						"Proficiency Bonus": "+4",
+						"Level": 12,
+						"Proficiency Bonus": 4,
 						"Sorcery Points": 12,
-						"Features": "Ability Score Improvement",
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 6,
 						"Spells Known": 12,
 						"1st": 4,
@@ -6796,10 +7218,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "13th",
-						"Proficiency Bonus": "+5",
+						"Level": 13,
+						"Proficiency Bonus": 5,
 						"Sorcery Points": 13,
-						"Features": "-",
+						"Features": [
+
+						],
 						"Cantrips Known": 6,
 						"Spells Known": 13,
 						"1st": 4,
@@ -6813,10 +7237,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "14th",
-						"Proficiency Bonus": "+5",
+						"Level": 14,
+						"Proficiency Bonus": 5,
 						"Sorcery Points": 14,
-						"Features": "Sorcerous Origin Feature",
+						"Features": [
+							"Sorcerous Origin Feature"
+						],
 						"Cantrips Known": 6,
 						"Spells Known": 13,
 						"1st": 4,
@@ -6830,10 +7256,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "15th",
-						"Proficiency Bonus": "+5",
+						"Level": 15,
+						"Proficiency Bonus": 5,
 						"Sorcery Points": 15,
-						"Features": "-",
+						"Features": [
+
+						],
 						"Cantrips Known": 6,
 						"Spells Known": 14,
 						"1st": 4,
@@ -6847,10 +7275,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "16th",
-						"Proficiency Bonus": "+5",
+						"Level": 16,
+						"Proficiency Bonus": 5,
 						"Sorcery Points": 16,
-						"Features": "Ability Score Improvement",
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 6,
 						"Spells Known": 14,
 						"1st": 4,
@@ -6864,10 +7294,12 @@
 						"9th": 0
 					},
 					{
-						"Level": "17th",
-						"Proficiency Bonus": "+6",
+						"Level": 17,
+						"Proficiency Bonus": 6,
 						"Sorcery Points": 17,
-						"Features": "Metamagic",
+						"Features": [
+							"Metamagic"
+						],
 						"Cantrips Known": 6,
 						"Spells Known": 15,
 						"1st": 4,
@@ -6881,10 +7313,12 @@
 						"9th": 1
 					},
 					{
-						"Level": "18th",
-						"Proficiency Bonus": "+6",
+						"Level": 18,
+						"Proficiency Bonus": 6,
 						"Sorcery Points": 18,
-						"Features": "Sorcerous Origin Feature",
+						"Features": [
+							"Sorcerous Origin Feature"
+						],
 						"Cantrips Known": 6,
 						"Spells Known": 15,
 						"1st": 4,
@@ -6898,10 +7332,12 @@
 						"9th": 1
 					},
 					{
-						"Level": "19th",
-						"Proficiency Bonus": "+6",
+						"Level": 19,
+						"Proficiency Bonus": 6,
 						"Sorcery Points": 19,
-						"Features": "Ability Score Improvement",
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 6,
 						"Spells Known": 15,
 						"1st": 4,
@@ -6915,10 +7351,12 @@
 						"9th": 1
 					},
 					{
-						"Level": "20th",
-						"Proficiency Bonus": "+6",
+						"Level": 20,
+						"Proficiency Bonus": 6,
 						"Sorcery Points": 20,
-						"Features": "Sorcerous Restoration",
+						"Features": [
+							"Sorcerous Restoration"
+						],
 						"Cantrips Known": 6,
 						"Spells Known": 15,
 						"1st": 4,
@@ -7536,9 +7974,12 @@
 				],
 				"Rows": [
 					{
-						"Level": "1st",
-						"Proficiency Bonus": "+2",
-						"Features": "Otherworldly Patron, Pact Magic",
+						"Level": 1,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Otherworldly Patron", 
+							"Pact Magic"
+						],
 						"Cantrips Known": 2,
 						"Spells Known": 2,
 						"Spell Slots": "1",
@@ -7546,9 +7987,11 @@
 						"Invocations Known": 0
 					},
 					{
-						"Level": "2nd",
-						"Proficiency Bonus": "+2",
-						"Features": "Eldritch Invocations",
+						"Level": 2,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Eldritch Invocations"
+						],
 						"Cantrips Known": 2,
 						"Spells Known": 3,
 						"Spell Slots": 2,
@@ -7556,9 +7999,11 @@
 						"Invocations Known": 2
 					},
 					{
-						"Level": "3rd",
-						"Proficiency Bonus": "+2",
-						"Features": "Pact Boon",
+						"Level": 3,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Pact Boon"
+						],
 						"Cantrips Known": 2,
 						"Spells Known": 4,
 						"Spell Slots": 2,
@@ -7566,9 +8011,11 @@
 						"Invocations Known": 2
 					},
 					{
-						"Level": "4th",
-						"Proficiency Bonus": "+2",
-						"Features": "Ability Score Improvement",
+						"Level": 4,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 3,
 						"Spells Known": 5,
 						"Spell Slots": 2,
@@ -7576,9 +8023,11 @@
 						"Invocations Known": 2
 					},
 					{
-						"Level": "5th",
-						"Proficiency Bonus": "+3",
-						"Features": "-",
+						"Level": 5,
+						"Proficiency Bonus": 3,
+						"Features": [
+
+						],
 						"Cantrips Known": 3,
 						"Spells Known": 6,
 						"Spell Slots": 2,
@@ -7586,9 +8035,11 @@
 						"Invocations Known": 3
 					},
 					{
-						"Level": "6th",
-						"Proficiency Bonus": "+3",
-						"Features": "Otherworldly Patron feature",
+						"Level": 6,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Otherworldly Patron feature"
+						],
 						"Cantrips Known": 3,
 						"Spells Known": 7,
 						"Spell Slots": 2,
@@ -7596,9 +8047,11 @@
 						"Invocations Known": 3
 					},
 					{
-						"Level": "7th",
-						"Proficiency Bonus": "+3",
-						"Features": "-",
+						"Level": 7,
+						"Proficiency Bonus": 3,
+						"Features": [
+
+						],
 						"Cantrips Known": 3,
 						"Spells Known": 8,
 						"Spell Slots": 2,
@@ -7606,9 +8059,11 @@
 						"Invocations Known": 4
 					},
 					{
-						"Level": "8th",
-						"Proficiency Bonus": "+3",
-						"Features": "Ability Score Improvement",
+						"Level": 8,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 3,
 						"Spells Known": 9,
 						"Spell Slots": 2,
@@ -7616,9 +8071,11 @@
 						"Invocations Known": 4
 					},
 					{
-						"Level": "9th",
-						"Proficiency Bonus": "+4",
-						"Features": "-",
+						"Level": 9,
+						"Proficiency Bonus": 4,
+						"Features": [
+
+						],
 						"Cantrips Known": 3,
 						"Spells Known": 10,
 						"Spell Slots": 2,
@@ -7626,9 +8083,11 @@
 						"Invocations Known": 5
 					},
 					{
-						"Level": "10th",
-						"Proficiency Bonus": "+4",
-						"Features": "-",
+						"Level": 10,
+						"Proficiency Bonus": 4,
+						"Features": [
+
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 10,
 						"Spell Slots": 2,
@@ -7636,9 +8095,11 @@
 						"Invocations Known": 5
 					},
 					{
-						"Level": "11th",
-						"Proficiency Bonus": "+4",
-						"Features": "Mystic Arcanum (6th level)",
+						"Level": 11,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Mystic Arcanum (6th level)"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 11,
 						"Spell Slots": 3,
@@ -7646,9 +8107,11 @@
 						"Invocations Known": 5
 					},
 					{
-						"Level": "12th",
-						"Proficiency Bonus": "+4",
-						"Features": "Ability Score Improvement",
+						"Level": 12,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 11,
 						"Spell Slots": 3,
@@ -7656,9 +8119,11 @@
 						"Invocations Known": 6
 					},
 					{
-						"Level": "13th",
-						"Proficiency Bonus": "+5",
-						"Features": "Mystic Arcanum (7th level)",
+						"Level": 13,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Mystic Arcanum (7th level)"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 12,
 						"Spell Slots": 3,
@@ -7666,9 +8131,11 @@
 						"Invocations Known": 6
 					},
 					{
-						"Level": "14th",
-						"Proficiency Bonus": "+5",
-						"Features": "Otherworldly Patron feature",
+						"Level": 14,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Otherworldly Patron feature"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 12,
 						"Spell Slots": 3,
@@ -7676,9 +8143,11 @@
 						"Invocations Known": 6
 					},
 					{
-						"Level": "15th",
-						"Proficiency Bonus": "+5",
-						"Features": "Mystic Arcanum (8th level)",
+						"Level": 15,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Mystic Arcanum (8th level)"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 13,
 						"Spell Slots": 3,
@@ -7686,9 +8155,11 @@
 						"Invocations Known": 7
 					},
 					{
-						"Level": "16th",
-						"Proficiency Bonus": "+5",
-						"Features": "Ability Score Improvement",
+						"Level": 16,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 13,
 						"Spell Slots": 3,
@@ -7696,9 +8167,11 @@
 						"Invocations Known": 7
 					},
 					{
-						"Level": "17th",
-						"Proficiency Bonus": "+6",
-						"Features": "Mystic Arcanum (9th level)",
+						"Level": 17,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Mystic Arcanum (9th level)"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 14,
 						"Spell Slots": 4,
@@ -7706,9 +8179,11 @@
 						"Invocations Known": 7
 					},
 					{
-						"Level": "18th",
-						"Proficiency Bonus": "+6",
-						"Features": "-",
+						"Level": 18,
+						"Proficiency Bonus": 6,
+						"Features": [
+
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 14,
 						"Spell Slots": 4,
@@ -7716,9 +8191,11 @@
 						"Invocations Known": 8
 					},
 					{
-						"Level": "19th",
-						"Proficiency Bonus": "+6",
-						"Features": "Ability Score Improvement",
+						"Level": 19,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 15,
 						"Spell Slots": 4,
@@ -7726,9 +8203,11 @@
 						"Invocations Known": 8
 					},
 					{
-						"Level": "20th",
-						"Proficiency Bonus": "+6",
-						"Features": "Eldritch Master",
+						"Level": 20,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Eldritch Master"
+						],
 						"Cantrips Known": 4,
 						"Spells Known": 15,
 						"Spell Slots": 4,
@@ -8523,9 +9002,12 @@
 				],
 				"Rows": [
 					{
-						"Level": "1st",
-						"Proficiency Bonus": "+2",
-						"Features": "Spellcasting, Arcane Recovery",
+						"Level": 1,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Spellcasting", 
+							"Arcane Recovery"
+						],
 						"Cantrips Known": 3,
 						"1st": 2,
 						"2nd": 0,
@@ -8538,9 +9020,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "2nd",
-						"Proficiency Bonus": "+2",
-						"Features": "Arcane Tradition",
+						"Level": 2,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Arcane Tradition"
+						],
 						"Cantrips Known": 3,
 						"1st": 3,
 						"2nd": 0,
@@ -8553,9 +9037,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "3rd",
-						"Proficiency Bonus": "+2",
-						"Features": "-",
+						"Level": 3,
+						"Proficiency Bonus": 2,
+						"Features": [
+
+						],
 						"Cantrips Known": 3,
 						"1st": 4,
 						"2nd": 2,
@@ -8568,9 +9054,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "4th",
-						"Proficiency Bonus": "+2",
-						"Features": "Ability Score Improvement",
+						"Level": 4,
+						"Proficiency Bonus": 2,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -8583,9 +9071,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "5th",
-						"Proficiency Bonus": "+3",
-						"Features": "-",
+						"Level": 5,
+						"Proficiency Bonus": 3,
+						"Features": [
+
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -8598,9 +9088,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "6th",
-						"Proficiency Bonus": "+3",
-						"Features": "Arcane Tradition feature",
+						"Level": 6,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Arcane Tradition feature"
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -8613,9 +9105,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "7th",
-						"Proficiency Bonus": "+3",
-						"Features": "-",
+						"Level": 7,
+						"Proficiency Bonus": 3,
+						"Features": [
+
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -8628,9 +9122,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "8th",
-						"Proficiency Bonus": "+3",
-						"Features": "Ability Score Improvement",
+						"Level": 8,
+						"Proficiency Bonus": 3,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -8643,9 +9139,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "9th",
-						"Proficiency Bonus": "+4",
-						"Features": "-",
+						"Level": 9,
+						"Proficiency Bonus": 4,
+						"Features": [
+
+						],
 						"Cantrips Known": 4,
 						"1st": 4,
 						"2nd": 3,
@@ -8658,9 +9156,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "10th",
-						"Proficiency Bonus": "+4",
-						"Features": "Arcane Tradition feature",
+						"Level": 10,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Arcane Tradition feature"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -8673,9 +9173,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "11th",
-						"Proficiency Bonus": "+4",
-						"Features": "-",
+						"Level": 11,
+						"Proficiency Bonus": 4,
+						"Features": [
+
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -8688,9 +9190,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "12th",
-						"Proficiency Bonus": "+4",
-						"Features": "Ability Score Improvement",
+						"Level": 12,
+						"Proficiency Bonus": 4,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -8703,9 +9207,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "13th",
-						"Proficiency Bonus": "+5",
-						"Features": "-",
+						"Level": 13,
+						"Proficiency Bonus": 5,
+						"Features": [
+
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -8718,9 +9224,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "14th",
-						"Proficiency Bonus": "+5",
-						"Features": "Arcane Tradition feature",
+						"Level": 14,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Arcane Tradition feature"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -8733,9 +9241,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "15th",
-						"Proficiency Bonus": "+5",
-						"Features": "-",
+						"Level": 15,
+						"Proficiency Bonus": 5,
+						"Features": [
+
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -8748,9 +9258,11 @@
 						"9th": 0
 					},
 					{
-						"Level": "16th",
-						"Proficiency Bonus": "+5",
-						"Features": "Ability Score Improvement",
+						"Level": 16,
+						"Proficiency Bonus": 5,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -8763,9 +9275,9 @@
 						"9th": 0
 					},
 					{
-						"Level": "17th",
-						"Proficiency Bonus": "+6",
-						"Features": "-",
+						"Level": 17,
+						"Proficiency Bonus": 6,
+						"Features": [],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -8778,9 +9290,11 @@
 						"9th": 1
 					},
 					{
-						"Level": "18th",
-						"Proficiency Bonus": "+6",
-						"Features": "Spell Mastery",
+						"Level": 18,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Spell Mastery"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -8793,9 +9307,11 @@
 						"9th": 1
 					},
 					{
-						"Level": "19th",
-						"Proficiency Bonus": "+6",
-						"Features": "Ability Score Improvement",
+						"Level": 19,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Ability Score Improvement"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
@@ -8808,9 +9324,11 @@
 						"9th": 1
 					},
 					{
-						"Level": "20th",
-						"Proficiency Bonus": "+6",
-						"Features": "Signature Spell",
+						"Level": 20,
+						"Proficiency Bonus": 6,
+						"Features": [
+							"Signature Spell"
+						],
 						"Cantrips Known": 5,
 						"1st": 4,
 						"2nd": 3,
