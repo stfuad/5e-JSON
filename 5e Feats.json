@@ -425,6 +425,13 @@
             "Book": "Player's Handbook",
             "Page": 170
         },
+        "Svirfneblin Magic": {
+            "Prerequisite": "Gnome (deep gnome)",
+            "Description": [
+                "You have inherited the innate spellcasting ability of your ancestors. This ability allows you to cast nondetectionon yourself at will, without needing a material component. You can also cast each of the following spells once with this ability: blindness/deafness, blur, and disguise self. You regain the ability to cast these spells when you finish a long rest.",
+                "Intelligence is your spellcasting ability for these spells, and you cast them at their lowest possible levels."
+            ]
+        },
         "Tavern Brawler": {
             "Description": [
                 "Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:"
