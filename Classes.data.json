@@ -1,0 +1,5475 @@
+{
+    "Artificer": {
+
+    },
+    "Barbarian": {
+        "Base": [
+            {
+                "Level": 1,
+                "Features": [
+                    "Rage",
+                    "Unarmored Defense"
+                ],
+                "Rages": 2,
+                "Rage Damage": 2
+            },
+            {
+                "Level": 2,
+                "Features": [
+                    "Reckless Attack",
+                    "Danger Sense"
+                ],
+                "Rages": 2,
+                "Rage Damage": 2
+            },
+            {
+                "Level": 3,
+                "Features": [
+                    "Primal Path"
+                ],
+                "Rages": 3,
+                "Rage Damage": 2
+            },
+            {
+                "Level": 4,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Rages": 3,
+                "Rage Damage": 2
+            },
+            {
+                "Level": 5,
+                "Features": [
+                    "Extra Attack",
+                    "Fast Movement"
+                ],
+                "Rages": 3,
+                "Rage Damage": 2
+            },
+            {
+                "Level": 6,
+                "Features": [
+                    "Path Feature"
+                ],
+                "Rages": 4,
+                "Rage Damage": 2
+            },
+            {
+                "Level": 7,
+                "Features": [
+                    "Feral Instinct"
+                ],
+                "Rages": 4,
+                "Rage Damage": 2
+            },
+            {
+                "Level": 8,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Rages": 4,
+                "Rage Damage": 2
+            },
+            {
+                "Level": 9,
+                "Features": [
+                    "Brutal Critical (1 die)"
+                ],
+                "Rages": 4,
+                "Rage Damage": 3
+            },
+            {
+                "Level": 10,
+                "Features": [
+                    "Path Feature"
+                ],
+                "Rages": 4,
+                "Rage Damage": 3
+            },
+            {
+                "Level": 11,
+                "Features": [
+                    "Relentless Rage"
+                ],
+                "Rages": 4,
+                "Rage Damage": 3
+            },
+            {
+                "Level": 12,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Rages": 5,
+                "Rage Damage": 3
+            },
+            {
+                "Level": 13,
+                "Features": [
+                    "Brutal Critical (2 dice)"
+                ],
+                "Rages": 5,
+                "Rage Damage": 3
+            },
+            {
+                "Level": 14,
+                "Features": [
+                    "Path Feature"
+                ],
+                "Rages": 4,
+                "Rage Damage": 3
+            },
+            {
+                "Level": 15,
+                "Features": [
+                    "Persistent Rage"
+                ],
+                "Rages": 5,
+                "Rage Damage": 3
+            },
+            {
+                "Level": 16,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Rages": 5,
+                "Rage Damage": 4
+            },
+            {
+                "Level": 17,
+                "Features": [
+                    "Brutal Critical (3 dice)"
+                ],
+                "Rages": 6,
+                "Rage Damage": 4
+            },
+            {
+                "Level": 18,
+                "Features": [
+                    "Indomitable Might"
+                ],
+                "Rages": 6,
+                "Rage Damage": 4
+            },
+            {
+                "Level": 19,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Rages": 6,
+                "Rage Damage": 4
+            },
+            {
+                "Level": 20,
+                "Features": [
+                    "Primal Champion"
+                ],
+                "Rages": "Unlimited",
+                "Rage Damage": 4
+            }
+        ],
+        "Primal Paths": {
+            "Path of the Berserker": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Frenzy"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Mindless Rage"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Intimidating Presence"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Retaliation"
+                    ]
+                }
+            ],
+            "Path of the Totem Warrior": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Spirit Seeker",
+                        "Totem Spirit"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Aspect of the Beast"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Spirit Walker"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Totemic Attunement"
+                    ]
+                }
+            ],
+            "Path of the Ancestral Guardian": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Ancestral Protectors"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Spirit Shield"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Consult the Spirits"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Vengeful Ancestors"
+                    ]
+                }
+            ],
+            "Path of the Storm Herald": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Storm Aura"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Storm Soul"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Shielding Storm"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Raging Storm"
+                    ]
+                }
+            ],
+            "Path of the Zealot": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Divine Fury",
+                        "Warrior of the Gods"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Fanatical Focus"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Zealus Presence"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Rage beyond Death"
+                    ]
+                }
+            ],
+            "Path of the Battlerager": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Battlerager Armor"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Reckless Abandon"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Battlerager Charge"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Spiked Retribution"
+                    ]
+                }
+            ]            
+        }
+    },
+    "Bard": {
+        "Base": [
+            {
+                "Level": 1,
+                "Features": [
+                    "Spellcasting", 
+                    "Bardic Inspiration (d6)"
+                ],
+                "Cantrips Known": 2,
+                "Spells Known": 4,
+                "1st": 2,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 2,
+                "Features": [
+                    "Jack of All Trades", 
+                    "Song of Rest (d6)"
+                ],
+                "Cantrips Known": 2,
+                "Spells Known": 5,
+                "1st": 3,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 3,
+                "Features": [
+                    "Bard College", 
+                    "Expertise"
+                ],
+                "Cantrips Known": 2,
+                "Spells Known": 6,
+                "1st": 4,
+                "2nd": 2,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 4,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 3,
+                "Spells Known": 7,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 5,
+                "Features": [
+                    "Bardic Inspiration (d8)", 
+                    "Font of Inspiration"
+                ],
+                "Cantrips Known": 3,
+                "Spells Known": 8,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 2,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 6,
+                "Features": [
+                    "Countercharm", 
+                    "Bard College feature"
+                ],
+                "Cantrips Known": 3,
+                "Spells Known": 9,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 7,
+                "Features": [
+                    
+                ],
+                "Cantrips Known": 3,
+                "Spells Known": 10,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 1,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 8,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 3,
+                "Spells Known": 11,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 2,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 9,
+                "Features": [
+                    "Song of Rest (d8)"
+                ],
+                "Cantrips Known": 3,
+                "Spells Known": 12,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 1,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 10,
+                "Features": [
+                    "Bardic Inspiration (d10)", 
+                    "Expertise", "Magical Secrets"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 14,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 11,
+                "Features": [
+
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 15,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 12,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 15,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 13,
+                "Features": [
+                    "Song of Rest (d10)"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 16,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 14,
+                "Features": [
+                    "Magical Secrets", 
+                    "Bard College feature"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 18,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 15,
+                "Features": [
+                    "Bardic Inspiration (d12)"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 19,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 0
+            },
+            {
+                "Level": 16,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 19,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 0
+            },
+            {
+                "Level": 17,
+                "Features": [
+                    "Song of Rest (d12)"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 20,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 1
+            },
+            {
+                "Level": 18,
+                "Features": [
+                    "Magical Secrets"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 22,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 1
+            },
+            {
+                "Level": 19,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 22,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 3,
+                "6th": 2,
+                "7th": 1,
+                "8th": 1,
+                "9th": 1
+            },
+            {
+                "Level": 20,
+                "Features": [
+                    "Superior Inspiration"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 22,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 3,
+                "6th": 2,
+                "7th": 2,
+                "8th": 1,
+                "9th": 1
+            }
+        ],
+        "Bard Colleges": {
+            "College of Lore": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Bonus Proficiencies",
+                        "Cutting Words"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Additional Magical Secrets"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Peerless Skill"
+                    ]
+                }
+            ],
+            "College of Valor": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Bonus Proficiencies",
+                        "Combat Inspiration"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Extra Attack"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Battle Magic"
+                    ]
+                }
+            ],
+            "College of Glamour": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Mantle of Inspiration",
+                        "Enthralling Performance"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Mantle of Majesty"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Unbreakable Majesty"
+                    ]
+                }
+            ],
+            "College of Swords": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Bonus Proficiencies",
+                        "Fighting Style",
+                        "Blade Flourish"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Extra Attack"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Master's Flourish"
+                    ]
+                }
+            ],
+            "College of Whispers": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Psychic Blades",
+                        "Words of Terror"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Mantle of WHispers"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Shadow Lore"
+                    ]
+                }
+            ]            
+        }
+    },
+    "Cleric": {
+        "Base": [
+            {
+                "Level": 1,
+                "Features": [
+                    "Spellcasting", 
+                    "Divine Domain"
+                ],
+                "Cantrips Known": 3,
+                "1st": 2,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 2,
+                "Features": [
+                    "Channel Divinity (1/rest)", 
+                    "Divine Domain feature"
+                ],
+                "Cantrips Known": 3,
+                "1st": 3,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 3,
+                "Features": [
+
+                ],
+                "Cantrips Known": 3,
+                "1st": 4,
+                "2nd": 2,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 4,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 5,
+                "Features": [
+                    "Destroy Undead (CR 1/2)"
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 2,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 6,
+                "Features": [
+                    "Channel Divinity (2/rest)", 
+                    "Divine Domain feature"
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 7,
+                "Features": [
+
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 1,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 8,
+                "Features": [
+                    "Ability Score Improvement", 
+                    "Destroy Undead (CR 1)", 
+                    "Divine Domain feature"
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 2,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 9,
+                "Features": [
+
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 1,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 10,
+                "Features": [
+                    "Divine Intervention"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 11,
+                "Features": [
+                    "Destroy Undead (CR 2)"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 12,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 13,
+                "Features": [
+
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 14,
+                "Features": [
+                    "Destroy Undead (CR 3)"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 15,
+                "Features": [
+
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 0
+            },
+            {
+                "Level": 16,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 0
+            },
+            {
+                "Level": 17,
+                "Features": [
+                    "Destroy Undead (CR 4)", 
+                    "Divine Domain feature"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 1
+            },
+            {
+                "Level": 18,
+                "Features": [
+                    "Channel Divinity (3/rest)"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 3,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 1
+            },
+            {
+                "Level": 19,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 3,
+                "6th": 2,
+                "7th": 1,
+                "8th": 1,
+                "9th": 1
+            },
+            {
+                "Level": 20,
+                "Features": [
+                    "Divine Intervention improvement"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 3,
+                "6th": 2,
+                "7th": 2,
+                "8th": 1,
+                "9th": 1
+            }
+        ],
+        "Divine Domains": {
+            "Knowledge Domain": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Blessings of Knowledge"
+                    ]
+                },
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Channel Divinity: Knowledge of the Ages"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Channel Divinity: Read Thoughts"
+                    ]
+                },
+                {
+                    "Level": 8,
+                    "Features": [
+                        "Potent Spellcasting"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Visions of the Past"
+                    ]
+                }
+            ],
+            "Life Domain": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Bonus Proficiency",
+                        "Disciple of Life"
+                    ]
+                },
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Channel Divinity: Preserve Life"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Blessed Healer"
+                    ]
+                },
+                {
+                    "Level": 8,
+                    "Features": [
+                        "Divine Strike"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Supreme Healing"
+                    ]
+                }
+            ],
+            "Light Domain": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Bonus Cantrip",
+                        "Warding Flare"
+                    ]
+                },
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Channel Divinity: Radiance of the Dawn"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Improved Flare"
+                    ]
+                },
+                {
+                    "Level": 8,
+                    "Features": [
+                        "Potent Spellcasting"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Corona of Light"
+                    ]
+                }
+            ],
+            "Nature Domain": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Acolyte of Nature",
+                        "Bonus Proficiency"
+                    ]
+                },
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Channel Divinity: Charm Animals and Plants"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Dampen Elements"
+                    ]
+                },
+                {
+                    "Level": 8,
+                    "Features": [
+                        "Divine Strike"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Master of Nature"
+                    ]
+                }
+            ],
+            "Tempest Domain": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Bonus Proficiencies",
+                        "Wrath of the Storm"
+                    ]
+                },
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Channel Divinity: Destructive Wrath"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Thunderbolt Strike"
+                    ]
+                },
+                {
+                    "Level": 8,
+                    "Features": [
+                        "Divine Strike"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Stormborn"
+                    ]
+                }
+            ],
+            "Trickery Domain": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Blessing of the Trickster"
+                    ]
+                },
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Channel Divinity: Invoke Duplicity"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Channel Divinity: Cloak of Shadows"
+                    ]
+                },
+                {
+                    "Level": 8,
+                    "Features": [
+                        "Divine Strike"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Improved Duplicity"
+                    ]
+                }
+            ],
+            "War Domain": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Bonus Proficiencies",
+                        "War Priest"
+                    ]
+                },
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Channel Divinity: Guided Strike"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Channel Divinity: War God's Blessing"
+                    ]
+                },
+                {
+                    "Level": 8,
+                    "Features": [
+                        "Divine Strike"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Avatar of Battle"
+                    ]
+                }
+            ],
+            "Forge Domain": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Bonus Proficiencies",
+                        "Blessing of the Forge"
+                    ]
+                },
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Channel Divinity: Artisan's Blessing"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Soul of the Forge"
+                    ]
+                },
+                {
+                    "Level": 8,
+                    "Features": [
+                        "Divine Strike"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Saint of Forge and Fire"
+                    ]
+                }
+            ],
+            "Grave Domain": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Circle of Mortality",
+                        "Eyes of the Grave"
+                    ]
+                },
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Channel Divinity: Path to the Grave"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Sentinel at Death's Door"
+                    ]
+                },
+                {
+                    "Level": 8,
+                    "Features": [
+                        "Potent Spellcasting"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Keeper of Souls"
+                    ]
+                }
+            ],
+            "Arcana Domain": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Arcane Initiate"
+                    ]
+                },
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Channel Divinity: Arcane Abjuration"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Spell Breaker"
+                    ]
+                },
+                {
+                    "Level": 8,
+                    "Features": [
+                        "Potent Spellcasting"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Arcane Mastery"
+                    ]
+                }
+            ],
+            "Order Domain": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Bonus Proficiencies",
+                        "Voice of Authority"
+                    ]
+                },
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Channel Divinity: Order's Demand"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Embodiment of the Law"
+                    ]
+                },
+                {
+                    "Level": 8,
+                    "Features": [
+                        "Divine Strike"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Order's Wrath"
+                    ]
+                }
+            ],
+            "Solidarity Domain": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Bonus Proficiencies",
+                        "Solidarity's Action"
+                    ]
+                },
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Channel Divinity: Preserve Life"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Channel Divinity: Oketra's Blessing"
+                    ]
+                },
+                {
+                    "Level": 8,
+                    "Features": [
+                        "Divine Strike"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Supreme Healing"
+                    ]
+                }
+            ],
+            "Strength Domain": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Acolyte of Strength",
+                        "Bonus Proficiency"
+                    ]
+                },
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Channel Divinity: Feat of Strength"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Channel Divinity: Rhona's Blessing"
+                    ]
+                },
+                {
+                    "Level": 8,
+                    "Features": [
+                        "Divine Strike"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Avatar of Battle"
+                    ]
+                }
+            ],
+            "Ambition Domain": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Warding Flare"
+                    ]
+                },
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Channel Divinity: Invoke Duplicity"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Channel Divinity: Cloak of Shadows"
+                    ]
+                },
+                {
+                    "Level": 8,
+                    "Features": [
+                        "Potent Spellcasting"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Improved Duplicity"
+                    ]
+                }
+            ],
+            "Zeal Domain": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Bonus Proficiencies",
+                        "Priest of Zeal"
+                    ]
+                },
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Channel Divinity: Consuming Fervor"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Resounding Strike"
+                    ]
+                },
+                {
+                    "Level": 8,
+                    "Features": [
+                        "Divine Strike"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Blaze of Glory"
+                    ]
+                }
+            ]            
+        }
+    },
+    "Druid": {
+        "Base": [
+            {
+                "Level": 1,
+                "Features": [
+                    "Druidic", 
+                    "Spellcasting"
+                ],
+                "Cantrips Known": 2,
+                "1st": 2,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 2,
+                "Features": [
+                    "Wild Shape", 
+                    "Druid Circle"
+                ],
+                "Cantrips Known": 2,
+                "1st": 3,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 3,
+                "Features": [
+
+                ],
+                "Cantrips Known": 2,
+                "1st": 4,
+                "2nd": 2,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 4,
+                "Features": [
+                    "Wild Shape Improvement", 
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 3,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 5,
+                "Features": [
+
+                ],
+                "Cantrips Known": 3,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 2,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 6,
+                "Features": [
+                    "Druid Circle feature"
+                ],
+                "Cantrips Known": 3,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 7,
+                "Features": [
+
+                ],
+                "Cantrips Known": 3,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 1,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 8,
+                "Features": [
+                    "Wild Shape Improvement", 
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 3,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 2,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 9,
+                "Features": [
+
+                ],
+                "Cantrips Known": 3,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 1,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 10,
+                "Features": [
+                    "Druid Circle feature"
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 11,
+                "Features": [
+
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 12,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 13,
+                "Features": [
+
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 14,
+                "Features": [
+                    "Druid Circle feature"
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 15,
+                "Features": [
+
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 0
+            },
+            {
+                "Level": 16,
+                "Features": [
+
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 0
+            },
+            {
+                "Level": 17,
+                "Features": [
+
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 0
+            },
+            {
+                "Level": 18,
+                "Features": [
+                    "Timeless Body", 
+                    "Beast Spells"
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 3,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 1
+            },
+            {
+                "Level": 19,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 3,
+                "6th": 2,
+                "7th": 1,
+                "8th": 1,
+                "9th": 1
+            },
+            {
+                "Level": 20,
+                "Features": [
+                    "Archdruid"
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 3,
+                "6th": 2,
+                "7th": 2,
+                "8th": 1,
+                "9th": 1
+            }
+        ],
+        "Druid Circles": {
+            "Circle of the Land": [
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Bonus Cantrip",
+                        "Natural Recovery"
+                    ]
+                },
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Circle Spells"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Land's Stride"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Nature's Ward"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Nature's Sanctuary"
+                    ]
+                }
+            ],
+            "Circle of the Moon": [
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Combat Wild Shape",
+                        "Circle Forms"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Primal Strike"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Elemental Wild Shape"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Thousand Forms"
+                    ]
+                }
+            ],
+            "Circle of Dreams": [
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Balm of the Summer Court"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Hearth of Moonlight and Shadow"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Hidden Paths"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Walker in Dreams"
+                    ]
+                }
+            ],
+            "Circle of the Sheperd": [
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Speech of the Woods",
+                        "Spirit Totem"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Mighty Summoner"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Guardian Spirit"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Faithful Summons"
+                    ]
+                }
+            ],
+            "Circle of Spores": [
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Circle Spells",
+                        "Halo of Spores",
+                        "Symbiotic Entity"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Fungal Infestation"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Spreading Spores"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Fungal Body"
+                    ]
+                }
+            ]
+        }
+    },
+    "Fighter": {
+        "Base": [
+            {
+                "Level": 1,
+                "Features":  [
+                    "Fighting Style", 
+                    "Second Wind"
+                ]
+            },
+            {
+                "Level": 2,
+                "Features": [
+                    "Action Surge (one use)"
+                ]
+            },
+            {
+                "Level": 3,
+                "Features": [
+                    "Martial Archetype"
+                ]
+            },
+            {
+                "Level": 4,
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 5,
+                "Features": [
+                    "Extra Attack"
+                ]
+            },
+            {
+                "Level": 6,
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 7,
+                "Features": [
+                    "Martial Archetype feature"
+                ]
+            },
+            {
+                "Level": 8,
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 9,
+                "Features": [
+                    "Indomitable (one use)"
+                ]
+            },
+            {
+                "Level": 10,
+                "Features": [
+                    "Martial Archetype feature"
+                ]
+            },
+            {
+                "Level": 11,
+                "Features": [
+                    "Extra Attack (2)"
+                ]
+            },
+            {
+                "Level": 12,
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 13,
+                "Features": [
+                    "Indomitable (two uses)"
+                ]
+            },
+            {
+                "Level": 14,
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 15,
+                "Features": [
+                    "Martial Archetype feature"
+                ]
+            },
+            {
+                "Level": 16,
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 17,
+                "Features": [
+                    "Action Surge (two uses)", 
+                    "Indomitable (three uses)"
+                ]
+            },
+            {
+                "Level": 18,
+                "Features": [
+                    "Martial Archetype feature"
+                ]
+            },
+            {
+                "Level": 19,
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 20,
+                "Features": [
+                    "Extra Attack (3)"
+                ]
+            }
+        ],
+        "Martial Archetypes": {
+            "Champion": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Improved Critical"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Remarkable Athlete"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Additional Fighting Style"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Superior Critical"
+                    ]
+                },
+                {
+                    "Level": 18,
+                    "Features": [
+                        "Survivor"
+                    ]
+                }
+            ],
+            "Battle Master": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Combat Superiority",
+                        "Student of War"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Know Your Enemy"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Improved Combat Superiority"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Relentless"
+                    ]
+                }
+            ],
+            "Eldritch Knight": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Spellcasting",
+                        "Weapon Bond"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "War Magic"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Eldritch Strike"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Arcane Charge"
+                    ]
+                },
+                {
+                    "Level": 18,
+                    "Features": [
+                        "Improved War Magic"
+                    ]
+                }
+            ],
+            "Arcane Archer": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Arcane Archer Lore",
+                        "Arcane Shot"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Magic Arrow",
+                        "Curving Shot"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Ever-Ready Shot"
+                    ]
+                }
+            ],
+            "Cavalier": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Bonus Proficiency",
+                        "Born to the Saddle",
+                        "Unwavering Mark"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Warding Maneuver"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Hold the Line"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Ferocious Charger"
+                    ]
+                },
+                {
+                    "Level": 18,
+                    "Features": [
+                        "Vigilant Defender"
+                    ]
+                }
+            ],
+            "Samurai": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Bonus Proficiency",
+                        "Fighting Spirit"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Elegant Courtier"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Tireless Spirit"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Rapid Strike"
+                    ]
+                },
+                {
+                    "Level": 18,
+                    "Features": [
+                        "Strength before Death"
+                    ]
+                }
+            ]
+        }
+    },
+    "Monk": {
+        "Base": [
+            {
+                "Level": 1,
+                "Proficiency Bonus": 2,
+                "Martial Arts": "1d4",
+                "Ki Points": 0,
+                "Unarmored Movement": 0,
+                "Features": [
+                    "Unarmored Defense", 
+                    "Martial Arts"
+                ]
+            },
+            {
+                "Level": 2,
+                "Proficiency Bonus": 2,
+                "Martial Arts": "1d4",
+                "Ki Points": 2,
+                "Unarmored Movement": 10,
+                "Features": [
+                    "Ki", 
+                    "Unarmored Movement"
+                ]
+            },
+            {
+                "Level": 3,
+                "Proficiency Bonus": 2,
+                "Martial Arts": "1d4",
+                "Ki Points": 3,
+                "Unarmored Movement": 10,
+                "Features": [
+                    "Monastic Tradition", 
+                    "Deflect Missiles"
+                ]
+            },
+            {
+                "Level": 4,
+                "Proficiency Bonus": 2,
+                "Martial Arts": "1d4",
+                "Ki Points": 4,
+                "Unarmored Movement": 10,
+                "Features": [
+                    "Ability Score Improvement", 
+                    "Slow Fall"
+                ]
+            },
+            {
+                "Level": 5,
+                "Proficiency Bonus": 3,
+                "Martial Arts": "1d6",
+                "Ki Points": 5,
+                "Unarmored Movement": 10,
+                "Features": [
+                    "Extra Attack", 
+                    "Stunning Strike"
+                ]
+            },
+            {
+                "Level": 6,
+                "Proficiency Bonus": 3,
+                "Martial Arts": "1d6",
+                "Ki Points": 6,
+                "Unarmored Movement": 15,
+                "Features": [
+                    "Ki-Empowered Strikes", 
+                    "Monastic Tradition feature"
+                ]
+            },
+            {
+                "Level": 7,
+                "Proficiency Bonus": 3,
+                "Martial Arts": "1d6",
+                "Ki Points": 7,
+                "Unarmored Movement": 15,
+                "Features": [
+                    "Evasion", 
+                    "Stillness of Mind"
+                ]
+            },
+            {
+                "Level": 8,
+                "Proficiency Bonus": 3,
+                "Martial Arts": "1d6",
+                "Ki Points": 8,
+                "Unarmored Movement": 15,
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 9,
+                "Proficiency Bonus": 4,
+                "Martial Arts": "1d6",
+                "Ki Points": 9,
+                "Unarmored Movement": 15,
+                "Features": [
+                    "Unarmored Movement improvement"
+                ]
+            },
+            {
+                "Level": 10,
+                "Proficiency Bonus": 4,
+                "Martial Arts": "1d6",
+                "Ki Points": 10,
+                "Unarmored Movement": 20,
+                "Features": [
+                    "Purity of Body"
+                ]
+            },
+            {
+                "Level": 11,
+                "Proficiency Bonus": 4,
+                "Martial Arts": "1d8",
+                "Ki Points": 11,
+                "Unarmored Movement": 20,
+                "Features": [
+                    "Monastic Tradition feature"
+                ]
+            },
+            {
+                "Level": 12,
+                "Proficiency Bonus": 4,
+                "Martial Arts": "1d8",
+                "Ki Points": 12,
+                "Unarmored Movement": 20,
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 13,
+                "Proficiency Bonus": 5,
+                "Martial Arts": "1d8",
+                "Ki Points": 13,
+                "Unarmored Movement": 20,
+                "Features": [
+                    "Tongue of the Sun and Moon"
+                ]
+            },
+            {
+                "Level": 14,
+                "Proficiency Bonus": 5,
+                "Martial Arts": "1d8",
+                "Ki Points": 14,
+                "Unarmored Movement": 25,
+                "Features": [
+                    "Diamond Soul"
+                ]
+            },
+            {
+                "Level": 15,
+                "Proficiency Bonus": 5,
+                "Martial Arts": "1d8",
+                "Ki Points": 15,
+                "Unarmored Movement": 25,
+                "Features": [
+                    "Timeless Body"
+                ]
+            },
+            {
+                "Level": 16,
+                "Proficiency Bonus": 5,
+                "Martial Arts": "1d8",
+                "Ki Points": 16,
+                "Unarmored Movement": 25,
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 17,
+                "Proficiency Bonus": 6,
+                "Martial Arts": "1d10",
+                "Ki Points": 17,
+                "Unarmored Movement": 25,
+                "Features": [
+                    "Monastic Tradition feature"
+                ]
+            },
+            {
+                "Level": 18,
+                "Proficiency Bonus": 6,
+                "Martial Arts": "1d10",
+                "Ki Points": 18,
+                "Unarmored Movement": 30,
+                "Features": [
+                    "Empty Body"
+                ]
+            },
+            {
+                "Level": 19,
+                "Proficiency Bonus": 6,
+                "Martial Arts": "1d10",
+                "Ki Points": 19,
+                "Unarmored Movement": 30,
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 20,
+                "Proficiency Bonus": 6,
+                "Martial Arts": "1d10",
+                "Ki Points": 20,
+                "Unarmored Movement": 30,
+                "Features": [
+                    "Perfect Self"
+                ]
+            }
+        ],
+        "Monastic Traditions": {
+            "Way of the Open Hand": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Open Hand Technique"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Wholeness of Body"
+                    ]
+                },
+                {
+                    "Level": 11,
+                    "Features": [
+                        "Tranquility"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Quivering Palm"
+                    ]
+                }
+            ],
+            "Way of Shadow": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Shadow Arts"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Shadow Step"
+                    ]
+                },
+                {
+                    "Level": 11,
+                    "Features": [
+                        "Cloak of Shadows"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Opportunist"
+                    ]
+                }
+            ],
+            "Way of the Four Elements": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Disciple of the Elements"
+                    ]
+                }
+            ],
+            "Way of the Drunken Master": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Bonus Proficiencies",
+                        "Drunken Technique"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Tipsy Sway"
+                    ]
+                },
+                {
+                    "Level": 11,
+                    "Features": [
+                        "Drunkard's Luck"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Intoxicated Frenzy"
+                    ]
+                }
+            ],
+            "Way of the Kensei": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Path of the Kensei"
+                    ]
+                },
+                {
+                    "Level": 11,
+                    "Features": [
+                        "Sharpen the Blade"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Unerring Accuracy"
+                    ]
+                }
+            ],
+            "Way of the Sun Soul": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Radiant Sun Bolt"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Searing Arc Strike"
+                    ]
+                },
+                {
+                    "Level": 11,
+                    "Features": [
+                        "Searing Sunburst"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Sun Shield"
+                    ]
+                }
+            ],
+            "Way of the Long Death": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Touch of Death"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Hour of Reaping"
+                    ]
+                },
+                {
+                    "Level": 11,
+                    "Features": [
+                        "Mastery of Death"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Touch of the Long Death"
+                    ]
+                }
+            ]
+        }
+    },
+    "Paladin": {
+        "Base": [
+            {
+                "Level": 1,
+                "Proficiency Bonus": 2,
+                "Features": [
+                    "Divine Sense", 
+                    "Lay on Hands"
+                ],
+                "1st": 0,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 2,
+                "Proficiency Bonus": 2,
+                "Features": [
+                    "Fighting Style", 
+                    "Spellcasting", 
+                    "Divine Smite"
+                ],
+                "1st": 2,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 3,
+                "Proficiency Bonus": 2,
+                "Features": [
+                    "Divine Health", 
+                    "Sacred Oath"
+                ],
+                "1st": 3,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 4,
+                "Proficiency Bonus": 2,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "1st": 3,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 5,
+                "Proficiency Bonus": 3,
+                "Features": [
+                    "Extra Attack"
+                ],
+                "1st": 0,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 6,
+                "Proficiency Bonus": 3,
+                "Features": [
+
+                ],
+                "1st": 4,
+                "2nd": 2,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 7,
+                "Proficiency Bonus": 3,
+                "Features": [
+                    "Sacred Oath feature"
+                ],
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 8,
+                "Proficiency Bonus": 3,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 9,
+                "Proficiency Bonus": 4,
+                "Features": [
+
+                ],
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 2,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 10,
+                "Proficiency Bonus": 4,
+                "Features": [
+                    "Aura of Courage"
+                ],
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 2,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 11,
+                "Proficiency Bonus": 4,
+                "Features": [
+                    "Improved Divine Smite"
+                ],
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 12,
+                "Proficiency Bonus": 4,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 13,
+                "Proficiency Bonus": 5,
+                "Features": [
+
+                ],
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 1,
+                "5th": 0
+            },
+            {
+                "Level": 14,
+                "Proficiency Bonus": 5,
+                "Features": [
+                    "Cleansing Touch"
+                ],
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 1,
+                "5th": 0
+            },
+            {
+                "Level": 15,
+                "Proficiency Bonus": 5,
+                "Features": [
+                    "Sacred Oath feature"
+                ],
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 2,
+                "5th": 0
+            },
+            {
+                "Level": 16,
+                "Proficiency Bonus": 5,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 2,
+                "5th": 0
+            },
+            {
+                "Level": 17,
+                "Proficiency Bonus": 6,
+                "Features": [
+
+                ],
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 1
+            },
+            {
+                "Level": 18,
+                "Proficiency Bonus": 6,
+                "Features": [
+                    "Aura improvements"
+                ],
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 1
+            },
+            {
+                "Level": 19,
+                "Proficiency Bonus": 6,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2
+            },
+            {
+                "Level": 20,
+                "Proficiency Bonus": 6,
+                "Features": [
+                    "Sacred Oath feature"
+                ],
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2
+            }
+        ],
+        "Sacred Oaths": {
+            "Oath of Devotion": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Channel Divinity"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Aura of Devotion"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Purity of Spirit"
+                    ]
+                },
+                {
+                    "Level": 20,
+                    "Features": [
+                        "Holy Nimbus"
+                    ]
+                }
+            ],
+            "Oath of the Ancients": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Channel Divinity"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Aura of Warding"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Undying Sentinel"
+                    ]
+                },
+                {
+                    "Level": 20,
+                    "Features": [
+                        "Elder Champion"
+                    ]
+                }
+            ],
+            "Oath of Vengeance": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Channel Divinity"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Relentless Avenger"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Soul of Vengeance"
+                    ]
+                },
+                {
+                    "Level": 20,
+                    "Features": [
+                        "Avenging Angel"
+                    ]
+                }
+            ],
+            "Oath of Conquest": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Channel Divinity"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Aura of Conquest"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Scornful Rebuke"
+                    ]
+                },
+                {
+                    "Level": 20,
+                    "Features": [
+                        "Invincible Conqueror"
+                    ]
+                }
+            ],
+            "Oath of Redemption": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Channel Divinity"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Aura of the Guardian"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Protective Spirit"
+                    ]
+                },
+                {
+                    "Level": 20,
+                    "Features": [
+                        "Emissary of Redemption"
+                    ]
+                }
+            ],
+            "Oath of the Crown": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Channel Divinity"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Divine Allegiance"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Unyielding Spirit"
+                    ]
+                },
+                {
+                    "Level": 20,
+                    "Features": [
+                        "Exalted Champion"
+                    ]
+                }
+            ]   
+        }
+    },
+    "Ranger": {
+        "Base": [
+            {
+                "Level": 1,
+                "Proficiency Bonus": 2,
+                "Features": [
+                    "Favored Enemy", 
+                    "Natural Explorer"
+                ],
+                "Spells Known": 0,
+                "1st": 0,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 2,
+                "Proficiency Bonus": 2,
+                "Features": [
+                    "Fighting Style", 
+                    "Spellcasting"
+                ],
+                "Spells Known": 2,
+                "1st": 2,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 3,
+                "Proficiency Bonus": 2,
+                "Features": [
+                    "Ranger Archetype", 
+                    "Primeval Awareness"
+                ],
+                "Spells Known": 3,
+                "1st": 3,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 4,
+                "Proficiency Bonus": 2,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Spells Known": 3,
+                "1st": 3,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 5,
+                "Proficiency Bonus": 3,
+                "Features": [
+                    "Extra Attack"
+                ],
+                "Spells Known": 4,
+                "1st": 4,
+                "2nd": 2,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 6,
+                "Proficiency Bonus": 3,
+                "Features": [
+                    "Favored Enemy and Natural Explorer improvements"
+                ],
+                "Spells Known": 4,
+                "1st": 4,
+                "2nd": 2,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 7,
+                "Proficiency Bonus": 3,
+                "Features": [
+                    "Ranger Archetype feature"
+                ],
+                "Spells Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 8,
+                "Proficiency Bonus": 3,
+                "Features": [
+                    "Ability Score Improvement", 
+                    "Land's Stride"
+                ]
+                ,
+                "Spells Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 9,
+                "Proficiency Bonus": 4,
+                "Features": [
+
+                ],
+                "Spells Known": 6,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 2,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 10,
+                "Proficiency Bonus": 4,
+                "Features": [
+                    "Natural Explorer improvement", 
+                    "Hide in plain Sight"
+                ],
+                "Spells Known": 6,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 2,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 11,
+                "Proficiency Bonus": 4,
+                "Features": [
+                    "Ranger Archetype feature"
+                ],
+                "Spells Known": 7,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 12,
+                "Proficiency Bonus": 4,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Spells Known": 7,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 0,
+                "5th": 0
+            },
+            {
+                "Level": 13,
+                "Proficiency Bonus": 5,
+                "Features": [
+
+                ],
+                "Spells Known": 8,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 1,
+                "5th": 0
+            },
+            {
+                "Level": 14,
+                "Proficiency Bonus": 5,
+                "Features": [
+                    "Favored Enemy improvement", 
+                    "Vanish"
+                ],
+                "Spells Known": 8,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 1,
+                "5th": 0
+            },
+            {
+                "Level": 15,
+                "Proficiency Bonus": 5,
+                "Features": [
+                    "Ranger Archetype feature"
+                ],
+                "Spells Known": 9,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 2,
+                "5th": 0
+            },
+            {
+                "Level": 16,
+                "Proficiency Bonus": 5,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Spells Known": 9,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 2,
+                "5th": 0
+            },
+            {
+                "Level": 17,
+                "Proficiency Bonus": 6,
+                "Features": [
+
+                ],
+                "Spells Known": 10,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 1
+            },
+            {
+                "Level": 18,
+                "Proficiency Bonus": 6,
+                "Features": [
+                    "Feral Senses"
+                ],
+                "Spells Known": 10,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 1
+            },
+            {
+                "Level": 19,
+                "Proficiency Bonus": 6,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Spells Known": 11,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2
+            },
+            {
+                "Level": 20,
+                "Proficiency Bonus": 6,
+                "Features": [
+                    "Foe Slayer"
+                ],
+                "Spells Known": 11,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2
+            }
+        ],
+        "Ranger Archetypes": {
+            "Hunter": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Hunter's Prey"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Defensive Tactics"
+                    ]
+                },
+                {
+                    "Level": 11,
+                    "Features": [
+                        "Multiattack"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Superior Hunter's Defense"
+                    ]
+                }
+            ],
+            "Beast Master": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Ranger's Companion"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Exceptional Training"
+                    ]
+                },
+                {
+                    "Level": 11,
+                    "Features": [
+                        "Bestial Fury"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Share Spells"
+                    ]
+                }
+            ],
+            "Gloom Stalker": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Gloom Stalker Magic",
+                        "Dread Ambusher",
+                        "Unreal Sight"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Iron Mind"
+                    ]
+                },
+                {
+                    "Level": 11,
+                    "Features": [
+                        "Stalker's Fury"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Shadowy Dodge"
+                    ]
+                }
+            ],
+            "Horizon Walker": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Horizon Walker Magic",
+                        "Detect Portal",
+                        "Planar Warrior"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Ethereal Step"
+                    ]
+                },
+                {
+                    "Level": 11,
+                    "Features": [
+                        "Distant Strike"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Spectral Defense"
+                    ]
+                }
+            ],
+            "Monster Slayer": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Monster Slayer Magic",
+                        "Hunter's Sense",
+                        "Slayer's Prey"
+                    ]
+                },
+                {
+                    "Level": 7,
+                    "Features": [
+                        "Supernatural Defense"
+                    ]
+                },
+                {
+                    "Level": 11,
+                    "Features": [
+                        "Magic-User's Nemesis"
+                    ]
+                },
+                {
+                    "Level": 15,
+                    "Features": [
+                        "Slayer's Counter"
+                    ]
+                }
+            ]            
+        }
+
+    },
+    "Rouge": {
+        "Base": [
+            {
+                "Level": 1,
+                "Proficiency Bonus": 2,
+                "Sneak Attack": "1d6",
+                "Features": [
+                    "Expertise", 
+                    "Sneak Attack", 
+                    "Thieves’ Cant"
+                ]
+            },
+            {
+                "Level": 2,
+                "Proficiency Bonus": 2,
+                "Sneak Attack": "1d6",
+                "Features": [
+                    "Cunning Action"
+                ]
+            },
+            {
+                "Level": 3,
+                "Proficiency Bonus": 2,
+                "Sneak Attack": "2d6",
+                "Features": [
+                    "Roguish Archetype"
+                ]
+            },
+            {
+                "Level": 4,
+                "Proficiency Bonus": 2,
+                "Sneak Attack": "2d6",
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 5,
+                "Proficiency Bonus": 3,
+                "Sneak Attack": "3d6",
+                "Features": [
+                    "Uncanny Dodge"
+                ]
+            },
+            {
+                "Level": 6,
+                "Proficiency Bonus": 3,
+                "Sneak Attack": "3d6",
+                "Features": [
+                    "Expertise"
+                ]
+            },
+            {
+                "Level": 7,
+                "Proficiency Bonus": 3,
+                "Sneak Attack": "4d6",
+                "Features": [
+                    "Evasion"
+                ]
+            },
+            {
+                "Level": 8,
+                "Proficiency Bonus": 3,
+                "Sneak Attack": "4d6",
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 9,
+                "Proficiency Bonus": 4,
+                "Sneak Attack": "5d6",
+                "Features": [
+                    "Roguish Archetype feature"
+                ]
+            },
+            {
+                "Level": 10,
+                "Proficiency Bonus": 4,
+                "Sneak Attack": "5d6",
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 11,
+                "Proficiency Bonus": 4,
+                "Sneak Attack": "6d6",
+                "Features": [
+                    "Reliable Talent"
+                ]
+            },
+            {
+                "Level": 12,
+                "Proficiency Bonus": 4,
+                "Sneak Attack": "6d6",
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 13,
+                "Proficiency Bonus": 5,
+                "Sneak Attack": "7d6",
+                "Features": [
+                    "Roguish Archetype feature"
+                ]
+            },
+            {
+                "Level": 14,
+                "Proficiency Bonus": 5,
+                "Sneak Attack": "7d6",
+                "Features": [
+                    "Blindsense"
+                ]
+            },
+            {
+                "Level": 15,
+                "Proficiency Bonus": 5,
+                "Sneak Attack": "8d6",
+                "Features": [
+                    "Slippery Mind"
+                ]
+            },
+            {
+                "Level": 16,
+                "Proficiency Bonus": 5,
+                "Sneak Attack": "8d6",
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 17,
+                "Proficiency Bonus": 6,
+                "Sneak Attack": "9d6",
+                "Features": [
+                    "Roguish Archetype feature"
+                ]
+            },
+            {
+                "Level": 18,
+                "Proficiency Bonus": 6,
+                "Sneak Attack": "9d6",
+                "Features": ["Elusive"]
+            },
+            {
+                "Level": 19,
+                "Proficiency Bonus": 6,
+                "Sneak Attack": "10d6",
+                "Features": [
+                    "Ability Score Improvement"
+                ]
+            },
+            {
+                "Level": 20,
+                "Proficiency Bonus": 6,
+                "Sneak Attack": "10d6",
+                "Features": [
+                    "Stroke of Luck"
+                ]
+            }
+        ],
+        "Roguish Archetypes": {
+            "Thief": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Fast Hands",
+                        "Second-Story Work"
+                    ]
+                },
+                {
+                    "Level": 9,
+                    "Features": [
+                        "Supreme Sneak"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Thief's Reflexes"
+                    ]
+                }
+            ],
+            "Assassin": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Bonus Proficiencies",
+                        "Assassinate"
+                    ]
+                },
+                {
+                    "Level": 9,
+                    "Features": [
+                        "Infiltration Expertise"
+                    ]
+                },
+                {
+                    "Level": 13,
+                    "Features": [
+                        "Imposter"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Death Strike"
+                    ]
+                }
+            ],
+            "Arcane Trickster": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Spellcasting",
+                        "Mage Hand Legerdemain"
+                    ]
+                },
+                {
+                    "Level": 9,
+                    "Features": [
+                        "Magical Ambush"
+                    ]
+                },
+                {
+                    "Level": 13,
+                    "Features": [
+                        "Versatile Trickster"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Spell Thief"
+                    ]
+                }
+            ],
+            "Inquisitive": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Ear for Deceit",
+                        "Eye for Detail",
+                        "Insightful Fighting"
+                    ]
+                },
+                {
+                    "Level": 9,
+                    "Features": [
+                        "Steady Eye"
+                    ]
+                },
+                {
+                    "Level": 13,
+                    "Features": [
+                        "Unerring Eye"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Eye for Weakness"
+                    ]
+                }
+            ],
+            "Mastermind": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Master of Intrigue",
+                        "Master of Tactics"
+                    ]
+                },
+                {
+                    "Level": 9,
+                    "Features": [
+                        "Insightful Manipulator"
+                    ]
+                },
+                {
+                    "Level": 13,
+                    "Features": [
+                        "Misdirection"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Soul of Deceit"
+                    ]
+                }
+            ],
+            "Scout": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Skirmisher",
+                        "Survivalist"
+                    ]
+                },
+                {
+                    "Level": 9,
+                    "Features": [
+                        "Superior Mobility"
+                    ]
+                },
+                {
+                    "Level": 13,
+                    "Features": [
+                        "Ambush Master"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Sudden Strike"
+                    ]
+                }
+            ],
+            "Swashbuckler": [
+                {
+                    "Level": 3,
+                    "Features": [
+                        "Fancy Footwork",
+                        "Rakish Audacity"
+                    ]
+                },
+                {
+                    "Level": 9,
+                    "Features": [
+                        "Panache"
+                    ]
+                },
+                {
+                    "Level": 13,
+                    "Features": [
+                        "Elegant Maneuver"
+                    ]
+                },
+                {
+                    "Level": 17,
+                    "Features": [
+                        "Master Duelist"
+                    ]
+                }
+            ]
+        }
+
+    },
+    "Sorcercer": {
+        "Base": [
+            {
+                "Level": 1,
+                "Proficiency Bonus": 2,
+                "Sorcery Points": 0,
+                "Features": [
+                    "Spellcasting", 
+                    "Sorcerous Origin"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 2,
+                "1st": 2,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 2,
+                "Proficiency Bonus": 2,
+                "Sorcery Points": 2,
+                "Features": [
+                    "Font of Magic"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 3,
+                "1st": 3,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 3,
+                "Proficiency Bonus": 2,
+                "Sorcery Points": 3,
+                "Features": [
+                    "Metamagic"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 4,
+                "1st": 4,
+                "2nd": 2,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 4,
+                "Proficiency Bonus": 2,
+                "Sorcery Points": 4,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 5,
+                "Spells Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 5,
+                "Proficiency Bonus": 3,
+                "Sorcery Points": 5,
+                "Features": [
+
+                ],
+                "Cantrips Known": 5,
+                "Spells Known": 6,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 2,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 6,
+                "Proficiency Bonus": 3,
+                "Sorcery Points": 6,
+                "Features": [
+                    "Sorcerous Origin Feature"
+                ],
+                "Cantrips Known": 5,
+                "Spells Known": 7,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 7,
+                "Proficiency Bonus": 3,
+                "Sorcery Points": 7,
+                "Features": [
+
+                ],
+                "Cantrips Known": 5,
+                "Spells Known": 8,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 1,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 8,
+                "Proficiency Bonus": 3,
+                "Sorcery Points": 8,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 5,
+                "Spells Known": 9,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 2,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 9,
+                "Proficiency Bonus": 4,
+                "Sorcery Points": 9,
+                "Features": [
+
+                ],
+                "Cantrips Known": 5,
+                "Spells Known": 10,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 1,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 10,
+                "Proficiency Bonus": 4,
+                "Sorcery Points": 10,
+                "Features": [
+
+                ],
+                "Cantrips Known": 6,
+                "Spells Known": 11,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 11,
+                "Proficiency Bonus": 4,
+                "Sorcery Points": 11,
+                "Features": [
+
+                ],
+                "Cantrips Known": 6,
+                "Spells Known": 12,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 12,
+                "Proficiency Bonus": 4,
+                "Sorcery Points": 12,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 6,
+                "Spells Known": 12,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 13,
+                "Proficiency Bonus": 5,
+                "Sorcery Points": 13,
+                "Features": [
+
+                ],
+                "Cantrips Known": 6,
+                "Spells Known": 13,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 14,
+                "Proficiency Bonus": 5,
+                "Sorcery Points": 14,
+                "Features": [
+                    "Sorcerous Origin Feature"
+                ],
+                "Cantrips Known": 6,
+                "Spells Known": 13,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 15,
+                "Proficiency Bonus": 5,
+                "Sorcery Points": 15,
+                "Features": [
+
+                ],
+                "Cantrips Known": 6,
+                "Spells Known": 14,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 0
+            },
+            {
+                "Level": 16,
+                "Proficiency Bonus": 5,
+                "Sorcery Points": 16,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 6,
+                "Spells Known": 14,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 0
+            },
+            {
+                "Level": 17,
+                "Proficiency Bonus": 6,
+                "Sorcery Points": 17,
+                "Features": [
+                    "Metamagic"
+                ],
+                "Cantrips Known": 6,
+                "Spells Known": 15,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 1
+            },
+            {
+                "Level": 18,
+                "Proficiency Bonus": 6,
+                "Sorcery Points": 18,
+                "Features": [
+                    "Sorcerous Origin Feature"
+                ],
+                "Cantrips Known": 6,
+                "Spells Known": 15,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 3,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 1
+            },
+            {
+                "Level": 19,
+                "Proficiency Bonus": 6,
+                "Sorcery Points": 19,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 6,
+                "Spells Known": 15,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 3,
+                "6th": 2,
+                "7th": 1,
+                "8th": 1,
+                "9th": 1
+            },
+            {
+                "Level": 20,
+                "Proficiency Bonus": 6,
+                "Sorcery Points": 20,
+                "Features": [
+                    "Sorcerous Restoration"
+                ],
+                "Cantrips Known": 6,
+                "Spells Known": 15,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 3,
+                "6th": 2,
+                "7th": 2,
+                "8th": 1,
+                "9th": 1
+            }
+        ],
+        "Sorcerous Origins": {
+            "Draconic Bloodline": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Dragon Ancestor",
+                        "Draconic Resilience"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Elemental Affinity"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Dragon Wings"
+                    ]
+                },
+                {
+                    "Level": 18,
+                    "Features": [
+                        "Draconic Presence"
+                    ]
+                }
+            ],
+            "Wild Magic": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Wild Magic Surge",
+                        "Tides of Chaos"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Bend Luck"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Controlled Chaos"
+                    ]
+                },
+                {
+                    "Level": 18,
+                    "Features": [
+                        "Spell Bombardment"
+                    ]
+                }
+            ],
+            "Divine Soul": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Favored by the Gods"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Empowered Healing"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Otherworldly Wings"
+                    ]
+                },
+                {
+                    "Level": 18,
+                    "Features": [
+                        "Unearthly Recovery"
+                    ]
+                }
+            ],
+            "Shadow Magic": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Eyes of the Dark",
+                        "Strength of the Grave"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Hould of Ill Omen"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Shadow Walk"
+                    ]
+                },
+                {
+                    "Level": 18,
+                    "Features": [
+                        "Umbral Form"
+                    ]
+                }
+            ],
+            "Storm Sorcery": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Tempestuous Magic"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Heart of the Storm",
+                        "Storm Guide"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Storm's Fury"
+                    ]
+                },
+                {
+                    "Level": 18,
+                    "Features": [
+                        "Wind Soul"
+                    ]
+                }
+            ]
+        }
+    },
+    "Warlock": {
+        "Base": [
+            {
+                "Level": 1,
+                "Proficiency Bonus": 2,
+                "Features": [
+                    "Otherworldly Patron", 
+                    "Pact Magic"
+                ],
+                "Cantrips Known": 2,
+                "Spells Known": 2,
+                "Spell Slots": "1",
+                "Slot Level": "1st",
+                "Invocations Known": 0
+            },
+            {
+                "Level": 2,
+                "Proficiency Bonus": 2,
+                "Features": [
+                    "Eldritch Invocations"
+                ],
+                "Cantrips Known": 2,
+                "Spells Known": 3,
+                "Spell Slots": 2,
+                "Slot Level": 1,
+                "Invocations Known": 2
+            },
+            {
+                "Level": 3,
+                "Proficiency Bonus": 2,
+                "Features": [
+                    "Pact Boon"
+                ],
+                "Cantrips Known": 2,
+                "Spells Known": 4,
+                "Spell Slots": 2,
+                "Slot Level": 2,
+                "Invocations Known": 2
+            },
+            {
+                "Level": 4,
+                "Proficiency Bonus": 2,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 3,
+                "Spells Known": 5,
+                "Spell Slots": 2,
+                "Slot Level": 2,
+                "Invocations Known": 2
+            },
+            {
+                "Level": 5,
+                "Proficiency Bonus": 3,
+                "Features": [
+
+                ],
+                "Cantrips Known": 3,
+                "Spells Known": 6,
+                "Spell Slots": 2,
+                "Slot Level": 3,
+                "Invocations Known": 3
+            },
+            {
+                "Level": 6,
+                "Proficiency Bonus": 3,
+                "Features": [
+                    "Otherworldly Patron feature"
+                ],
+                "Cantrips Known": 3,
+                "Spells Known": 7,
+                "Spell Slots": 2,
+                "Slot Level": 3,
+                "Invocations Known": 3
+            },
+            {
+                "Level": 7,
+                "Proficiency Bonus": 3,
+                "Features": [
+
+                ],
+                "Cantrips Known": 3,
+                "Spells Known": 8,
+                "Spell Slots": 2,
+                "Slot Level": 4,
+                "Invocations Known": 4
+            },
+            {
+                "Level": 8,
+                "Proficiency Bonus": 3,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 3,
+                "Spells Known": 9,
+                "Spell Slots": 2,
+                "Slot Level": 4,
+                "Invocations Known": 4
+            },
+            {
+                "Level": 9,
+                "Proficiency Bonus": 4,
+                "Features": [
+
+                ],
+                "Cantrips Known": 3,
+                "Spells Known": 10,
+                "Spell Slots": 2,
+                "Slot Level": 5,
+                "Invocations Known": 5
+            },
+            {
+                "Level": 10,
+                "Proficiency Bonus": 4,
+                "Features": [
+
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 10,
+                "Spell Slots": 2,
+                "Slot Level": 5,
+                "Invocations Known": 5
+            },
+            {
+                "Level": 11,
+                "Proficiency Bonus": 4,
+                "Features": [
+                    "Mystic Arcanum (6th level)"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 11,
+                "Spell Slots": 3,
+                "Slot Level": 5,
+                "Invocations Known": 5
+            },
+            {
+                "Level": 12,
+                "Proficiency Bonus": 4,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 11,
+                "Spell Slots": 3,
+                "Slot Level": 5,
+                "Invocations Known": 6
+            },
+            {
+                "Level": 13,
+                "Proficiency Bonus": 5,
+                "Features": [
+                    "Mystic Arcanum (7th level)"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 12,
+                "Spell Slots": 3,
+                "Slot Level": 5,
+                "Invocations Known": 6
+            },
+            {
+                "Level": 14,
+                "Proficiency Bonus": 5,
+                "Features": [
+                    "Otherworldly Patron feature"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 12,
+                "Spell Slots": 3,
+                "Slot Level": 5,
+                "Invocations Known": 6
+            },
+            {
+                "Level": 15,
+                "Proficiency Bonus": 5,
+                "Features": [
+                    "Mystic Arcanum (8th level)"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 13,
+                "Spell Slots": 3,
+                "Slot Level": 5,
+                "Invocations Known": 7
+            },
+            {
+                "Level": 16,
+                "Proficiency Bonus": 5,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 13,
+                "Spell Slots": 3,
+                "Slot Level": 5,
+                "Invocations Known": 7
+            },
+            {
+                "Level": 17,
+                "Proficiency Bonus": 6,
+                "Features": [
+                    "Mystic Arcanum (9th level)"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 14,
+                "Spell Slots": 4,
+                "Slot Level": 5,
+                "Invocations Known": 7
+            },
+            {
+                "Level": 18,
+                "Proficiency Bonus": 6,
+                "Features": [
+
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 14,
+                "Spell Slots": 4,
+                "Slot Level": 5,
+                "Invocations Known": 8
+            },
+            {
+                "Level": 19,
+                "Proficiency Bonus": 6,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 15,
+                "Spell Slots": 4,
+                "Slot Level": 5,
+                "Invocations Known": 8
+            },
+            {
+                "Level": 20,
+                "Proficiency Bonus": 6,
+                "Features": [
+                    "Eldritch Master"
+                ],
+                "Cantrips Known": 4,
+                "Spells Known": 15,
+                "Spell Slots": 4,
+                "Slot Level": 5,
+                "Invocations Known": 8
+            }
+        ],
+        "Otherworldly Patrons": {
+            "The Archfey": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Fey Presence"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Misty Escape"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Beguiling Defenses"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Dark Delirium"
+                    ]
+                }
+            ],
+            "The Fiend": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Dark One's Blessing"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Dark One's Own Luck"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Fiendish Resilience"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Hurl Through Hell"
+                    ]
+                }
+            ],
+            "The Great Old One": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Awakened Mind"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Entropic Ward"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Thought Shield"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Create Thrall"
+                    ]
+                }
+            ],
+            "The Celestial": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Bonus Cantrips",
+                        "Healing Light"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Radiant Soul"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Celestial Resilience"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Searing Vengence"
+                    ]
+                }
+            ],
+            "The Hexblade": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Hexblade's Curse",
+                        "Hex Warrior"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Accursed Specter"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Armor of Hexes"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Master of Hexes"
+                    ]
+                }
+            ],
+            "The Undying": [
+                {
+                    "Level": 1,
+                    "Features": [
+                        "Among the Dead"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Defy Death"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Undying Nature"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Indestructible Life"
+                    ]
+                }
+            ]
+        }
+    },
+    "Wizard": {
+        "Base": [
+            {
+                "Level": 1,
+                "Proficiency Bonus": 2,
+                "Features": [
+                    "Spellcasting", 
+                    "Arcane Recovery"
+                ],
+                "Cantrips Known": 3,
+                "1st": 2,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 2,
+                "Proficiency Bonus": 2,
+                "Features": [
+                    "Arcane Tradition"
+                ],
+                "Cantrips Known": 3,
+                "1st": 3,
+                "2nd": 0,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 3,
+                "Proficiency Bonus": 2,
+                "Features": [
+
+                ],
+                "Cantrips Known": 3,
+                "1st": 4,
+                "2nd": 2,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 4,
+                "Proficiency Bonus": 2,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 0,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 5,
+                "Proficiency Bonus": 3,
+                "Features": [
+
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 2,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 6,
+                "Proficiency Bonus": 3,
+                "Features": [
+                    "Arcane Tradition feature"
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 0,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 7,
+                "Proficiency Bonus": 3,
+                "Features": [
+
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 1,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 8,
+                "Proficiency Bonus": 3,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 2,
+                "5th": 0,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 9,
+                "Proficiency Bonus": 4,
+                "Features": [
+
+                ],
+                "Cantrips Known": 4,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 1,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 10,
+                "Proficiency Bonus": 4,
+                "Features": [
+                    "Arcane Tradition feature"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 0,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 11,
+                "Proficiency Bonus": 4,
+                "Features": [
+
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 12,
+                "Proficiency Bonus": 4,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 0,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 13,
+                "Proficiency Bonus": 5,
+                "Features": [
+
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 14,
+                "Proficiency Bonus": 5,
+                "Features": [
+                    "Arcane Tradition feature"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 0,
+                "9th": 0
+            },
+            {
+                "Level": 15,
+                "Proficiency Bonus": 5,
+                "Features": [
+
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 0
+            },
+            {
+                "Level": 16,
+                "Proficiency Bonus": 5,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 0
+            },
+            {
+                "Level": 17,
+                "Proficiency Bonus": 6,
+                "Features": [],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 2,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 1
+            },
+            {
+                "Level": 18,
+                "Proficiency Bonus": 6,
+                "Features": [
+                    "Spell Mastery"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 3,
+                "6th": 1,
+                "7th": 1,
+                "8th": 1,
+                "9th": 1
+            },
+            {
+                "Level": 19,
+                "Proficiency Bonus": 6,
+                "Features": [
+                    "Ability Score Improvement"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 3,
+                "6th": 2,
+                "7th": 2,
+                "8th": 1,
+                "9th": 1
+            },
+            {
+                "Level": 20,
+                "Proficiency Bonus": 6,
+                "Features": [
+                    "Signature Spell"
+                ],
+                "Cantrips Known": 5,
+                "1st": 4,
+                "2nd": 3,
+                "3rd": 3,
+                "4th": 3,
+                "5th": 3,
+                "6th": 2,
+                "7th": 2,
+                "8th": 1,
+                "9th": 1
+            }
+        ],
+        "Arcane Traditions": {
+            "School of Abjuration": [
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Abjuration Savant",
+                        "Arcane Ward"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Projected Ward"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Improved Abjuration"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Spell Resistance"
+                    ]
+                }
+            ],
+            "School of Conjuration": [
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Conjuration Savant",
+                        "Minor Conjuration"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Benign Transposition"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Focused Conjuration"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Durable Summons"
+                    ]
+                }
+            ],
+            "School of Divination": [
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Divination Savant",
+                        "Portent"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Expert Divination"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "The Third Eye"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Greater Portent"
+                    ]
+                }
+            ],
+            "School of Enchantment": [
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Enchantment Savant",
+                        "Hypnotic Gaze"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Instinctive Charm"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Split Enchantment"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Alter Memories"
+                    ]
+                }
+            ],
+            "School of Evocation": [
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Evocation Savant",
+                        "Sculpt Spells"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Potent Cantrip"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Empowered Evocation"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Overchannel"
+                    ]
+                }
+            ],
+            "School of Illusion": [
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Illusion Savant",
+                        "Improved Minor Illusion"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Malleable Illusions"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Illusory Self"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Illusory Reality"
+                    ]
+                }
+            ],
+            "School of Necromancy": [
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Necromancy Savant",
+                        "Grim Harvest"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Undead Thralls"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Inured to Death"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Command Undead"
+                    ]
+                }
+            ],
+            "School of Transmutation": [
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Transmutation Savant",
+                        "Minor Alchemy"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Transmuter's Stone"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Shapechanger"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Master Transmuter"
+                    ]
+                }
+            ],
+            "War Magic": [
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Arcane Deflection",
+                        "Tactical Wit"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Power Surge"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Durable Magic"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Deflecting Shroud"
+                    ]
+                }
+            ],
+            "Bladesinging": [
+                {
+                    "Level": 2,
+                    "Features": [
+                        "Training in War and Song",
+                        "Bladesong"
+                    ]
+                },
+                {
+                    "Level": 6,
+                    "Features": [
+                        "Extra Attack"
+                    ]
+                },
+                {
+                    "Level": 10,
+                    "Features": [
+                        "Song of Defense"
+                    ]
+                },
+                {
+                    "Level": 14,
+                    "Features": [
+                        "Song of Victory"
+                    ]
+                }
+            ]
+        }
+    }
+}

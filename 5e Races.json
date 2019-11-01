@@ -2,7 +2,7 @@
 	"Races": {
 		"Aarakocra": {
 			"Description": [
-				"Sequestered in high mountains atop tall trees, the aarakocra, sometimes called birdfolk, evoke fear and wonder. Many aarakocra aren’t even native to the Material Plane. They hail from a world beyond—from the boundless vistas of the Elemental Plane of Air. They are immigrants, refugees, scouts, and explorers, their outposts functioning as footholds in a world both strange and alien."
+				"Sequestered in high mountains atop tall trees, the aarakocra, sometimes called birdfolk, evoke fear and wonder. Many aarakocra aren't even native to the Material Plane. They hail from a world beyond—from the boundless vistas of the Elemental Plane of Air. They are immigrants, refugees, scouts, and explorers, their outposts functioning as footholds in a world both strange and alien."
 			],
 			"Beak and Feather": [
 				"From below, aarakocra look much like large birds. Only when they descend to roost on a branch or walk across the ground does their humanoid appearance reveal itself. Standing upright, aarakocra might reach 5 feet tall, and they have long, narrow legs that taper to sharp talons.",
@@ -13,19 +13,19 @@
 				"Once airborne, an aarakocra leaves the sky with reluctance. On their native plane, they can fly for days or months, landing only to lay their eggs and feed their young before launching themselves back into the air. Those that make it to a world in the Material Plane find it a strange place. They sometimes forget or ignore vertical distances, and they have nothing but pity for those earthbound people forced to live and toil on the ground."
 			],
 			"Avian Mannerisms": [
-				"The resemblance of aarakocra to birds isn’t limited to physical features. Aarakocra display many of the same mannerisms as ordinary birds. They are fastidious about their plumage, frequently tending their feathers, cleaning and scratching away any tiny passengers they might have picked up. When they deign to descend from the sky, they often do so near pools where they can catch fish and bathe themselves.",
-				"Many aarakocra punctuate their speech with chirps, sounds they use to convey emphasis and to shade meaning, much as a human might through facial expressions and gestures. An aarakocra might become frustrated with people who fail to pick up on the nuances; an aarakocra’s threat might be taken as a jest and vice versa.",
+				"The resemblance of aarakocra to birds isn't limited to physical features. Aarakocra display many of the same mannerisms as ordinary birds. They are fastidious about their plumage, frequently tending their feathers, cleaning and scratching away any tiny passengers they might have picked up. When they deign to descend from the sky, they often do so near pools where they can catch fish and bathe themselves.",
+				"Many aarakocra punctuate their speech with chirps, sounds they use to convey emphasis and to shade meaning, much as a human might through facial expressions and gestures. An aarakocra might become frustrated with people who fail to pick up on the nuances; an aarakocra's threat might be taken as a jest and vice versa.",
 				"The idea of ownership baffles most aarakocra. After all, who owns the sky? Even when explained to them, they initially find the notion of ownership mystifying. As a result, aarakocra who have little interaction with other people might be a nuisance as they drop from the sky to snatch livestock or plunder harvests for fruits and grains. Shiny, glittering objects catch their eyes. They find it hard not to pluck the treasure and bring it back to their settlement to beautify it. An aarakocra who spends years among other races can learn to inhibit these impulses.",
 				"Confinement terrifies the aarakocra. To be grounded, trapped underground, or imprisoned by the cold, unyielding earth is a torment few aarakocra can withstand. Even when perched on a high branch or at rest in their mountaintop homes, they appear alert, with eyes moving and bodies ready to take flight."
 			],
 			"Homelands": [
-				"Most aarakocra live on the Elemental Plane of Air. Aarakocra can be drawn into the Material Plane, sometimes to pursue enemies or thwart their foes’ designs there. Accident might also send a nest of aarakocra tumbling into a world on that plane. A few find their way to such a world through portals on their own plane and establish nests in high mountains or in the canopies of old forests.",
+				"Most aarakocra live on the Elemental Plane of Air. Aarakocra can be drawn into the Material Plane, sometimes to pursue enemies or thwart their foes' designs there. Accident might also send a nest of aarakocra tumbling into a world on that plane. A few find their way to such a world through portals on their own plane and establish nests in high mountains or in the canopies of old forests.",
 				"Once tribes of aarakocra settle in an area, they share a hunting territory that extends across an area up to 100 miles on a side, with each tribe hunting in the lands nearest to their colony, ranging farther should game become scarce.",
 				"A typical colony consists of one large, open-roofed nest made of woven vines. The eldest acts as leader with the support of a shaman."
 			],
 			"Great Purpose": [
-				"Aarakocra enjoy peace and solitude. Most of them have little interest in dealing with other peoples and less interest in spending time on the ground. For this reason, it takes an exceptional circumstance for an aarakocra to leave his or her tribe and undertake the adventurer’s life. Neither treasure nor glory is enough to lure them from their tribes; a dire threat to their people, a mission of vengeance, or a catastrophe typically lies at the heart of the aarakocra adventurer’s chosen path.",
-				"Two other circumstances might call an aarakocra to adventure. First, aarakocra have historical ties to the Wind Dukes of Aqaa. Exceptional individuals honor that connection and might seek out the missing pieces of the Rod of Seven Parts, the remains of an artifact fashioned by the Wind Dukes long ago to defeat the Queen of Chaos’s monstrous champion, Miska the Wolf-Spider. When plunged into Miska’s body, the chaos in his blood sundered the rod and scattered its pieces across the multiverse. Recovering the pieces means gaining honor and esteem in the eyes of the vaati who forged it and could possibly restore a powerful weapon for defense against the agents of elemental evil.",
+				"Aarakocra enjoy peace and solitude. Most of them have little interest in dealing with other peoples and less interest in spending time on the ground. For this reason, it takes an exceptional circumstance for an aarakocra to leave his or her tribe and undertake the adventurer's life. Neither treasure nor glory is enough to lure them from their tribes; a dire threat to their people, a mission of vengeance, or a catastrophe typically lies at the heart of the aarakocra adventurer's chosen path.",
+				"Two other circumstances might call an aarakocra to adventure. First, aarakocra have historical ties to the Wind Dukes of Aqaa. Exceptional individuals honor that connection and might seek out the missing pieces of the Rod of Seven Parts, the remains of an artifact fashioned by the Wind Dukes long ago to defeat the Queen of Chaos's monstrous champion, Miska the Wolf-Spider. When plunged into Miska's body, the chaos in his blood sundered the rod and scattered its pieces across the multiverse. Recovering the pieces means gaining honor and esteem in the eyes of the vaati who forged it and could possibly restore a powerful weapon for defense against the agents of elemental evil.",
 				"Second, aarakocra are sworn foes of elemental earth, in particular the gargoyles that serve Ogrémoch, the Prince of Earth. The Aarakocra word for gargoyle is loosely translated as “flying rock,” and battles between aarakocra and gargoyles have raged across the Elemental Planes of Earth and Air, occasionally spilling into a world on the Material Plane. Aarakocra on that plane might leave their colonies to lend aid to other humanoids committed to fighting earth cults and thwarting their efforts."
 			],
 			"Aarakocra Names": [
@@ -242,7 +242,7 @@
 		"Aven": {
 			"Description": [
 				"Aven have humanlike bodies, arms, and legs, along with birdlike wings and heads. Two distinct varieties of aven are found in Naktamun. One has the head of a hawk or similar bird of prey, with short wings allowing fast flight. The other variety has the head of an ibis atop a long neck, with wide, angular wings better suited to soaring. All aven have lean bodies with feathers extending from their heads down to their shoulders.",
-				"Aven delight in flying above their foes, using their superior mobility to confound and outpace their opponents. They love soaring through the sky as well, though the Hekma limits their altitude. Like all people of Naktamun, they are grateful for the Hekma’s protective magic, of course. But they keenly anticipate the hour when the God-Pharaoh will return and dissolve the veil, letting them fly without limit in the afterlife."
+				"Aven delight in flying above their foes, using their superior mobility to confound and outpace their opponents. They love soaring through the sky as well, though the Hekma limits their altitude. Like all people of Naktamun, they are grateful for the Hekma's protective magic, of course. But they keenly anticipate the hour when the God-Pharaoh will return and dissolve the veil, letting them fly without limit in the afterlife."
 			],
 			"Combat Classes": [
 				"Spellcasters are common among ibis-headed aven drawn to follow the teachings of Kefnet. Their physical resemblance to the god of knowledge is reflected in the metal discipline, focus, and confidence for which aven spellcasters are known. They wield magic of air, wind, and sometimes water to buffet their foes, enhance their own flight, and counter enemy attacks. Hawk-headed aven who follow the path of the mage are more likely to learn sand-based magic that can cloud the air, blast their foes, or bury enemies in living dunes.",
@@ -266,7 +266,7 @@
 					"Aven stand from 5 to 6 feet tall, but their bodies are slender and their bones are partially hollow to facilitate their flight. Your size is Medium."
 				],
 				"Speed": [
-					"Your base walking speed is 25 feet. You have a flying speed of 30 feet. You can’t use your flying speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can’t use your flying speed if you are encumbered.)"
+					"Your base walking speed is 25 feet. You have a flying speed of 30 feet. You can't use your flying speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can't use your flying speed if you are encumbered.)"
 				],
 				"Languages": [
 					"You can speak, read, and write Aven and Common."
@@ -284,7 +284,7 @@
 						"Your Intelligence score increases by 1."
 					],
 					"Kefnet's Blessing": [
-						"You can add half your proficiency bonus, rounded down, to any Intelligence check you make that doesn’t already include your proficiency bonus."
+						"You can add half your proficiency bonus, rounded down, to any Intelligence check you make that doesn't already include your proficiency bonus."
 					]
 
 				},
@@ -296,7 +296,7 @@
 						"Your Wisdom score increases by 2."
 					],
 					"Hawkeyed": [
-						"You can add half your proficiency bonus, rounded down, to any Intelligence check you make that doesn’t already include your proficiency bonus."
+						"You can add half your proficiency bonus, rounded down, to any Intelligence check you make that doesn't already include your proficiency bonus."
 					]
 				}
 			},
@@ -417,14 +417,14 @@
 				"Svirfneblin are well adapted for their subterranean existence. They have excellent darkvision, and many of them have magical talents that rival the innate spellcasting of the drow and duergar. They are surprisingly strong for their size, enduring toil and danger that would overwhelm most other people."
 			],
 			"Master Miners": [
-				"Despite their guarded natures, svirfneblin aren’t joyless. They admire skillful work and delicate craftsmanship, just like any other gnome. Svirfneblin love gemstones of all kinds, and they boldly seek out precious stones in the deepest and darkest tunnels. They are also expert gemcutters and miners, and they prize rubies above all other gemstones."
+				"Despite their guarded natures, svirfneblin aren't joyless. They admire skillful work and delicate craftsmanship, just like any other gnome. Svirfneblin love gemstones of all kinds, and they boldly seek out precious stones in the deepest and darkest tunnels. They are also expert gemcutters and miners, and they prize rubies above all other gemstones."
 			],
 			"Deep Dwellers": [
-				"Svirfneblin are known as deep gnomes because they choose to live far below the earth’s surface. Most svirfneblin never see the light of day. Their homes are well-hidden strongholds concealed by mazelike passages and clever illusions. Vast networks of mine tunnels ring most svirfneblin settlements, guarded by deadly traps and concealed sentries. Once a traveler passes through the outer defenses, the tunnels open up into marvelous cavern-towns carved from the surrounding rock with exquisite care. The svirfneblin are austere in their comforts compared to their surface cousins, but they take great pride in their stonework.",
+				"Svirfneblin are known as deep gnomes because they choose to live far below the earth's surface. Most svirfneblin never see the light of day. Their homes are well-hidden strongholds concealed by mazelike passages and clever illusions. Vast networks of mine tunnels ring most svirfneblin settlements, guarded by deadly traps and concealed sentries. Once a traveler passes through the outer defenses, the tunnels open up into marvelous cavern-towns carved from the surrounding rock with exquisite care. The svirfneblin are austere in their comforts compared to their surface cousins, but they take great pride in their stonework.",
 				"Deep gnomes do their best to remain hidden. Even if surface travelers succeed in locating a svirfneblin community, winning their trust can be even more difficult. Those rare travelers who do succeed in befriending deep gnomes find that they are loyal and courageous allies against any foe."
 			],
 			"Scouts and Spies": [
-				"Surface-dwelling gnomes often take up the adventurer’s life out of sheer curiosity about the world around them, eager to see new things and meet new people. By comparison, most svirfneblin possess very little wanderlust and rarely travel far from home. They see the surface world as a bewildering place without boundaries and filled with unknown dangers. Nevertheless, a few svirfneblin understand that it is necessary to know something about what is happening on the surface near their hidden refuges. As a result, some svirfneblin become scouts, spies, or messengers who venture abroad, doing their best to avoid attention. These travelers are notoriously close-mouthed about where they come from and what they are up to, but a few eventually learn to trust good-hearted people of the surface world.",
+				"Surface-dwelling gnomes often take up the adventurer's life out of sheer curiosity about the world around them, eager to see new things and meet new people. By comparison, most svirfneblin possess very little wanderlust and rarely travel far from home. They see the surface world as a bewildering place without boundaries and filled with unknown dangers. Nevertheless, a few svirfneblin understand that it is necessary to know something about what is happening on the surface near their hidden refuges. As a result, some svirfneblin become scouts, spies, or messengers who venture abroad, doing their best to avoid attention. These travelers are notoriously close-mouthed about where they come from and what they are up to, but a few eventually learn to trust good-hearted people of the surface world.",
 				"A few svirfneblin become merchants who deal with other races both above and below ground. Drow, duergar, and other peoples know that svirfneblin are usually neutral in outlook and typically honest in their dealings. Serving as middlemen between races too hostile to deal with each other directly can be lucrative, and it serves an important defensive function; svirfneblin middlemen tend to know more about rumors and threats between rival merchants than anybody else."
 			],
 			"Deep Gnome Names": [
@@ -435,7 +435,7 @@
 			],
 			"Deep Gnome Traits": {
 				"Description": [
-					"When you create a gnome character, you may choose the deep gnome as an alternative to the subraces in the Player’s Handbook. For your convenience, the traits of the gnome and the deep gnome are combined here."
+					"When you create a gnome character, you may choose the deep gnome as an alternative to the subraces in the Player's Handbook. For your convenience, the traits of the gnome and the deep gnome are combined here."
 				],
 				"Ability Score Increase": [
 					"Your Intelligence score increases by 2, and your Dexterity score increases by 1."
@@ -466,7 +466,7 @@
 				]
 			},
 			"Optional Feat": [
-				"If your DM allows the use of feats from chapter 6 of the Player’s Handbook, your deep gnome character has access to the Svirfneblin Magic feat."
+				"If your DM allows the use of feats from chapter 6 of the Player's Handbook, your deep gnome character has access to the Svirfneblin Magic feat."
 			],
 			"Books": [
 				"Elemental Evil Players Companion",
@@ -551,7 +551,7 @@
 					]
 				},
 				"Draconic Ancestry": [
-					"You have draconic ancestry. Choose one type of dragon from the Draconic ANcestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table."
+					"You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table."
 				],
 				"Breath Weapon": [
 					"You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.",
@@ -581,7 +581,7 @@
 					"Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sese of fair play and a belief that everyone deserves to share in the benefits of a just order."
 				],
 				"Size": [
-					"Dwarve stand between 4 and 5 feet tall and average about 150 pounds. Your size is medium."
+					"Dwarve stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium."
 				],
 				"Speed": [
 					"Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor."
@@ -677,7 +677,7 @@
 					"Your base walking speed is 30 feet."
 				],
 				"Darkvision": [
-					"Accustomed to twilit forests and the night-sky, you have superior vision in dark and dim conditions. You can see in dim light as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					"Accustomed to twilit forests and the night-sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
 				],
 				"Keen Senses": [
 					"You have proficiency in the Perception skill."
@@ -797,7 +797,7 @@
 					"Friend of the Sea": [
 						"Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed."
 					],
-					"Languages": [
+					"Extra Language": [
 						"You can speak, read, and write Aquan."
 					]
 				},
@@ -841,7 +841,7 @@
 					"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
 				],
 				"Alignment": [
-					"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not."
+					"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not."
 				],
 				"Size": [
 					"Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
@@ -850,13 +850,13 @@
 					"Your base walking speed is 30 feet."
 				],
 				"Darkvision": [
-					"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+					"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
 				],
 				"Keen Senses": [
 					"You have proficiency in the Perception skill."
 				],
 				"Fey Ancestry": [
-					"You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+					"You have advantage on saving throws against being charmed, and magic can't put you to sleep."
 				],
 				"Languages": [
 					"You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
@@ -879,7 +879,7 @@
 				},
 				"Joraga Nation": {
 					"Description": [
-						"The elves of the imperious Joraga nation of Bala Ged have little respect for any other race of Zendikar—or even for other elves. The survival of their nation and its traditions is the Joraga elves’ only goal, and they view the influence of others as a weakness. The Joraga eschew the goods and habits of others, even avoiding the pathways blazed by the Tajuru when possible. Many view the nomadic Joraga clans as little more than bands of roving murderers, but a complex culture hides behind those clans’ aggressive exterior"
+						"The elves of the imperious Joraga nation of Bala Ged have little respect for any other race of Zendikar—or even for other elves. The survival of their nation and its traditions is the Joraga elves' only goal, and they view the influence of others as a weakness. The Joraga eschew the goods and habits of others, even avoiding the pathways blazed by the Tajuru when possible. Many view the nomadic Joraga clans as little more than bands of roving murderers, but a complex culture hides behind those clans' aggressive exterior"
 					],
 					"Ability Score Increase": [
 						"Your Dexterity score increases by 1."
@@ -1036,8 +1036,8 @@
 		"Genasi": {
 			"Description": [
 				"Those who think of other planes at all consider them remote, distant realms, but planar influence can be felt throughout the world. It sometimes manifests in beings who, through an accident of birth, carry the power of the planes in their blood. The genasi are one such people, the offspring of genies and mortals.",
-				"The Elemental Planes are often inhospitable to natives of the Material Plane: crushing earth, searing flames, boundless skies, and endless seas make visiting these places dangerous for even a short time. The powerful genies, however, don’t face such troubles when venturing into the mortal world. They adapt well to the mingled elements of the Material Plane, and they sometimes visit—whether of their own volition or compelled by magic. Some genies can adopt mortal guise and travel incognito.",
-				"During these visits, a mortal might catch a genie’s eye. Friendship forms, romance blooms, and sometimes children result. These children are genasi: individuals with ties to two worlds, yet belonging to neither. Some genasi are born of mortal–genie unions, others have two genasi as parents, and a rare few have a genie further up their family tree, manifesting an elemental heritage that’s lain dormant for generations.",
+				"The Elemental Planes are often inhospitable to natives of the Material Plane: crushing earth, searing flames, boundless skies, and endless seas make visiting these places dangerous for even a short time. The powerful genies, however, don't face such troubles when venturing into the mortal world. They adapt well to the mingled elements of the Material Plane, and they sometimes visit—whether of their own volition or compelled by magic. Some genies can adopt mortal guise and travel incognito.",
+				"During these visits, a mortal might catch a genie's eye. Friendship forms, romance blooms, and sometimes children result. These children are genasi: individuals with ties to two worlds, yet belonging to neither. Some genasi are born of mortal–genie unions, others have two genasi as parents, and a rare few have a genie further up their family tree, manifesting an elemental heritage that's lain dormant for generations.",
 				"Occasionally, genasi result from exposure to a surge of elemental power, through phenomena such as an eruption from the Inner Planes or a planar convergence. Elemental energy saturates any creatures in the area and might alter their nature enough that their offspring with other mortals are born as genasi."
 			],
 			"Heirs to Elemental Power": [
@@ -1048,7 +1048,7 @@
 			],
 			"Wild and Confident": [
 				"Genasi rarely lack confidence, seeing themselves as equal to almost any challenge in their path. This certainty might manifest as graceful self-assurance in one genasi and as arrogance in another. Such self-confidence can sometimes blind genasi to risk, and their great plans often get them and others into trouble.",
-				"Too much failure can chip away at even a genasi’s sense of self, so they constantly push themselves to improve, honing their talents and perfecting their craft."
+				"Too much failure can chip away at even a genasi's sense of self, so they constantly push themselves to improve, honing their talents and perfecting their craft."
 			],
 			"Genasi Lands": [
 				"As rare beings, genasi might go their entire lives without encountering another one of their kind. There are no great genasi cities or empires. Genasi seldom have communities of their own and typically adopt the cultures and societies into which they are born. The more strange their appearance, the harder time they have. Many genasi lose themselves in teeming cities, where their distinctiveness hardly raises an eyebrow in places accustomed to a variety of different people.",
@@ -1098,7 +1098,7 @@
 				},
 				"Earth Genasi": {
 					"Description": [
-						"As an earth genasi, you are descended from the cruel and greedy dao, though you aren’t necessarily evil. You have inherited some measure of control over earth, reveling in superior strength and solid power. You tend to avoid rash decisions, pausing long enough to consider your options before taking action.",
+						"As an earth genasi, you are descended from the cruel and greedy dao, though you aren't necessarily evil. You have inherited some measure of control over earth, reveling in superior strength and solid power. You tend to avoid rash decisions, pausing long enough to consider your options before taking action.",
 						"Elemental earth manifests differently from one individual to the next. Some earth genasi always have bits of dust falling from their bodies and mud clinging to their clothes, never getting clean no matter how often they bathe. Others are as shiny and polished as gemstones, with skin tones of deep brown or black, eyes sparkling like agates. Earth genasi can also have smooth metallic flesh, dull iron skin spotted with rust, a pebbled and rough hide, or even a coating of tiny embedded crystals. The most arresting have fissures in their flesh, from which faint light shines."
 					],
 					"Ability Score Increase": [
@@ -1132,7 +1132,7 @@
 				"Water Genasi": {
 					"Description": [
 						"The lapping of waves, the spray of sea foam on the wind, the ocean depths—all of these things call to your heart. You wander freely and take pride in your independence, though others might consider you selfish.",
-						"Most water genasi look as if they just finished bathing, with beads of moisture collecting on their skin and hair. They smell of fresh rain and clean water. Blue or green skin is common, and most have somewhat overlarge eyes, blue-black in color. A water genasi’s hair might float freely, swaying and waving as if underwater. Some have voices with undertones reminiscent of whale song or trickling streams."
+						"Most water genasi look as if they just finished bathing, with beads of moisture collecting on their skin and hair. They smell of fresh rain and clean water. Blue or green skin is common, and most have somewhat overlarge eyes, blue-black in color. A water genasi's hair might float freely, swaying and waving as if underwater. Some have voices with undertones reminiscent of whale song or trickling streams."
 					],
 					"Ability Score Increase": [
 						"Your Wisdom score increases by 1."
@@ -1164,6 +1164,9 @@
 					"Gith reach adulthood in their late teens and live for about a century."
 				],
 				"Size": [
+					"Gith are taller and leaner than humans, with most a slender 6 feet in height. Your size is Medium."
+				],
+				"Speed": [
 					"Your base walking speed is 30 feet."
 				],
 				"Languages": [
@@ -1185,7 +1188,7 @@
 						"You learn one language of your choice, and you are proficient with one skill or tool of your choice, In the timeless city of Tu'narath, githyanki have bountiful time to master odd bits of knowledge."
 					],
 					"Martial Prodigy": [
-						"You are proficient with ligth and medium armor and with shortswords, longswords, and greatswords."
+						"You are proficient with light and medium armor and with shortswords, longswords, and greatswords."
 					],
 					"Githyanki Psionics": [
 						"You know the mage hand cantrip, and the hand is invisible when you cast the cantrip with this trait.",
@@ -1256,7 +1259,7 @@
 						"You know the minor illusion cantrip. Intelligence is your spellcasting ability for it."
 					],
 					"Speak with Small Beasts": [
-						"Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Forest gnomes love animaIs and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets."
+						"Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Forest gnomes love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets."
 					]
 				},
 				"Rock Gnome": {
@@ -1327,8 +1330,8 @@
 		},
 		"Goblin (Ixalan)": {
 			"Description": [
-				"Goblins are native to Ixalan, and their eager curiosity drew them to the ships of the Brazen Coalition when the pirates first made landfall on the Sun Empire’s shores. Though they still thrive in remote jungle colonies, goblins are most commonly seen swinging on the ropes of sleek pirate ships.",
-				"Goblins stand about three feet tall, though they rarely stand upright. They prefer a crouched posture that lets them scramble quickly on all fours, aided by their long prehensile tails. Their hearing and eyesight make them excellent lookouts, and their agility serves them well as crew members on pirate ships. They climb, swing, and jump easily among a ship’s ropes, and can get into tight spaces that humans can’t. For better or worse, many goblins are also incorrigible pranksters, and they often have a hard time determining when a prank is inappropriate, is poorly timed, or has gone too far."
+				"Goblins are native to Ixalan, and their eager curiosity drew them to the ships of the Brazen Coalition when the pirates first made landfall on the Sun Empire's shores. Though they still thrive in remote jungle colonies, goblins are most commonly seen swinging on the ropes of sleek pirate ships.",
+				"Goblins stand about three feet tall, though they rarely stand upright. They prefer a crouched posture that lets them scramble quickly on all fours, aided by their long prehensile tails. Their hearing and eyesight make them excellent lookouts, and their agility serves them well as crew members on pirate ships. They climb, swing, and jump easily among a ship's ropes, and can get into tight spaces that humans can't. For better or worse, many goblins are also incorrigible pranksters, and they often have a hard time determining when a prank is inappropriate, is poorly timed, or has gone too far."
 			],
 			"Goblin Traits": {
 				"Description": [
@@ -1350,10 +1353,10 @@
 					"Your base walking speed is 25 feet."
 				],
 				"Agile Climber": [
-					"You have a climbing speed of 25 feet. You can’t use your climbing speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can’t use your climbing speed if you are encumbered.)"
+					"You have a climbing speed of 25 feet. You can't use your climbing speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can't use your climbing speed if you are encumbered.)"
 				],
 				"Darkvision": [
-					"Accustomed to life in the jungle night, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+					"Accustomed to life in the jungle night, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
 				],
 				"Languages": [
 					"You can speak, read, and write Common (if it exists in your campaign) and Goblin."
@@ -1419,15 +1422,12 @@
 				"Goblins are associated with red mana. Their shamans are fond of spells that create or control fire and lightning to smite their foes, and they are quick to follow their impulses and passions into action without much forethought. Life to a goblin is an adventure full of new things to explore and experience."
 			],
 			"Long Arms and Stony Skin": [
-				"A typical goblin stands between three-and-a-half and five feet tall, with a slender, elongated build. Goblins’ arms are unusually long and spindly, making them adept at climbing cliffs and trees. Their skin has a stony texture, ranging in color from red-brown to moss green or gray. Their ears are large and swept back, their eyes are intensely red, and many sport heavy bone protrusions on their spines or elbows. Males have similar growths jutting from their chins, while females have heavier growths on their foreheads.",
-				"This distinctive appearance is a direct result of the goblins’ unusual diet. Before the Eldrazi’s rise, goblins supplemented their normal diet with a kind of rock they pounded into bits and called “grit.” The presence of the Eldrazi in Zendikar has poisoned this rock, so the goblins have taken to eating powdered hedrons instead. Eating this magic-infused stone has given the goblins resistance to the maddening psychic emanations of the Eldrazi. As an added benefit, it toughens their skin, protecting them from the elements and from physical dangers."
+				"A typical goblin stands between three-and-a-half and five feet tall, with a slender, elongated build. Goblins' arms are unusually long and spindly, making them adept at climbing cliffs and trees. Their skin has a stony texture, ranging in color from red-brown to moss green or gray. Their ears are large and swept back, their eyes are intensely red, and many sport heavy bone protrusions on their spines or elbows. Males have similar growths jutting from their chins, while females have heavier growths on their foreheads.",
+				"This distinctive appearance is a direct result of the goblins' unusual diet. Before the Eldrazi's rise, goblins supplemented their normal diet with a kind of rock they pounded into bits and called “grit.” The presence of the Eldrazi in Zendikar has poisoned this rock, so the goblins have taken to eating powdered hedrons instead. Eating this magic-infused stone has given the goblins resistance to the maddening psychic emanations of the Eldrazi. As an added benefit, it toughens their skin, protecting them from the elements and from physical dangers."
 			],
 			"Goblin Traits": {
-				"Description": [
-					"Your Constitution score increases by 2."
-				],
 				"Ability Score Increase": [
-					"Your Dexterity score increases by 2, and your Constitution score increases by 1."
+					"Your Constitution score increases by 2."
 				],
 				"Age": [
 					"Goblins mature faster than humans, reaching adulthood at around age 12. They also age noticeably faster than humans, and even the most cautious goblins rarely live longer than 50 years."
@@ -1442,7 +1442,7 @@
 					"Your base walking speed is 25 feet."
 				],
 				"Darkvision": [
-					"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+					"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
 				],
 				"Grit": [
 					"You have resistance to fire damage and psychic damage. In addition, when you are wearing no armor, your AC is equal to 11 + your Dexterity modifier."
@@ -1486,24 +1486,24 @@
 				"At the highest mountain peaks—far above the slopes where trees grow and where the air is thin and the frigid winds howl—dwell the reclusive goliaths. Few folk can claim to have seen a goliath, and fewer still can claim friendship with them. Goliaths wander a bleak realm of rock, wind, and cold. Their bodies look as if they are carved from mountain stone and give them great physical power. Their spirits take after the wandering wind, making them nomads who wander from peak to peak. Their hearts are infused with the cold regard of their frigid realm, leaving each goliath with the responsibility to earn a place in the tribe or die trying."
 			],
 			"Driven Competitors": [
-				"Every day brings a new challenge to a goliath. Food, water, and shelter are rare in the uppermost mountain reaches. A single mistake can bring doom to an entire tribe, while an individual’s heroic effort can ensure the entire group’s survival.",
+				"Every day brings a new challenge to a goliath. Food, water, and shelter are rare in the uppermost mountain reaches. A single mistake can bring doom to an entire tribe, while an individual's heroic effort can ensure the entire group's survival.",
 				"Goliaths thus place a premium on self-sufficiency and individual skill. They have a compulsion to keep score, counting their deeds and tallying their accomplishments to compare to others. Goliaths love to win, but they see defeat as a prod to improve their skills.",
 				"This dedication to competition has a dark side. Goliaths are ferocious competitors, but above all else they are driven to outdo their past efforts. If a goliath slays a dragon, he or she might seek out a larger, more powerful wyrm to battle. Few goliath adventurers reach old age, as most die attempting to surpass their past accomplishments."
 			],
 			"Fair Play": [
 				"For goliaths, competition exists only when it is supported by a level playing field. Competition measures talent, dedication, and effort. Those factors determine survival in their home territory, not reliance on magic items, money, or other elements that can tip the balance one way or the other. Goliaths happily rely on such benefits, but they are careful to remember that such an advantage can always be lost. A goliath who relies too much on them can grow complacent, a recipe for disaster in the mountains.",
-				"This trait manifests most strongly when goliaths interact with other folk. The relationship between peasants and nobles puzzles goliaths. If a king lacks the intelligence or leadership to lead, then clearly the most talented person in the kingdom should take his place. Goliaths rarely keep such opinions to themselves, and mock folk who rely on society’s structures or rules to maintain power."
+				"This trait manifests most strongly when goliaths interact with other folk. The relationship between peasants and nobles puzzles goliaths. If a king lacks the intelligence or leadership to lead, then clearly the most talented person in the kingdom should take his place. Goliaths rarely keep such opinions to themselves, and mock folk who rely on society's structures or rules to maintain power."
 			],
 			"Survival of the Fittest": [
-				"Among goliaths, any adult who can’t contribute to the tribe is expelled. A lone goliath has little chance of survival, especially an older or weaker one. Goliaths have little pity for adults who can’t take care of themselves, though a sick or injured individual is treated, as a result of the goliath concept of fair play.",
+				"Among goliaths, any adult who can't contribute to the tribe is expelled. A lone goliath has little chance of survival, especially an older or weaker one. Goliaths have little pity for adults who can't take care of themselves, though a sick or injured individual is treated, as a result of the goliath concept of fair play.",
 				"A permanently injured goliath is still expected to pull his or her weight in the tribe. Typically, such a goliath dies attempting to keep up, or the goliath slips away in the night to seek the cold will of fate.",
 				"In some ways, the goliath drive to outdo themselves feeds into the grim inevitability of their decline and death. A goliath would much rather die in battle, at the peak of strength and skill, than endure the slow decay of old age. Few folk have ever meet an elderly goliath, and even those goliaths who have left their people grapple with the urge to give up their lives as their physical skills decay.",
 				"Because of their risk-taking, goliath tribes suffer from a chronic lack of the experience offered by long-term leaders. They hope for innate wisdom in their leadership, for they can rarely count on a wisdom grown with age."
 			],
 			"Goliath Names": [
-				"Every goliath has three names: a birth name assigned by the newborn’s mother and father, a nickname assigned by the tribal chief, and a family or clan name. A birth name is up to three syllables long. Clan names are five syllables or more and end in a vowel.",
+				"Every goliath has three names: a birth name assigned by the newborn's mother and father, a nickname assigned by the tribal chief, and a family or clan name. A birth name is up to three syllables long. Clan names are five syllables or more and end in a vowel.",
 				"Birth names are rarely linked to gender. Goliaths see females and males as equal in all things, and they find societies with roles divided by gender to be puzzling or worthy of mockery. To a goliath, the person who is best at a job should be the one tasked with doing it.",
-				"A goliath’s nickname is a description that can change on the whim of a chieftain or tribal elder. It refers to a notable deed, either a success or failure, committed by the goliath. Goliaths assign and use nicknames with their friends of other races, and change them to refer to an individual’s notable deeds.",
+				"A goliath's nickname is a description that can change on the whim of a chieftain or tribal elder. It refers to a notable deed, either a success or failure, committed by the goliath. Goliaths assign and use nicknames with their friends of other races, and change them to refer to an individual's notable deeds.",
 				"Goliaths present all three names when identifying themselves, in the order of birth name, nickname, and clan name. In casual conversation, they use their nickname.",
 				"Birth Names: Aukan, Eglath, Gae-Al, Gauthak, Ilikan, Keothi, Kuori, Lo-Kag, Manneo, Maveith, Nalla, Orilo, Paavu, Pethani, Thalai, Thotham, Uthal, Vaunea, Vimak",
 				"Nicknames: Bearkiller, Dawncaller, Fearless, Flintfinder, Horncarver, Keeneye, Lonehunter, Longleaper, Rootsmasher, Skywatcher, Steadyhand, Threadtwister, Twice-Orphaned, Twistedlimb, Wordpainter",
@@ -1532,13 +1532,13 @@
 					"You have proficiency in the Athletics skill."
 				],
 				"Stone's Endurance": [
-					"You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a short or long rest."
+					"You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can't use it again until you finish a short or long rest."
 				],
 				"Powerful Build": [
 					"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
 				],
 				"Mountain Born": [
-					"You’re acclimated to high altitude, including elevations above 20,000 feet. You’re also naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master’s Guide."
+					"You're acclimated to high altitude, including elevations above 20,000 feet. You're also naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide."
 				],
 				"Languages": [
 					"You can speak, read, and write Common and Giant."
@@ -1573,7 +1573,7 @@
 					"You can breathe air and water."
 				],
 				"Poison Immunity": [
-					"You’re immune to poison damage and the poisoned condition."
+					"You're immune to poison damage and the poisoned condition."
 				],
 				"Poisonous Skin": [
 					"Any creature that grapples you or otherwise comes into direct contact with your skin must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A poisoned creature no longer in direct contact with you can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
@@ -1700,6 +1700,9 @@
 				"Size": [
 					"Half-orcs are somewhat larger and bulkier than humans and they range from 5 to well over 6 feet tall. Your size is Medium."
 				],
+				"Speed": [
+					"Your base walking speed is 30 feet."
+				],
 				"Darkvision": [
 					"Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only in shades of gray."
 				],
@@ -1793,14 +1796,14 @@
 		},
 		"Human (Amonkhet)": {
 			"Description": [
-				"Of the five humanoid races of Amonkhet, humans are the most diverse and adaptable. Different humans train in a wide variety of fighting styles, including those particularly favored by other races. A human mage might use any of the five colors of mana, while mages of other races focus on one of only two colors. Human viziers serve all five gods, and different human initiates excel in different trials. Humans defy trends and categorization, and opponents who face a human in one-on-one combat can’t know what kind of fight to expect—from the foresight and cunning often associated with Kefnet, to a ruthlessness that emulates Bontu. At the beginning of such a fight, this uncertainty can give an edge to the human combatant.",
+				"Of the five humanoid races of Amonkhet, humans are the most diverse and adaptable. Different humans train in a wide variety of fighting styles, including those particularly favored by other races. A human mage might use any of the five colors of mana, while mages of other races focus on one of only two colors. Human viziers serve all five gods, and different human initiates excel in different trials. Humans defy trends and categorization, and opponents who face a human in one-on-one combat can't know what kind of fight to expect—from the foresight and cunning often associated with Kefnet, to a ruthlessness that emulates Bontu. At the beginning of such a fight, this uncertainty can give an edge to the human combatant.",
 				"nce the fight has begun, of course, victory relies on different factors. But here, the human drive toward perfection once more tilts the scales in their favor. Humans are willing to go to any length, exhausting all available options, to reach the pinnacle of achievement and win the favor of the God-Pharaoh."
 			],
 			"Two Roads to Perfection": [
 				"As diverse as they are in most respects, the humans of Amonkhet share a drive toward perfection. However, they approach this challenge differently. Some humans specialize in a relatively narrow set of skills, while oth-ers seek to master a wide range",
-				"Perfection through Specialization# Humans who choose a path of specialization often piously identify with one of the five gods (often as a vizier), and thus focus on one aspect of perfection. For them, the best way to earn a place in the afterlife is to hone a single facet of their character to the utmost quality, and as initiates, they hope to put that quality to use in all five trials. A mage initiate who identifies with Hazoret might cultivate zeal above all other virtues, master spells of fiery magic to channel that powerful emotion, and rely on raw energy and enthusiasm to get through the four trials leading up to Hazoret’s final test. An initiate dedicated to Oketra, on the other hand, relies on cooperation, solidarity, and teamwork to get through the trials—even Bontu’s Trial of Ambition, which attempts to break down such bonds.",
-				"To Oketra’s disciple, ambition means a drive to help an entire crop of initiates achieve glory together, rather than exalting oneself over others. Humans with this viewpoint see their chosen virtue coloring all others, and believe that the five gods offer their people a choice of which virtue to emulate and emphasize.",
-				"Perfection through Balance# Other humans be-lieve that true perfection lies in mastering all the virtues, without giving preference to any one over the others. They compare themselves to multifaceted stones whose beauty lies in the polished perfection of every facet. These humans are careful not to let their skills in one area outshine their other efforts, and if they grow too accomplished in one set of skills, they set it aside to concentrate their training on others until their abilities are in balance once more.",
+				"Perfection through Specialization# Humans who choose a path of specialization often piously identify with one of the five gods (often as a vizier), and thus focus on one aspect of perfection. For them, the best way to earn a place in the afterlife is to hone a single facet of their character to the utmost quality, and as initiates, they hope to put that quality to use in all five trials. A mage initiate who identifies with Hazoret might cultivate zeal above all other virtues, master spells of fiery magic to channel that powerful emotion, and rely on raw energy and enthusiasm to get through the four trials leading up to Hazoret's final test. An initiate dedicated to Oketra, on the other hand, relies on cooperation, solidarity, and teamwork to get through the trials—even Bontu's Trial of Ambition, which attempts to break down such bonds.",
+				"To Oketra's disciple, ambition means a drive to help an entire crop of initiates achieve glory together, rather than exalting oneself over others. Humans with this viewpoint see their chosen virtue coloring all others, and believe that the five gods offer their people a choice of which virtue to emulate and emphasize.",
+				"Perfection through Balance# Other humans believe that true perfection lies in mastering all the virtues, without giving preference to any one over the others. They compare themselves to multifaceted stones whose beauty lies in the polished perfection of every facet. These humans are careful not to let their skills in one area outshine their other efforts, and if they grow too accomplished in one set of skills, they set it aside to concentrate their training on others until their abilities are in balance once more.",
 				"Philosophically, such humans believe that the gods are five in number so as to remind the people of Amonkhet not to focus their attention on a single god or a single virtue, but to serve the gods equally and master their teachings to the same degree. Thus they hope to achieve a balanced state of perfection that will guaran-tee their admission into the afterlife."
 			],
 			"Combat Classes": [
@@ -1809,7 +1812,7 @@
 			],
 			"Human Traits": {
 				"Description": [
-					"The humans of Amonkhet use the variant human traits presented in the Player’s Handbook. This allows them greater specialization from the very beginning of their careers, and emphasizes the diversity of the human race."
+					"The humans of Amonkhet use the variant human traits presented in the Player's Handbook. This allows them greater specialization from the very beginning of their careers, and emphasizes the diversity of the human race."
 				],
 				"Ability Score Increase": [
 					"Two different ability scores of your choice increase by 1."
@@ -1846,7 +1849,7 @@
 			],
 			"Human Traits": {
 				"Description": [
-					"The humans of Ixalan use the human traits presented in the Player’s Handbook."
+					"The humans of Ixalan use the human traits presented in the Player's Handbook."
 				],
 				"Ability Score Increase": [
 					"Your ability scores each increase by 1."
@@ -1870,14 +1873,14 @@
 		},
 		"Human (Keldon)": {
 			"Description": [
-				"The people of Keld are human, but they are like no other humans anywhere. Nearly all adults stand over six feet tall, and heights above seven feet are not uncommon. They are massively muscled and have gray skin, ranging from an ashy gray-white to a deeper bluegray. The typical Keldon’s hairline points sharply down in the middle of the forehead and at either temple, but recedes elsewhere—sometimes dramatically. Keldons are remarkably resistant to the cold of their homeland, baring skin even in near-freezing temperatures without discomfort.",
+				"The people of Keld are human, but they are like no other humans anywhere. Nearly all adults stand over six feet tall, and heights above seven feet are not uncommon. They are massively muscled and have gray skin, ranging from an ashy gray-white to a deeper bluegray. The typical Keldon's hairline points sharply down in the middle of the forehead and at either temple, but recedes elsewhere—sometimes dramatically. Keldons are remarkably resistant to the cold of their homeland, baring skin even in near-freezing temperatures without discomfort.",
 				"Keldons value self-reliance, strength, and courage above all else. Anything that is the product of their own labor is a fine thing. Anything else is treated with a healthy dose of skepticism. At best, they are a proud, pragmatic, passionate people, and their loyalty is fierce once earned. At worst, they can be reckless, hot-tempered, and violent—and no small number of Keldons still consider these qualities virtues rather than vices.",
 				"Because of their many exploits as both conquerors and mercenaries, Keldons appear in the legends and histories of other peoples across the world. Sometimes these tales are exaggerated—but many that sound exaggerated are not.",
 				"Instead of adding an additional ability score, all ability scores are replaced."
 			],
 			"Keldon Human Traits": {
 				"Description": [
-					"The humans of Keld have the following traits, which replace the standard human traits presented in the Player’s Handbook."
+					"The humans of Keld have the following traits, which replace the standard human traits presented in the Player's Handbook."
 				],
 				"Ability Score Increase": [
 					"Your Strength score increases by 2, and your Constitution score increases by 1."
@@ -1901,7 +1904,7 @@
 					"You have proficiency in Strength saving throws."
 				],
 				"Icehaven Born": [
-					"You are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master’s Guide."
+					"You are naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide."
 				]
 			},
 			"Books": [
@@ -1917,11 +1920,11 @@
 			],
 			"Civilized Humanity": [
 				"Despite the harshness of life on Zendikar, human civilization flourishes in a few scattered towns. Sea Gate (on the continent of Tazeem), Affa Town (on Akoum), and the so-called Free City of Nimana (in Guul Draz) are the most notable of these, boasting organized military forces, institutions of learning, established traditions of magic, houses of worship, and dark underbellies of crime and corruption. With populations measured in the thousands, these settlements would barely qualify as towns on other planes, but they have no rivals on Zendikar except the vampire city of Malakir—which has been in ruins since the emergence of the Eldrazi.",
-				"The Expeditionary Houses# In Sea Gate, five so-called expeditionary houses launch regular excursions into the wilds for various purposes. Named for the destinations of their first expeditions, they are the Valakut House, the Pelakka Foundation, and the Akoum, Murasa, and Bala Ged Expeditionary Houses. The rivalries among the houses are legendary, and they are known to sabotage each other’s expeditions. Each maintains hostels in various settlements, which serve as resources for adventurers and explorers who need to hire guides or purchase supplies."
+				"The Expeditionary Houses# In Sea Gate, five so-called expeditionary houses launch regular excursions into the wilds for various purposes. Named for the destinations of their first expeditions, they are the Valakut House, the Pelakka Foundation, and the Akoum, Murasa, and Bala Ged Expeditionary Houses. The rivalries among the houses are legendary, and they are known to sabotage each other's expeditions. Each maintains hostels in various settlements, which serve as resources for adventurers and explorers who need to hire guides or purchase supplies."
 			],
 			"Human Traits": {
 				"Description": [
-					"A human character has the traits described for humans in the Player’s Handbook."
+					"A human character has the traits described for humans in the Player's Handbook."
 				],
 				"Ability Score Increase": [
 					"Your ability scores each increase by 1."
@@ -2023,14 +2026,14 @@
 			],
 			"Strength and Zeal": [
 				"Many khenra believe that they are created in the image of Hazoret, and though they venerate all five gods in the manner of all citizens of Naktamun, they have a special affinity for the teachings and philosophy of the god of zeal. These khenra share a deep love of combat, especially hand-to-hand fighting, and they devote themselves to their training with particular intensity.",
-				"The familial bond experienced in the Family Temple of Hazoret’s monument is a part of every khenra’s experience as one of a pair of twins. As such, these khenra sometimes think of themselves as Hazoret’s children even before they finish the fourth trial. For her part, Hazoret seems to favor khenra among her viziers, and some say that she shows particular favor to khenra initiates who survive to reach the Trial of Zeal.",
+				"The familial bond experienced in the Family Temple of Hazoret's monument is a part of every khenra's experience as one of a pair of twins. As such, these khenra sometimes think of themselves as Hazoret's children even before they finish the fourth trial. For her part, Hazoret seems to favor khenra among her viziers, and some say that she shows particular favor to khenra initiates who survive to reach the Trial of Zeal.",
 				"Other khenra choose to distance themselves from Hazoret and the reckless battle frenzy she encourages. They devote themselves instead to honing their physical strength, resilience, and adaptability, inspired and guided by the teachings of Rhonas. These khenra have a great fondness for wrestling (or tussling, as they often call it), and they keep careful track of the matches they win and lose against other initiates. They often seek out matches against minotaurs, enjoying the challenge of pitting their sinewy strength against the brute muscle of larger and heavier opponents."
 			],
 			"Combat Classes": [
 				"Khenra, especially those devoted to Hazoret, are particularly drawn to hand-to-hand combat styles. But the other styles each have their own appeal, and khenra initiates might find themselves specializing in any of the three.",
-				"Khenra who focus on hand-to-hand combat often wield the khopesh—a large sickle-bladed sword—as their weapon of choice (treat as a longsword). Khenra wield these blades with devastating accuracy and power, landing one crushing blow after another in a hail of furious attacks. They favor lightweight armor that doesn’t impede their movement, often comparing fighting in organized ranks to wearing a leash that limits their ability to charge, lunge, and roll away from danger. Their natural aggression makes them ideal shock troops, scouts, and skirmishers. And that aggression is even more pronounced in khenra who have already lost their twin, and who sometimes lose any sense of self-preservation as a result.",
+				"Khenra who focus on hand-to-hand combat often wield the khopesh—a large sickle-bladed sword—as their weapon of choice (treat as a longsword). Khenra wield these blades with devastating accuracy and power, landing one crushing blow after another in a hail of furious attacks. They favor lightweight armor that doesn't impede their movement, often comparing fighting in organized ranks to wearing a leash that limits their ability to charge, lunge, and roll away from danger. Their natural aggression makes them ideal shock troops, scouts, and skirmishers. And that aggression is even more pronounced in khenra who have already lost their twin, and who sometimes lose any sense of self-preservation as a result.",
 				"Khenra who focus on long-range combat prefer hurled weapons—spears and javelins—over bows and slings, and they are known and feared for their deadly accuracy. They carry small cases of javelins into combat, and feel ashamed if they reach the end of a battle with any weapons left unthrown. A khenra might ride on a chariot as a spear thrower, sometimes augmenting attacks with minor spells of fire magic.",
-				"Many khenra mages specialize in fire spells, creating blades or hails of flame to sear and scorch their foes. Their strategy emphasizes overwhelming initial assaults, in magical emulation of Hazoret’s battle frenzy. Others prefer magic that augments their natural speed and strength, bolsters their endurance, or drains strength from their enemies. They work to hone their spells alongside their bodies, incorporating elements of hand-to-hand combat into their spellcasting."
+				"Many khenra mages specialize in fire spells, creating blades or hails of flame to sear and scorch their foes. Their strategy emphasizes overwhelming initial assaults, in magical emulation of Hazoret's battle frenzy. Others prefer magic that augments their natural speed and strength, bolsters their endurance, or drains strength from their enemies. They work to hone their spells alongside their bodies, incorporating elements of hand-to-hand combat into their spellcasting."
 			],
 			"Khenra Traits": {
 				"Description": [
@@ -2055,7 +2058,7 @@
 					"You have proficiency with the khopesh, spear, and javelin."
 				],
 				"Khenra Twins": [
-					"If your twin is alive and you can see your twin, whenever you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. If your twin is dead (or if you were born without a twin), you can’t be frightened."
+					"If your twin is alive and you can see your twin, whenever you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. If your twin is dead (or if you were born without a twin), you can't be frightened."
 				],
 				"Languages": [
 					"You can speak, read, and write Aven and Common."
@@ -2426,13 +2429,13 @@
 					"You can speak, read, and write Common, Merfolk, and one extra language of your choice."
 				],
 				"Creeds": [
-					"The merfolk race is divided into three creeds, founded on the principles of Emeria (wind), Ula (water), and Cosi (the trickster). A merfolk isn’t born into a creed but chooses it upon reaching adulthood, and it is rare for a merfolk not to choose a creed. Merfolk of the wind and water creeds aren’t hostile to each other, but members of each creed regard the other creed with a vague disdain. Members of both those creeds regard the Cosi creed with suspicion and some degree of fear, and Cosi-creed adherents tend to keep their affiliation secret. Choose one of these creeds for your character."
+					"The merfolk race is divided into three creeds, founded on the principles of Emeria (wind), Ula (water), and Cosi (the trickster). A merfolk isn't born into a creed but chooses it upon reaching adulthood, and it is rare for a merfolk not to choose a creed. Merfolk of the wind and water creeds aren't hostile to each other, but members of each creed regard the other creed with a vague disdain. Members of both those creeds regard the Cosi creed with suspicion and some degree of fear, and Cosi-creed adherents tend to keep their affiliation secret. Choose one of these creeds for your character."
 				]
 			},
 			"Creeds": {
 				"Emeria (Wind) Creed": {
 					"Description": [
-						"Merfolk who followed Emeria’s creed seek wisdom and truth in the Wind Realm, exploring the mystical forces—rather than natural causes—behind historical events. They are evasive and intentionally enigmatic in their interactions with others, and are often described as manipulative and deceptive."
+						"Merfolk who followed Emeria's creed seek wisdom and truth in the Wind Realm, exploring the mystical forces—rather than natural causes—behind historical events. They are evasive and intentionally enigmatic in their interactions with others, and are often described as manipulative and deceptive."
 					],
 					"Ability Score Increase": [
 						"Your Wisdom score increases by 2."
@@ -2452,7 +2455,7 @@
 						"Your Intelligence score increases by 2."
 					],
 					"Water Creed Navigation": [
-						"You have proficiency with navigator’s tools and in the Survival skill."
+						"You have proficiency with navigator's tools and in the Survival skill."
 					],
 					"Cantrip": [
 						"You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it."
@@ -2517,10 +2520,10 @@
 					"You gain proficiency in the Intimidation skill."
 				],
 				"Relentless Endurance": [
-					"When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest."
+					"When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest."
 				],
 				"Savage Attacks": [
-					"When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit."
+					"When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
 				],
 				"Languages": [
 					"You can speak, read, and write Common and Minotaur."
@@ -2563,13 +2566,13 @@
 					"Most minotaurs who join the Boros Legion lean toward lawful alignments, while those associated with the Cult of Rakdos or the Gruul Clans tend toward chaotic alignments."
 				],
 				"Size": [
-					"Minotaurs average over 6  feet in height, and they have stocky builds. Your size is  Medium."
+					"Minotaurs average over 6  feet in height, and they have stocky builds. Your size is Medium."
 				],
 				"Speed": [
 					"Your base walking speed is 30 feet."
 				],
 				"Horns": [
-					"Your horns are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal piercing damage equal to 1d6 +your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+					"Your horns are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
 				],
 				"Goring Rush": [
 					"Immediately after you use the Dash action on your turn and move at least 20 feet, you can make one melee attack with your horns as a bonus action."
@@ -2598,7 +2601,7 @@
 				"To the benefit of those naga who struggle with the ideal of the Sweetest Harmony, the training of acolytes encourages specialization. Thus, naga who follow in the path of the snake-headed god Rhonas can cultivate their physical strength as they specialize in hand-to-hand combat styles, while other naga favor the teachings of Kefnet and other combat styles.",
 				"Naga who specialize in hand-to-hand combat rely on axes, daggers, and shortswords—but also on their own fangs and the constricting strength of their serpentine bodies. They make extensive use of poison, coating their weapons with multiple layers of deadly substances—including, but by no means limited to, their own venom. Quick, well-timed, and well-placed blows, followed by an equally nimble retreat, allow many naga to triumph over opponents who might seem stronger. With acknowledgment of the Sweetest Harmony, these naga cultivate an understanding of strategy and tactics that enhances their physical training.",
 				"Speed and accuracy are equally important to naga who specialize in long-range combat. Some prefer to analyze a battle from a distance and pick off the strongest opponents with their ranged weapons, including poisoned spears and arrows. Others ride in chariots driven by trusted drivers (usually other naga) and throw their spears from the midst of battle. In any case, they excel at finding and exploiting strategic advantages.",
-				"Some naga mages, drawn to the example of Kefnet, make extensive use of illusion magic to trick and mislead their opponents. Others apply Rhonas’s teachings to their studies, wielding poisonous magic that weakens opponents or kills them outright with clouds or darts of deadly toxins. Still others, in service to the ideal of balance, use the magical power of their minds to enhance their physical strength and speed."
+				"Some naga mages, drawn to the example of Kefnet, make extensive use of illusion magic to trick and mislead their opponents. Others apply Rhonas's teachings to their studies, wielding poisonous magic that weakens opponents or kills them outright with clouds or darts of deadly toxins. Still others, in service to the ideal of balance, use the magical power of their minds to enhance their physical strength and speed."
 			],
 			"Naga Traits": {
 				"Description": [
@@ -2624,13 +2627,13 @@
 				],
 				"Natural Weapons": [
 					"Your fanged maw and constricting serpentine body are natural weapons, which you can use to make unarmed strikes. If you hit with your bite, you deal piercing damage equal to 1d4 + your Strength modifier, and your target must make a Constitution saving throw (DC 8 + your proficiency bonus + your Constitution modifier). On a failed save, the target takes 1d4 poison damage.",
-					"If you hit with your constrict attack, you deal bludgeoning damage equal to 1d6 + your Strength modifier, and the target is grappled (escape DC 8 + your proficiency bonus + your Strength modifier). Until this grapple ends, the target is restrained, and you can’t constrict another target."
+					"If you hit with your constrict attack, you deal bludgeoning damage equal to 1d6 + your Strength modifier, and the target is grappled (escape DC 8 + your proficiency bonus + your Strength modifier). Until this grapple ends, the target is restrained, and you can't constrict another target."
 				],
 				"Poison Immunity": [
-					"You are immune to poison damage and can’t be poisoned."
+					"You are immune to poison damage and can't be poisoned."
 				],
 				"Poison Affinity": [
-					"You gain proficiency with the poisoner’s kit."
+					"You gain proficiency with the poisoner's kit."
 				],
 				"Languages": [
 					"You can speak, read, and write Common and Naga."
@@ -2661,7 +2664,7 @@
 					"You can speak, read, and write Common and Orc."
 				],
 				"Darkvision": [
-					"You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+					"You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
 				],
 				"Menacing": [
 					"You gain proficiency in the Intimidation skill."
@@ -2673,24 +2676,7 @@
 					"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
 				]
 			},
-			"Sub Races": {
-				"Ixalan": {
-					"Description": [
-						"Instead of adding an additional ability score, all ability scores are replaced. Aggressive and Powerful build are replaced with Relentless Endurance and Savage Attacks."
-					],
-					"Ability Score Increase": [
-						"Your Strength score increases by 2, and your Constitution score increases by 1."
-					],
-					"Relentless Endurance": [
-						"When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest."
-					],
-					"Savage Attacks": [
-						"When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit."
-					]
-				}
-			},
 			"Books": [
-				"Plane Shift Ixalan",
 				"Volo's Guide to Monsters"
 			]
 		},
@@ -2701,7 +2687,7 @@
 			],
 			"Orc Traits": {
 				"Description": [
-					"The orcs of Ixalan use the half-orc traits in the Player’s Handbook."
+					"The orcs of Ixalan use the half-orc traits in the Player's Handbook."
 				],
 				"Ability Score Increase": [
 					"Your Strength score increases by 2, and your Constitution score increases by 1."
@@ -2719,16 +2705,16 @@
 					"Your base walking speed is 30 feet."
 				],
 				"Darkvision": [
-					"You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+					"You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
 				],
 				"Menacing": [
 					"You gain proficiency in the Intimidation skill."
 				],
 				"Relentless Endurance": [
-					"When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest."
+					"When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest."
 				],
 				"Savage Attacks": [
-					"When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit."
+					"When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
 				],
 				"Languages": [
 					"You can speak, read, and write Common (if it exists in your campaign) and Orc."
@@ -2789,7 +2775,7 @@
 						"At 5th level, your body evolves further, developing new characteristics. Choose one of the options you didn't take at 1st level, or one of the following options:"
 					],
 					"Grappling Appendages": [
-						"You have two special appendages growing alongside your arms. Choose whether they're both claws or tentacles. As an action, you can use one of them to try to grapple a creature. Each one is also a natural weapon, which you can use to make an unarmed strike. If you hit with it, the target takes bludgeoning damage equal to 1d6 +your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. Immediately after hitting, you can try to grapple the target as a bonus action. These appendages can't precisely manipulate anything and can't wield weapons, magic items, or other specialized equipment."
+						"You have two special appendages growing alongside your arms. Choose whether they're both claws or tentacles. As an action, you can use one of them to try to grapple a creature. Each one is also a natural weapon, which you can use to make an unarmed strike. If you hit with it, the target takes bludgeoning damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. Immediately after hitting, you can try to grapple the target as a bonus action. These appendages can't precisely manipulate anything and can't wield weapons, magic items, or other specialized equipment."
 					],
 					"Carapace": [
 						"Your skin in places is covered by a thick shell. You gain a +1 bonus to AC when you're not wearing heavy armor."
@@ -2825,7 +2811,7 @@
 					"Your base walking speed is 25 feet."
 				],
 				"Flight": [
-					"You have a flying speed of 30 feet. You can’t use your flying speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can’t use your flying speed if you are encumbered.)"
+					"You have a flying speed of 30 feet. You can't use your flying speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can't use your flying speed if you are encumbered.)"
 				],
 				"Siren's Song": [
 					"You know the friends cantrip and can cast it without material components."
@@ -3290,9 +3276,9 @@
 		"Vampire (Ixalan)": {
 			"Description": [
 				"The Legion of Dusk is dominated by an aristocratic class made up of vampires. They are faster and stronger than most humans, and gifted with supernatural abilities that made them the most formidable force in their homeland. Now, as they push into the depths of Ixalan in search of the Immortal Sun, they bring this strength to bear against all who would resist their advance.",
-				"For many vampires, the Rite of Redemption that transforms a human into a vampire is an act of personal sacrifice, paving the way for a promised glorious age. These vampires embody Torrezon’s noble tradition in Ixalan. They are often guided by their dual loyalties to church and crown, believing that the monarch acts with righteous purpose. As such, these vampires carry themselves with a self-assurance that is both imposing and imperial. Other societies seem inferior and unclean compared to their own, leading them to feel that they have a right to claim new lands despite the presence of people already inhabiting those lands.",
-				"Other vampires view vampirism merely as a means to attain a powerful advantage over others. These vampires are fierce, ruthless, and often cruel, relishing conflict—be it political or armed—as a means of demonstrating their superiority. Many are politically ambitious, invoking Torrezon’s hierarchy when it serves their interests, but ignoring all the rules of church, state, and morality when those rules become a burden. When these vampires come to Ixalan, they are conquerors, motivated by the prospect of personal glory and the accumulation of riches. Those who achieve wealth and power display it ostentatiously.",
-				"The core of every vampire’s nature is the Feast of Blood. Though it is forbidden to feed on human citizens of Torrezon, including the human sailors and servants who accompany the vampire conquistadors to Ixalan, vampires are encouraged to feed on outsiders and heretics. The Feast of Blood sends new life essence flowing through the vampire who partakes of it, manifesting as even greater strength and speed."
+				"For many vampires, the Rite of Redemption that transforms a human into a vampire is an act of personal sacrifice, paving the way for a promised glorious age. These vampires embody Torrezon's noble tradition in Ixalan. They are often guided by their dual loyalties to church and crown, believing that the monarch acts with righteous purpose. As such, these vampires carry themselves with a self-assurance that is both imposing and imperial. Other societies seem inferior and unclean compared to their own, leading them to feel that they have a right to claim new lands despite the presence of people already inhabiting those lands.",
+				"Other vampires view vampirism merely as a means to attain a powerful advantage over others. These vampires are fierce, ruthless, and often cruel, relishing conflict—be it political or armed—as a means of demonstrating their superiority. Many are politically ambitious, invoking Torrezon's hierarchy when it serves their interests, but ignoring all the rules of church, state, and morality when those rules become a burden. When these vampires come to Ixalan, they are conquerors, motivated by the prospect of personal glory and the accumulation of riches. Those who achieve wealth and power display it ostentatiously.",
+				"The core of every vampire's nature is the Feast of Blood. Though it is forbidden to feed on human citizens of Torrezon, including the human sailors and servants who accompany the vampire conquistadors to Ixalan, vampires are encouraged to feed on outsiders and heretics. The Feast of Blood sends new life essence flowing through the vampire who partakes of it, manifesting as even greater strength and speed."
 			],
 			"Vampire Traits": {
 				"Description": [
@@ -3302,7 +3288,7 @@
 					"Your Charisma score increases by 2, and your Wisdom score increases by 1."
 				],
 				"Age": [
-					"Vampires don’t mature and age in the same way that other races do."
+					"Vampires don't mature and age in the same way that other races do."
 				],
 				"Alignment": [
 					"Vampires might not have an innate tendency toward evil, but many of them end up there. Evil or not, their strict hierarchies incline them toward a lawful alignment."
@@ -3314,7 +3300,7 @@
 					"Your base walking speed is 30 feet."
 				],
 				"Darkvision": [
-					"Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+					"Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
 				],
 				"Vampiric Resistance": [
 					"You have resistance to necrotic damage."
@@ -3323,7 +3309,7 @@
 					"You can speak, read, and write Common (if it exists in your campaign) and Vampire."
 				],
 				"Bloodthirst": [
-					"You can drain blood and life energy from a willing creature, or one that is grappled by you, incapacitated, or restrained. Make a melee attack against the target. If you hit, you deal 1 piercing damage and 1d6 necrotic damage. The target’s hit point maximum is reduced by an amount equal to the necrotic damage taken, and you regain hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
+					"You can drain blood and life energy from a willing creature, or one that is grappled by you, incapacitated, or restrained. Make a melee attack against the target. If you hit, you deal 1 piercing damage and 1d6 necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and you regain hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
 				],
 				"Feast of Blood": [
 					"When you drain blood with your Bloodthirst ability, you experience a surge of vitality. Your speed increases by 10 feet, and you gain advantage on Strength and Dexterity checks and saving throws for 1 minute."
@@ -3350,7 +3336,7 @@
 					"Your Intelligence score increases by 1, and your Charisma score increases by 2."
 				],
 				"Age": [
-					"Vampires don’t mature and age in the same way that other races do. Every living vampire is either a bloodchief, infected by Ulamog’s influence in the distant reaches of history, or was spawned by a bloodchief from a living human. Most vampires are thus very old, but few have any memory of their earliest years"
+					"Vampires don't mature and age in the same way that other races do. Every living vampire is either a bloodchief, infected by Ulamog's influence in the distant reaches of history, or was spawned by a bloodchief from a living human. Most vampires are thus very old, but few have any memory of their earliest years"
 				],
 				"Alignment": [
 					"Vampires have no innate tendency toward evil, but consuming the life energy of other creatures often pushes them to that end. Regardless of their moral bent, the strict hierarchies of their blood-chiefs inclines them toward a lawful alignment."
@@ -3362,13 +3348,13 @@
 					"Your base walking speed is 30 feet."
 				],
 				"Darkvision": [
-					"Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+					"Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
 				],
 				"Vampiric Resistance": [
 					"You have resistance to necrotic damage."
 				],
 				"Bloodthirst": [
-					"You can drain blood and life energy from a willing creature, or one that is grappled by you, incapacitated, or restrained. Make a melee attack against the target. If you hit, you deal 1 piercing damage and 1d6 necrotic damage. The target’s hit point maximum is reduced by an amount equal to the necrotic damage taken, and you regain hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid killed in this way becomes a null (see “A Zendikar Bestiary”)."
+					"You can drain blood and life energy from a willing creature, or one that is grappled by you, incapacitated, or restrained. Make a melee attack against the target. If you hit, you deal 1 piercing damage and 1d6 necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and you regain hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid killed in this way becomes a null (see “A Zendikar Bestiary”)."
 				],
 				"Languages": [
 					"You can speak, read, and write Common and Vampire"

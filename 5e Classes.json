@@ -1656,7 +1656,7 @@
 						]
 					},
 					"Bonus Proficiency": [
-						"When you choose this dom ain at 1st level, you gain proficiency with heavy armor."
+						"When you choose this domain at 1st level, you gain proficiency with heavy armor."
 					],
 					"Disciple of Life": [
 						"Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell’s level."
@@ -2609,7 +2609,7 @@
 						"Starting at 2nd level, you can use your Channel Divinity to channel your zeal into unchecked ferocity.",
 						"When you roll fire or thunder damage, you can use your Channel Divinity to deal maximum damage instead of rolling."
 					],
-					"Rsounding Strike": [
+					"Resounding Strike": [
 						"At 6th level, when you deal thunder damage to a Large or smaller creature, you can also push it up to 10 feet away from you."
 					],
 					"Divine Strike": [
@@ -6243,7 +6243,7 @@
 						"Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know."
 					],
 					"Horizon Walker Spells Table": {
-						"Title": "Gloom Stalker Spells",
+						"Title": "Horizon Walker Spells",
 						"Headers": [
 							"Ranger Level",
 							"Spell"
@@ -6310,7 +6310,7 @@
 						"Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Monster Slayer Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know."
 					],
 					"Monster Slayer Spells Table": {
-						"Title": "Gloom Stalker Spells",
+						"Title": "Monster Slayer Spells",
 						"Headers": [
 							"Ranger Level",
 							"Spell"
@@ -6590,7 +6590,7 @@
 					"At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.", "Once you use this feature, you can’t use it again until you finish a short or long rest"
 				]
 			},
-			"Roguish Archtypes": {
+			"Roguish Archetypes": {
 				"Thief": {
 					"Description": [
 						"You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn’t employ."
@@ -7801,7 +7801,7 @@
 						"In some cultures, only those who can claim the power of a Divine Soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations."
 					],
 					"Divine Magic": [
-						"Your link to the divine allows you to learn spells from the cleric class. When your Spellcasting feature lets you learn or replace a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the cleric spell Lis t or the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.",
+						"Your link to the divine allows you to learn spells from the cleric class. When your Spellcasting feature lets you learn or replace a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the cleric spell List or the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.",
 						"In addition, choose an affinity for the source of your divine power: good, evil, law, chaos, or neutrality. You learn an additional spell based on that affinity, as shown below. It is a sorcerer spell for you, but it doesn't count against your number of sorcerer spells known. If you later replace this spell, you must replace it with a spell from the cleric spell list."
 					],
 					"Divine Magic Table": {
