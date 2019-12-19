@@ -1,0 +1,727 @@
+{
+    "Armor": {
+        "Padded": {
+            "Armor": "Light ",
+            "Cost": "5 gp",
+            "Armor Class": "11 + Dex modifier",
+            "Strength": "-",
+            "Stealth": "Disadvantage",
+            "Weight": "8 lb."
+        },
+        "Leather": {
+            "Armor": "Light ",
+            "Cost": "10 gp",
+            "Armor Class": "11 + Dex modifier",
+            "Strength": "-",
+            "Stealth": "-",
+            "Weight": "10 lb."
+        },
+        "Studded Leather": {
+            "Armor": "Light ",
+            "Cost": "45 gp",
+            "Armor Class": "12 + Dex modifier",
+            "Strength": "-",
+            "Stealth": "-",
+            "Weight": "13 lb."
+        },
+        "Hide": {
+            "Armor": "Medium ",
+            "Cost": "10 gp",
+            "Armor Class": "12 + Dex modifier (max 2)",
+            "Strength": "-",
+            "Stealth": "-",
+            "Weight": "12 lb."
+        },
+        "Chain Shirt": {
+            "Armor": "Medium ",
+            "Cost": "50 gp",
+            "Armor Class": "13 + Dex modifier (max 2)",
+            "Strength": "-",
+            "Stealth": "-",
+            "Weight": "20 lb."
+        },
+        "Scale Mail": {
+            "Armor": "Medium ",
+            "Cost": "50 gp",
+            "Armor Class": "14 + Dex modifier (max 2)",
+            "Strength": "-",
+            "Stealth": "Disadvantage",
+            "Weight": "45 lb."
+        },
+        "Breastplate": {
+            "Armor": "Medium ",
+            "Cost": "400 gp",
+            "Armor Class": "14 + Dex modifier (max 2)",
+            "Strength": "-",
+            "Stealth": "-",
+            "Weight": "20 lb."
+        },
+        "Half Plate": {
+            "Armor": "Medium ",
+            "Cost": "750 gp",
+            "Armor Class": "15 + Dex modifier (max 2)",
+            "Strength": "-",
+            "Stealth": "Disadvantage",
+            "Weight": "40 lb."
+        },
+        "Ring Mail": {
+            "Armor": "Heavy ",
+            "Cost": "30 gp",
+            "Armor Class": "14",
+            "Strength": "-",
+            "Stealth": "Disadvantage",
+            "Weight": "40 lb."
+        },
+        "Chain Mail": {
+            "Armor": "Heavy ",
+            "Cost": "75 gp",
+            "Armor Class": "16",
+            "Strength": "Str 13",
+            "Stealth": "Disadvantage",
+            "Weight": "55 lb."
+        },
+        "Splint": {
+            "Armor": "Heavy ",
+            "Cost": "200 gp",
+            "Armor Class": "17",
+            "Strength": "Str 15",
+            "Stealth": "Disadvantage",
+            "Weight": "60 lb."
+        },
+        "Plate": {
+            "Armor": "Heavy ",
+            "Cost": "1,500 gp",
+            "Armor Class": "18",
+            "Strength": "Str 15",
+            "Stealth": "Disadvantage",
+            "Weight": "65 lb."
+        },
+        "Shield": {
+            "Armor": "Shield",
+            "Cost": "10 gp",
+            "Armor Class": "+2",
+            "Strength": "-",
+            "Stealth": "-",
+            "Weight": "6 lb."
+        }
+    },
+	"Weapons": {
+        "Club": {
+            "Cost": "1 sp",
+            "Damage": "1d4 bludgeoning",
+            "Weight": "2 lb.",
+            "Properties": ["Light"]
+        },
+        "Dagger": {
+            "Cost": "2 gp",
+            "Damage": "1d4 piercing",
+            "Weight": "1 lb.",
+            "Properties": ["Finesse", "Light", "Thrown (range 20/60)"]
+        },
+        "Greatclub": {
+            "Cost": "2 sp",
+            "Damage": "1d8 bludgeoning",
+            "Weight": "10 lb.",
+            "Properties": ["Two-Handed"]
+        },
+        "Handaxe": {
+            "Cost": "5 gp",
+            "Damage": "1d6 slashing",
+            "Weight": "2 lb.",
+            "Properties": ["Light", "Thrown (range 20/60)"]
+        },
+        "Javelin": {
+            "Cost": "5 sp",
+            "Damage": "1d6 piercing",
+            "Weight": "2 lb.",
+            "Properties": ["Thrown (range 30/120)"]
+        },
+        "Light hammer": {
+            "Cost": "2 gp",
+            "Damage": "1d4 bludgeoning",
+            "Weight": "2 lb.",
+            "Properties": ["Light", "Thrown (range 20/60)"]
+        },
+        "Mace": {
+            "Cost": "5 gp",
+            "Damage": "1d6 bludgeoning",
+            "Weight": "4 lb."
+        },
+        "Quarterstaff": {
+            "Cost": "2 sp",
+            "Damage": "1d6 bludgeoning",
+            "Weight": "4 lb.",
+            "Properties": ["Versatile (1d8)"]
+        },
+        "Sickle": {
+            "Cost": "1 gp",
+            "Damage": "1d4 slashing",
+            "Weight": "2 lb.",
+            "Properties": ["Light"]
+        },
+        "Spear": {
+            "Cost": "1 gp",
+            "Damage": "1d6 piercing",
+            "Weight": "3 lb.",
+            "Properties": ["Thrown (range 20/60)", "Versatile (1d8)"]
+        },
+        "Crossbow, light": {
+            "Cost": "25 gp",
+            "Damage": "1d8 piercing",
+            "Weight": "5 lb.",
+            "Properties": ["Ammunition (range 80/320)", "Loading", "Two-Handed"]
+        },
+        "Dart": {
+            "Cost": "5 cp",
+            "Damage": "1d4 piercing",
+            "Weight": "1/4 lb.",
+            "Properties": ["Finesse", "Thrown (range 20/60)"]
+        },
+        "Shortbow": {
+            "Cost": "25 gp",
+            "Damage": "1d6 piercing",
+            "Weight": "2 lb.",
+            "Properties": ["Ammunition (range 80/320)", "Two-Handed"]
+        },
+        "Sling": {
+            "Cost": "1 sp",
+            "Damage": "1d4 bludgeoning",
+            "Weight": "-",
+            "Properties": ["Ammunition (range 30/120)"]
+        },
+        "Battleaxe": {
+            "Cost": "10 gp",
+            "Damage": "1d8 slashing",
+            "Weight": "4 lb.",
+            "Properties": ["Versatile (1d10)"]
+        },
+        "Flail": {
+            "Cost": "10 gp",
+            "Damage": "1d8 bludgeoning",
+            "Weight": "2 lb.",
+            "Properties": []
+        },
+        "Glaive": {
+            "Cost": "20 gp",
+            "Damage": "1d10 slashing",
+            "Weight": "6 lb.",
+            "Properties": ["Heavy", "Reach", "Two-Handed"]
+        },
+        "Greataxe": {
+            "Cost": "30 gp",
+            "Damage": "1d12 slashing",
+            "Weight": "7 lb.",
+            "Properties": ["Heavy", "Two-Handed"]
+        },
+        "Greatsword": {
+            "Cost": "50 gp",
+            "Damage": "2d6 slashing",
+            "Weight": "6 lb.",
+            "Properties": ["Heavy", "Two-Handed"]
+        },
+        "Halberd": {
+            "Cost": "20 gp",
+            "Damage": "1d10 slashing",
+            "Weight": "6 lb.",
+            "Properties": ["Heavy", "Reach", "Two-Handed"]
+        },
+        "Lance": {
+            "Cost": "10 gp",
+            "Damage": "1d12 piercing",
+            "Weight": "6 lb.",
+            "Properties": ["Reach", "Special"]
+        },
+        "Longsword": {
+            "Cost": "15 gp",
+            "Damage": "1d8 slashing",
+            "Weight": "3 lb.",
+            "Properties": ["Versatile (1d10)"]
+        },
+        "Maul": {
+            "Cost": "10 gp",
+            "Damage": "2d6 bludgeoning",
+            "Weight": "10 lb.",
+            "Properties": ["Heavy", "Two-Handed"]
+        },
+        "Morningstar": {
+            "Cost": "15 gp",
+            "Damage": "1d8 piercing",
+            "Weight": "4 lb."
+        },
+        "Pike": {
+            "Cost": "5 gp",
+            "Damage": "1d10 piercing",
+            "Weight": "18 lb.",
+            "Properties": ["Heavy", "Reach", "Two-Handed"]
+        },
+        "Rapier": {
+            "Cost": "25 gp",
+            "Damage": "1d8 piercing",
+            "Weight": "2 lb.",
+            "Properties": ["Finesse"]
+        },
+        "Scimitar": {
+            "Cost": "25 gp",
+            "Damage": "1d6 slashing",
+            "Weight": "3 lb.",
+            "Properties": ["Finesse", "Light"]
+        },
+        "Shortsword": {
+            "Cost": "10 gp",
+            "Damage": "1d6 piercing",
+            "Weight": "2 lb.",
+            "Properties": ["Finesse", "Light"]
+        },
+        "Trident": {
+            "Cost": "5 gp",
+            "Damage": "1d6 piercing",
+            "Weight": "4 lb.",
+            "Properties": ["Thrown (range 20/60)", "Versatile (1d8)"]
+        },
+        "War pick": {
+            "Cost": "5 gp",
+            "Damage": "1d8 piercing",
+            "Weight": "2 lb."
+        },
+        "Warhammer": {
+            "Cost": "15 gp",
+            "Damage": "1d8 bludgeoning",
+            "Weight": "2 lb.",
+            "Properties": ["Versatile (1d10)"]
+        },
+        "Whip": {
+            "Cost": "2 gp",
+            "Damage": "1d4 slashing",
+            "Weight": "3 lb.",
+            "Properties": ["Finesse", "Reach"]
+        },
+        "Blowgun": {
+            "Cost": "10 gp",
+            "Damage": "1 piercing",
+            "Weight": "1 lb.",
+            "Properties": ["Ammunition (range 25/100)", "Loading"]
+        },
+        "Crossbow, hand": {
+            "Cost": "75 gp",
+            "Damage": "1d6 piercing",
+            "Weight": "3 lb.",
+            "Properties": ["Ammunition (range 30/120)", "Light", "Loading"]
+        },
+        "Crossbow, heavy": {
+            "Cost": "50 gp",
+            "Damage": "1d8 piercing",
+            "Weight": "18 lb.",
+            "Properties": ["Ammunition (range 100/400)", "Heavy", "Loading", "Two-Handed"]
+        },
+        "Longbow": {
+            "Cost": "50 gp",
+            "Damage": "1d8 piercing",
+            "Weight": "2 lb.",
+            "Properties": ["Ammunition (range 150/600)", "Heavy", "Two-Handed"]
+        },
+        "Net": {
+            "Cost": "1 gp",
+            "Damage": "-",
+            "Weight": "3 lb.",
+            "Properties": ["Special", "Thrown (range 5/15)"]
+        }
+    },
+    "Adventuring Gear": {
+        "Abacus": {
+            "Cost": "2 gp",
+            "Weight": "2 lb"
+        },
+        "Acid (vial)": {
+            "Cost": "25 gp",
+            "Weight": "1 lb."
+        },
+        "Alchemist's fire (flask)": {
+            "Cost": "50 gp",
+            "Weight": "1 lb."
+        },
+        "Ammunition": {
+            "Cost": "",
+            "Weight": ""
+        },
+        "Arrows (20)": {
+            "Cost": "1 gp",
+            "Weight": "1 lb."
+        },
+        "Blowgun needles (50)": {
+            "Cost": "1 gp",
+            "Weight": "1 lb."
+        },
+        "Crossbow bolts (20)": {
+            "Cost": "1 gp",
+            "Weight": "1½ lb."
+        },
+        "Sling bullets (20)": {
+            "Cost": "4 cp",
+            "Weight": "1½ lb."
+        },
+        "Antitoxin (vial)": {
+            "Cost": "50 gp",
+            "Weight": "-"
+        },
+        "Crystal": {
+            "Cost": "10 gp",
+            "Weight": "1 lb."
+        },
+        "Orb": {
+            "Cost": "20 gp",
+            "Weight": "3 lb."
+        },
+        "Rod": {
+            "Cost": "10 gp",
+            "Weight": "2 lb."
+        },
+        "Staff": {
+            "Cost": "5 gp",
+            "Weight": "4 lb."
+        },
+        "Wand": {
+            "Cost": "10 gp",
+            "Weight": "1 lb."
+        },
+        "Backpack": {
+            "Cost": "2 gp",
+            "Weight": "5 lb."
+        },
+        "Ball bearings (bag of 1,000)": {
+            "Cost": "1 gp",
+            "Weight": "2 lb."
+        },
+        "Barrel": {
+            "Cost": "2 gp",
+            "Weight": "70 lb."
+        },
+        "Basket": {
+            "Cost": "4 sp",
+            "Weight": "2 lb."
+        },
+        "Bedroll": {
+            "Cost": "1 gp",
+            "Weight": "7 lb."
+        },
+        "Bell": {
+            "Cost": "1 gp",
+            "Weight": "-"
+        },
+        "Blanket": {
+            "Cost": "5 sp",
+            "Weight": "3 lb."
+        },
+        "Block and tackle": {
+            "Cost": "1 gp",
+            "Weight": "5 lb."
+        },
+        "Book": {
+            "Cost": "25 gp",
+            "Weight": "5 lb."
+        },
+        "Bottle, glass": {
+            "Cost": "2 gp",
+            "Weight": "2 lb."
+        },
+        "Bucket": {
+            "Cost": "5 cp",
+            "Weight": "2 lb."
+        },
+        "Caltrops (bag of 20)": {
+            "Cost": "1 gp",
+            "Weight": "2 lb."
+        },
+        "Candle": {
+            "Cost": "1 cp",
+            "Weight": "-"
+        },
+        "Case, crossbow bolt": {
+            "Cost": "1 gp",
+            "Weight": "1 lb."
+        },
+        "Case, map or scroll": {
+            "Cost": "1 gp",
+            "Weight": "1 lb."
+        },
+        "Chain (10 feet)": {
+            "Cost": "5 gp",
+            "Weight": "10 lb."
+        },
+        "Chalk (1 piece)": {
+            "Cost": "1 cp",
+            "Weight": "-"
+        },
+        "Chest": {
+            "Cost": "5 gp",
+            "Weight": "25 lb."
+        },
+        "Climber's kit": {
+            "Cost": "25 gp",
+            "Weight": "12 lb."
+        },
+        "Clothes, common": {
+            "Cost": "5 sp",
+            "Weight": "3 lb."
+        },
+        "Clothes, costume": {
+            "Cost": "5 gp",
+            "Weight": "4 lb."
+        },
+        "Clothes, fine": {
+            "Cost": "15 gp",
+            "Weight": "6 lb."
+        },
+        "Clothes, traveler's": {
+            "Cost": "2 gp",
+            "Weight": "4 lb."
+        },
+        "Component pouch": {
+            "Cost": "25 gp",
+            "Weight": "2 lb."
+        },
+        "Crowbar": {
+            "Cost": "2 gp",
+            "Weight": "5 lb."
+        },
+        "Sprig of mistletoe": {
+            "Cost": "1 gp",
+            "Weight": "-"
+        },
+        "Totem": {
+            "Cost": "1 gp",
+            "Weight": "-"
+        },
+        "Wooden staff": {
+            "Cost": "5 gp",
+            "Weight": "4 lb."
+        },
+        "Yew wand": {
+            "Cost": "10 gp",
+            "Weight": "1 lb."
+        },
+        "Fishing tackle": {
+            "Cost": "1 gp",
+            "Weight": "4 lb."
+        },
+        "Flask or tankard": {
+            "Cost": "2 cp",
+            "Weight": "1 lb."
+        },
+        "Grappling hook": {
+            "Cost": "2 gp",
+            "Weight": "4 lb."
+        },
+        "Hammer": {
+            "Cost": "1 gp",
+            "Weight": "3 lb."
+        },
+        "Hammer, sledge": {
+            "Cost": "2 gp",
+            "Weight": "10 lb."
+        },
+        "Healer's kit": {
+            "Cost": "5 gp",
+            "Weight": "3 lb."
+        },
+        "Amulet": {
+            "Cost": "5 gp",
+            "Weight": "1 lb."
+        },
+        "Emblem": {
+            "Cost": "5 gp",
+            "Weight": "-"
+        },
+        "Holy water (flask)": {
+            "Cost": "25 gp",
+            "Weight": "1 lb."
+        },
+        "Hourglass": {
+            "Cost": "25 gp",
+            "Weight": "1 lb."
+        },
+        "Hunting trap": {
+            "Cost": "5 gp",
+            "Weight": "25 lb."
+        },
+        "Ink (1 ounce bottle)": {
+            "Cost": "10 gp",
+            "Weight": "-"
+        },
+        "Ink pen": {
+            "Cost": "2 cp",
+            "Weight": "-"
+        },
+        "Jug or pitcher": {
+            "Cost": "2 cp",
+            "Weight": "4 lb."
+        },
+        "Ladder (10-foot)": {
+            "Cost": "1 sp",
+            "Weight": "25 lb."
+        },
+        "Lamp": {
+            "Cost": "5 sp",
+            "Weight": "1 lb."
+        },
+        "Lantern, bullseye": {
+            "Cost": "10 gp",
+            "Weight": "2 lb."
+        },
+        "Lantern, hooded": {
+            "Cost": "5 gp",
+            "Weight": "2 lb."
+        },
+        "Lock": {
+            "Cost": "10 gp",
+            "Weight": "1 lb."
+        },
+        "Magnifying glass": {
+            "Cost": "100 gp",
+            "Weight": "-"
+        },
+        "Manacles": {
+            "Cost": "2 gp",
+            "Weight": "6 lb."
+        },
+        "Mess kit": {
+            "Cost": "2 sp",
+            "Weight": "1 lb."
+        },
+        "Mirror, steel": {
+            "Cost": "5 gp",
+            "Weight": "1/2 lb."
+        },
+        "Oil (flask)": {
+            "Cost": "1 sp",
+            "Weight": "1 lb."
+        },
+        "Paper (one sheet)": {
+            "Cost": "2 sp",
+            "Weight": "-"
+        },
+        "Parchment (one sheet)": {
+            "Cost": "1 sp",
+            "Weight": "-"
+        },
+        "Perfume (vial)": {
+            "Cost": "5 gp",
+            "Weight": "-"
+        },
+        "Pick, miner's": {
+            "Cost": "2 gp",
+            "Weight": "10 lb."
+        },
+        "Piton": {
+            "Cost": "5 cp",
+            "Weight": "1/4 lb."
+        },
+        "Poison, basic (vial)": {
+            "Cost": "100 gp",
+            "Weight": "-"
+        },
+        "Pole (10-foot)": {
+            "Cost": "5 cp",
+            "Weight": "7 lb."
+        },
+        "Pot, iron": {
+            "Cost": "2 gp",
+            "Weight": "10 lb."
+        },
+        "Potion of healing": {
+            "Cost": "50 gp",
+            "Weight": "1/2 lb."
+        },
+        "Pouch": {
+            "Cost": "5 sp",
+            "Weight": "1 lb."
+        },
+        "Quiver": {
+            "Cost": "1 gp",
+            "Weight": "1 lb."
+        },
+        "Ram, portable": {
+            "Cost": "4 gp",
+            "Weight": "35 lb."
+        },
+        "Rations (1 day)": {
+            "Cost": "5 sp",
+            "Weight": "2 lb."
+        },
+        "Robes": {
+            "Cost": "1 gp",
+            "Weight": "4 lb."
+        },
+        "Rope, hempen (50 feet)": {
+            "Cost": "1 gp",
+            "Weight": "10 lb."
+        },
+        "Rope, silk (50 feet)": {
+            "Cost": "10 gp",
+            "Weight": "5 lb."
+        },
+        "Sack": {
+            "Cost": "1 cp",
+            "Weight": "1/2 lb."
+        },
+        "Scale, merchant's": {
+            "Cost": "5 gp",
+            "Weight": "3 lb."
+        },
+        "Sealing wax": {
+            "Cost": "5 sp",
+            "Weight": "-"
+        },
+        "Shovel": {
+            "Cost": "2 gp",
+            "Weight": "5 lb."
+        },
+        "Signal whistle": {
+            "Cost": "5 cp",
+            "Weight": "-"
+        },
+        "Signet ring": {
+            "Cost": "5 gp",
+            "Weight": "-"
+        },
+        "Soap": {
+            "Cost": "2 cp",
+            "Weight": "-"
+        },
+        "Spellbook": {
+            "Cost": "50 gp",
+            "Weight": "3 lb."
+        },
+        "Spikes, iron (10)": {
+            "Cost": "1 gp",
+            "Weight": "5 lb."
+        },
+        "Spyglass": {
+            "Cost": "1,000 gp",
+            "Weight": "1 lb."
+        },
+        "Tent, two-person": {
+            "Cost": "2 gp",
+            "Weight": "20 lb."
+        },
+        "Tinderbox": {
+            "Cost": "5 sp",
+            "Weight": "1 lb."
+        },
+        "Torch": {
+            "Cost": "1 cp",
+            "Weight": "1 lb."
+        },
+        "Vial": {
+            "Cost": "1 gp",
+            "Weight": "-"
+        },
+        "Waterskin": {
+            "Cost": "2 sp",
+            "Weight": "5 lb. (full)"
+        },
+        "Whetstone": {
+            "Cost": "1 cp",
+            "Weight": "1 lb."
+        }
+    }
+}

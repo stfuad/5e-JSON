@@ -1,5 +1,5 @@
 {
-	"Bestiary 1": {
+	"Monster Manual": {
 		"Aarakocra": {
 			"Size": "Medium",
 			"Type": "humanoid",
@@ -48210,7 +48210,7 @@
 			"Page": 350
 		}
 	},
-	"Bestiary 2": {
+	"Dungeon Master's Guide": {
 		"Giant Fly": {
 			"Size": "Large",
 			"Type": "beast",
@@ -48287,7 +48287,7 @@
 			"Page": 169
 		}
 	},
-	"Bestiary 3": {
+	"Volo's Guide to Monsters": {
 		"Banderhobb": {
 			"Size": "Large",
 			"Type": "monstrosity",
@@ -62916,7 +62916,7 @@
 			"Page": 220
 		}
 	},
-	"Bestiary 4": {
+	"Mordenkainen's Tome of Foes": {
 		"Allip": {
 			"Size": "Medium",
 			"Type": "undead",
@@ -80894,7 +80894,7 @@
 			"Page": 252
 		}
 	},
-	"Bestiary 5": {
+	"Hoard of the Dragon Queen": {
 		"Ambush Drake": {
 			"Size": "Medium",
 			"Type": "dragon",
@@ -82551,7 +82551,7 @@
 			"Page": 93
 		}
 	},
-	"Bestiary 6": {
+	"The Rise of Tiamat": {
 		"Dragonfang": {
 			"Size": "Medium",
 			"Type": "humanoid",
@@ -83570,7 +83570,7 @@
 			"Page": 92
 		}
 	},
-	"Bestiary 7": {
+	"Guildmaster's Guide to Ravnica": {
 		"Battleforce Angel": {
 			"Size": "Medium",
 			"Type": "celestial",
@@ -93208,7 +93208,7 @@
 			"Page": 256
 		}
 	},
-	"Bestiary 8": {
+	"Plane Shift Dominaria": {
 		"Homarid": {
 			"Size": "Medium",
 			"Type": "monstrosity",
@@ -93826,7 +93826,7 @@
 			"Page": 37
 		}
 	},
-	"Bestiary 9": {
+	"Plane Shift Ixalan": {
 		"Frilled Death Spitter": {
 			"Size": "Small",
 			"Type": "beast",

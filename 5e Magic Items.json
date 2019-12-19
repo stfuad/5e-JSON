@@ -1,5 +1,5 @@
 ﻿{
-	"Magic Items": {
+	"Dungeon Master's Guide": {
 		"Adamantine Armor": {
 			"Type": "Armor (medium or heavy, but not hide)",
 			"Rarity": "uncommon",
@@ -5202,72 +5202,9 @@
 			],
 			"Book": "Dungeon Master's Guide",
 			"Page": 218
-		},
-		"Black Dragon Mask": {
-			"Type": "Wondrous item",
-			"Rarity": "legendary",
-			"Attunement": true,
-			"Description": [
-				"This horned mask of glossy ebony has horns and a skull like mien. The mask reshapes to fit a wearer attuned to it. While you are wearing the mask and attuned to it, you can access the following properties.",
-				"Damage Absorption# You have damage resistance to acid. If you already have damage resistance to acid from another source, you gain immunity to acid damage. If you already have immunity to acid damage from another source, you regain hit points equal to half of any acid damage you are dealt.",
-				"Draconic Majesty# While you are wearing no armor, you can add your Charisma bonus to your Armor Class.",
-				"Dragon Breath# If you have a breath weapon that requires rest to recharge, it gains a recharge of 6.",
-				"Dragon Sight# You gain darkvision with a radius of 60 feet, or an additional 60 feet of darkvision if you already have that sense. Once per day, you can gain blindsight out to a range of 30 feet for 5 minutes.",
-				"Dragon Tongue# You can speak and understand Draconic. You also have advantage on any Charisma check you make against black dragons.",
-				"Legendary Resistance (1/Day)# If you fail a saving throw, you can choose to succeed instead.",
-				"Water Breathing# You can breathe underwater."
-			],
-			"Book": "Hoard of the Dragon Queen",
-			"Page": 94
-		},
-		"Hazirawn": {
-			"Type": "Weapon (greatsword)",
-			"Rarity": "legendary",
-			"Attunement": true,
-			"Description": [
-				"A sentient (neutral evil) greatsword, Hazirawn is capable of speech in Common and Netherese. Even if you aren’t attuned to the sword, you gain a +1 bonus on attack rolls and damage rolls made with this weapon. If you are attuned to Hazirawn, you deal an extra 1d6 necrotic damage when you hit with the weapon.",
-				"Increased Potency# While you are attuned to this weapon, its bonus on attack rolls and damage rolls increases to +2, and a hit deals an extra 2d6 necrotic damage (instead of 1d6).",
-				"Spells# Hazirawn has 4 charges to cast spells. As long as the sword is attuned to you and you are holding it in your hand, you can cast detect magic (1 charge), detect evil and good (1 charge), or detect thoughts (2 charges). Each night at midnight, Hazirawn regains 1d4 expended charges.",
-				"Wounding# While you are attuned to the weapon, any creature that you hit with Hazirawn can’t regain hit points for 1 minute. The target can make a DC 15 Constitution saving throw at the end of each of its turns, ending this effect early on a success."
-			],
-			"Book": "Hoard of the Dragon Queen",
-			"Page": 94
-		},
-		"Insignia of Claws": {
-			"Type": "Wondrous item",
-			"Rarity": "uncommon",
-			"Attunement": false,
-			"Description": [
-				"The jewels in this insignia of the Cult of the Dragon flare with purple light when you enter combat, empowering your natural fists or natural weapons.",
-				"While wearing the insignia, you gain a +1 bonus to the attack rolls and the damage rolls you make with unarmed strikes and natural weapons. Such attacks are considered to be magical."
-			],
-			"Book": "Hoard of the Dragon Queen",
-			"Page": 94
-		},
-		"Wand of Winter": {
-			"Type": "Wand",
-			"Rarity": "rare",
-			"Attunement": false,
-			"Description": [
-				"This wand looks and feels like an icicle. You must be attuned to the wand to use it.",
-				"The wand has 7 charges, which are used to fuel the spells within it. With the wand in hand, you can use your action to cast one of the following spells from the wand, even if you are incapable of casting spells: ray of frost (no charges, or 1 charge to cast at 5th level; +5 to hit with ranged spell attack), sleet storm (3 charges; spell save DC 15), or ice storm (4 charges; spell save DC 15). No components are required.",
-				"The wand regains 1d6 + 1 expended charges each day at dawn. If you expend the wand’s last charge, roll a d20. On a 20, the wand melts away, forever destroyed."
-			],
-			"Book": "Hoard of the Dragon Queen",
-			"Page": 94
-		},
-		"Dragontooth Dagger": {
-			"Type": "Weapon (dagger)",
-			"Rarity": "rare",
-			"Attunement": false,
-			"Description": [
-				"A dagger fashioned from the tooth of a dragon. While the blade is obviously a fang or predator’s tooth, the handle is leather wrapped around the root of the tooth, and there is no cross-guard.",
-				"You gain a +1 bonus to attack rolls and damage rolls you make with this weapon. On a hit with this weapon, the target takes an extra 1d6 acid damage.",
-				"Draconic Potency# Against enemies of the Cult of the Dragon, the dagger’s bonus to attack rolls and damage rolls increases to +2, and the extra acid damage increases to 2d6."
-			],
-			"Book": "The Rise of Tiamat",
-			"Page": 93
-		},
+		}
+	},
+	"Xanathar's Guide to Everything": {
 		"Armor of Gleaming": {
 			"Type": "Armor (any medium or heavy)",
 			"Rarity": "common",
@@ -5767,7 +5704,78 @@
 			],
 			"Book": "Xanathar's Guide to Everything",
 			"Page": 140
+		}
+	},
+	"Hoard of the Dragon Queen": {
+		"Black Dragon Mask": {
+			"Type": "Wondrous item",
+			"Rarity": "legendary",
+			"Attunement": true,
+			"Description": [
+				"This horned mask of glossy ebony has horns and a skull like mien. The mask reshapes to fit a wearer attuned to it. While you are wearing the mask and attuned to it, you can access the following properties.",
+				"Damage Absorption# You have damage resistance to acid. If you already have damage resistance to acid from another source, you gain immunity to acid damage. If you already have immunity to acid damage from another source, you regain hit points equal to half of any acid damage you are dealt.",
+				"Draconic Majesty# While you are wearing no armor, you can add your Charisma bonus to your Armor Class.",
+				"Dragon Breath# If you have a breath weapon that requires rest to recharge, it gains a recharge of 6.",
+				"Dragon Sight# You gain darkvision with a radius of 60 feet, or an additional 60 feet of darkvision if you already have that sense. Once per day, you can gain blindsight out to a range of 30 feet for 5 minutes.",
+				"Dragon Tongue# You can speak and understand Draconic. You also have advantage on any Charisma check you make against black dragons.",
+				"Legendary Resistance (1/Day)# If you fail a saving throw, you can choose to succeed instead.",
+				"Water Breathing# You can breathe underwater."
+			],
+			"Book": "Hoard of the Dragon Queen",
+			"Page": 94
 		},
+		"Hazirawn": {
+			"Type": "Weapon (greatsword)",
+			"Rarity": "legendary",
+			"Attunement": true,
+			"Description": [
+				"A sentient (neutral evil) greatsword, Hazirawn is capable of speech in Common and Netherese. Even if you aren’t attuned to the sword, you gain a +1 bonus on attack rolls and damage rolls made with this weapon. If you are attuned to Hazirawn, you deal an extra 1d6 necrotic damage when you hit with the weapon.",
+				"Increased Potency# While you are attuned to this weapon, its bonus on attack rolls and damage rolls increases to +2, and a hit deals an extra 2d6 necrotic damage (instead of 1d6).",
+				"Spells# Hazirawn has 4 charges to cast spells. As long as the sword is attuned to you and you are holding it in your hand, you can cast detect magic (1 charge), detect evil and good (1 charge), or detect thoughts (2 charges). Each night at midnight, Hazirawn regains 1d4 expended charges.",
+				"Wounding# While you are attuned to the weapon, any creature that you hit with Hazirawn can’t regain hit points for 1 minute. The target can make a DC 15 Constitution saving throw at the end of each of its turns, ending this effect early on a success."
+			],
+			"Book": "Hoard of the Dragon Queen",
+			"Page": 94
+		},
+		"Insignia of Claws": {
+			"Type": "Wondrous item",
+			"Rarity": "uncommon",
+			"Attunement": false,
+			"Description": [
+				"The jewels in this insignia of the Cult of the Dragon flare with purple light when you enter combat, empowering your natural fists or natural weapons.",
+				"While wearing the insignia, you gain a +1 bonus to the attack rolls and the damage rolls you make with unarmed strikes and natural weapons. Such attacks are considered to be magical."
+			],
+			"Book": "Hoard of the Dragon Queen",
+			"Page": 94
+		},
+		"Wand of Winter": {
+			"Type": "Wand",
+			"Rarity": "rare",
+			"Attunement": false,
+			"Description": [
+				"This wand looks and feels like an icicle. You must be attuned to the wand to use it.",
+				"The wand has 7 charges, which are used to fuel the spells within it. With the wand in hand, you can use your action to cast one of the following spells from the wand, even if you are incapable of casting spells: ray of frost (no charges, or 1 charge to cast at 5th level; +5 to hit with ranged spell attack), sleet storm (3 charges; spell save DC 15), or ice storm (4 charges; spell save DC 15). No components are required.",
+				"The wand regains 1d6 + 1 expended charges each day at dawn. If you expend the wand’s last charge, roll a d20. On a 20, the wand melts away, forever destroyed."
+			],
+			"Book": "Hoard of the Dragon Queen",
+			"Page": 94
+		}
+	},
+	"The Rise of Tiamat": {
+		"Dragontooth Dagger": {
+			"Type": "Weapon (dagger)",
+			"Rarity": "rare",
+			"Attunement": false,
+			"Description": [
+				"A dagger fashioned from the tooth of a dragon. While the blade is obviously a fang or predator’s tooth, the handle is leather wrapped around the root of the tooth, and there is no cross-guard.",
+				"You gain a +1 bonus to attack rolls and damage rolls you make with this weapon. On a hit with this weapon, the target takes an extra 1d6 acid damage.",
+				"Draconic Potency# Against enemies of the Cult of the Dragon, the dagger’s bonus to attack rolls and damage rolls increases to +2, and the extra acid damage increases to 2d6."
+			],
+			"Book": "The Rise of Tiamat",
+			"Page": 93
+		}
+	},
+	"Guildmaster's Guide to Ravnica": {
 		"Guild Keyrune": {
 			"Type": "Wondrous item",
 			"Rarity": "rarity by keyrune",

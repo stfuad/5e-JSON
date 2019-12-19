@@ -1,5 +1,5 @@
 {
-	"Spells": {
+	"Players Handbook": {
 		"Acid Splash":{
 			"School":"Conjuration",
 			"Cantrip":true,
@@ -10442,7 +10442,9 @@
 				"Warlock": false,
 				"Wizard": false
 			}
-		},
+		}
+	},
+	"Xanathar's Guide to Everything": {
 		"Abi-Dalzim's Horrid Wailing": {
 			"School": "necromancy",
 			"Cantrip": false,
@@ -13203,7 +13205,9 @@
 				"Warlock": false,
 				"Wizard": false
 			}
-		},
+		}
+	},
+	"Sword Coast Adventurer's Guide": {
 		"Booming Blade": {
 			"School": "Evocation",
 			"Cantrip": true,
@@ -13343,5 +13347,5 @@
 				"Wizard": false
 			}
 		}
-	}
+	}	
 }
