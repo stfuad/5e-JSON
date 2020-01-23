@@ -3,7 +3,7 @@
 		"Aarakocra": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "aarakocra",
+			"Subtype": "aarakocra",
 			"Alignment": "neutral good",
 			"Armor Class": 12,
 			"Hit Dice": "3d8",
@@ -2142,7 +2142,7 @@
 		"Bugbear": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "goblinoid",
+			"Subtype": "goblinoid",
 			"Alignment": "chaotic evil",
 			"Armor Class": 16,
 			"Armor Type": "hide armor, shield",
@@ -2246,7 +2246,7 @@
 		"Bugbear Chief": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "goblinoid",
+			"Subtype": "goblinoid",
 			"Alignment": "chaotic evil",
 			"Armor Class": 17,
 			"Armor Type": "chain shirt, shield",
@@ -2454,7 +2454,7 @@
 		"Bullywug": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "bullywug",
+			"Subtype": "bullywug",
 			"Alignment": "neutral evil",
 			"Armor Class": 15,
 			"Armor Type": "hide armor, shield",
@@ -4041,7 +4041,7 @@
 		"Balor": {
 			"Size": "Huge",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -4169,7 +4169,7 @@
 		"Barlgura": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -4293,7 +4293,7 @@
 		"Chasme": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -4399,7 +4399,7 @@
 		"Dretch": {
 			"Size": "Small",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 11,
 			"Armor Type": "natural armor",
@@ -4503,7 +4503,7 @@
 		"Glabrezu": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 17,
 			"Armor Type": "natural armor",
@@ -4625,7 +4625,7 @@
 		"Goristro": {
 			"Size": "Huge",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -4751,7 +4751,7 @@
 		"Hezrou": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 16,
 			"Armor Type": "natural armor",
@@ -4863,7 +4863,7 @@
 		"Manes": {
 			"Size": "Small",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 9,
 			"Hit Dice": "2d6",
@@ -4952,7 +4952,7 @@
 		"Marilith": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -5081,7 +5081,7 @@
 		"Nalfeshnee": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -5199,7 +5199,7 @@
 		"Quasit": {
 			"Size": "Tiny",
 			"Type": "fiend",
-			"SubType": "demon, shapechanger",
+			"Subtype": "demon, shapechanger",
 			"Alignment": "chaotic evil",
 			"Armor Class": 13,
 			"Hit Dice": "3d4",
@@ -5310,7 +5310,7 @@
 		"Shadow Demon": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 13,
 			"Hit Dice": "12d8",
@@ -5425,7 +5425,7 @@
 		"Vrock": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -5542,7 +5542,7 @@
 		"Yochlol": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "demon, shapechanger",
+			"Subtype": "demon, shapechanger",
 			"Alignment": "chaotic evil",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -5684,7 +5684,7 @@
 		"Barbed Devil": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -5805,7 +5805,7 @@
 		"Bearded Devil": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 13,
 			"Armor Type": "natural armor",
@@ -5921,7 +5921,7 @@
 		"Bone Devil": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -6032,7 +6032,7 @@
 		"Bone Devil Polearm": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -6143,7 +6143,7 @@
 		"Chain Devil": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 16,
 			"Armor Type": "natural armor",
@@ -6267,7 +6267,7 @@
 		"Erinyes": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 18,
 			"Armor Type": "plate",
@@ -6385,7 +6385,7 @@
 		"Horned Devil": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -6501,7 +6501,7 @@
 		"Ice Devil": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -6624,7 +6624,7 @@
 		"Ice Devil Spear": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -6742,7 +6742,7 @@
 		"Imp": {
 			"Size": "Tiny",
 			"Type": "fiend",
-			"SubType": "devil, shapechanger",
+			"Subtype": "devil, shapechanger",
 			"Alignment": "lawful evil",
 			"Armor Class": 13,
 			"Hit Dice": "3d4",
@@ -6852,7 +6852,7 @@
 		"Lemure": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 7,
 			"Hit Dice": "3d8",
@@ -6952,7 +6952,7 @@
 		"Pit Fiend": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -7091,7 +7091,7 @@
 		"Spined Devil": {
 			"Size": "Small",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 13,
 			"Armor Type": "natural armor",
@@ -7893,7 +7893,7 @@
 		"Doppelganger": {
 			"Size": "Medium",
 			"Type": "monstrosity",
-			"SubType": "shapechanger",
+			"Subtype": "shapechanger",
 			"Alignment": "neutral",
 			"Armor Class": 14,
 			"Hit Dice": "8d8",
@@ -13409,7 +13409,7 @@
 		"Duergar": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "dwarf",
+			"Subtype": "dwarf",
 			"Alignment": "lawful evil",
 			"Armor Class": 16,
 			"Armor Type": "scale mail, shield",
@@ -13980,7 +13980,7 @@
 		"Drow": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "neutral evil",
 			"Armor Class": 13,
 			"Armor Type": "chain shirt",
@@ -14096,7 +14096,7 @@
 		"Drow Elite Warrior": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "neutral evil",
 			"Armor Class": 18,
 			"Armor Type": "studded leather, shield",
@@ -14225,7 +14225,7 @@
 		"Drow Mage": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "neutral evil",
 			"Armor Class": 12,
 			"Hit Dice": "10d8",
@@ -14374,7 +14374,7 @@
 		"Drow Priestess of Lolth": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "neutral evil",
 			"Armor Class": 16,
 			"Armor Type": "scale mail",
@@ -14531,7 +14531,7 @@
 		"Empyrean": {
 			"Size": "Huge",
 			"Type": "celestial",
-			"SubType": "titan",
+			"Subtype": "titan",
 			"Alignment": "chaotic good (75%) or neutral evil (25%)",
 			"Armor Class": 22,
 			"Armor Type": "natural armor",
@@ -17456,7 +17456,7 @@
 		"Githyanki Warrior": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "gith",
+			"Subtype": "gith",
 			"Alignment": "lawful evil",
 			"Armor Class": 17,
 			"Armor Type": "half plate",
@@ -17562,7 +17562,7 @@
 		"Githyanki Knight": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "gith",
+			"Subtype": "gith",
 			"Alignment": "lawful evil",
 			"Armor Class": 18,
 			"Armor Type": "plate",
@@ -17673,7 +17673,7 @@
 		"Githzerai Monk": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "gith",
+			"Subtype": "gith",
 			"Alignment": "lawful neutral",
 			"Armor Class": 14,
 			"Hit Dice": "7d8",
@@ -17772,7 +17772,7 @@
 		"Githzerai Zerth": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "gith",
+			"Subtype": "gith",
 			"Alignment": "lawful neutral",
 			"Armor Class": 17,
 			"Hit Dice": "13d8",
@@ -17887,7 +17887,7 @@
 		"Gnoll": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "gnoll",
+			"Subtype": "gnoll",
 			"Alignment": "chaotic evil",
 			"Armor Class": 15,
 			"Armor Type": "hide armor, shield",
@@ -17990,7 +17990,7 @@
 		"Gnoll Pack Lord": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "gnoll",
+			"Subtype": "gnoll",
 			"Alignment": "chaotic evil",
 			"Armor Class": 15,
 			"Armor Type": "chain shirt",
@@ -18103,7 +18103,7 @@
 		"Gnoll Fang of Yeenoghu": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "gnoll",
+			"Subtype": "gnoll",
 			"Alignment": "chaotic evil",
 			"Armor Class": 14,
 			"Armor Type": "hide armor",
@@ -18207,7 +18207,7 @@
 		"Deep Gnome (Svirfneblin)": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "gnome",
+			"Subtype": "gnome",
 			"Alignment": "neutral good",
 			"Armor Class": 15,
 			"Armor Type": "chain shirt",
@@ -18325,7 +18325,7 @@
 		"Goblin": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "goblinoid",
+			"Subtype": "goblinoid",
 			"Alignment": "neutral evil",
 			"Armor Class": 15,
 			"Armor Type": "leather armor, shield",
@@ -18424,7 +18424,7 @@
 		"Goblin Boss": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "goblinoid",
+			"Subtype": "goblinoid",
 			"Alignment": "neutral evil",
 			"Armor Class": 17,
 			"Armor Type": "chain shirt, shield",
@@ -19566,7 +19566,7 @@
 		"Grimlock": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "grimlock",
+			"Subtype": "grimlock",
 			"Alignment": "neutral evil",
 			"Armor Class": 11,
 			"Hit Dice": "2d8",
@@ -20440,7 +20440,7 @@
 		"Hobgoblin": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "goblinoid",
+			"Subtype": "goblinoid",
 			"Alignment": "lawful evil",
 			"Armor Class": 18,
 			"Armor Type": "chain mail, shield",
@@ -20539,7 +20539,7 @@
 		"Hobgoblin Captain": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "goblinoid",
+			"Subtype": "goblinoid",
 			"Alignment": "lawful evil",
 			"Armor Class": 17,
 			"Armor Type": "half plate",
@@ -20648,7 +20648,7 @@
 		"Hobgoblin Warlord": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "goblinoid",
+			"Subtype": "goblinoid",
 			"Alignment": "lawful evil",
 			"Armor Class": 20,
 			"Armor Type": "plate, shield",
@@ -21294,7 +21294,7 @@
 		"Jackalwere": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "shapechanger",
+			"Subtype": "shapechanger",
 			"Alignment": "chaotic evil",
 			"Armor Class": 12,
 			"Hit Dice": "4d8",
@@ -21406,7 +21406,7 @@
 		"Kenku": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "kenku",
+			"Subtype": "kenku",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 13,
 			"Hit Dice": "3d8",
@@ -21508,7 +21508,7 @@
 		"Winged Kobold": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "kobold",
+			"Subtype": "kobold",
 			"Alignment": "lawful evil",
 			"Armor Class": 13,
 			"Hit Dice": "3d6",
@@ -21611,7 +21611,7 @@
 		"Kobold": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "kobold",
+			"Subtype": "kobold",
 			"Alignment": "lawful evil",
 			"Armor Class": 12,
 			"Hit Dice": "2d6",
@@ -21714,7 +21714,7 @@
 		"Kraken": {
 			"Size": "Gargantuan",
 			"Type": "monstrosity",
-			"SubType": "titan",
+			"Subtype": "titan",
 			"Alignment": "chaotic evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -21861,7 +21861,7 @@
 		"Kuo-Toa": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "kuo-toa",
+			"Subtype": "kuo-toa",
 			"Alignment": "neutral evil",
 			"Armor Class": 13,
 			"Armor Type": "natural armor, shield",
@@ -21986,7 +21986,7 @@
 		"Kuo-Toa Archpriest": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "kuo-toa",
+			"Subtype": "kuo-toa",
 			"Alignment": "neutral evil",
 			"Armor Class": 13,
 			"Armor Type": "natural armor",
@@ -22135,7 +22135,7 @@
 		"Kuo-Toa Whip": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "kuo-toa",
+			"Subtype": "kuo-toa",
 			"Alignment": "neutral evil",
 			"Armor Class": 11,
 			"Armor Type": "natural armor",
@@ -22555,7 +22555,7 @@
 		"Lizardfolk": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "lizardfolk",
+			"Subtype": "lizardfolk",
 			"Alignment": "neutral",
 			"Armor Class": 15,
 			"Armor Type": "natural armor, shield",
@@ -22668,7 +22668,7 @@
 		"Lizardfolk Shaman": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "lizardfolk",
+			"Subtype": "lizardfolk",
 			"Alignment": "neutral",
 			"Armor Class": 13,
 			"Armor Type": "natural armor",
@@ -22798,7 +22798,7 @@
 		"Lizard King/Queen": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "lizardfolk",
+			"Subtype": "lizardfolk",
 			"Alignment": "chaotic evil",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -22912,7 +22912,7 @@
 		"Werebear (Humanoid Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human, shapechanger",
+			"Subtype": "human, shapechanger",
 			"Alignment": "neutral good",
 			"Armor Class": 10,
 			"Hit Dice": "18d8",
@@ -23014,7 +23014,7 @@
 		"Werebear (Hybrid Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human, shapechanger",
+			"Subtype": "human, shapechanger",
 			"Alignment": "neutral good",
 			"Armor Class": "11",
 			"Armor Type": "natural armor",
@@ -23127,7 +23127,7 @@
 		"Werebear (Bear Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human, shapechanger",
+			"Subtype": "human, shapechanger",
 			"Alignment": "neutral good",
 			"Armor Class": 11,
 			"Armor Type": "natural armor",
@@ -23235,7 +23235,7 @@
 		"Wereboar (Humanoid Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human, shapechanger",
+			"Subtype": "human, shapechanger",
 			"Alignment": "neutral evil",
 			"Armor Class": 10,
 			"Hit Dice": "12d8",
@@ -23337,7 +23337,7 @@
 		"Wereboar (Hybrid Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human, shapechanger",
+			"Subtype": "human, shapechanger",
 			"Alignment": "neutral evil",
 			"Armor Class": 11,
 			"Armor Type": "natural armor",
@@ -23450,7 +23450,7 @@
 		"Wereboar (Boar Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human, shapechanger",
+			"Subtype": "human, shapechanger",
 			"Alignment": "neutral evil",
 			"Armor Class": 11,
 			"Hit Dice": "12d8 + 24",
@@ -23562,7 +23562,7 @@
 		"Wererat (Humanoid Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human, shapechanger",
+			"Subtype": "human, shapechanger",
 			"Alignment": "lawful evil",
 			"Armor Class": 12,
 			"Hit Dice": "6d8",
@@ -23669,7 +23669,7 @@
 		"Wererat (Hybrid Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human, shapechanger",
+			"Subtype": "human, shapechanger",
 			"Alignment": "lawful evil",
 			"Armor Class": 12,
 			"Hit Dice": "6d8",
@@ -23781,7 +23781,7 @@
 		"Wererat (Rat Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human, shapechanger",
+			"Subtype": "human, shapechanger",
 			"Alignment": "lawful evil",
 			"Armor Class": 12,
 			"Hit Dice": "6d8",
@@ -23878,7 +23878,7 @@
 		"Weretiger (Humanoid Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human, shapechanger",
+			"Subtype": "human, shapechanger",
 			"Alignment": "neutral",
 			"Armor Class": 12,
 			"Hit Dice": "16d8",
@@ -23985,7 +23985,7 @@
 		"Weretiger (Hybrid Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human, shapechanger",
+			"Subtype": "human, shapechanger",
 			"Alignment": "neutral",
 			"Armor Class": 12,
 			"Hit Dice": "16d8",
@@ -24107,7 +24107,7 @@
 		"Weretiger (Tiger Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human, shapechanger",
+			"Subtype": "human, shapechanger",
 			"Alignment": "neutral",
 			"Armor Class": 12,
 			"Hit Dice": "16d8",
@@ -24214,7 +24214,7 @@
 		"Werewolf (Humanoid Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human, shapechanger",
+			"Subtype": "human, shapechanger",
 			"Alignment": "chaotic evil",
 			"Armor Class": 11,
 			"Hit Dice": "9d8",
@@ -24316,7 +24316,7 @@
 		"Werewolf (Hybrid Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human, shapechanger",
+			"Subtype": "human, shapechanger",
 			"Alignment": "chaotic evil",
 			"Armor Class": 12,
 			"Armor Type": "natural armor",
@@ -24424,7 +24424,7 @@
 		"Werewolf (Wolf Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human, shapechanger",
+			"Subtype": "human, shapechanger",
 			"Alignment": "chaotic evil",
 			"Armor Class": 12,
 			"Armor Type": "natural armor",
@@ -25462,7 +25462,7 @@
 		"Merfolk": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "merfolk",
+			"Subtype": "merfolk",
 			"Alignment": "neutral",
 			"Armor Class": 11,
 			"Hit Dice": "2d8",
@@ -25663,7 +25663,7 @@
 		"Mimic": {
 			"Size": "Medium",
 			"Type": "monstrosity",
-			"SubType": "shapechanger",
+			"Subtype": "shapechanger",
 			"Alignment": "neutral",
 			"Armor Class": 12,
 			"Armor Type": "natural armor",
@@ -28622,7 +28622,7 @@
 		"Orc": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "orc",
+			"Subtype": "orc",
 			"Alignment": "chaotic evil",
 			"Armor Class": 13,
 			"Armor Type": "hide armor",
@@ -28721,7 +28721,7 @@
 		"Orc War Chief": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "orc",
+			"Subtype": "orc",
 			"Alignment": "chaotic evil",
 			"Armor Class": 16,
 			"Armor Type": "chain mail",
@@ -28835,7 +28835,7 @@
 		"Orc Eye of Gruumsh": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "orc",
+			"Subtype": "orc",
 			"Alignment": "chaotic evil",
 			"Armor Class": 16,
 			"Armor Type": "ring mail, shield",
@@ -28952,7 +28952,7 @@
 		"Orog": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "orc",
+			"Subtype": "orc",
 			"Alignment": "chaotic evil",
 			"Armor Class": 18,
 			"Armor Type": "plate",
@@ -29876,7 +29876,7 @@
 		"Quaggoth": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "quaggoth",
+			"Subtype": "quaggoth",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 13,
 			"Armor Type": "natural armor",
@@ -30724,7 +30724,7 @@
 		"Sahuagin": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "sahuagin",
+			"Subtype": "sahuagin",
 			"Alignment": "lawful evil",
 			"Armor Class": 12,
 			"Armor Type": "natural armor",
@@ -30842,7 +30842,7 @@
 		"Sahuagin Priestess": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "sahuagin",
+			"Subtype": "sahuagin",
 			"Alignment": "lawful evil",
 			"Armor Class": 12,
 			"Armor Type": "natural armor",
@@ -30977,7 +30977,7 @@
 		"Sahuagin Baron": {
 			"Size": "Large",
 			"Type": "humanoid",
-			"SubType": "sahuagin",
+			"Subtype": "sahuagin",
 			"Alignment": "lawful evil",
 			"Armor Class": 16,
 			"Armor Type": "breastplate",
@@ -32439,7 +32439,7 @@
 		"Green Slaad": {
 			"Size": "Large",
 			"Type": "aberration",
-			"SubType": "shapechanger",
+			"Subtype": "shapechanger",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 16,
 			"Armor Type": "natural armor",
@@ -32584,7 +32584,7 @@
 		"Gray Slaad": {
 			"Size": "Medium",
 			"Type": "aberration",
-			"SubType": "shapechanger",
+			"Subtype": "shapechanger",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -32733,7 +32733,7 @@
 		"Death Slaad": {
 			"Size": "Medium",
 			"Type": "aberration",
-			"SubType": "shapechanger",
+			"Subtype": "shapechanger",
 			"Alignment": "chaotic evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -33625,7 +33625,7 @@
 		"Succubus/Incubus": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "shapechanger",
+			"Subtype": "shapechanger",
 			"Alignment": "neutral evil",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -33746,7 +33746,7 @@
 		"Tarrasque": {
 			"Size": "Gargantuan",
 			"Type": "monstrosity",
-			"SubType": "titan",
+			"Subtype": "titan",
 			"Alignment": "unaligned",
 			"Armor Class": 25,
 			"Armor Type": "natural armor",
@@ -33907,7 +33907,7 @@
 		"Thri-kreen": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "thri-kreen",
+			"Subtype": "thri-kreen",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -34131,7 +34131,7 @@
 		"Troglodyte": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "troglodyte",
+			"Subtype": "troglodyte",
 			"Alignment": "chaotic evil",
 			"Armor Class": 11,
 			"Armor Type": "natural armor",
@@ -34621,7 +34621,7 @@
 		"Vampire": {
 			"Size": "Medium",
 			"Type": "undead",
-			"SubType": "shapechanger",
+			"Subtype": "shapechanger",
 			"Alignment": "lawful evil",
 			"Armor Class": 16,
 			"Armor Type": "natural armor",
@@ -35793,7 +35793,7 @@
 		"Yuan-ti Abomination": {
 			"Size": "Large",
 			"Type": "monstrosity",
-			"SubType": "shapechanger, yuan-ti",
+			"Subtype": "shapechanger, yuan-ti",
 			"Alignment": "neutral evil",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -35927,7 +35927,7 @@
 		"Yuan-ti Malison": {
 			"Size": "Medium",
 			"Type": "monstrosity",
-			"SubType": "shapechanger, yuan-ti",
+			"Subtype": "shapechanger, yuan-ti",
 			"Alignment": "neutral evil",
 			"Armor Class": 12,
 			"Hit Dice": "12d8",
@@ -36099,7 +36099,7 @@
 		"Yuan-ti Pureblood": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "yuan-ti",
+			"Subtype": "yuan-ti",
 			"Alignment": "neutral evil",
 			"Armor Class": 11,
 			"Hit Dice": "9d8",
@@ -36215,7 +36215,7 @@
 		"Arcanaloth": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "yugoloth",
+			"Subtype": "yugoloth",
 			"Alignment": "neutral evil",
 			"Armor Class": 17,
 			"Armor Type": "natural armor",
@@ -36381,7 +36381,7 @@
 		"Mezzoloth": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "yugoloth",
+			"Subtype": "yugoloth",
 			"Alignment": "neutral evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -36512,7 +36512,7 @@
 		"Nycaloth": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "yugoloth",
+			"Subtype": "yugoloth",
 			"Alignment": "neutral evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -36643,7 +36643,7 @@
 		"Ultroloth": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "yugoloth",
+			"Subtype": "yugoloth",
 			"Alignment": "neutral evil",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -46015,7 +46015,7 @@
 		"Acolyte": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 10,
 			"Hit Dice": "2d8",
@@ -46117,7 +46117,7 @@
 		"Archmage": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 12,
 			"Hit Dice": "18d8",
@@ -46259,7 +46259,7 @@
 		"Assassin": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any non-good alignment",
 			"Armor Class": 15,
 			"Armor Type": "studded leather",
@@ -46372,7 +46372,7 @@
 		"Bandit": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any non-lawful alignment",
 			"Armor Class": 12,
 			"Armor Type": "leather armor",
@@ -46463,7 +46463,7 @@
 		"Bandit Captain": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any non-lawful alignment",
 			"Armor Class": 15,
 			"Armor Type": "studded leather",
@@ -46566,7 +46566,7 @@
 		"Berserker": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any chaotic alignment",
 			"Armor Class": 13,
 			"Armor Type": "hide armor",
@@ -46659,7 +46659,7 @@
 		"Commoner": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 10,
 			"Hit Dice": "1d8",
@@ -46744,7 +46744,7 @@
 		"Cultist": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any non-good alignment",
 			"Armor Class": 12,
 			"Hit Dice": "2d8",
@@ -46836,7 +46836,7 @@
 		"Cult Fanatic": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any non-good alignment",
 			"Armor Class": 13,
 			"Armor Type": "leather armor",
@@ -46953,7 +46953,7 @@
 		"Druid": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 11,
 			"Hit Dice": "5d8",
@@ -47060,7 +47060,7 @@
 		"Gladiator": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 16,
 			"Armor Type": "studded leather, shield",
@@ -47175,7 +47175,7 @@
 		"Guard": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 16,
 			"Armor Type": "chain shirt, shield",
@@ -47261,7 +47261,7 @@
 		"Knight": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 18,
 			"Armor Type": "plate",
@@ -47376,7 +47376,7 @@
 		"Mage": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 12,
 			"Hit Dice": "9d8",
@@ -47496,7 +47496,7 @@
 		"Noble": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 15,
 			"Armor Type": "breastplate",
@@ -47589,7 +47589,7 @@
 		"Priest": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 13,
 			"Armor Type": "chain shirt",
@@ -47705,7 +47705,7 @@
 		"Scout": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 13,
 			"Armor Type": "leather armor",
@@ -47808,7 +47808,7 @@
 		"Spy": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 12,
 			"Hit Dice": "6d8",
@@ -47915,7 +47915,7 @@
 		"Thug": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any non-good alignment",
 			"Armor Class": 11,
 			"Armor Type": "leather armor",
@@ -48018,7 +48018,7 @@
 		"Tribal Warrior": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 12,
 			"Armor Type": "hide armor",
@@ -48111,7 +48111,7 @@
 		"Veteran": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 17,
 			"Armor Type": "splint",
@@ -48405,7 +48405,7 @@
 		"Barghest": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "shapechanger",
+			"Subtype": "shapechanger",
 			"Alignment": "neutral evil",
 			"Armor Class": 17,
 			"Armor Type": "natural armor",
@@ -48536,7 +48536,7 @@
 		"Barghest (Goblin Form)": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "shapechanger",
+			"Subtype": "shapechanger",
 			"Alignment": "neutral evil",
 			"Armor Class": 17,
 			"Armor Type": "natural armor",
@@ -50097,7 +50097,7 @@
 		"Deep Scion": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "shapechanger",
+			"Subtype": "shapechanger",
 			"Alignment": "neutral evil",
 			"Armor Class": 11,
 			"Hit Dice": "9d8",
@@ -50196,7 +50196,7 @@
 		"Deep Scion (Hybrid Form)": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "shapechanger",
+			"Subtype": "shapechanger",
 			"Alignment": "neutral evil",
 			"Armor Class": 11,
 			"Hit Dice": "9d8",
@@ -50310,7 +50310,7 @@
 		"Babau": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 16,
 			"Armor Type": "natural armor",
@@ -50428,7 +50428,7 @@
 		"Maw Demon": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 13,
 			"Armor Type": "natural armor",
@@ -50525,7 +50525,7 @@
 		"Shoosuva": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 14,
 			"Armor Type": "natural armor",
@@ -51384,7 +51384,7 @@
 		"Draegloth": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -51504,7 +51504,7 @@
 		"Firenewt Warrior": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "firenewt",
+			"Subtype": "firenewt",
 			"Alignment": "neutral evil",
 			"Armor Class": 16,
 			"Armor Type": "chain shirt, shield",
@@ -51705,7 +51705,7 @@
 		"Firenewt Warlock of Imix": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "firenewt",
+			"Subtype": "firenewt",
 			"Alignment": "neutral evil",
 			"Armor Class": 10,
 			"Armor Type": "13 with mage armor",
@@ -52065,7 +52065,7 @@
 		"Cloud Giant Smiling One": {
 			"Size": "Huge",
 			"Type": "giant",
-			"SubType": "cloud giant",
+			"Subtype": "cloud giant",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -52218,7 +52218,7 @@
 		"Fire Giant Dreadnought": {
 			"Size": "Huge",
 			"Type": "giant",
-			"SubType": "fire giant",
+			"Subtype": "fire giant",
 			"Alignment": "lawful evil",
 			"Armor Class": 21,
 			"Armor Type": "plate, shields",
@@ -52326,7 +52326,7 @@
 		"Frost Giant Everlasting One": {
 			"Size": "Huge",
 			"Type": "giant",
-			"SubType": "frost giant",
+			"Subtype": "frost giant",
 			"Alignment": "chaotic evil",
 			"Armor Class": 15,
 			"Armor Type": "patchwork armor",
@@ -52449,7 +52449,7 @@
 		"Mouth of Grolantor": {
 			"Size": "Huge",
 			"Type": "giant",
-			"SubType": "hill giant",
+			"Subtype": "hill giant",
 			"Alignment": "chaotic evil",
 			"Armor Class": 14,
 			"Armor Type": "natural armor",
@@ -52552,7 +52552,7 @@
 		"Stone Giant Dreamwalker": {
 			"Size": "Huge",
 			"Type": "giant",
-			"SubType": "stone giant",
+			"Subtype": "stone giant",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -52662,7 +52662,7 @@
 		"Storm Giant Quintessent": {
 			"Size": "Huge",
 			"Type": "giant",
-			"SubType": "storm giant",
+			"Subtype": "storm giant",
 			"Alignment": "chaotic good",
 			"Armor Class": 12,
 			"Hit Dice": "20d12",
@@ -52893,7 +52893,7 @@
 		"Flind": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "gnome",
+			"Subtype": "gnome",
 			"Alignment": "chaotic evil",
 			"Armor Class": 16,
 			"Armor Type": "chain mail",
@@ -53007,7 +53007,7 @@
 		"Gnoll Flesh Gnawer": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "gnoll",
+			"Subtype": "gnoll",
 			"Alignment": "chaotic evil",
 			"Armor Class": 14,
 			"Armor Type": "studded leather",
@@ -53115,7 +53115,7 @@
 		"Gnoll Hunter": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "gnoll",
+			"Subtype": "gnoll",
 			"Alignment": "chaotic evil",
 			"Armor Class": 13,
 			"Armor Type": "leather armor",
@@ -53333,7 +53333,7 @@
 		"Grung": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "grung",
+			"Subtype": "grung",
 			"Alignment": "lawful evil",
 			"Armor Class": 12,
 			"Hit Dice": "2d6",
@@ -53435,7 +53435,7 @@
 		"Grung Elite Warrior": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "grung",
+			"Subtype": "grung",
 			"Alignment": "lawful evil",
 			"Armor Class": 13,
 			"Hit Dice": "9d6",
@@ -53547,7 +53547,7 @@
 		"Grung Wildling": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "grung",
+			"Subtype": "grung",
 			"Alignment": "lawful evil",
 			"Armor Class": 13,
 			"Armor Type": "16 with barkskin",
@@ -54001,7 +54001,7 @@
 		"Hobgoblin Devastator": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "goblinoid",
+			"Subtype": "goblinoid",
 			"Alignment": "lawful evil",
 			"Armor Class": 13,
 			"Armor Type": "studded leather",
@@ -54129,7 +54129,7 @@
 		"Hobgoblin Iron Shadow": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "goblinoid",
+			"Subtype": "goblinoid",
 			"Alignment": "lawful evil",
 			"Armor Class": 15,
 			"Hit Dice": "5d8",
@@ -54452,7 +54452,7 @@
 		"Kobold Dragonshield": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "kobold",
+			"Subtype": "kobold",
 			"Alignment": "lawful evil",
 			"Armor Class": 15,
 			"Armor Type": "leather, shield",
@@ -54566,7 +54566,7 @@
 		"Kobold Inventor": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "kobold",
+			"Subtype": "kobold",
 			"Alignment": "lawful evil",
 			"Armor Class": 12,
 			"Hit Dice": "3d6",
@@ -54684,7 +54684,7 @@
 		"Kobold Scale Sorcerer": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "kobold",
+			"Subtype": "kobold",
 			"Alignment": "lawful evil",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -56358,7 +56358,7 @@
 		"Nilbog": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "goblinoid",
+			"Subtype": "goblinoid",
 			"Alignment": "chaotic evil",
 			"Armor Class": 13,
 			"Armor Type": "leather armor",
@@ -56483,7 +56483,7 @@
 		"Orc Blade of Ilneval": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "orc",
+			"Subtype": "orc",
 			"Alignment": "chaotic evil",
 			"Armor Class": 18,
 			"Armor Type": "chain mail, shield",
@@ -56597,7 +56597,7 @@
 		"Orc Claw of Luthic": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "orc",
+			"Subtype": "orc",
 			"Alignment": "chaotic evil",
 			"Armor Class": 14,
 			"Armor Type": "hide armor",
@@ -56720,7 +56720,7 @@
 		"Orc Hand of Yurtrus": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "orc",
+			"Subtype": "orc",
 			"Alignment": "chaotic evil",
 			"Armor Class": 12,
 			"Armor Type": "hide armor",
@@ -56834,7 +56834,7 @@
 		"Orc Nurtured One of Yurtrus": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "orc",
+			"Subtype": "orc",
 			"Alignment": "chaotic evil",
 			"Armor Class": 9,
 			"Hit Dice": "4d8",
@@ -56942,7 +56942,7 @@
 		"Orc Red Fang of Shargaas": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "orc",
+			"Subtype": "orc",
 			"Alignment": "chaotic evil",
 			"Armor Class": 15,
 			"Armor Type": "studded leather",
@@ -57066,7 +57066,7 @@
 		"Tanarukk": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "demon, orc",
+			"Subtype": "demon, orc",
 			"Alignment": "chaotic evil",
 			"Armor Class": 14,
 			"Armor Type": "natural armor",
@@ -58582,7 +58582,7 @@
 		"Xvart": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "xvart",
+			"Subtype": "xvart",
 			"Alignment": "chaotic evil",
 			"Armor Class": 12,
 			"Armor Type": "leather armor",
@@ -58690,7 +58690,7 @@
 		"Xvart Warlock of Raxivort": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "xvart",
+			"Subtype": "xvart",
 			"Alignment": "chaotic evil",
 			"Armor Class": 12,
 			"Armor Type": "15 with mage armor",
@@ -58929,7 +58929,7 @@
 		"Yuan-ti Anathema": {
 			"Size": "Huge",
 			"Type": "monstrosity",
-			"SubType": "shapechanger, yuan-ti",
+			"Subtype": "shapechanger, yuan-ti",
 			"Alignment": "neutral evil",
 			"Armor Class": 16,
 			"Armor Type": "natural armor",
@@ -59075,7 +59075,7 @@
 		"Yuan-ti Broodguard": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "yuan-ti",
+			"Subtype": "yuan-ti",
 			"Alignment": "neutral evil",
 			"Armor Class": 14,
 			"Armor Type": "natural armor",
@@ -59185,7 +59185,7 @@
 		"Yuan-ti Mind Whisperer": {
 			"Size": "Medium",
 			"Type": "monstrosity",
-			"SubType": "shapechanger, yuan-ti",
+			"Subtype": "shapechanger, yuan-ti",
 			"Alignment": "neutral evil",
 			"Armor Class": 14,
 			"Armor Type": "natural armor",
@@ -59343,7 +59343,7 @@
 		"Yuan-ti Nightmare Speaker": {
 			"Size": "Medium",
 			"Type": "monstrosity",
-			"SubType": "shapechanger, yuan-ti",
+			"Subtype": "shapechanger, yuan-ti",
 			"Alignment": "neutral evil",
 			"Armor Class": 14,
 			"Armor Type": "natural armor",
@@ -59501,7 +59501,7 @@
 		"Yuan-ti Pit Master": {
 			"Size": "Medium",
 			"Type": "monstrosity",
-			"SubType": "shapechanger, yuan-ti",
+			"Subtype": "shapechanger, yuan-ti",
 			"Alignment": "neutral evil",
 			"Armor Class": 14,
 			"Armor Type": "natural armor",
@@ -60033,7 +60033,7 @@
 		"Abjurer": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 12,
 			"Armor Type": "15 with mage armor",
@@ -60169,7 +60169,7 @@
 		"Apprentice Wizard": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 10,
 			"Hit Dice": "2d8",
@@ -60271,7 +60271,7 @@
 		"Archdruid": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 16,
 			"Armor Type": "hide armor, shield",
@@ -60418,7 +60418,7 @@
 		"Archer": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 16,
 			"Armor Type": "studded leather",
@@ -60521,7 +60521,7 @@
 		"Bard": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 15,
 			"Armor Type": "chain shirt",
@@ -60645,7 +60645,7 @@
 		"Blackguard": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any non-good alignment",
 			"Armor Class": 18,
 			"Armor Type": "plate",
@@ -60766,7 +60766,7 @@
 		"Champion": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 18,
 			"Armor Type": "plate",
@@ -60874,7 +60874,7 @@
 		"Conjurer": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 12,
 			"Armor Type": "15 with mage armor",
@@ -60998,7 +60998,7 @@
 		"Diviner": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 12,
 			"Armor Type": "15 with mage armor",
@@ -61138,7 +61138,7 @@
 		"Enchanter": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 12,
 			"Armor Type": "15 with mage armor",
@@ -61267,7 +61267,7 @@
 		"Evoker": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 12,
 			"Armor Type": "15 with mage armor",
@@ -61399,7 +61399,7 @@
 		"Illusionist": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 12,
 			"Armor Type": "15 with mage armor",
@@ -61521,7 +61521,7 @@
 		"Kraken Priest": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any evil alignment",
 			"Armor Class": 10,
 			"Hit Dice": "10d8",
@@ -61637,7 +61637,7 @@
 		"Martial Arts Adept": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 16,
 			"Hit Dice": "11d8",
@@ -61744,7 +61744,7 @@
 		"Master Thief": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 16,
 			"Armor Type": "studded leather",
@@ -61864,7 +61864,7 @@
 		"Necromancer": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 12,
 			"Armor Type": "15 with mage armor",
@@ -61995,7 +61995,7 @@
 		"Swashbuckler": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any non-lawful alignment",
 			"Armor Class": 17,
 			"Armor Type": "leather armor",
@@ -62103,7 +62103,7 @@
 		"Transmuter": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 12,
 			"Armor Type": "15 with mage armor",
@@ -62238,7 +62238,7 @@
 		"War Priest": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 18,
 			"Armor Type": "plate",
@@ -62381,7 +62381,7 @@
 		"Warlock of the Archfey": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 11,
 			"Armor Type": "14 with mage armor",
@@ -62517,7 +62517,7 @@
 		"Warlock of the Fiend": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 12,
 			"Armor Type": "15 with mage armor",
@@ -62653,7 +62653,7 @@
 		"Warlock of the Great Old One": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 12,
 			"Armor Type": "15 with mage armor",
@@ -62790,7 +62790,7 @@
 		"Warlord": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 18,
 			"Armor Type": "plate",
@@ -63035,7 +63035,7 @@
 		"Astral Dreadnought": {
 			"Size": "Gargantuan",
 			"Type": "monstrosity",
-			"SubType": "titan",
+			"Subtype": "titan",
 			"Alignment": "unaligned",
 			"Armor Class": 20,
 			"Armor Type": "natural armor",
@@ -64691,7 +64691,7 @@
 		"Alkilith": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 17,
 			"Armor Type": "natural armor",
@@ -64811,7 +64811,7 @@
 		"Armanite": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 16,
 			"Armor Type": "natural armor",
@@ -64932,7 +64932,7 @@
 		"Bulezau": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 14,
 			"Armor Type": "natural armor",
@@ -65040,7 +65040,7 @@
 		"Dybbuk": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 14,
 			"Hit Dice": "5d8",
@@ -65176,7 +65176,7 @@
 		"Maurezhi": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -65297,7 +65297,7 @@
 		"Molydeus": {
 			"Size": "Huge",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -65461,7 +65461,7 @@
 		"Nabassu": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -65588,7 +65588,7 @@
 		"Rutterkin": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 12,
 			"Hit Dice": "5d8",
@@ -65684,7 +65684,7 @@
 		"Abyssal Wretch": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 11,
 			"Hit Dice": "4d8",
@@ -65773,7 +65773,7 @@
 		"Sibriex": {
 			"Size": "Huge",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -65934,7 +65934,7 @@
 		"Wastrilith": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -66063,7 +66063,7 @@
 		"Baphomet": {
 			"Size": "Huge",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 22,
 			"Armor Type": "natural armor",
@@ -66242,7 +66242,7 @@
 		"Demogorgon": {
 			"Size": "Huge",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 22,
 			"Armor Type": "natural armor",
@@ -66405,7 +66405,7 @@
 		"Fraz-Urb'luu": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -66568,7 +66568,7 @@
 		"Graz'zt": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "demon, shapechanger",
+			"Subtype": "demon, shapechanger",
 			"Alignment": "chaotic evil",
 			"Armor Class": 20,
 			"Armor Type": "natural armor",
@@ -66742,7 +66742,7 @@
 		"Juiblex": {
 			"Size": "Huge",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -66920,7 +66920,7 @@
 		"Orcus": {
 			"Size": "Huge",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 20,
 			"Armor Type": "natural armor, Wand of Orcus",
@@ -67088,7 +67088,7 @@
 		"Yeenoghu": {
 			"Size": "Huge",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 20,
 			"Armor Type": "natural armor",
@@ -67254,7 +67254,7 @@
 		"Zuggtmoy": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -67421,7 +67421,7 @@
 		"Derro": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "derro",
+			"Subtype": "derro",
 			"Alignment": "chaotic evil",
 			"Armor Class": 13,
 			"Armor Type": "leather armor",
@@ -67525,7 +67525,7 @@
 		"Derro Savant": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "derro",
+			"Subtype": "derro",
 			"Alignment": "chaotic evil",
 			"Armor Class": 13,
 			"Armor Type": "leather armor",
@@ -67648,7 +67648,7 @@
 		"Black Abishai": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -67776,7 +67776,7 @@
 		"Blue Abishai": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -67939,7 +67939,7 @@
 		"Green Abishai": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": " lawful evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -68075,7 +68075,7 @@
 		"Red Abishai": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": " lawful evil",
 			"Armor Class": 22,
 			"Armor Type": "natural armor",
@@ -68212,7 +68212,7 @@
 		"White Abishai": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": " lawful evil",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -68346,7 +68346,7 @@
 		"Amnizu": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 21,
 			"Armor Type": "natural armor",
@@ -68620,7 +68620,7 @@
 		"Merregon": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 16,
 			"Armor Type": "natural armor",
@@ -68739,7 +68739,7 @@
 		"Narzugon": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 20,
 			"Armor Type": "plate armor, shield",
@@ -68869,7 +68869,7 @@
 		"Nupperibo": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 13,
 			"Armor Type": "natural armor",
@@ -68973,7 +68973,7 @@
 		"Orthon": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 17,
 			"Armor Type": "half plate",
@@ -69097,7 +69097,7 @@
 		"Bael": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 18,
 			"Armor Type": "plate",
@@ -69281,7 +69281,7 @@
 		"Geryon": {
 			"Size": "Huge",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -69449,7 +69449,7 @@
 		"Hutijin": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -69642,7 +69642,7 @@
 		"Moloch": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -69823,7 +69823,7 @@
 		"Titivilus": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 20,
 			"Armor Type": "natural armor",
@@ -70006,7 +70006,7 @@
 		"Zariel": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "devil",
+			"Subtype": "devil",
 			"Alignment": "lawful evil",
 			"Armor Class": 21,
 			"Armor Type": "natural armor",
@@ -70179,7 +70179,7 @@
 		"Drow Arachnomancer": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "chaotic evil",
 			"Armor Class": 15,
 			"Armor Type": "studded leather",
@@ -70347,7 +70347,7 @@
 		"Drow Favored Consort": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "neutral evil",
 			"Armor Class": 15,
 			"Armor Type": "18 with mage armor",
@@ -70514,7 +70514,7 @@
 		"Drow House Captain": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "nuetral evil",
 			"Armor Class": 16,
 			"Armor Type": "chain mail",
@@ -70653,7 +70653,7 @@
 		"Drow Inquisitor": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "nuetral evil",
 			"Armor Class": 16,
 			"Armor Type": "breastplate",
@@ -70826,7 +70826,7 @@
 		"Drow Matron Mother": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "nuetral evil",
 			"Armor Class": 17,
 			"Armor Type": "half plate",
@@ -71045,7 +71045,7 @@
 		"Drow Shadowblade": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "nuetral evil",
 			"Armor Class": 17,
 			"Armor Type": "studded leather",
@@ -71172,7 +71172,7 @@
 		"Duergar Despot": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "dwarf",
+			"Subtype": "dwarf",
 			"Alignment": "lawful evil",
 			"Armor Class": 21,
 			"Armor Type": "natural armor",
@@ -71310,7 +71310,7 @@
 		"Duergar Hammerer": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "dwarf",
+			"Subtype": "dwarf",
 			"Alignment": "lawful evil",
 			"Armor Class": 17,
 			"Armor Type": "natural armor",
@@ -71423,7 +71423,7 @@
 		"Duergar Kavalrachni": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "dwarf",
+			"Subtype": "dwarf",
 			"Alignment": "lawful evil",
 			"Armor Class": 16,
 			"Armor Type": "scale mail, shield",
@@ -71542,7 +71542,7 @@
 		"Duergar Mind Master": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "dwarf",
+			"Subtype": "dwarf",
 			"Alignment": "lawful evil",
 			"Armor Class": 14,
 			"Armor Type": "leather armor",
@@ -71773,7 +71773,7 @@
 		"Duergar Soulblade": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "dwarf",
+			"Subtype": "dwarf",
 			"Alignment": "lawful evil",
 			"Armor Class": 14,
 			"Armor Type": "leather armor",
@@ -71905,7 +71905,7 @@
 		"Duergar Stone Guard": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "dwarf",
+			"Subtype": "dwarf",
 			"Alignment": "lawful evil",
 			"Armor Class": 18,
 			"Armor Type": "chain mail, shield",
@@ -72029,7 +72029,7 @@
 		"Duergar Warlord": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "dwarf",
+			"Subtype": "dwarf",
 			"Alignment": "lawful evil",
 			"Armor Class": 20,
 			"Armor Type": "plate mail, shield",
@@ -72163,7 +72163,7 @@
 		"Duergar Xarrorn": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "dwarf",
+			"Subtype": "dwarf",
 			"Alignment": "lawful evil",
 			"Armor Class": 18,
 			"Armor Type": "plate mail",
@@ -72517,7 +72517,7 @@
 		"Autumn Eladrin": {
 			"Size": "Medium",
 			"Type": "fey",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -72653,7 +72653,7 @@
 		"Spring Eladrin": {
 			"Size": "Medium",
 			"Type": "fey",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -72787,7 +72787,7 @@
 		"Summer Eladrin": {
 			"Size": "Medium",
 			"Type": "fey",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -72909,7 +72909,7 @@
 		"Winter Eladrin": {
 			"Size": "Medium",
 			"Type": "fey",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -74180,7 +74180,7 @@
 		"Githyanki Gish": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "gith",
+			"Subtype": "gith",
 			"Alignment": "lawful evil",
 			"Armor Class": 17,
 			"Armor Type": "half plate",
@@ -74325,7 +74325,7 @@
 		"Githyanki Kith'rak": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "gith",
+			"Subtype": "gith",
 			"Alignment": "lawful evil",
 			"Armor Class": 18,
 			"Armor Type": "plate",
@@ -74448,7 +74448,7 @@
 		"Githyanki Supreme Commander": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "gith",
+			"Subtype": "gith",
 			"Alignment": "lawful evil",
 			"Armor Class": 18,
 			"Armor Type": "plate",
@@ -74587,7 +74587,7 @@
 		},
 		"Githzerai Anarch": {
 			"Type": "humanoid",
-			"SubType": "gith",
+			"Subtype": "gith",
 			"Alignment": "lawful neutral",
 			"Armor Class": 20,
 			"Hit Dice": "17d8",
@@ -74724,7 +74724,7 @@
 		},
 		"Githzerai Enlightened": {
 			"Type": "humanoid",
-			"SubType": "gith",
+			"Subtype": "gith",
 			"Alignment": "lawful neutral",
 			"Armor Class": 18,
 			"Hit Dice": "15d8",
@@ -75051,7 +75051,7 @@
 		"Young Kruthik": {
 			"Size": "Small",
 			"Type": "monstrosity",
-			"SubType": 0,
+			"Subtype": 0,
 			"Alignment": "unaligned",
 			"Armor Class": 16,
 			"Armor Type": "natural armor",
@@ -75383,7 +75383,7 @@
 		"Marut": {
 			"Size": "Large",
 			"Type": "construct",
-			"SubType": "inevitable",
+			"Subtype": "inevitable",
 			"Alignment": "lawful neutral",
 			"Armor Class": 22,
 			"Armor Type": "natural armor",
@@ -75515,7 +75515,7 @@
 		"Meazel": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "meazel",
+			"Subtype": "meazel",
 			"Alignment": "neutral evil",
 			"Armor Class": 13,
 			"Hit Dice": "10d8",
@@ -75618,7 +75618,7 @@
 		"Nagpa": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "nagpa",
+			"Subtype": "nagpa",
 			"Alignment": "neutral evil",
 			"Armor Class": 19,
 			"Armor Type": "natural armor",
@@ -76853,7 +76853,7 @@
 		"Gloom Weaver": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "neutral",
 			"Armor Class": 14,
 			"Armor Type": "17 with mage armor",
@@ -77006,7 +77006,7 @@
 		"Shadow Dancer": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "neutral",
 			"Armor Class": 15,
 			"Armor Type": "studded leather",
@@ -77116,7 +77116,7 @@
 		"Soul Monger": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "neutral",
 			"Armor Class": 15,
 			"Armor Type": "studded leather",
@@ -79254,7 +79254,7 @@
 		"Tortle": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "tortle",
+			"Subtype": "tortle",
 			"Alignment": "lawful good",
 			"Armor Class": 17,
 			"Armor Type": "natural",
@@ -79363,7 +79363,7 @@
 		"Tortle Druid": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "tortle",
+			"Subtype": "tortle",
 			"Alignment": "lawful good",
 			"Armor Class": 17,
 			"Armor Type": "natural",
@@ -80052,7 +80052,7 @@
 		"Canoloth": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "yugoloth",
+			"Subtype": "yugoloth",
 			"Alignment": "neutral evil",
 			"Armor Class": 16,
 			"Armor Type": "natural armor",
@@ -80181,7 +80181,7 @@
 		"Dhergoloth": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "yugoloth",
+			"Subtype": "yugoloth",
 			"Alignment": "neutral evil",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -80312,7 +80312,7 @@
 		"Hydroloth": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "yugoloth",
+			"Subtype": "yugoloth",
 			"Alignment": "neutral evil",
 			"Armor Class": 15,
 			"Hit Dice": "18d8",
@@ -80468,7 +80468,7 @@
 		"Merrenoloth": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "yugoloth",
+			"Subtype": "yugoloth",
 			"Alignment": "neutral evil",
 			"Armor Class": 13,
 			"Hit Dice": "9d8",
@@ -80604,7 +80604,7 @@
 		"Oinoloth": {
 			"Size": "Medium",
 			"Type": "fiend",
-			"SubType": "yugoloth",
+			"Subtype": "yugoloth",
 			"Alignment": "neutral evil",
 			"Armor Class": 17,
 			"Armor Type": "natural armor",
@@ -80752,7 +80752,7 @@
 		"Yagnoloth": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "yugoloth",
+			"Subtype": "yugoloth",
 			"Alignment": "neutral evil",
 			"Armor Class": 17,
 			"Armor Type": "natural armor",
@@ -80995,7 +80995,7 @@
 		"Azbara Jos": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human",
+			"Subtype": "human",
 			"Alignment": "lawful evil",
 			"Armor Class": 13,
 			"Hit Dice": "6d8",
@@ -81128,7 +81128,7 @@
 		"Blagothkus": {
 			"Size": "Huge",
 			"Type": "giant",
-			"SubType": "cloud giant",
+			"Subtype": "cloud giant",
 			"Alignment": "neutral evil",
 			"Armor Class": 17,
 			"Armor Type": "splint",
@@ -81262,7 +81262,7 @@
 		"Captain Othelstan": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human",
+			"Subtype": "human",
 			"Alignment": "lawful evil",
 			"Armor Class": 19,
 			"Armor Type": "splint, shield",
@@ -81372,7 +81372,7 @@
 		"Dragonclaw": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human",
+			"Subtype": "human",
 			"Alignment": "neutral evil",
 			"Armor Class": 14,
 			"Armor Type": "leather armor",
@@ -81481,7 +81481,7 @@
 		"Dralmorrer Borngray": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "high-elf",
+			"Subtype": "high-elf",
 			"Alignment": "neutral evil",
 			"Armor Class": 16,
 			"Armor Type": "studded leather armor, shield",
@@ -81619,7 +81619,7 @@
 		"Frulam Mondath": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human",
+			"Subtype": "human",
 			"Alignment": "lawful evil",
 			"Armor Class": 16,
 			"Armor Type": "chain mail",
@@ -81739,7 +81739,7 @@
 		"Jamna Gleamsilver": {
 			"Size": "Small",
 			"Type": "humanoid",
-			"SubType": "gnome",
+			"Subtype": "gnome",
 			"Alignment": "neutral",
 			"Armor Class": 15,
 			"Armor Type": "leather armor",
@@ -81862,7 +81862,7 @@
 		"Langdedrosa Cyanwrath": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "half-dragon",
+			"Subtype": "half-dragon",
 			"Alignment": "lawful evil",
 			"Armor Class": 17,
 			"Armor Type": "splint",
@@ -81976,7 +81976,7 @@
 		"Pharblex Spattergoo": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "bullywug",
+			"Subtype": "bullywug",
 			"Alignment": "chaotic evil",
 			"Armor Class": 15,
 			"Armor Type": "studded leather armor, shield",
@@ -82120,7 +82120,7 @@
 		"Rath Modar": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human",
+			"Subtype": "human",
 			"Alignment": "lawful evil",
 			"Armor Class": 13,
 			"Hit Dice": "11d8",
@@ -82261,7 +82261,7 @@
 		"Rezmir": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "half-black dragon",
+			"Subtype": "half-black dragon",
 			"Alignment": "neutral evil",
 			"Armor Class": 13,
 			"Armor Type": "15 with the Black Dragon Mask",
@@ -82414,7 +82414,7 @@
 		"Talis the White": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "half-elf",
+			"Subtype": "half-elf",
 			"Alignment": "lawful evil",
 			"Armor Class": 18,
 			"Armor Type": "+1 scale mail, shield",
@@ -82555,7 +82555,7 @@
 		"Dragonfang": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human",
+			"Subtype": "human",
 			"Alignment": "neutral evil",
 			"Armor Class": 15,
 			"Armor Type": "studded leather",
@@ -82675,7 +82675,7 @@
 		"Dragonsoul": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human",
+			"Subtype": "human",
 			"Alignment": "neutral evil",
 			"Armor Class": 16,
 			"Armor Type": "studded leather",
@@ -82795,7 +82795,7 @@
 		"Dragonwing": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human",
+			"Subtype": "human",
 			"Alignment": "neutral evil",
 			"Armor Class": 14,
 			"Armor Type": "leather armor",
@@ -83122,7 +83122,7 @@
 		"Neronvain": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "neutral evil",
 			"Armor Class": 17,
 			"Hit Dice": "18d8",
@@ -83239,7 +83239,7 @@
 		"Severin": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "human",
+			"Subtype": "human",
 			"Alignment": "neutral evil",
 			"Armor Class": 16,
 			"Hit Dice": "20d8",
@@ -84339,7 +84339,7 @@
 		"Cackler": {
 			"Size": "Small",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 15,
 			"Armor Type": "natural armor",
@@ -84457,7 +84457,7 @@
 		"Master of Cruelties": {
 			"Size": "Large",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 18,
 			"Armor Type": "plate",
@@ -84587,7 +84587,7 @@
 		"Sire of Insanity": {
 			"Size": "Huge",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaolic evil",
 			"Armor Class": 17,
 			"Armor Type": "natural armor",
@@ -86784,7 +86784,7 @@
 		"Kraul Warrior": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "kraul",
+			"Subtype": "kraul",
 			"Alignment": "neutral evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -86888,7 +86888,7 @@
 		"Winged Kraul Warrior": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "kraul",
+			"Subtype": "kraul",
 			"Alignment": "neutral evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -86992,7 +86992,7 @@
 		"Kraul Death Priest": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "kraul",
+			"Subtype": "kraul",
 			"Alignment": "neutral evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -87462,7 +87462,7 @@
 		"Hybrid Brute": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "Simic hybrid",
+			"Subtype": "Simic hybrid",
 			"Alignment": "neutral good",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -87560,7 +87560,7 @@
 		"Hybrid Flier": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "Simic hybrid",
+			"Subtype": "Simic hybrid",
 			"Alignment": "neutral good",
 			"Armor Class": 13,
 			"Hit Dice": "6d8",
@@ -87655,7 +87655,7 @@
 		"Hybrid Poisoner": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "Simic hybrid",
+			"Subtype": "Simic hybrid",
 			"Alignment": "neutral good",
 			"Armor Class": 14,
 			"Hit Dice": "4d8",
@@ -87752,7 +87752,7 @@
 		"Hybrid Shocker": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "Simic hybrid",
+			"Subtype": "Simic hybrid",
 			"Alignment": "neutral good",
 			"Armor Class": 12,
 			"Hit Dice": "6d8",
@@ -87859,7 +87859,7 @@
 		"Hybrid Spy": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "Simic hybrid",
+			"Subtype": "Simic hybrid",
 			"Alignment": "neutral good",
 			"Armor Class": 13,
 			"Hit Dice": "4d8",
@@ -88811,7 +88811,7 @@
 		"Soldier": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "any alignment",
 			"Armor Class": 18,
 			"Armor Type": "chain mail, shield",
@@ -89103,7 +89103,7 @@
 		"Lawmage": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "lawful neutral",
 			"Armor Class": 15,
 			"Armor Type": "breastplate",
@@ -89221,7 +89221,7 @@
 		"Precognitive Mage": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "lawful neutral",
 			"Armor Class": 11,
 			"Armor Type": "14 with mage armor",
@@ -89334,7 +89334,7 @@
 		"Aurelia": {
 			"Size": "Medium",
 			"Type": "celestial",
-			"SubType": "angel",
+			"Subtype": "angel",
 			"Alignment": "lawful good",
 			"Armor Class": 22,
 			"Armor Type": "natural armor",
@@ -89485,7 +89485,7 @@
 		"Firefist": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "lawful good",
 			"Armor Class": 18,
 			"Armor Type": "plate",
@@ -89617,7 +89617,7 @@
 		"Frontline Medic": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "lawful good",
 			"Armor Class": 19,
 			"Hit Dice": "3d8",
@@ -89722,7 +89722,7 @@
 		"Reckoner": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "lawful neutral",
 			"Armor Class": 18,
 			"Armor Type": "plate",
@@ -89846,7 +89846,7 @@
 		"Lazav": {
 			"Size": "Medium",
 			"Type": "monstrosity",
-			"SubType": "shapechanger",
+			"Subtype": "shapechanger",
 			"Alignment": " neutral evil",
 			"Armor Class": 18,
 			"Armor Type": "natural armor",
@@ -90003,7 +90003,7 @@
 		"Mind Mage": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "neutral evil",
 			"Armor Class": 12,
 			"Armor Type": "15 with mage armor",
@@ -90117,7 +90117,7 @@
 		"Though Spy": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "neutral evil",
 			"Armor Class": 13,
 			"Armor Type": "leather armor",
@@ -90434,7 +90434,7 @@
 		"Golgari Shaman": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "elf",
+			"Subtype": "elf",
 			"Alignment": "neutral evil",
 			"Armor Class": 14,
 			"Armor Type": "hide armor",
@@ -90714,7 +90714,7 @@
 		"Anarch": {
 			"Size": "Small or Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 13,
 			"Armor Type": "hide armor",
@@ -90812,7 +90812,7 @@
 		"Druid of the Old Ways": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 14,
 			"Armor Type": "hide armor",
@@ -91168,7 +91168,7 @@
 		"Cosmotronic Blastseeker": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 15,
 			"Armor Type": "chain shirt",
@@ -91279,7 +91279,7 @@
 		"Counterflux Blastseeker": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 13,
 			"Armor Type": "16 with mage armor",
@@ -91389,7 +91389,7 @@
 		"Flux Blastseeker": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 12,
 			"Armor Type": "15 with mage armor",
@@ -91500,7 +91500,7 @@
 		"Galvanic Blastseeker": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 13,
 			"Hit Dice": "8d8",
@@ -91616,7 +91616,7 @@
 		"Scorchbringer Guard": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "chaotic neutral",
 			"Armor Class": 16,
 			"Armor Type": "breastplate",
@@ -91891,7 +91891,7 @@
 		"Rakdos": {
 			"Size": "Huge",
 			"Type": "fiend",
-			"SubType": "demon",
+			"Subtype": "demon",
 			"Alignment": "chaotic evil",
 			"Armor Class": 20,
 			"Armor Type": "natural armor",
@@ -92048,7 +92048,7 @@
 		"Blood Witch": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "chaolic evil",
 			"Armor Class": 12,
 			"Armor Type": "15 with mage armor",
@@ -92179,7 +92179,7 @@
 		"Rakdos Lampooner": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "chaotic evil",
 			"Armor Class": 12,
 			"Armor Type": "leather armor",
@@ -92289,7 +92289,7 @@
 		"Rakdos Blade Juggler": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "chaotic evil",
 			"Armor Class": 13,
 			"Hit Dice": "4d8",
@@ -92386,7 +92386,7 @@
 		"Rakdos Fire Eater": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "chaotic evil",
 			"Armor Class": 13,
 			"Hit Dice": "4d8",
@@ -92488,7 +92488,7 @@
 		"Rakdos High-Wire Acrobat": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "chaotic evil",
 			"Armor Class": 13,
 			"Hit Dice": "4d8",
@@ -92768,7 +92768,7 @@
 		"Horn Caller": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "lawful good",
 			"Armor Class": 13,
 			"Armor Type": "hide armor",
@@ -92880,7 +92880,7 @@
 		"Zegana": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "merfolk",
+			"Subtype": "merfolk",
 			"Alignment": "lawful neutral",
 			"Armor Class": 16,
 			"Armor Type": "natural armor",
@@ -93063,7 +93063,7 @@
 		"Biomancer": {
 			"Size": "Medium",
 			"Type": "humanoid",
-			"SubType": "any race",
+			"Subtype": "any race",
 			"Alignment": "neutral good",
 			"Armor Class": 17,
 			"Armor Type": "splint",
@@ -94057,7 +94057,7 @@
 		"Zetalpa, Primal Dawn": {
 			"Size": "Gargantuan",
 			"Type": "monstrosity",
-			"SubType": "titan",
+			"Subtype": "titan",
 			"Alignment": "unaligned",
 			"Armor Class": 25,
 			"Armor Type": "natural armor",
@@ -94208,7 +94208,7 @@
 		"Nezahal, Primal Tide": {
 			"Size": "Gargantuan",
 			"Type": "monstrosity",
-			"SubType": "titan",
+			"Subtype": "titan",
 			"Alignment": "unaligned",
 			"Armor Class": 25,
 			"Armor Type": "natural armor",
@@ -94359,7 +94359,7 @@
 		"Etali, Primal Storm": {
 			"Size": "Gargantuan",
 			"Type": "monstrosity",
-			"SubType": "titan",
+			"Subtype": "titan",
 			"Alignment": "unaligned",
 			"Armor Class": 25,
 			"Armor Type": "natural armor",
@@ -94510,7 +94510,7 @@
 		"Tetzimoc, Primal Death": {
 			"Size": "Gargantuan",
 			"Type": "monstrosity",
-			"SubType": "titan",
+			"Subtype": "titan",
 			"Alignment": "unaligned",
 			"Armor Class": 25,
 			"Armor Type": "natural armor",
@@ -94681,7 +94681,7 @@
 		"Ghalta, Primal Hunter": {
 			"Size": "Gargantuan",
 			"Type": "monstrosity",
-			"SubType": "titan",
+			"Subtype": "titan",
 			"Alignment": "unaligned",
 			"Armor Class": 25,
 			"Armor Type": "natural armor",
@@ -94832,7 +94832,7 @@
 		"Zacma, Primal Calamity": {
 			"Size": "Gargantuan",
 			"Type": "monstrosity",
-			"SubType": "titan",
+			"Subtype": "titan",
 			"Alignment": "unaligned",
 			"Armor Class": 25,
 			"Armor Type": "natural armor",
@@ -95191,6 +95191,847 @@
 			},
 			"Book": "Plane Shift Ixalan",
 			"Page": 37
+		}
+	},
+	"The Lost Kenku": {
+		"Wizard of Weirding": {
+			"Size": "Medium",
+			"Type": "undead",
+			"Alignment": "Lawful Evil",
+			"Armor Class": 15,
+			"Armor Type": "natural armor",
+			"Hit Dice": "16d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 11,
+				"Dexterity": 12,
+				"Constitution": 16,
+				"Intelligence": 19,
+				"Wisdom": 17,
+				"Charisma": 17
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": true,
+				"Intelligence": true,
+				"Wisdom": true,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": true,
+				"History": true,
+				"Insight": true,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": true,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+				"cold",
+				"lightning",
+				"necrotic"
+			],
+			"Damage Immunities": [
+				"poison",
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"Condition Immunities": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"paralyzed",
+				"poisoned"
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 120,
+				"Blind": false
+			},
+			"Languages": [
+				"Deep Speech",
+				"Undercommon",
+				"telepathy 120 ft."
+			],
+			"Challenge": 10,
+			"Experience": 5900,
+			"Features": {
+				"Magic Resistance": {
+					"Description": [
+						"The alhoon has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				"Innate Spellcasting (Psionics)": {
+					"Description": [
+						"The alhoon's innate spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no components:"
+					],
+					"At will": [
+						"Detect Thoughts",
+						"Levitate"
+					],
+					"1/day each": [
+						"Dominate Monster",
+						"Plane Shift (self only)"
+					]
+				},
+				"Spellcasting": {
+					"Description": [
+						"The alhoon is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The alhoon has the following wizard spells prepared:"
+					],
+					"Cantrips (at will)": [
+						"Chill Touch",
+						"Dancing Lights",
+						"Mage Hand",
+						"Prestidigitation",
+						"Shocking Grasp"
+					],
+					"1st level (4 slots)": [
+						"Detect Magic",
+						"Disguise Self",
+						"Magic Missile",
+						"Shield"
+					],
+					"2nd level (3 slots)": [
+						"Invisibility",
+						"Mirror Image",
+						"Scorching Ray"
+					],
+					"3rd level (3 slots)": [
+						"Counterspell",
+						"Fly",
+						"Lightning Bolt"
+					],
+					"4th level (3 slots)": [
+						"Confusion",
+						"Evard's Black Tentacles",
+						"Phantasmal Killer"
+					],
+					"5th level (2 slots)": [
+						"Modify Memory",
+						"Wall of Force"
+					],
+					"6th level (1 slot)": [
+						"Disintegrate",
+						"Globe of Invulnerability"
+					]
+				},
+				"Turn Resistance": {
+					"Description": [
+						"The alhoon has advantage on saving throws against any effect that turns undead."
+					]
+				}
+			},
+			"Actions": {
+				"Chilling Grasp": {
+					"Description": [
+						"Melee Spell Attack: +8 to hit. reach 5 ft., one target. Hit: 10 (3d6) cold damage."
+					]
+				},
+				"Mind Blast (Recharge 5-6)": {
+					"Description": [
+						"The alhoon magically emits psychic energy in a 6O-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stµnned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+					]
+				}
+			},
+			"Book": "The Lost Kenku",
+			"Page": 3
+		},
+		"Mez Kara": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"Subtype": "high-elf",
+			"Alignment": "Lawful Neutral",
+			"Armor Class": 10,
+			"Hit Dice": "2d8",
+			"Speed": {
+				"Walk": 35,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 10,
+				"Dexterity": 12,
+				"Constitution": 10,
+				"Intelligence": 15,
+				"Wisdom": 10,
+				"Charisma": 11
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": false,
+				"History": true,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+
+			],
+			"Condition Immunities": [
+
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 60,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Elvish",
+				"Halfling"
+			],
+			"Challenge": "1/4",
+			"Experience": 50,
+			"Features": {
+				"Fey Ancestry": {
+					"Description": [
+						"Mez has advantage on saving throws against being charmed, and magic can't put her to sleep."
+					]
+				},
+				"Mask of the Wild": {
+					"Description": [
+						"Mez can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+					]
+				},
+				"Spellcasting": {
+					"Description": [
+						"Mez is a 1st-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:"
+					],
+					"Cantrips (at will)": [
+						"Fire Bolt",
+						"Mending",
+						"Prestidigitation"
+					],
+					"1st level (2 slots)": [
+						"Burning Hands",
+						"Charm Person",
+						"Disguise Self",
+						"Friendship",
+						"Shield"
+					]
+				}
+			},
+			"Actions": {
+				"Dagger": {
+					"Description": [
+						"Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 2 (1d4) piercing damage."
+					]
+				}
+			},
+			"Book": "The Lost Kenku",
+			"Page": 3
+		},
+		"Gregor Forskog": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"Subtype": "half-orc",
+			"Alignment": "any non-lawful alignment",
+			"Armor Class": 15,
+			"Armor Type": "studded leather",
+			"Hit Dice": "10d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 17,
+				"Dexterity": 16,
+				"Constitution": 15,
+				"Intelligence": 14,
+				"Wisdom": 11,
+				"Charisma": 14
+			},
+			"Saving Throws": {
+				"Strength": true,
+				"Dexterity": true,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": true,
+				"Deception": true,
+				"History": false,
+				"Insight": false,
+				"Intimidation": true,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+
+			],
+			"Condition Immunities": [
+
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 60,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Orc"
+			],
+			"Challenge": 2,
+			"Experience": 450,
+			"Features": {
+				"Relentless Endurance": {
+					"Description": [
+						"When Gregor is reduced to 0 hit points but not killed outright, he can drop to 1 hit point instead. He can't use this feature again until he finishes a long rest."
+					]
+				},
+				"Savage Attacks": {
+					"Description": [
+						"When Gregor scores a critical hit with a melee weapon attack, he can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers."
+					]
+				},
+				"Scimitar": {
+					"Description": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
+					]
+				},
+				"Dagger": {
+					"Description": [
+						"Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+					]
+				}
+			},
+			"Reactions": {
+				"Parry": {
+					"Description": [
+						"The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon."
+					]
+				}
+			},
+			"Book": "The Lost Kenku",
+			"Page": 4
+		},
+		"Tooth": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"Subtype": "lizardfolk",
+			"Alignment": "nuetral",
+			"Armor Class": 14,
+			"Armor Type": "natural armor",
+			"Hit Dice": "2d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 11,
+				"Dexterity": 12,
+				"Constitution": 14,
+				"Intelligence": 10,
+				"Wisdom": 11,
+				"Charisma": 10
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  true
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+
+			],
+			"Condition Immunities": [
+
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common"
+			],
+			"Challenge": "1/8",
+			"Experience": 25,
+			"Actions": {
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +3 to hit, reach 5 ft., one' target. Hit: 3 (1d6) piercing damage."
+					]
+				},
+				"Scimitar": {
+					"Description": [
+						"Melee Weapon Attack: +3 to hit, reach 5 ft., one' target. Hit: 4 (1d6 + 1) slashing damage."
+					]
+				},
+				"Light Crossbow": {
+					"Description": [
+						"Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage."
+					]
+				}
+			},
+			"Book": "The Lost Kenku",
+			"Page": 4
+		},
+		"Cat Keeper": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"Subtype": "goliath",
+			"Alignment": "lawful neutral",
+			"Armor Class": 12,
+			"Armor Type": "leather armor",
+			"Hit Dice": "2d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 13,
+				"Dexterity": 12,
+				"Constitution": 13,
+				"Intelligence": 10,
+				"Wisdom": 10,
+				"Charisma": 10
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": true,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+
+			],
+			"Condition Immunities": [
+
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Giant"
+			],
+			"Challenge": "1/8",
+			"Experience": 25,
+			"Features": {
+				"Stone's Endurance": {
+					"Description": [
+						"Cat can focus herself to occasionally shrug off injury. When she takes damage, she can use her reaction to roll a d12. Add her Constitution modifier to the number rolled, and reduce the damage by that total. After she uses this trait, she can’t use it again until you finish a short or long rest."
+					]
+				},
+				"Powerful Build": {
+					"Description": [
+						"Cat counts as one size larger when determining her carrying capacity and the weight she can push, drag, or lift."
+					]
+				}
+			},
+			"Actions": {
+				"Scimitar": {
+					"Description": [
+						"Melee Weapon Attack: +3 to hit, reach 5 ft., one' target. Hit: 4 (1d6 + 1) slashing damage."
+					]
+				},
+				"Light Crossbow": {
+					"Description": [
+						"Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage."
+					]
+				}
+			},
+			"Book": "The Lost Kenku",
+			"Page": 4
+		},
+		"Cawkrin Jones": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"Subtype": "any race",
+			"Alignment": "any alignment",
+			"Armor Class": 16,
+			"Armor Type": "studded leather",
+			"Hit Dice": "13d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 11,
+				"Dexterity": 20,
+				"Constitution": 14,
+				"Intelligence": 11,
+				"Wisdom": 12,
+				"Charisma": 12
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": true,
+				"Constitution": false,
+				"Intelligence": true,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": true,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": true,
+				"Deception": true,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": true,
+				"Stealth": true,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+
+			],
+			"Damage Resistances": [
+
+			],
+			"Damage Immunities": [
+
+			],
+			"Condition Immunities": [
+
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Auran",
+				"Common",
+				"Thieves' Cant"
+			],
+			"Challenge": 5,
+			"Experience": 1800,
+			"Features": {
+				"Cunning Action": {
+					"Description": [
+						"On each of Cawkrins turns, he can use a bonus action to take the Dash, Disengage, or Hide action."
+					]
+				},
+				"Evasion": {
+					"Description": [
+						"If Cawkrin is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, he instead takes no damage if he succeeds on the saving throw, and only half damage if he fails."
+					]
+				},
+				"Sneak Attack (1/Turn)": {
+					"Description": [
+						"Cawkrin deals an extra 14 (4d6) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of he that isn't incapacitated and he doesn't have disadvantage on the attack roll."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"Cawkrin makes three attacks with its shortsword."
+					]
+				},
+				"Shortsword": {
+					"Description": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
+					]
+				},
+				"Light Crossbow": {
+					"Description": [
+						"Ranged Weapon Attack: +7 to hit, range 80/320 ft., one target. Hit: 8 (1d8 + 4) piercing damage."
+					]
+				}
+			},
+			"Reactions": {
+				"Uncanny Dodge": {
+					"Description": [
+						"Cawkrin halves the damage that he takes from an attack that hits him. Cawkrin must be able to see the attacker."
+					]
+				}
+			},
+			"Book": "The Lost Kenku",
+			"Page": 5
+		}
+	},
+	"Tomb of Annihilation": {
+		"Kamadan": {
+			"Size": "Large",
+			"Type": "monstrosity",
+			"Subtype": "",
+			"Alignment": "unaligned",
+			"Armor Class": 13,
+			"Armor Type": "",
+			"Hit Dice": "9d10",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 16,
+				"Dexterity": 16,
+				"Constitution": 14,
+				"Intelligence": 3,
+				"Wisdom": 14,
+				"Charisma": 10
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": true,
+				"Survival":  false
+			},
+			"Damage Vulnerabilities": [
+		
+			],
+			"Damage Resistances": [
+				
+			],
+			"Damage Immunities": [
+		
+			],
+			"Condition Immunities": [
+		
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				
+			],
+			"Challenge": 4,
+			"Experience": 1100,
+			"Features": {
+				"Keen Smell": {
+					"Description": [
+						"The kamadan has advantage on Wisdom (Perception) checks that rely on smell."
+					]
+				},
+				"Pounce": {
+					"Description": [
+						"If the kamadan moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is knocked prone, the kamadan can make two attacks-one with its bite and one with its snakes-against it as a bonus action."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The kamadan makes two attacks: one with its bite or claw and one with its snakes."
+					]
+				},
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+					]
+				},
+				"Claw": {
+					"Description": [
+						"Melee Weapon Attack: +5 to  hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
+					]
+				},
+				"Snakes": {
+					"Description": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one."
+					]
+				},
+				"Sleep Breath (Recharges after a Short or Long Rest)": {
+					"Description": [
+						"The kamadan exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 12 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if it takes damage or someone uses an action to wake it."
+					]
+				}
+			},
+			"Book": "Tomb of Annihilation",
+			"Page": 225
 		}
 	}
 }
