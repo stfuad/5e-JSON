@@ -5775,6 +5775,168 @@
 			"Page": 93
 		}
 	},
+	"Out of the Abyss": {
+		"Dawnbringer": {
+			"Type": "Weapon (longsword)",
+			"Rarity": "legendary",
+			"Attunement": true,
+			"Description": [
+				"Lost for ages in the Underdark, Dawnbringer appears to be a gilded longsword hilt. While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with shortswords or longswords, you are proficient with the sun blade.",
+				"While holding this weapon you can use an action to touch a creature with the blade and cast lesser restoration on that creature. Once used, this ability can't be used again until the next dawn.",
+				"You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra 1d8 radiant damage.",
+				"The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.",
+				"Sentience# Dawnbringer is a sentient neutral good weapon with an Intelligence of 12, a Wisdom of 15, and a Charisma of 14. It has hearing and darkvision out to a range of 120 feet.",
+				"The sword can speak, read, and understand Common, and it can communicate with its wielder telepathically. Its voice is kind and feminine. It knows every language you know while you're attuned to it.",
+				"Personality# Forged by ancient sun worshipers, Dawnbringer is meant to bring light into darkness and to fight creatures of darkness. It is kind and compassionate to those in need, but fierce and destructive to its enemies.",
+				"Long years lost in darkness have made Dawnbringer frightened of both the dark and abandonment. It prefers that its blade always be present and shedding light in areas of darkness, and it strongly resists being parted from its wielder for any length of time."
+			],
+			"Book": "Out of the Abyss",
+			"Page": 222
+		},
+		"Piwafwi (Cloak of Elvenkind)": {
+			"Type": "Wonderous item",
+			"Rarity": "uncommon",
+			"Attunement": true,
+			"Description": [
+				"This dark spider-silk cloak is made by drow. It is a cloak of elvenkind. It loses its magic if exposed to sunlight for 1 hour without interruption."
+			],
+			"Book": "Out of the Abyss",
+			"Page": 222
+		},
+		"Piwafwi of Fire Resistance": {
+			"Type": "Wonderous item",
+			"Rarity": "uncommon",
+			"Attunement": true,
+			"Description": [
+				"This dark spider-silk cloak is made by drow. It is a cloak of elvenkind. It also grants you resistance to fire damage while you wear it. It loses its magic if exposed to sunlight for 1 hour without interruption."
+			],
+			"Book": "Out of the Abyss",
+			"Page": 222
+		},
+		"Spell Gem": {
+			"Type": "Wonderous item",
+			"Rarity": "",
+			"Attunement": false,
+			"Description": [
+				"A spell gem can contain one spell from any class's spell list. You become aware of the spell when you learn the gem's properties. While holding the gem, you can cast the spell from it as an action if you know the spell or if the spell is on you class's spell list. Doing so doesn't require any components and doesn't require attunement. The spell then disapears from the gem.",
+				"If the spell is of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equal 10 + the spells level. On a failed check, the spell disapears from the gem with no other effect.",
+				"Each spell gem has a maximum level for the spell it can store. The spell level determines the gem's rarity and the stored spell's saving throw DC and attack bonus, as shown in the Spell Gem Table.",
+				"You can imbue the gem with a spell if you're attuned to it and it's empty. To do so, you can cast the spell while holding the gem. The spell is stored in the gem instead of having any effect. Casting the spell must require either 1 action or 1 minute or longer, and the spell's level must be no higher than the gem's maximum. If the spell belongs to the school of abjuration and requires material components that are consumed, you must provide them, but they can be worth half as much as normal.",
+				"Once imbued with a spell, the gem can't be imbued again until the next dawn.",
+				"Deep gnomes created these magic gemstones and keep the creation process a secret."
+			],
+			"Spell Gem Table": {
+				"Title": "Spell Gem",
+				"Headers": [
+					"Max. Spell Level",
+					"Gemstone",
+					"Rarity",
+					"Save DC",
+					"Attack Bonus"
+				],
+				"Rows": [
+					{
+						"Max. Spell Level": "Cantrip",
+						"Gemstone": "Obsidian",
+						"Rarity": "Uncommon",
+						"Save DC": "13",
+						"Attack Bonus": "+5"
+					},
+					{
+						"Max. Spell Level": "1st",
+						"Gemstone": "Lapis Lazuli",
+						"Rarity": "Uncommon",
+						"Save DC": "13",
+						"Attack Bonus": "+5"
+					},
+					{
+						"Max. Spell Level": "2nd",
+						"Gemstone": "Quartz",
+						"Rarity": "Rare",
+						"Save DC": "13",
+						"Attack Bonus": "+5"
+					},
+					{
+						"Max. Spell Level": "3rd",
+						"Gemstone": "Bloodstone",
+						"Rarity": "Rare",
+						"Save DC": "15",
+						"Attack Bonus": "+7"
+					},
+					{
+						"Max. Spell Level": "4th",
+						"Gemstone": "Amber",
+						"Rarity": "Very rare",
+						"Save DC": "15",
+						"Attack Bonus": "+9"
+					},
+					{
+						"Max. Spell Level": "5th",
+						"Gemstone": "Jade",
+						"Rarity": "Very rare",
+						"Save DC": "17",
+						"Attack Bonus": "+9"
+					},
+					{
+						"Max. Spell Level": "6th",
+						"Gemstone": "Topaz",
+						"Rarity": "Very rare",
+						"Save DC": "17",
+						"Attack Bonus": "+10"
+					},
+					{
+						"Max. Spell Level": "7th",
+						"Gemstone": "Star ruby",
+						"Rarity": "Legendary",
+						"Save DC": "18",
+						"Attack Bonus": "+10"
+					},
+					{
+						"Max. Spell Level": "8th",
+						"Gemstone": "Ruby",
+						"Rarity": "Legendary",
+						"Save DC": "18",
+						"Attack Bonus": "+10"
+					},
+					{
+						"Max. Spell Level": "9th",
+						"Gemstone": "Diamond",
+						"Rarity": "Legendary",
+						"Save DC": "19",
+						"Attack Bonus": "+11"
+					}
+				]
+			},
+			"Book": "Out of the Abyss",
+			"Page": 223
+		},
+		"Stonespeaker Crystal": {
+			"Type": "Wonderous item",
+			"Rarity": "rare",
+			"Attunement": true,
+			"Description": [
+				"Created by the stone giant librarians of Gravenhollow, this nineteen-inch-long shard of quartz grants you advantage on Intelligence (Investigation) checks while it is on your person.",
+				"The crystal has 10 charges. While holding it, you can use an action to expend some of its charges to cast one of the following spells from it: speak with animals (2 charges), speak with dead (4 charges), or speak with plants (3 charges).",
+				"When you cast a divination spell, you can use the crystal in place of one material component that would normally by consumed by the spell. The crystal is not consumed when used in this way.",
+				"The crystal regains 1d6 + 4 expended charges daily at dawn. If you expend the crystal's last charge, roll a d20. On a 1, the crystal vanishes, lost forever."
+			],
+			"Book": "Out of the Abyss",
+			"Page": 223
+		},
+		"Wand of Viscid Globs": {
+			"Type": "Wand",
+			"Rarity": "rare",
+			"Attunement": true,
+			"Description": [
+				"Crafted by the drow, this slim black wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cause a small glob of viscous material to launch from the tip at one creature within 60 feet of you. Make a ranged attack roll against the target, with a bonus equal to your spellcasting modifier (or your Intelligence modifier, if you don't have a spellcasting ability) plus your proficiency bonus. On a hit, the glob expands and dries on the target, which is restrained for 1 hour. After that time, the viscous material cracks and falls away.",
+				"Applying a pint or more of alcohol to the restrained creature dissolves the glob instantly, as does the application of oil of etherealness or universal solvant. The glob also dissolves instantly if exposed to sunlight. No other nonmagical process can remove the viscous material until it deteriorates on its own.",
+				"The wand regains 1d6 + 1 expended charges daily at midnight. If you expend the wand's last charge, roll a d20. On a 1, the wand melts into harmless slime and is destroyed.",
+				"A wand of viscid globs is destroyed if exposed to sunlight for 1 hour without interruption."
+			],
+			"Book": "",
+			"Page": 
+		}
+	},
 	"Guildmaster's Guide to Ravnica": {
 		"Guild Keyrune": {
 			"Type": "Wondrous item",
@@ -5950,7 +6112,7 @@
 				]
 			},
 			"2nd-Level Spells Table": {
-				"Title": "",
+				"Title": "2nd-Level Spells",
 				"Headers": [
 					"d6",
 					"Spells"
@@ -5995,7 +6157,7 @@
 				]
 			},
 			"3rd-Level Spells Table": {
-				"Title": "",
+				"Title": "3rd-Level Spells",
 				"Headers": [
 					"d6",
 					"Spells"
@@ -6040,7 +6202,7 @@
 				]
 			},
 			"4th-Level Spells Table": {
-				"Title": "",
+				"Title": "4th-Level Spells",
 				"Headers": [
 					"d4",
 					"Spells"
@@ -6073,7 +6235,7 @@
 				]
 			},
 			"5th-Level Spells Table": {
-				"Title": "",
+				"Title": "5th-Level Spells",
 				"Headers": [
 					"d4",
 					"Spells"

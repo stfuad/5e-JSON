@@ -1,0 +1,425 @@
+/* Race Data */
+
+,
+"": [
+    {
+        "Level": 0,
+        "Size": "Medium",
+        "Ability Scores": {
+            "Strength": 0,
+            "Dexterity": 0,
+            "Constitution": 0,
+            "Wisdom": 0,
+            "Intelligence": 0,
+            "Charisma": 0
+        },
+        "Saving Throws": {
+            "Strength": false,
+            "Dexterity": false,
+            "Constitution": false,
+            "Intelligence": false,
+            "Wisdom": false,
+            "Charisma": false
+        },
+        "Senses": {
+            "Blindsight": 0,
+            "Darkvision": 0,
+            "Tremorsense": 0,
+            "Truesight": 0,
+            "Blind": false
+        },
+        "Skills": {
+            "Acrobatics": false,
+            "Animal Handling": false,
+            "Arcana": false,
+            "Athletics": false,
+            "Deception": false,
+            "History": false,
+            "Insight": false,
+            "Intimidation": false,
+            "Investigation": false,
+            "Medicine": false,
+            "Nature": false,
+            "Perception": false,
+            "Performance": false,
+            "Persuasion": false,
+            "Religion": false,
+            "Sleight of Hand": false,
+            "Stealth": false,
+            "Survival":  false
+        },
+        "Speeds": {
+            "Walk": 0,
+            "Burrow": 0,
+            "Climb": 0,
+            "Fly": 0,
+            "Swim": 0
+        },
+        "Weapon Proficiencies": {
+            "Club": false,
+            "Dagger": false,
+            "Greatclub": false,
+            "Handaxe": false,
+            "Javelin": false,
+            "Light Hammer": false,
+            "Mace": false,
+            "Quarterstaff": false,
+            "Sickle": false,
+            "Spear": false,
+            "Unarmed Strike": false,
+            "Crossbow Light": false,
+            "Dart": false,
+            "Shortbow": false,
+            "Sling": false,
+            "Battleaxe": false,
+            "Flail": false,
+            "Glaive": false,
+            "Greataxe": false,
+            "Greatsword": false,
+            "Halberd": false,
+            "Kopesh": false,
+            "Lance": false,
+            "Longsword": false,
+            "Maul": false,
+            "Morningstar": false,
+            "Pike": false,
+            "Rapier": false,
+            "Scimitar": false,
+            "Shortsword": false,
+            "Trident": false,
+            "War Pick": false,
+            "Warhammer": false,
+            "Whip": false,
+            "Blowgun": false,
+            "Crossbow Hand": false,
+            "Crossbow Heavy": false,
+            "Longbow": false,
+            "Net": false,
+            "Simple": false,
+            "Martial": false,
+            "All": false
+        },
+        "Armor Proficiencies": {
+            "Light": false,
+            "Medium": false,
+            "Heavy": false,
+            "All": false
+        },
+        "Tool Proficiencies": {
+            "Alchemist's Supplies": false,
+            "Brewer's Supplies": false,
+            "Calligraphers Supplies": false,
+            "Carpenter's Tools": false,
+            "Cartographer's Tools": false,
+            "Cobbler's Tools": false,
+            "Cook's Tools": false,
+            "Glassblower's Tools": false,
+            "Jeweler's Tools": false,
+            "Leatherworker's Tools": false,
+            "Mason's Tools": false,
+            "Painter's Supplies": false,
+            "Potter's Tools": false,
+            "Smith's Tools": false,
+            "Tinker's Tools": false,
+            "Weaver's Tools": false,
+            "Woodcarver's Tools": false,
+            "Disguise Kit": false,
+            "Forgery Kit": false,
+            "Herbalism Kit": false,
+            "Bagpipes": false,
+            "Drum": false,
+            "Dulcimer": false,
+            "Flute": false,
+            "Lute": false,
+            "Lyre": false,
+            "Horn": false,
+            "Pan Flute": false,
+            "Shawm": false,
+            "Viol": false,
+            "Navigator's Tools": false,
+            "Poisoner's Kit": false,
+            "Thieves' Tools": false
+        },
+        "Languages": {
+            "Abyssal": false,
+            "Aquan": false,
+            "Aarakocra": false,
+            "Auran": false,
+            "Aven": false,
+            "Celestial": false,
+            "Common": false,
+            "Deep Speech": false,
+            "Draconic": false,
+            "Druidic": false,
+            "Dwarvish": false,
+            "Elvish": false,
+            "Giant": false,
+            "Gith": false,
+            "Gnomish": false,
+            "Goblin": false,
+            "Gnoll": false,
+            "Grung": false,
+            "Halfling": false,
+            "Ignan": false,
+            "Infernal": false,
+            "Keldon": false,
+            "Loxodon": false,
+            "Merfolk": false,
+            "Minotaur": false,
+            "Orc": false,
+            "Primordial": false,
+            "Sylvan": false,
+            "Terran": false,
+            "Undercommon": false,
+            "Vampire": false,
+            "Vedalken": false
+        },
+        "Damage Resistances": {
+            "Acid": false,
+            "Bludgeoning": false,
+            "Cold": false,
+            "Fire": false,
+            "Force": false,
+            "Lightning": false,
+            "Necrotic": false,
+            "Piercing": false,
+            "Poison": false,
+            "Psychic": false,
+            "Radiant": false,
+            "Slashing": false,
+            "Thunder": false
+        },
+        "Damage Immunities": {
+            "Acid": false,
+            "Bludgeoning": false,
+            "Cold": false,
+            "Fire": false,
+            "Force": false,
+            "Lightning": false,
+            "Necrotic": false,
+            "Piercing": false,
+            "Poison": false,
+            "Psychic": false,
+            "Radiant": false,
+            "Slashing": false,
+            "Thunder": false
+        },
+        "Condition Immunities": {
+            "Blinded": false,
+            "Charmed": false,
+            "Deafened": false,
+            "Frightened": false,
+            "Grappled": false,
+            "Incapacitated": false,
+            "Invisible": false,
+            "Paralyzed": false,
+            "Petrified": false,
+            "Poisoned": false,
+            "Prone": false,
+            "Restrained": false,
+            "Stunned": false,
+            "Unconcious": false
+        },
+        "Traits": {
+            
+        },
+        "Spells": [
+
+        ]
+    },
+    {
+        "Level": 3,
+        "Traits": {
+
+        },
+        "Spells": [
+
+        ]
+    },
+    {
+        "Level": 5,
+        "Traits": {
+
+        },
+        "Spells": [
+
+        ]
+    }
+]
+
+/* Creature */
+
+,
+"": {
+    "Size": "",
+    "Type": "",
+    "SubType": "",
+    "Alignment": "",
+    "Armor Class": 0,
+    "Armor Type": "",
+    "Hit Dice": "",
+    "Speed": {
+        "Walk": 0,
+        "Burrow": 0,
+        "Climb": 0,
+        "Fly": 0,
+        "Swim": 0,
+        "Hover": false
+    },
+    "Ability Scores": {
+        "Strength": 0,
+        "Dexterity": 0,
+        "Constitution": 0,
+        "Intelligence": 0,
+        "Wisdom": 0,
+        "Charisma": 0
+    },
+    "Saving Throws": {
+        "Strength": false,
+        "Dexterity": false,
+        "Constitution": false,
+        "Intelligence": false,
+        "Wisdom": false,
+        "Charisma": false
+    },
+    "Skills": {
+        "Acrobatics": false,
+        "Animal Handling": false,
+        "Arcana": false,
+        "Athletics": false,
+        "Deception": false,
+        "History": false,
+        "Insight": false,
+        "Intimidation": false,
+        "Investigation": false,
+        "Medicine": false,
+        "Nature": false,
+        "Perception": false,
+        "Performance": false,
+        "Persuasion": false,
+        "Religion": false,
+        "Sleight of Hand": false,
+        "Stealth": false,
+        "Survival":  false
+    },
+    "Damage Vulnerabilities": [
+
+    ],
+    "Damage Resistances": [
+        
+    ],
+    "Damage Immunities": [
+
+    ],
+    "Condition Immunities": [
+
+    ],
+    "Senses": {
+        "Blindsight": 0,
+        "Darkvision": 0,
+        "Tremorsense": 0,
+        "Truesight": 0,
+        "Blind": false
+    },
+    "Languages": [
+        
+    ],
+    "Challenge": 0,
+    "Experience": 0,
+    "Features": {
+        "": {
+            "Description": [
+                ""
+            ]
+        }
+    },
+    "Actions": {
+        "": {
+            "Description": [
+                ""
+            ]
+        }
+    },
+    "Legendary Actions": {
+        "Description": [
+
+        ],
+        "": {
+            "Description": [
+                ""
+            ]
+        }
+    },
+    "Reactions": {
+        "": {
+            "Description": [
+                ""
+            ]
+        }
+    },
+    "Book": "",
+    "Page": 0
+}
+
+/* Magic Item */
+
+,
+"": {
+    "Type": "",
+    "Rarity": "",
+    "Attunement": false,
+    "Description": [
+        
+    ],
+    "Book": "",
+    "Page": 
+}
+
+/* Misc */
+
+"Features Table": {
+    "Title": "",
+    "Headers": [
+        "Level",
+        "Features"
+    ],
+    "Rows": [
+        {
+            "Level": ,
+            "Features": [
+                
+            ]
+        },
+        {
+            "Level": ,
+            "Features": [
+                
+            ]
+        },
+        {
+            "Level": ,
+            "Features": [
+                
+            ]
+        },
+        {
+            "Level": ,
+            "Features": [
+                
+            ]
+        },
+        {
+            "Level": ,
+            "Features": [
+                
+            ]
+        }
+    ]
+},
+
+,
+"": {
+    "Description": [
+        ""
+    ]
+}
