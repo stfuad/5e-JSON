@@ -79,7 +79,7 @@
 		],
 		"Aasimar Guides": {
 			"Description": [
-				"An aasimar, except for one who has turned to evil, has a link to an angelic being. That being-  usually a deva-provides guidance to the aasimar, though this connection functions only in dreams. As such, the guidance is not a direct command or a simple spoken word. Instead, the aasimar receives visions, prophecies, and feelings.",
+				"An aasimar, except for one who has turned to evil, has a link to an angelic being. That being- usually a deva-provides guidance to the aasimar, though this connection functions only in dreams. As such, the guidance is not a direct command or a simple spoken word. Instead, the aasimar receives visions, prophecies, and feelings.",
 				"The angelic being is far from omniscient. Its guidance is based on its understanding of the tenets of law and good, and it might have insight into combating especially powerful evils that it knows about.",
 				"As part of fleshing out an aasimar character, consider the nature of that character's angelic guide. The Angelic Guide tables offer names and natures that you can use to flesh out your character's guide."
 			],
@@ -320,9 +320,6 @@
 			"Speed": [
 				"Your base walking speed is 30 feet."
 			],
-			"Languages": [
-				"You can speak, read, and write Common and Goblin."
-			],
 			"Darkvision": [
 				"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
 			],
@@ -337,6 +334,9 @@
 			],
 			"Surprise Attack": [
 				"If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat."
+			],
+			"Languages": [
+				"You can speak, read, and write Common and Goblin."
 			]
 		},
 		"Books": [
@@ -404,6 +404,61 @@
 		},
 		"Books": [
 			"Guildmaster's Guide to Ravnica"
+		]
+	},
+	"Changeling": {
+		"Description": [
+			"Changelings can shift their forms with a thought. Many changelings use this gift as a form of artistic and emo­tional expression. It's also an invaluable tool for grifters, spies, and others who wish to deceive. This leads many people to treat changelings with suspicion."
+		],
+		"A Hidden People": [
+			"Wherever humans live, changelings reside also; the question is whether their presence is known.",
+			"Changelings are born to one of three paths. A few are raised in stable communities where changelings are true to their nature and deal openly with the people around them. Some are orphans, raised by other races, who find their way in the world without ever knowing another like themselves. Others are part of nomadic changeling clans spread across the Five Nations, fam­ilies who keep their true nature hidden from the sin­gle-skins. Some clans maintain safe havens in major cities and communities, but most prefer to wander the unpredictable path of the god known as the Traveler.",
+			"In creating a changeling adventurer, consider the character's relationships with people around them. Does the character conceal their true changeling na­ture? Do they embrace it? Do they have connections to other changelings or are they alone and in search of companions?"
+		],
+		"Masks and Personas": [
+			"In their true form, changelings are pale, with colorless eyes and silver-white hair. It is rare to see a changeling in that form, for a typical changeling changes their shape the way others might change clothes. A casual shape­one created on the spur of the moment, with no depth or history-is called a mask. A mask can be used to express a mood or to serve a specific purpose and then might never be used again. However, many changelings develop identities that have more depth. They build an identity over time, crafting a persona with a history and beliefs. This focused identity helps a changeling pinpoint a par­ticular skill or emotion. A changeling adventurer might have personas for many situations, including negotiation, investigation, and combat.",
+			"Personas can be shared by multiple changelings; there might be three healers in a community, but whoever is on duty will adopt the persona of Tek, the kindly old medic. Personas can even be passed down through a family, allowing a younger changeling to take advantage of con­tacts established by the persona's previous users."
+		],
+		"Changeling Names": [
+			"A changeling might use a different name for each mask and persona and adopt new names as easily as they change faces. The true name of a changeling tends to be simple and monosyllabic; however, there are often accents to a changeling's name that are expressed through shapeshifting, something single-skins will likely miss. So, two changelings might have the name Jin, but one is Jin-with-vivid-blue-eyes and one is Jin­-with-golden-nails.",
+			"Changelings have a fluid relationship with gender, see­ing it as one characteristic to change among many.",
+			"Changeling Names: Aunn, Bin, Cas, Dox, Fie, Hars, Jin, Lam, Mas, Nix, Ot, Paik, Ruz, Sim, Toox, Vil, Yug"
+		],
+		"Changling Traits": {
+			"Description": [
+				"Your changeling character has the following traits."
+			],
+			"Ability Score Increase": [
+				"Your Charisma score in­creases by 2. In addition, one ability score of your choice increases by 1."
+			],
+			"Age": [
+				"Changelings mature slightly faster than humans but share a similar lifespan-typically a century or less. While a changeling can transform to conceal their age, the effects of aging affect them similarly to humans."
+			],
+			"Alignment": [
+				"Changelings tend toward pragmatic neu­trality, and few changelings embrace evil."
+			],
+			"Size": [
+				"Your size is Medium. To set your height and weight randomly, start with rolling a size modifier:",
+				"Size modifier = 2d4",
+				"Height = 5 feet + 1 inch + your size modifier in inches",
+				"Weight in pounds = 115 + (2d4 x your size modifier)"
+			],
+			"Speed": [
+				"Your base walking speed is 30 feet."
+			],
+			"Shapechanger": [
+				"As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight, but not so much that your size changes. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the ap­pearance of a creature you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren't changed by this trait.",
+				"You stay in the new form until you use an action to re­vert to your true form or until you die."
+			],
+			"Changeling Instincts": [
+				"You gain proficiency with two of the following skills of your choice: Deception, Insight, Intimidation, and Persuasion."
+			],
+			"Languages": [
+				"You can speak, read, and write Common and two other languages of your choice."
+			]
+		},
+		"Books": [
+			"Eberron - Rising from the Last War"
 		]
 	},
 	"Deep Gnome (Svirfneblin)": {
@@ -1375,7 +1430,7 @@
 		],
 		"Unfettered Emotion": [
 			"Creatures of raw impulse, goblins are found among guilds that value that quality, particularly the Tzzet (where they typically serve as attendants for researchers), the Gruul (in camps that form hapless buffers between the clans and civilized regions), the Rakdos (putting their love of explosions to good use), and occasionally the Boros (if they discover a well of discipline and courage within themselves, or find themselves unable to resist the shininess of Boros weapons and armor). Many goblins are guildless and make their way as members of street gangs.",
-			"Sometimes driven by wild mood swings, goblins have an inclination toward destruction, which can take a  playful form but is often anything but. Some goblins clobber things, others like to light them on fire, and many love to blow things up.",
+			"Sometimes driven by wild mood swings, goblins have an inclination toward destruction, which can take a playful form but is often anything but. Some goblins clobber things, others like to light them on fire, and many love to blow things up.",
 			"Goblins have an outrageous sense of humor, usually expressed through mischievous pranks. The malicious among them find pleasure in the misfortune of others and tend to cackle maniacally whenever they're amused. They can act with apparent randomness, sometimes just to confuse and befuddle others."
 		],
 		"Goblin Names": [
@@ -1945,6 +2000,114 @@
 			]
 		}
 	},
+	"Kalashtar": {
+		"Description": [
+			"The kalashtar are a compound people, created from the union of humanity and renegade spirits from the plane of dreams-spirits called quori. Kalashtar are often seen as wise, spiritual people with great compassion for others. There is an unmistakable alien quality to the kalashtar, though, as they are haunted by the conflicts of their otherworldly spirits."
+		],
+		"Bound to Spirits": [
+			"Every kalashtar has a connection to a spirit of light, a bond shared by other members of their bloodline. Ka­lashtar appear human, but their spiritual connection af­fects them in a variety of ways. Kalashtar have symmet­rical, slightly angular features, and their eyes often glow when they are focused or expressing strong emotions.",
+			"Kalashtar can't directly communicate with their quori spirits. Rather, they might experience this relationship as a sense of instinct and inspiration, drawing on the memories of the spirit when they dream. This connec­tion grants kalashtar minor psionic abilities, as well as protection from psychic attacks. All of these quori dream-spirits are virtuous, but some are warriors and others are more contemplative. Work together with the DM to determine the nature of your linked spirit. Typ­ically, a kalashtar knows the name and nature of their spirit, but some may know nothing of their spirit or the source of their psychic gifts, such as an orphan kalashtar raised among strangers.",
+			"The bond to the spirit can cause some kalashtar to display unusual quirks. Consider rolling or selecting a trait from the Kalashtar Quirks table."
+		],
+		"Kalashtar Quirks Table": {
+			"Title": "Kalashtar Quirks",
+			"Headers": [
+				"d10",
+				"Quirk"
+			],
+			"Rows": [
+				{
+					"d10": 1,
+					"Quirk": "You try to understand the motives and feelings of your enemies."
+				},
+				{
+					"d10": 2,
+					"Quirk": "You prefer using telepathy over speaking aloud."
+				},
+				{
+					"d10": 3,
+					"Quirk": "You feel a strong drive to protect the innocent."
+				},
+				{
+					"d10": 4,
+					"Quirk": "You apply dream logic to mundane situations."
+				},
+				{
+					"d10": 5,
+					"Quirk": "You discuss things out loud with your quori spirit."
+				},
+				{
+					"d10": 6,
+					"Quirk": "You suppress your emotions and rely on logic."
+				},
+				{
+					"d10": 7,
+					"Quirk": "You are strongly influenced by the emotions of those around you."
+				},
+				{
+					"d10": 8,
+					"Quirk": "You prefer to find nonviolent solutions to problems whenever possible."
+				},
+				{
+					"d10": 9,
+					"Quirk": "You are driven by a warrior spirit and will fight for any noble cause."
+				},
+				{
+					"d10": 10,
+					"Quirk": "You are obsessed with Dreaming Dark conspiracies."
+				}
+			]
+		},
+		"Hunted By Nightmares": [
+			"The virtuous spirits tied to the kalashtar fled from the dream-realm of Dal Quor to escape evil spirits that dom­inate it. The rebel quori believe that through meditation and devotion, they can change the fundamental nature of Dal Quor, shifting the balance from darkness to light. Most kalashtar communities focus on acts of devotion known as the Path of Light. But the dark powers of Dal Quor have their own plans for Eberron. Through the force known as the Dreaming Dark, these monsters manipulate the folk of Khorvaire to eliminate kalashtar whenever possible.",
+			"Many kalashtar defend themselves from the Dream­ing Dark by focusing on devotion to the Path of Light. Others, though, seek out the agents of the Dreaming Dark and oppose their plans, or protect the innocent however they can. Still other kalashtar grow up isolated, knowing nothing about Dal Quor or the Dreaming Dark. Such orphans might use their abilities for personal gain or otherwise act against the virtuous instincts of their quori spirits; this can cause internal conflicts and violent mood swings. "
+		],
+		"Kalashtar Names": [
+			"A kalashtar name adds a personal prefix to the name of the quori spirit within the kalashtar. Such names have no relation to the kalashtar's gender.",
+			"Kalashtar orphans are unlikely to know the name of their spirit and take names from another source.",
+			"Quori Names: Ashana, Ashtai, Ishara, Hareth, Khad, Kosh, Melk, Nari, Tana, Tari, Tash, Ulad, Vakri, Vash",
+			"Kalashtar Names: Coratash, Dalavash, Dolishara, Ha­lakosh, Khoratari, Koratana, Lanhareth, Molavakri, Nevitash, Sorashana, Torashtai, Valakhad, Vishara"
+		],
+		"Kalashtar Traits": {
+			"Description": [
+				"Your kalashtar character has the following traits."
+			],
+			"Ability Score Increase": [
+				"Your Wisdom score increases by 2, and your Charisma score increases by 1."
+			],
+			"Age": [
+				"Kalashtar mature and age at the same rate as humans."
+			],
+			"Alignment": [
+				"The noble spirit tied to a kalashtar drives it toward lawful and good behavior. Most kalashtar combine strong self-discipline with compassion for all beings, but some kalashtar resist the virtuous influence of their spirit."
+			],
+			"Size": [
+				"Your size is Medium. To set your height and weight randomly, start with rolling a size modifier:",
+				"Size modifier = 2d6",
+				"Height = 5 feet + 4 inches + your size modifier in inches",
+				"Weight in pounds = 110 + (1d6 x your size modifier)"
+			],
+			"Speed": [
+				"Your base walking speed is 30 feet."
+			],
+			"Dual Mind": [
+				"You have advantage on all Wisdom sav­ing throws."
+			],
+			"Mental Discipline": [
+				"You have resistance to psy­chic damage."
+			],
+			"Mind Link": [
+				"You can speak telepathically to any creature you can see, provided the creature is within a number of feet of you equal to 10 times your level. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.",
+				"When you're using this trait to speak telepathically to a creature, you can use your action to give that creature the ability to speak telepathically with you for 1 hour or until you end this effect as an action. To use this ability, the creature must be able to see you and must be within this trait's range. You can give this ability to only one creature at a time; giving it to a creature takes it away from another creature who has it."
+			],
+			"Severed from Dreams": [
+				"Kalashtar sleep, but they don't connect to the plane of dreams as other creatures do. Instead, their minds draw from the memories of their otherworldly spirit while they sleep. As such, you are immune to spells and other magical effects that require you to dream, like dream, but not to spells and other magical effects that put you to sleep, like sleep."
+			],
+			"Languages": [
+				"You can speak, read, and write Common, Quori, and one other language of your choice."
+			]
+		}
+	},
 	"Kenku": {
 		"Description": [
 			"Haunted by an ancient crime that robbed them of their wings, the kenku wander the world as vagabonds and burglars who live at the edge of human society. Kenku suffer from a sinister reputation that is not wholly unearned, but they can prove to be valuable allies."
@@ -2271,7 +2434,7 @@
 		],
 		"Lumbering Giants": [
 			"Loxodons tower above most other humanoids, standing over 7 feet tall. They have the heads-trunks, tusks, ears, and faces-of elephants, and hulking bipedal bodies covered by thick, leathery skin. Each of their hands has four thick digits, and their feet are the flat-bottomed, oval-shaped feet of elephants.",
-			"Like that of an elephant, a loxodon's trunk is a  useful appendage. In addition to providing a keen sense of smell, the trunk can be used to lift and carry even heavy objects. The trunk can be used to carry both food and liquid to the mouth and can even act as a snorkel."
+			"Like that of an elephant, a loxodon's trunk is a useful appendage. In addition to providing a keen sense of smell, the trunk can be used to lift and carry even heavy objects. The trunk can be used to carry both food and liquid to the mouth and can even act as a snorkel."
 		],
 		"Gifted Stoneworkers": [
 			"Loxodons are tireless, patient artisans with an unrivaled intuition about their craft. Although they make nurturing spiritual leaders, their gift for stonework is so ingrained that they are often at a loss when they try to impart that knowledge to others. Among the Selesnya, it primarily falls to loxodons to build the guild's magnificent, cathedral-like arboretum structures."
@@ -2534,11 +2697,11 @@
 	},
 	"Minotaur (Ravnica)": {
 		"Description": [
-			"The minotaurs of Ravnica are strong in body, dedication, and courage. They are at home on the battlefield, willing to fight for their various causes. They combine a burning fury in battle with keen tactics  that make them excellent commanders as well as valuable shock troops."
+			"The minotaurs of Ravnica are strong in body, dedication, and courage. They are at home on the battlefield, willing to fight for their various causes. They combine a burning fury in battle with keen tactics that make them excellent commanders as well as valuable shock troops."
 		],
 		"Horns and Hooves": [
-			"Minotaurs are barrel-chested humanoids with heads resembling those of bulls. Their horns  range in size from about 1 foot long to great, curling weapons easily three times that length. They often ornament their horns with metal rings or sheathe them in metal to protect them from damage.",
-			"Manes of shaggy fur extend down minotaurs' necks and powerful backs, and males have long tufts of hair on their chins and cheeks. Their legs end in heavy, cloven hooves. Minotaurs are born with long, tufted tails, but minotaurs of the Ordruun clan (and some others) have their tails docked as part of a coming-of-age ceremony; they find the heavy armor of the Boros  legion much more comfortable without a long tail in the way."
+			"Minotaurs are barrel-chested humanoids with heads resembling those of bulls. Their horns range in size from about 1 foot long to great, curling weapons easily three times that length. They often ornament their horns with metal rings or sheathe them in metal to protect them from damage.",
+			"Manes of shaggy fur extend down minotaurs' necks and powerful backs, and males have long tufts of hair on their chins and cheeks. Their legs end in heavy, cloven hooves. Minotaurs are born with long, tufted tails, but minotaurs of the Ordruun clan (and some others) have their tails docked as part of a coming-of-age ceremony; they find the heavy armor of the Boros legion much more comfortable without a long tail in the way."
 		],
 		"Strength and Zeal": [
 			"Minotaurs are zealous and love battle. They are found among the Gruul Clans, but the minotaurs of the Ordruun family line, long associated with the Boros Legion, are much better known and respected. Boros minotaurs choose the precision of the legion over the fury of the pack.",
@@ -2547,16 +2710,16 @@
 		"Family and Guild": [
 			"Minotaur legends describe a small pantheon of heroes-perhaps they we re once thought of as gods-who established the minotaurs' place in the world. Every minotaur in Ravnica claims descent from one of these heroes.",
 			"The Ordruun line is the most prominent. with thousands of members descended from an ancient hero who is said to have taught minotaurs the arts of war. Other important family lines include the Kharran line (primarily associated with the Gruul Scab clan), the Drendaa line (found scattered among the Gruul Clans), and the Tazgral line (divided between the Boros and the Gruul, with a significant number in the Rakdos as well).",
-			"Since each family line has so many members, minotaurs don't usually find it helpful to connect the name of the line  to their personal names; even though Commander Grozdan of the Boros  Legion's Kamen Fortress is  a prominent member of the Ordruun line, he would never call himself Grozdan Ordruun the way a human would."
+			"Since each family line has so many members, minotaurs don't usually find it helpful to connect the name of the line to their personal names; even though Commander Grozdan of the Boros Legion's Kamen Fortress is a prominent member of the Ordruun line, he would never call himself Grozdan Ordruun the way a human would."
 		],
 		"Minotaur Names": [
-			"The legends that recount the deeds of ancient minotaur heroes are full of other names as well: those of the retainers, allies, lovers, servants, enemies, and others who played roles, however small, in the lives of the heroes. Almost every minotaur name is drawn from that long list of minor characters of legend, so that those  folk are never forgotten.",
+			"The legends that recount the deeds of ancient minotaur heroes are full of other names as well: those of the retainers, allies, lovers, servants, enemies, and others who played roles, however small, in the lives of the heroes. Almost every minotaur name is drawn from that long list of minor characters of legend, so that those folk are never forgotten.",
 			"Male Names: Alovnek, Brogmir, Brozhdar, Dornik, Drakmir, Orazhan, Grozdan, Kalazmir, Klattic, Melislek, Nirikov, Prezhlek, Radolak, Rugilar, Sarovnek, Svarakov, Trovik, Vraslak, Yarvem",
 			"Female Names: Akra, Bolsa, Cica, Oakka, Drakisla, Eleska, Enka, Irnaya, Jaska, Kalka, Makla, Noraka, Pesha, Raisha, Sokali, Takyat, Vrokya, Veska, Yelka, Zarka, Zoka"
 		],
 		"Minotaur Traits": {
 			"Description": [
-				"Your minotaur character has the following racial traits. These traits are also suitable  for minotaurs in other D&D worlds where these people have avoided the demonic influence of Baphomet."
+				"Your minotaur character has the following racial traits. These traits are also suitable for minotaurs in other D&D worlds where these people have avoided the demonic influence of Baphomet."
 			],
 			"Ability Score Increase": [
 				"Your Strength score increases by 2, and your Constitution score increases by 1."
@@ -2565,7 +2728,7 @@
 				"Most minotaurs who join the Boros Legion lean toward lawful alignments, while those associated with the Cult of Rakdos or the Gruul Clans tend toward chaotic alignments."
 			],
 			"Size": [
-				"Minotaurs average over 6  feet in height, and they have stocky builds. Your size is Medium."
+				"Minotaurs average over 6 feet in height, and they have stocky builds. Your size is Medium."
 			],
 			"Speed": [
 				"Your base walking speed is 30 feet."
@@ -2577,7 +2740,7 @@
 				"Immediately after you use the Dash action on your turn and move at least 20 feet, you can make one melee attack with your horns as a bonus action."
 			],
 			"Hammering Horns": [
-				"Immediately after you hit a creature with a melee attack as part of the Attack action on your turn, you can use a bonus action  to attempt to shove that target with your horns. The target must be no more than one size larger than you and within 5  feet of you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you push it up to 10 feet away from you."
+				"Immediately after you hit a creature with a melee attack as part of the Attack action on your turn, you can use a bonus action to attempt to shove that target with your horns. The target must be no more than one size larger than you and within 5 feet of you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you push it up to 10 feet away from you."
 			],
 			"Imposing Presence": [
 				"You have proficiency in one of the following skills of your choice: Intimidation or Persuasion."
@@ -2679,6 +2842,44 @@
 			"Volo's Guide to Monsters"
 		]
 	},
+	"Orc (Eberron)": {
+		"Description": [
+			"An ore character has the following racial traits."
+		],
+		"Ability Score Increase": [
+			"Your Strength score increases by 2, and your Constitution score in­creases by 1."
+		],
+		"Age": [
+			"Ores reach adulthood at age 12 and live up to 50 years."
+		],
+		"Alignment": [
+			"The ores of Eberron are a passionate peo­ple, given to powerful emotion and deep faith. They are generally chaotic, but can be any alignment."
+		],
+		"Size": [
+			"Your size is Medium. To set your height and weight randomly, start with rolling a size modifier:",
+			"Size modifier = 2d8",
+			"Height = 5 feet + 4 inches + your size modifier in inches",
+			"Weight in pounds = 175 + (2d6 x your size modifier)"
+		],
+		"Speed": [
+			"Your base walking speed is 30 feet."
+		],
+		"Darkvision": [
+			"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+		],
+		"Aggressive": [
+			"As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started."
+		],
+		"Powerful Build": [
+			"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+		],
+		"Primal Intuition": [
+			"You have proficiency in two of the following skills of your choice: Animal Handling, Insight, Intimidation, Medicine, Nature, Perception, and Survival."
+		],
+		"Languages": [
+			"You can speak, read, and write Com­mon and Orc."
+		]
+	},
 	"Orc (Ixalan)": {
 		"Description": [
 			"Orcs originally came from the same mountainous region where the kingdom of Torrezon was born, and they have been enemies of the Legion of Dusk since it was originally formed. The entire race has been declared anathema by the Church of Torrezon, and after centuries of fighting the Legion, the orcs have dwindled to only a few hundred in number. Some still live on remote islands near Torrezon, but many have joined the Brazen Coalition to serve on pirate ships—taking on any role that calls for an abundance of sheer muscle.",
@@ -2720,13 +2921,130 @@
 			]
 		}
 	},
+	"Shifter": {
+		"Description": [
+			"Shifters are sometimes called the weretouched, as many believe they are the descendants of humans and lycanthropes. Whatever their origins, shifters have evolved into a unique race. They are humanoids with a bestial aspect; while they can't fully change shape, they can temporarily enhance their animalistic features-a state they call shifting. Each shifter walks on the knife's edge between the wilds and the world around them. Do they embrace their primal instincts or the path of civilization?"
+		],
+		"The Beast Within": [
+			"Early in childhood, a shifter forms a bond with a beast within, a totemic force that shapes their body and mind. Some shifters believe that these spirits are indepen­dent entities, and they may speak of Bear or Wolf as ancestors or guides. Most just see the beast within as a formidable expression of their inner nature, something that emerges as the shifter's personality takes shape. The beast within is a pool of powerful instincts, and its influence is revealed by a shifter's personality: a feline shifter may be cool and distant, driven by predatory instincts, while a shifter with a lupine spirit might be drawn to find and protect a pack. When a shifter fully embraces this beast within they physically transform for a short time.",
+			"A shifter's beast within is reflected by the shifter's sub­race. Four subraces are especially common:",
+			"Beasthide# often signifies the bear or boar: stoic, stub­born, and thick-skinned.",
+			"Longtooth# shifters typically have lupine traits and pre­fer to run with a pack.",
+			"Swiftstrider# are often predatory and feline, but a swift­stride could also be a cunning rat who darts through the shadows.",
+			"Wildhunt# shifters are born from any creature that tracks its prey.",
+			"While the beast within certainly has a physical impact on a shifter, it has a spiritual and psychological effect, as well. Two beasthide shifters share the same special abil­ity, but if one has the aspect of the boar and the other is more like a bear, they'll be quite different in personality. With any shifter, identifying the beast within is a crucial part of understanding the character."
+		],
+		"Similar and Diverse": [
+			"Shifters are similar to humans in height and build but are typically more lithe and flexible. Their facial fe atures have a bestial cast, often with large eyes, flat noses, and pointed ears; most shifters also have prominent canine teeth. They grow fur-like hair on nearly every part of their bodies.",
+			"The traits of the beast within affect a shifter's ap­pearance as well. A swiftstride shifter may have catlike eyes and delicate build, while a beasthide shifter might be a massive brute built like a bear. While a shifter's appearance might remind an onlooker of an animal, they remain clearly identifiable as shifters even when at their most feral."
+		],
+		"The Journy Yet to Come": [
+			"Shifters have a strong presence in the Eldeen Reaches but can be found in rural areas across Khorvaire, where they often live among humans. While they form powerful bonds to friends and kin, shifters place great value on self-reliance and freedom. It's a shifter proverb to \"always be prepared for the journey yet to come,\" and most shifters strive to be ready for change or opportunity.",
+			"Shifters have a natural inclination toward classes with a primal connection. A shifter barbarian draws their rage from the beast within. A shifter ranger indulges their urge to wander and hunt. A shifter rogue har­nesses their own predatory instincts. But shifters can pursue any path or faith."
+		],
+		"Shifter Names": [
+			"Shifters have no language of their own and often live in blended communities. Their names typically overlap with the names of other cultures in their region. Many shifters prefer to keep their personal names for their friends and use \"wandering names\" with strangers. These are usually tied to a physical or personality trait.",
+			"Shifter Names: Badger, Bear, Cat, Fang, Grace, Grim, Moon, Rain, Red, Scar, Stripe, Swift, Talon, Wolf"
+		],
+		"Shifter Traits": {
+			"Description": [
+				"Your shifter character has the following traits."
+			],
+			"Age": [
+				"Shifters are quick to mature both physically and emotionally, reaching young adulthood at age 10. They rarely live to be more than 70 years old."
+			],
+			"Alignment": [
+				"Shifters tend toward neutrality, being more focused on survival than concepts of good and evil. A love of personal freedom can drive shifters to­ward chaotic alignments."
+			],
+			"Size": [
+				"Your size is Medium. To set your height and weight randomly, start with rolling a size modifier:",
+				"Size modifier = 2d8",
+				"Height = 4 feet + 6 inches + your size modifier in inches",
+				"Weight in pounds = 90 + (2d4 x your size modifier)"
+			],
+			"Speed": [
+				"Your base walking speed is 30 feet."
+			],
+			"Darkvision": [
+				"You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+			],
+			"Shifting": [
+				"As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to your level + your Constitu­tion modifier (minimum of 1 temporary hit point). You also gain additional benefits that depend on your shifter subrace, described below.",
+				"Once you shift, you can't do so again until you finish a short or long rest."
+			],
+			"Languages": [
+				"You can speak, read, and write Common."
+			],
+			"Subrace": [
+				"The beast within shapes each shifter phys­ically and mentally. The four major subraces of shifter include: beasthide, longtooth, swiftstride, and wildhunt. Choose a subrace for your shifter."
+			]
+		},
+		"Subraces": {
+			"Beasthide": {
+				"Description": [
+					"Stoic and solid, a beasthide shifter draws strength and stability from the beast within. Beasthide shifters are typically tied to the bear or the boar, but this subrace could embody any creature known for its toughness."
+				],
+				"Ability Score Increase": [
+					"Your Constitution score in­creases by 2, and your Strength score increases by 1."
+				],
+				"Natural Athelete": [
+					"You have proficiency in the Ath­letics skill."
+				],
+				"Shifting Feature": [
+					"Whenever you shift, you gain 1d6 additional temporary hit points. While shifted, you have a + 1 bonus to your Armor Class."
+				]
+			},
+			"Longtooth": {
+				"Description": [
+					"Longtooth shifters are fierce and aggressive, but they form deep bonds with their friends. Many longtooth shift­ers have canine traits that become more pronounced as they shift, but they might instead draw on tigers, hyenas, or other predators."
+				],
+				"Ability Score Increase": [
+					"Your Strength score in­creases by 2, and your Dexterity score increases by 1."
+				],
+				"Fierce": [
+					"You have proficiency in the Intimidation skill."
+				],
+				"Shifting Feature": [
+					"While shifted, you can use your elongated fangs to make an unarmed strike as a bonus action. If you hit with your fangs, you can deal pierc­ing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an un­armed strike."
+				]
+			},
+			"Swiftstride": {
+				"Description": [
+					"Swiftstride shifters are graceful and quick. Typically feline in nature, swiftstride shifters are often aloof and difficult to pin down physically or socially."
+				],
+				"Ability Score Increase": [
+					"Your Dexterity score increases by 2, and your Charisma score increases by 1."
+				],
+				"Graceful": [
+					"You have proficiency in the Acrobatics skill."
+				],
+				"Shifting Feature": [
+					"While shifted, your walking speed increases by 10 feet. Additionally, you can move up to 10 feet as a reaction when a creature ends its turn within 5 fe et of you. This reactive movement doesn't provoke opportunity attacks."
+				]
+			},
+			"Wildhunt": {
+				"Description": [
+					"Wildhunt shifters are sharp and insightful. Many are constantly alert, ever wary for possible threats. Others focus on their intuition, searching within. Wildhunt shifters are excellent hunters, and they also tend to be­come the spiritual leaders of shifter communities."
+				],
+				"Ability Score Increase": [
+					"Your Wisdom score increases by 2, and your Dexterity increases by 1"
+				],
+				"Natural Tracker": [
+					"You have proficiency in the Sur­vival skill."
+				],
+				"Shifting Feature": [
+					"While shifted, you have advantage on Wisdom checks, and no creature within 30 feet of you can make an attack roll with advantage against you, unless you're incapacitated."
+				]
+			}
+		}
+	},
 	"Simic Hybrid": {
 		"Description": [
 			"The Simic Combine uses magic to fuse different life forms together. In recent years, the Simic Combine has extended this research to humanoid subjects, magically transferring the traits of various animals into humans, elves, and vedalken. The goal of the Guardian Project is to build a Simic army of soldiers perfectly adapted to a variety of combat situations. These hyper-evolved specimens are called Simic hybrids, though they sometimes refer to themselves as guardians."
 		],
 		"Extensive Adaptation": [
 			"A hybrid's biological enhancements can change its appearance drastically, though most hybrids retain their basic physical form. All are augmented with characteristics of animals, mostly aquatic, reptilian, or amphibian creatures. These include crab claws, squid tentacles, wings or fins like those of manta rays, translucent or camouflaged skin, or shark-like maws filled with sharp teeth.",
-			"Hybrids are the product of Simic magic. It's not impossible for a hybrid to leave the Simic Combine and join another guild, but the Simic would consider the individual a deserter. And the new guild might never  fully welcome a hybrid who could easily be a Simic spy."
+			"Hybrids are the product of Simic magic. It's not impossible for a hybrid to leave the Simic Combine and join another guild, but the Simic would consider the individual a deserter. And the new guild might never fully welcome a hybrid who could easily be a Simic spy."
 		],
 		"Simic Hybrid Names": [
 			"A hybrid usually bears the name given by their human, elf, or vedalken parents. Some hybrids assume a new name after their transformation-a name chosen personally or by those who transformed them."
@@ -3369,11 +3687,11 @@
 			"Vedalken are tall and slender, standing almost a head taller than humans on average but weighing about the same. Their hairless skin comes in a range of shades of blue. Their eyes are darker shades of blue or violet. They lack external ears, their noses are broad and fiat, and they are partially amphibious."
 		],
 		"Cool Rationality": [
-			"Despite being talkative, vedalken keep their  personal lives private. and they tend to engage more with ideas than with people. They form close friendships based on mutual interests or compelling disagreements, and their interactions dwell on their thoughts about those issues rather than their feelings about them.",
-			"To members of other races, vedalken often seem cold, even emotionless. That assessment isn't fair-  they feel emotion every bit as intensely as other folk do, but they are skilled at not displaying it. Cool rationality guides their actions, they make and follow careful plans, and they are patient enough to do nothing when the ideal outcome relies on such inaction."
+			"Despite being talkative, vedalken keep their personal lives private. and they tend to engage more with ideas than with people. They form close friendships based on mutual interests or compelling disagreements, and their interactions dwell on their thoughts about those issues rather than their feelings about them.",
+			"To members of other races, vedalken often seem cold, even emotionless. That assessment isn't fair- they feel emotion every bit as intensely as other folk do, but they are skilled at not displaying it. Cool rationality guides their actions, they make and follow careful plans, and they are patient enough to do nothing when the ideal outcome relies on such inaction."
 		],
 		"Reasoning toward Perfection": [
-			"Their curious intellects and rational minds incline vedalken toward membership in the Azorius Senate, the Simic Combine, and (less often) the  Izzet League . Whatever their guild affiliation, they put their intelligence to use in crafting and improving things, whether those things are laws, procedures, or magical sciences.",
+			"Their curious intellects and rational minds incline vedalken toward membership in the Azorius Senate, the Simic Combine, and (less often) the Izzet League . Whatever their guild affiliation, they put their intelligence to use in crafting and improving things, whether those things are laws, procedures, or magical sciences.",
 			"Vedalken believe that the path toward the impossible goal of perfection is paved with bricks of education, careful deliberation, and controlled experimentation. Some vedalken direct their energy toward perfecting themselves, whether by means of Simic bioengineering or through extensive study, and others concentrate on perfecting society through the careful drafting and application of laws."
 		],
 		"Vedalkin Names": [
@@ -3417,6 +3735,122 @@
 		"Books": [
 			"Guildmaster's Guide to Ravnica"
 		]
+	},
+	"Warforged": {
+		"Description": [
+			"The warforged were built to fight in the Last War. While the first warforged were mindless automatons, House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced sapient soldiers, giving rise to what some have only grudgingly accepted as a new species. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond war. A warforged can be a steadfast ally, a cold-hearted killer, or a visionary in search of meaning."
+		],
+		"Living Steel and Stone": [
+			"Warforged are formed from a blend of organic and inor­ganic materials. Root-like cords infused with alchemical fluids serve as their muscles, wrapped around a frame­work of steel, darkwood, or stone. Armored plates form a protective outer shell and reinforce joints. Warforged share a common facial design, with a hinged jaw and crystal eyes embedded beneath a reinforced brow ridge. Beyond these common elements of warforged design, the precise materials and build of a warforged vary based on the purpose for which it was designed.",
+			"Although they were manufactured, warforged are living humanoids. Resting, healing magic, and the Medi­cine skill all provide the same benefits to warforged that they do to other humanoids."
+		],
+		"Warforged Personality": [
+			"The warforged were built to serve and to fight. For most of their existence, warforged had a clearly defined func­tion and were encouraged to fo cus purely on that role. The Treaty of Thronehold gave them freedom, but many still struggle both to find a place in the post-war world and to relate to the creatures who created them.",
+			"The typical warforged shows little emotion. Many warforged embrace a concrete purpose-such as protecting allies, completing a contract, or exploring a land-and embrace this task as they once did war. However, there are warforged who delight in exploring their feelings, their freedom, and their relationships with others. Most warforged have no interest in reli­gion, but some embrace faith and mysticism, seeking higher purpose and deeper meaning.",
+			"The typical warforged has a sexless body shape. Some warforged ignore the concept of gender entirely, while others adopt a gender identity.",
+			"The more a warforged develops its individuality, the more likely it is to modify its body, seeking out an artifi­cer to customize the look of its face, limbs, and plating."
+		],
+		"Quirks": [
+			"Warforged often display an odd personality trait or two, given how new they are to the world. The Warforged Quirks table contains example quirks."
+		],
+		"Warforged Quirks Table": {
+			"Title": "Warforged Quirks",
+			"Headers": [
+				"d8",
+				"Quirk"
+			],
+			"Rows": [
+				{
+					"d8": 1,
+					"Quirk": "You analyze-out loud-the potential threat posed by every creature you meet."
+				},
+				{
+					"d8": 2,
+					"Quirk": "You often misread emotional cues."
+				},
+				{
+					"d8": 3,
+					"Quirk": "You are fiercely protective of your friends."
+				},
+				{
+					"d8": 4,
+					"Quirk": "You try to apply wartime discipline to every situation."
+				},
+				{
+					"d8": 5,
+					"Quirk": "You don't know how to filter your feelings and are prone to dramatic emotional outbursts."
+				},
+				{
+					"d8": 6,
+					"Quirk": "You don't understand clothing beyond its utility and assume it denotes a person's function."
+				},
+				{
+					"d8": 7,
+					"Quirk": "You are obsessed with your appearance and con­stantly polish and buff yo urself"
+				},
+				{
+					"d8": 8,
+					"Quirk": "War is the only thing that makes sense to you, and you're always looking for a fight."
+				}
+			]
+		},
+		"Warforged Names": [
+			"Most warforged were assigned numerical designations for use in military service. Many of them adopted nick­names, often given to them by their comrades. As inde­pendent individuals, some have chosen new names as a way to express their path in life. A few take on human names, often the name of a fallen friend or mentor.",
+			"Warforged Names: Anchor, Banner, Bastion, Blade, Blue, Bow, Cart, Church, Crunch, Crystal, Dagger, Dent, Five, Glaive, Hammer, Iron, Lucky, Mace, Oak, Onyx, Pants, Pierce, Red, Rod, Rusty, Scout, Seven, Shield, Slash, Smith, Spike, Temple, Vault, Wall"
+		],
+		"Warforged Traits": {
+			"Description": [
+				"Your warforged character has the following traits. A few of the traits give you a choice; consider how your choice reflects the purpose for which your character was built."
+			],
+			"Ability Score Increase": [
+				"Your Constitution score in­creases by 2, and one other ability score of your choice increases by 1."
+			],
+			"Age": [
+				"A typical warforged is between two and thirty years old. The maximum warforged lifespan remains a mystery; so far, warforged have shown no signs of deterioration due to age. You are immune to magical ag­ing effects."
+			],
+			"Alignment": [
+				"Most warforged take comfort in order and discipline, tending toward law and neutrality. But some have absorbed the morality, or lack thereof, of the beings with which they served."
+			],
+			"Size": [
+				"Your size is Medium. To set your height and weight randomly, start with rolling a size modifier:",
+				"Size modifier = 2d6",
+				"Height = 5 feet + 10 inches + your size modifier in inches",
+				"Weight in pounds = 270 + (4 x your size modifier)"
+			],
+			"Speed": [
+				"Your base walking speed is 30 feet."
+			],
+			"Constructed Resilience": {
+				"Description": [
+					"You were created to have remarkable fortitude, represented by the follow­ing benefits:"
+				],
+				"Unordered List": [
+					"You have advantage on saving throws against being poisoned, and you have resistance to poison damage.",
+					"You don't need to eat, drink, or breathe.",
+					"You are immune to disease.",
+					"You don't need to sleep, and magic can't put you to sleep."
+				]
+			},
+			"Sentry's Rest": [
+				"When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn't render you unconscious, and you can see and hear as normal."
+			],
+			"Integrated Protection": {
+				"Description": [
+					"Your body has built-in defen­sive layers, which can be enhanced with armor:"
+				],
+				"Unordered List": [
+					"You gain a +1 bonus to Armor Class.",
+					"You can don only armor with which you have profi­ciency. To don armor, you must incorporate it into your body over the course of 1 hour, during which you remain in contact with the armor. To doff armor, you must spend 1 hour removing it. You can rest while donning or doffing armor in this way.",
+					"While you live, your armor can't be removed from your body against your will."
+				]
+			},
+			"Specialized Design": [
+				"You gain one skill proficiency and one tool proficiency of your choice."
+			],
+			"Languages": [
+				"ou can speak, read, and write Common and one other language of your choice."
+			]
+		}
 	},
 	"Yuan-Ti Pureblood": {
 		"Yuan-Ti Pureblood Traits": {

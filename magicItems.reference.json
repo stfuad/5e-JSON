@@ -5808,14 +5808,14 @@
 			"Rarity": "uncommon",
 			"Attunement": true,
 			"Description": [
-				"This dark spider-silk cloak is made by drow. It is a cloak of elvenkind. It also grants you resistance to fire damage while you wear it. It loses its magic if exposed to sunlight for 1 hour without interruption."
+				"This is a cloak of elvenkind. It also grants you resistance to fire damage while you wear it. It loses its magic if exposed to sunlight for 1 hour without interruption."
 			],
 			"Book": "Out of the Abyss",
 			"Page": 222
 		},
 		"Spell Gem": {
 			"Type": "Wonderous item",
-			"Rarity": "",
+			"Rarity": "rarity varies (attunement optional)",
 			"Attunement": false,
 			"Description": [
 				"A spell gem can contain one spell from any class's spell list. You become aware of the spell when you learn the gem's properties. While holding the gem, you can cast the spell from it as an action if you know the spell or if the spell is on you class's spell list. Doing so doesn't require any components and doesn't require attunement. The spell then disapears from the gem.",
@@ -5933,8 +5933,8 @@
 				"The wand regains 1d6 + 1 expended charges daily at midnight. If you expend the wand's last charge, roll a d20. On a 1, the wand melts into harmless slime and is destroyed.",
 				"A wand of viscid globs is destroyed if exposed to sunlight for 1 hour without interruption."
 			],
-			"Book": "",
-			"Page": 
+			"Book": "Out of the Abyss",
+			"Page": 223
 		}
 	},
 	"Guildmaster's Guide to Ravnica": {

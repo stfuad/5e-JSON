@@ -196,6 +196,28 @@
 			]
 		},
 		"Class Features": {
+			"Hit Points": [
+				"Hit Dice: 1d12 per barbarian  level",
+				"Hit Points at 1st Level: 12 + your Consitution modifier",
+				"Hit Points at Higher Levels: 1d12 (or 7) + your Constitution modifier per barbarian level after 1st"
+			],
+			"Proficiencies": [
+				"Armor: Light armor, medium armor, shields",
+				"Weapons: Simple weapons, martial weapons",
+				"Tools: None",
+				"Saving Throws: Strength, Constitution",
+				"Skills: Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival"
+			],
+			"Equipment": {
+				"Description": [
+					"You start with the following equipment, in addition to the equipment granted by your background:"
+				],
+				"Unordered List": [
+					"(a) a greataxe or (b) any martial melee weapon",
+					"(a) two handaxes or (b) any simple weapon",
+					"An explorer's pack and four javelins"
+				]
+			},
 			"Rage": {
 				"Description": [
 					"In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.",
@@ -1066,6 +1088,29 @@
 			]
 		},
 		"Class Features": {
+			"Hit Points": [
+				"Hit Dice: 1d8 per bard level",
+				"Hit Points at 1st Level: 8 + your Consitution modifier",
+				"Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per bard level after 1st"
+			],
+			"Proficiencies": [
+				"Armor: Light armor",
+				"Weapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords",
+				"Tools: Three musical instruments of your choice",
+				"Saving Throws: Dexterity, Charisma",
+				"Skills: Choose any three"
+			],
+			"Equipment": {
+				"Description": [
+					"You start with the following equipment, in addition to the equipment granted by your background:"
+				],
+				"Unordered List": [
+					"(a) a rapier, (b) a longsword, or (c) any simple weapon",
+					"(a) a dipolmat's pack or (b) an entertainer's pack",
+					"(a) lute or (b) any other musical instrument",
+					"Leather armor and a dagger"
+				]
+			},
 			"Spellcasting": {
 				"Description": [
 					"You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. See chapter 10 for the general rules of spellcasting and chapter 11 for the bard spell list."
@@ -1820,6 +1865,30 @@
 			]
 		},
 		"Class Features": {
+			"Hit Points": [
+				"Hit Dice: 1d8 per cleric level",
+				"Hit Points at 1st Level: 8 + your Constitution modifier",
+				"Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per cleric level after 1st"
+			],
+			"Proficiencies": [
+				"Armor: Light armor, medium armor, shields",
+				"Weapons: All simple weapons",
+				"Tools: None",
+				"Saving Throws: Wisdom, Charisma",
+				"Skills: Choose two from History, Insight, Medicine, Persuasion, and Religon"
+			],
+			"Equipment": {
+				"Description": [
+					"You start with the following equipment, in addition to the equipment granted by your background:"
+				],
+				"Unordered List": [
+					"(a) mace or (b) a warhammer (if proficient)",
+					"(a) scale mail, (b) leather armor, or (c) chain mail (if proficient)",
+					"(a) a light crossbow and 20 bolts or (b) any simple weapon",
+					"(a) a priest's pack or (b) any explorer's pack",
+					"A shield and a holy symbol"
+				]
+			},
 			"Spellcasting": {
 				"Cantrips": [
 					"At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table."
@@ -3966,6 +4035,15 @@
 			]
 		},
 		"Class Features": {
+			"Hit Points": [
+
+			],
+			"Proficiencies": [
+
+			],
+			"Equipment": [
+
+			],
 			"Druidic": [
 				"You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic."
 			],
@@ -4903,6 +4981,15 @@
 			]
 		},
 		"Class Features": {
+			"Hit Points": [
+
+			],
+			"Proficiencies": [
+
+			],
+			"Equipment": [
+
+			],
 			"Fighting Style": {
 				"Description": [
 					"You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again."
@@ -5881,6 +5968,15 @@
 			]
 		},
 		"Class Features": {
+			"Hit Points": [
+
+			],
+			"Proficiencies": [
+
+			],
+			"Equipment": [
+
+			],
 			"Unarmored Defense": [
 				"Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier."
 			],
@@ -6694,6 +6790,15 @@
 			]
 		},
 		"Class Features": {
+			"Hit Points": [
+
+			],
+			"Proficiencies": [
+
+			],
+			"Equipment": [
+
+			],
 			"Divine Sense": [
 				"The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.",
 				"You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses."
@@ -7881,6 +7986,15 @@
 			]
 		},
 		"Class Features": {
+			"Hit Points": [
+
+			],
+			"Proficiencies": [
+
+			],
+			"Equipment": [
+
+			],
 			"Favored Enemy": [
 				"Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.",
 				"Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.",
@@ -8572,6 +8686,15 @@
 			]
 		},
 		"Class Features": {
+			"Hit Points": [
+
+			],
+			"Proficiencies": [
+
+			],
+			"Equipment": [
+
+			],
 			"Expertise": [
 				"At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.",
 				"At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit."
@@ -9624,6 +9747,15 @@
 			]
 		},
 		"Class Features": {
+			"Hit Points": [
+
+			],
+			"Proficiencies": [
+
+			],
+			"Equipment": [
+
+			],
 			"Spellcasting": {
 				"Description": [
 					"An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells."
@@ -10640,6 +10772,15 @@
 			]
 		},
 		"Class Features": {
+			"Hit Points": [
+
+			],
+			"Proficiencies": [
+
+			],
+			"Equipment": [
+
+			],
 			"Otherworldly Patron": [
 				"At 1st level, you have struck a bargain with an otherworldly being of your choice: the Archfey, the Fiend, or the Great Old One, each of which is detailed at the end of the class description. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level."
 			],
@@ -11968,6 +12109,15 @@
 			]
 		},
 		"Class Features": {
+			"Hit Points": [
+
+			],
+			"Proficiencies": [
+
+			],
+			"Equipment": [
+
+			],
 			"Spellcasting": {
 				"Description": [
 					"As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power."
