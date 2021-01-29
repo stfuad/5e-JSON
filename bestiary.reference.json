@@ -88342,7 +88342,7 @@
 						"Roll once on the Major Adaptations table."
 					],
 					"Table": {
-						"Title": "Major Adaptations",
+						"Caption": "Major Adaptations",
 						"Headers": [
 							"d8",
 							"Major Adaptation"
@@ -88388,7 +88388,7 @@
 						"Roll once on the Minor Adaptations table."
 					],
 					"Table": {
-						"Title": "Minor Adaptations",
+						"Caption": "Minor Adaptations",
 						"Headers": [
 							"d8",
 							"Minor Adaptation"
@@ -88534,7 +88534,7 @@
 						"Roll once on the Major Adaptations table."
 					],
 					"Table": {
-						"Title": "Major Adaptations",
+						"Caption": "Major Adaptations",
 						"Headers": [
 							"d8",
 							"Major Adaptation"
@@ -88580,7 +88580,7 @@
 						"Roll once on the Minor Adaptations table."
 					],
 					"Table": {
-						"Title": "Minor Adaptations",
+						"Caption": "Minor Adaptations",
 						"Headers": [
 							"d8",
 							"Minor Adaptation"
@@ -88726,7 +88726,7 @@
 						"Roll once on the Major Adaptations table."
 					],
 					"Table": {
-						"Title": "Major Adaptations",
+						"Caption": "Major Adaptations",
 						"Headers": [
 							"d8",
 							"Major Adaptation"
@@ -88772,7 +88772,7 @@
 						"Roll once on the Minor Adaptations table."
 					],
 					"Table": {
-						"Title": "Minor Adaptations",
+						"Caption": "Minor Adaptations",
 						"Headers": [
 							"d8",
 							"Minor Adaptation"
