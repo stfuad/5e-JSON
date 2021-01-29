@@ -735,9 +735,7 @@
 				"Truesight": 0,
 				"Blind": true
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1",
 			"Experience": 200,
 			"Features": {
@@ -842,9 +840,7 @@
 				"Truesight": 0,
 				"Blind": true
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -944,9 +940,7 @@
 				"Truesight": 0,
 				"Blind": true
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "2",
 			"Experience": 450,
 			"Features": {
@@ -1040,9 +1034,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "2",
 			"Experience": 450,
 			"Features":  null,
@@ -1348,9 +1340,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "3",
 			"Experience": 700,
 			"Features": {
@@ -2685,9 +2675,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features": {
@@ -4013,12 +4001,12 @@
 				},
 				"Magic Resistance": {
 					"Description": [
-						"Balor has advantage on saving throws against spells and other magical effects."
+						"The Balor has advantage on saving throws against spells and other magical effects."
 					]
 				},
 				"Magic Weapons": {
 					"Description": [
-						"Balor's weapon attacks are magical."
+						"The Balor's weapon attacks are magical."
 					]
 				}
 			},
@@ -7165,9 +7153,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features": {
@@ -7256,9 +7242,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 3,
 			"Experience": 700,
 			"Features":  null,
@@ -7336,9 +7320,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features": {
@@ -7422,9 +7404,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -7508,9 +7488,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 5,
 			"Experience": 1800,
 			"Features": {
@@ -7599,9 +7577,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 8,
 			"Experience": 3900,
 			"Features":  null,
@@ -7689,9 +7665,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 3,
 			"Experience": 700,
 			"Features": {
@@ -14362,9 +14336,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features": {
@@ -15048,9 +15020,7 @@
 				"Truesight": 0,
 				"Blind": true
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/2",
 			"Experience": 100,
 			"Features": {
@@ -15231,9 +15201,7 @@
 				"Truesight": 0,
 				"Blind": true
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -18600,9 +18568,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 5,
 			"Experience": 1800,
 			"Features": {
@@ -18794,9 +18760,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features": {
@@ -18892,9 +18856,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 7,
 			"Experience": 2900,
 			"Features": {
@@ -18993,9 +18955,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features": {
@@ -19837,9 +19797,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 1,
 			"Experience": 200,
 			"Features": {
@@ -20430,9 +20388,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 8,
 			"Experience": 3900,
 			"Features": {
@@ -22528,9 +22484,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 5,
 			"Experience": 1800,
 			"Features": {
@@ -22840,9 +22794,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 4,
 			"Experience": 1100,
 			"Features": {
@@ -23162,9 +23114,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features": {
@@ -23479,9 +23429,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 4,
 			"Experience": 1100,
 			"Features": {
@@ -23786,9 +23734,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 3,
 			"Experience": 700,
 			"Features": {
@@ -28362,9 +28308,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 3,
 			"Experience": 700,
 			"Features": {
@@ -28941,9 +28885,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 15,
 			"Experience": 13000,
 			"Features": {
@@ -29648,9 +29590,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 5,
 			"Experience": 1800,
 			"Features": {
@@ -29759,9 +29699,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/2",
 			"Experience": 100,
 			"Features": {
@@ -36432,9 +36370,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -36518,9 +36454,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -36609,9 +36543,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/2",
 			"Experience": 100,
 			"Features": {
@@ -36797,9 +36729,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/8",
 			"Experience": 25,
 			"Features": {
@@ -36888,9 +36818,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -36979,9 +36907,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 1,
 			"Experience": 200,
 			"Features": {
@@ -37075,9 +37001,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/8",
 			"Experience": 25,
 			"Features":  null,
@@ -37155,9 +37079,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -37241,9 +37163,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features":  null,
@@ -37326,9 +37246,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -37412,9 +37330,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/2",
 			"Experience": 100,
 			"Features": {
@@ -37498,9 +37414,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 1,
 			"Experience": 200,
 			"Features": {
@@ -37589,9 +37503,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features":  null,
@@ -37669,9 +37581,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 1,
 			"Experience": 200,
 			"Features": {
@@ -37760,9 +37670,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features":  null,
@@ -37840,9 +37748,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -37926,9 +37832,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 4,
 			"Experience": 1100,
 			"Features": {
@@ -38017,9 +37921,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -38108,9 +38010,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/8",
 			"Experience": 25,
 			"Features": {
@@ -38194,9 +38094,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -38279,9 +38177,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 7,
 			"Experience": 2900,
 			"Features":  null,
@@ -38369,9 +38265,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -38465,9 +38359,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -38556,9 +38448,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features": {
@@ -38647,9 +38537,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features":  null,
@@ -38727,9 +38615,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features":  null,
@@ -38812,9 +38698,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/8",
 			"Experience": 25,
 			"Features": {
@@ -38898,9 +38782,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 5,
 			"Experience": 1800,
 			"Features": {
@@ -39183,9 +39065,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -39269,9 +39149,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -39366,9 +39244,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/2",
 			"Experience": 100,
 			"Features": {
@@ -39457,9 +39333,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 1,
 			"Experience": 200,
 			"Features": {
@@ -39558,9 +39432,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features":  null,
@@ -39638,9 +39510,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 1,
 			"Experience": 200,
 			"Features": {
@@ -39831,9 +39701,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features":  null,
@@ -39911,9 +39779,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/8",
 			"Experience": 25,
 			"Features": {
@@ -40002,9 +39868,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 3,
 			"Experience": 700,
 			"Features":  null,
@@ -40092,9 +39956,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/2",
 			"Experience": 100,
 			"Features": {
@@ -40183,9 +40045,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 5,
 			"Experience": 1800,
 			"Features": {
@@ -40270,9 +40130,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 1,
 			"Experience": 200,
 			"Features": {
@@ -40371,9 +40229,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 1,
 			"Experience": 200,
 			"Features": {
@@ -40569,9 +40425,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/2",
 			"Experience": 100,
 			"Features":  null,
@@ -40649,9 +40503,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/8",
 			"Experience": 25,
 			"Features": {
@@ -40735,9 +40587,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -40831,9 +40681,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -40922,9 +40770,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -41000,9 +40846,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features": {
@@ -41091,9 +40935,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -41177,9 +41019,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -41268,9 +41108,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 3,
 			"Experience": 700,
 			"Features": {
@@ -41364,9 +41202,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 1,
 			"Experience": 200,
 			"Features": {
@@ -41470,9 +41306,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features":  null,
@@ -41550,9 +41384,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 6,
 			"Experience": 2300,
 			"Features": {
@@ -41641,9 +41473,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/8",
 			"Experience": 25,
 			"Features": {
@@ -41727,9 +41557,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/8",
 			"Experience": 25,
 			"Features": {
@@ -41818,9 +41646,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -41919,9 +41745,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -42010,9 +41834,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -42106,9 +41928,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 3,
 			"Experience": 700,
 			"Features": {
@@ -42202,9 +42022,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/8",
 			"Experience": 25,
 			"Features":  null,
@@ -42282,9 +42100,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features": {
@@ -42378,9 +42194,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/8",
 			"Experience": 25,
 			"Features":  null,
@@ -42458,9 +42272,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -42549,9 +42361,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -42635,9 +42445,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -42805,9 +42613,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features": {
@@ -42891,9 +42697,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features": {
@@ -42987,9 +42791,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features":  null,
@@ -43067,9 +42869,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -43147,9 +42947,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -43255,9 +43053,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -43363,9 +43159,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/2",
 			"Experience": 100,
 			"Features": {
@@ -43461,9 +43255,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/2",
 			"Experience": 100,
 			"Features": {
@@ -43560,9 +43352,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features": {
@@ -43658,9 +43448,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 1,
 			"Experience": 200,
 			"Features": {
@@ -43766,9 +43554,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -43869,9 +43655,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -43955,9 +43739,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 1,
 			"Experience": 200,
 			"Features": {
@@ -44051,9 +43833,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -44142,9 +43922,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/2",
 			"Experience": 100,
 			"Features": {
@@ -44228,9 +44006,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 0,
 			"Experience": 10,
 			"Features": {
@@ -44419,9 +44195,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -46684,9 +46458,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challange": 0,
 			"Experience": 0,
 			"Features":  null,
@@ -47666,9 +47438,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 5,
 			"Experience": 1800,
 			"Features": {
@@ -47762,9 +47532,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 3,
 			"Experience": 700,
 			"Features": {
@@ -49142,9 +48910,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 5,
 			"Experience": 1800,
 			"Features":  null,
@@ -49227,9 +48993,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 1,
 			"Experience": 200,
 			"Features": {
@@ -49323,9 +49087,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features":  null,
@@ -49403,9 +49165,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features":  null,
@@ -49483,9 +49243,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features": {
@@ -49574,9 +49332,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 4,
 			"Experience": 1100,
 			"Features":  null,
@@ -49654,9 +49410,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -49968,9 +49722,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 1,
 			"Experience": 200,
 			"Features": {
@@ -50190,9 +49942,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 3,
 			"Experience": 700,
 			"Features": {
@@ -50302,9 +50052,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 10,
 			"Experience": 5900,
 			"Features": {
@@ -51107,9 +50855,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 4,
 			"Experience": 1100,
 			"Features": {
@@ -54102,9 +53848,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/8",
 			"Experience": 25,
 			"Features": {
@@ -54438,9 +54182,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 13,
 			"Experience": 10000,
 			"Features": {
@@ -56080,9 +55822,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 3,
 			"Experience": 700,
 			"Features": {
@@ -56480,9 +56220,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 1,
 			"Experience": 200,
 			"Features": {
@@ -57740,9 +57478,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 2,
 			"Experience": 450,
 			"Features": {
@@ -57826,9 +57562,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -57912,9 +57646,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/8",
 			"Experience": 25,
 			"Features": {
@@ -58014,9 +57746,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/2",
 			"Experience": 100,
 			"Features": {
@@ -75609,9 +75339,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/4",
 			"Experience": 50,
 			"Features": {
@@ -85804,7 +85532,7 @@
 		"Kamadan": {
 			"Size": "Large",
 			"Type": "monstrosity",
-			"Subtype": "",
+			"Subtype": null,
 			"Alignment": "unaligned",
 			"Armor Class": 13,
 			"Armor Type":  null,
@@ -95954,9 +95682,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 5,
 			"Experience": 1800,
 			"Features":  null,
@@ -96057,9 +95783,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 3,
 			"Experience": 700,
 			"Features": {
@@ -96158,9 +95882,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": "1/2",
 			"Experience": 100,
 			"Features":  null,
@@ -96261,9 +95983,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 10,
 			"Experience": 5900,
 			"Features": {
@@ -96393,9 +96113,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 30,
 			"Experience": 155000,
 			"Features": {
@@ -96545,9 +96263,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 30,
 			"Experience": 155000,
 			"Features": {
@@ -96697,9 +96413,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 30,
 			"Experience": 155000,
 			"Features": {
@@ -96849,9 +96563,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 30,
 			"Experience": 155000,
 			"Features": {
@@ -97021,9 +96733,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 30,
 			"Experience": 155000,
 			"Features": {
@@ -97173,9 +96883,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 30,
 			"Experience": 155000,
 			"Features": {
@@ -97432,9 +97140,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
-			"Languages": [
-			
-			],
+			"Languages": null,
 			"Challenge": 3,
 			"Experience": 700,
 			"Features": {
