@@ -13319,7 +13319,9 @@
 				"Warlock": true,
 				"Wizard": true
 			}
-		},
+		}
+	},
+	"Guild Master's Guide to Ravinica": {
 		"Encode Thoughts": {
 			"School": "Enchantment",
 			"Cantrip": true,
@@ -13347,5 +13349,5 @@
 				"Wizard": false
 			}
 		}
-	}	
+	}
 }
