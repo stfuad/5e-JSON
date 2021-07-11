@@ -77603,7 +77603,7 @@
 			"Page": 252
 		}
 	},
-	"Hoard of the Dragon Queen": {
+	"Tyranny of Dragons": {
 		"Ambush Drake": {
 			"Size": "Medium",
 			"Type": "dragon",
@@ -78161,6 +78161,348 @@
 			"Book": "Hoard of the Dragon Queen",
 			"Page": 89
 		},
+		"Dragonfang": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"Subtype": "human",
+			"Alignment": "neutral evil",
+			"Armor Class": 15,
+			"Armor Type": "studded leather",
+			"Hit Dice": "12d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 11,
+				"Dexterity": 16,
+				"Constitution": 14,
+				"Intelligence": 12,
+				"Wisdom": 12,
+				"Charisma": 14
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": true,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": true,
+				"Survival": false
+			},
+			"Damage Vulnerabilities": null,
+			"Damage Resistances": [
+				"one of the following: acid, cold, fire, lightning, or poison"
+			],
+			"Damage Immunities": null,
+			"Condition Immunities": null,
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Draconic",
+				"Infernal"
+			],
+			"Challenge": 5,
+			"Experience": 1800,
+			"Features": {
+				"Dragon Fanatic": {
+					"Description": [
+						"The dragonfang has advantage on saving throws against being charmed or frightened. While the dragonfang can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonfang ignores the effects of being charmed or frightened."
+					]
+				},
+				"Fanatic Advantage": {
+					"Description": [
+						"Once per turn, if the dragonfang makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 10 (3d6) damage."
+					]
+				},
+				"Limited Flight": {
+					"Description": [
+						"The dragonfang can use a bonus action to gain a flying speed of 30 feet until the end of its turn."
+					]
+				},
+				"Pack Tactics": {
+					"Description": [
+						"The dragonfang has advantage on an attack roll against a creature if at least one of the dragonfang’s allies is within 5 feet of the creature and the ally isn't incapacitated."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The dragonfang attacks twice with its shortsword."
+					]
+				},
+				"Shortsword": {
+					"Description": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) damage of the type to which the dragonfang has damage resistance."
+					]
+				},
+				"Orb of Dragon’s Breath (2/Day)": {
+					"Description": [
+						"Ranged Spell Attack: +5 to hit, range 90 ft., one target. Hit: 22 (5d8) damage of the type to which the dragonfang has damage resistance."
+					]
+				}
+			},
+			"Legendary Actions": null,
+			"Reactions": null,
+			"Book": "The Rise of Tiamat",
+			"Page": 89
+		},
+		"Dragonsoul": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"Subtype": "human",
+			"Alignment": "neutral evil",
+			"Armor Class": 16,
+			"Armor Type": "studded leather",
+			"Hit Dice": "17d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 11,
+				"Dexterity": 18,
+				"Constitution": 14,
+				"Intelligence": 13,
+				"Wisdom": 12,
+				"Charisma": 16
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": true,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": true,
+				"Survival": false
+			},
+			"Damage Vulnerabilities": null,
+			"Damage Resistances": [
+				"one of the following: acid, cold, fire, lightning, or poison"
+			],
+			"Damage Immunities": null,
+			"Condition Immunities": null,
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Draconic",
+				"Infernal"
+			],
+			"Challenge": 7,
+			"Experience": 2900,
+			"Features": {
+				"Dragon Fanatic": {
+					"Description": [
+						"The dragonsoul has advantage on saving throws against being charmed or frightened. While the dragonsoul can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonsoul ignores the effects of being charmed or frightened."
+					]
+				},
+				"Fanatic Advantage": {
+					"Description": [
+						"Once per turn, if the dragonsoul makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 10 (3d6) damage."
+					]
+				},
+				"Limited Flight": {
+					"Description": [
+						"The dragonsoul can use a bonus action to gain a flying speed of 30 feet until the end of its turn."
+					]
+				},
+				"Pack Tactics": {
+					"Description": [
+						"The dragonsoul has advantage on an attack roll against a creature if at least one of the dragonsoul's allies is within 5 feet of the creature and the ally isn’t incapacitated."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The dragonsoul attacks twice with its shortsword."
+					]
+				},
+				"Shortsword": {
+					"Description": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 10 (3d6) damage of the type to which the dragonsoul has damage resistance."
+					]
+				},
+				"Orb of Dragon's Breath (3/Day)": {
+					"Description": [
+						"Ranged Spell Attack: +7 to hit, range 90 ft., one target. Hit: 27 (6d8) damage of the type to which the dragonsoul has damage resistance."
+					]
+				}
+			},
+			"Legendary Actions": null,
+			"Reactions": null,
+			"Book": "The Rise of Tiamat",
+			"Page": 89
+		},
+		"Dragonwing": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"Subtype": "human",
+			"Alignment": "neutral evil",
+			"Armor Class": 14,
+			"Armor Type": "leather armor",
+			"Hit Dice": "6d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 11,
+				"Dexterity": 16,
+				"Constitution": 13,
+				"Intelligence": 11,
+				"Wisdom": 11,
+				"Charisma": 13
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": true,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": false,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": true,
+				"Survival": false
+			},
+			"Damage Vulnerabilities": null,
+			"Damage Resistances": [
+				"one of the following: acid, cold, fire, lightning, or poison"
+			],
+			"Damage Immunities": null,
+			"Condition Immunities": null,
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 0,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Draconic"
+			],
+			"Challenge": 2,
+			"Experience": 450,
+			"Features": {
+				"Dragon Fanatic": {
+					"Description": [
+						"The dragonwing has advantage on saving throws against being charmed or frightened. While the dragonwing can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonwing ignores the effects of being charmed or frightened."
+					]
+				},
+				"Fanatical Advantage": {
+					"Description": [
+						"Once per turn, if the dragonwing makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 7 (2d6) damage."
+					]
+				},
+				"Limited Flight": {
+					"Description": [
+						"The dragonwing can use a bonus action to gain a flying speed of 30 feet until the end of its turn."
+					]
+				},
+				"Pack Tactics": {
+					"Description": [
+						"The dragonwing has advantage on an attack roll against a creature if at least one of the dragonwing’s allies is within 5 feet of the creature and the ally isn’t incapacitated."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"The dragonwing attacks twice with its scimitar."
+					]
+				},
+				"Scimitar": {
+					"Description": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage plus 3 (1d6) damage of the type to which the cultist has damage resistance."
+					]
+				}
+			},
+			"Legendary Actions": null,
+			"Reactions": null,
+			"Book": "The Rise of Tiamat",
+			"Page": 90
+		},
 		"Dralmorrer Borngray": {
 			"Size": "Medium",
 			"Type": "humanoid",
@@ -78498,6 +78840,105 @@
 			"Book": "Hoard of the Dragon Queen",
 			"Page": 91
 		},
+		"Ice Toad": {
+			"Size": "Medium",
+			"Type": "monstrosity",
+			"Subtype": null,
+			"Alignment": "neutral",
+			"Armor Class": 12,
+			"Armor Type": "natural armor",
+			"Hit Dice": "5d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 30,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 13,
+				"Dexterity": 10,
+				"Constitution": 14,
+				"Intelligence": 8,
+				"Wisdom": 10,
+				"Charisma": 6
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": false,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival": false
+			},
+			"Damage Vulnerabilities": null,
+			"Damage Resistances": null,
+			"Damage Immunities": [
+				"cold"
+			],
+			"Condition Immunities": null,
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 60,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Ice Toad"
+			],
+			"Challenge": 1,
+			"Experience": 200,
+			"Features": {
+				"Amphibious": {
+					"Description": [
+						"The toad can breathe air and water."
+					]
+				},
+				"Cold Aura": {
+					"Description": [
+						"Any creature that starts its turn within 5 feet of the toad takes 3 (1d6) cold damage."
+					]
+				},
+				"Standing Leap": {
+					"Description": [
+						"The toad’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start."
+					]
+				}
+			},
+			"Actions": {
+				"Bite": {
+					"Description": [
+						"Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage plus 4 (1d8) cold damage. If the target is a Medium or smaller creature, it is grappled (escape DC 11). Until this grapple ends, the toad can't bite another target."
+					]
+				}
+			},
+			"Legendary Actions": null,
+			"Reactions": null,
+			"Book": "The Rise of Tiamat",
+			"Page": 90
+		},
 		"Jamna Gleamsilver": {
 			"Size": "Small",
 			"Type": "humanoid",
@@ -78723,6 +79164,234 @@
 			"Legendary Actions": null,
 			"Reactions": null,
 			"Book": "Hoard of the Dragon Queen",
+			"Page": 91
+		},
+		"Naergoth Bladelord": {
+			"Size": "Medium",
+			"Type": "undead",
+			"Subtype": null,
+			"Alignment": "neutral evil",
+			"Armor Class": 18,
+			"Armor Type": "plate",
+			"Hit Dice": "18d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 20,
+				"Dexterity": 12,
+				"Constitution": 16,
+				"Intelligence": 12,
+				"Wisdom": 14,
+				"Charisma": 16
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": true,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": true,
+				"Survival": false
+			},
+			"Damage Vulnerabilities": null,
+			"Damage Resistances": [
+				"necrotic",
+				"bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
+			],
+			"Damage Immunities": [
+				"poison"
+			],
+			"Condition Immunities": [
+				"exhaustion",
+				"poisoned"
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 60,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Draconic"
+			],
+			"Challenge": 11,
+			"Experience": 7200,
+			"Features": {
+				"Sunlight Sensitivity": {
+					"Description": [
+						"While in sunlight, Naergoth has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"Naergoth makes three attacks, either with his longsword or longbow. He can use Life Drain in place of one longsword attack."
+					]
+				},
+				"Life Drain": {
+					"Description": [
+						"Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 20 (5d6 + 3) necrotic damage. The target must succeed on a DC 15 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.",
+						"A humanoid slain by this attack rises 24 hours later as a zombie under Naergoth's control, unless the humanoid is restored to life or its body is destroyed. Naergoth can have no more than twelve zombies under his control at one time."
+					]
+				},
+				"Longsword": {
+					"Description": [
+						"Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two hands, plus 10 (3d6) necrotic damage."
+					]
+				},
+				"Longbow": {
+					"Description": [
+						"Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage plus 10 (3d6) necrotic damage."
+					]
+				}
+			},
+			"Legendary Actions": null,
+			"Reactions": null,
+			"Book": "The Rise of Tiamat",
+			"Page": 90
+		},
+		"Neronvain": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"Subtype": "elf",
+			"Alignment": "neutral evil",
+			"Armor Class": 17,
+			"Armor Type": null,
+			"Hit Dice": "18d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 8,
+				"Dexterity": 17,
+				"Constitution": 15,
+				"Intelligence": 16,
+				"Wisdom": 13,
+				"Charisma": 18
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": true,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": false
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": true,
+				"Athletics": false,
+				"Deception": false,
+				"History": false,
+				"Insight": false,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": false,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival": false
+			},
+			"Damage Vulnerabilities": null,
+			"Damage Resistances": null,
+			"Damage Immunities": [
+				"poison"
+			],
+			"Condition Immunities": [
+				"charmed",
+				"frightened",
+				"poisoned"
+			],
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 60,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Draconic",
+				"Elvish",
+				"Infernal"
+			],
+			"Challenge": 9,
+			"Experience": 5000,
+			"Features": {
+				"Draconic Majesty": {
+					"Description": [
+						"Neronvain adds his Charisma bonus to his AC (included)."
+					]
+				},
+				"Fey Ancestry": {
+					"Description": [
+						"Magic can't put Neronvain to sleep."
+					]
+				}
+			},
+			"Actions": {
+				"Multiattack": {
+					"Description": [
+						"Neronvain makes two attacks, either with his shortsword or Eldritch Arrow."
+					]
+				},
+				"Shortsword": {
+					"Description": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 13 (3d8) poison damage."
+					]
+				},
+				"Eldritch Arrow": {
+					"Description": [
+						"Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 11 (2d10) force damage plus 9 (2d8) poison damage."
+					]
+				},
+				"Poisonous Cloud (2/Day)": {
+					"Description": [
+						"Poison gas fills a 20-foot-radius sphere centered on a point Neronvain can see within 50 feet of him. The gas spreads around corners and remains until the start of Neronvain's next turn. Each creature that starts its turn in the gas must succeed on a DC 16 Constitution saving throw or be poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+					]
+				}
+			},
+			"Legendary Actions": null,
+			"Reactions": null,
+			"Book": "The Rise of Tiamat",
 			"Page": 91
 		},
 		"Pharblex Spattergoo": {
@@ -79148,1139 +79817,6 @@
 			"Book": "Hoard of the Dragon Queen",
 			"Page": 93
 		},
-		"Talis the White": {
-			"Size": "Medium",
-			"Type": "humanoid",
-			"Subtype": "half-elf",
-			"Alignment": "lawful evil",
-			"Armor Class": 18,
-			"Armor Type": "+1 scale mail, shield",
-			"Hit Dice": "9d8",
-			"Speed": {
-				"Walk": 30,
-				"Burrow": 0,
-				"Climb": 0,
-				"Fly": 0,
-				"Swim": 0,
-				"Hover": false
-			},
-			"Ability Scores": {
-				"Strength": 14,
-				"Dexterity": 12,
-				"Constitution": 14,
-				"Intelligence": 10,
-				"Wisdom": 16,
-				"Charisma": 16
-			},
-			"Saving Throws": {
-				"Strength": false,
-				"Dexterity": false,
-				"Constitution": false,
-				"Intelligence": false,
-				"Wisdom": true,
-				"Charisma": true
-			},
-			"Skills": {
-				"Acrobatics": false,
-				"Animal Handling": false,
-				"Arcana": false,
-				"Athletics": false,
-				"Deception": true,
-				"History": false,
-				"Insight": true,
-				"Intimidation": false,
-				"Investigation": false,
-				"Medicine": false,
-				"Nature": false,
-				"Perception": true,
-				"Performance": false,
-				"Persuasion": true,
-				"Religion": false,
-				"Sleight of Hand": false,
-				"Stealth": false,
-				"Survival": false
-			},
-			"Damage Vulnerabilities": null,
-			"Damage Resistances": null,
-			"Damage Immunities": null,
-			"Condition Immunities": null,
-			"Senses": {
-				"Blindsight": 0,
-				"Darkvision": 60,
-				"Tremorsense": 0,
-				"Truesight": 0,
-				"Blind": false
-			},
-			"Languages": [
-				"Common",
-				"Draconic",
-				"Elvish",
-				"Infernal"
-			],
-			"Challenge": 5,
-			"Experience": 1800,
-			"Features": {
-				"Special Equipment": {
-					"Description": [
-						"Talis has +1 scale mail and a wand of winter (see appendix C)."
-					]
-				},
-				"Fey Ancestry": {
-					"Description": [
-						"Talis has advantage on saving throws against being charmed, and magic can’t put her to sleep."
-					]
-				},
-				"Spellcasting": {
-					"Description": [
-						"Talis is a 9th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Talis has the following spells prepared from the cleric spell list:"
-					],
-					"Cantrips (at will)": [
-						"Guidance",
-						"Resistance",
-						"Thaumaturgy"
-					],
-					"1st level (4 slots)": [
-						"Command",
-						"Cure Wounds",
-						"Healing Word",
-						"Inflict Wounds"
-					],
-					"2nd level (3 slots)": [
-						"Blindness/Deafness",
-						"Lesser Restoration",
-						"Spiritual Weapon"
-					],
-					"3rd level (3 slots)": [
-						"Dispel Magic",
-						"Mass Healing Word",
-						"Sending"
-					],
-					"4th level (3 slots)": [
-						"Death Ward",
-						"Freedom of Movement"
-					],
-					"5th level (1 slot)": [
-						"Insect Plague"
-					]
-				},
-				"Winter Strike (3/Day)": {
-					"Description": [
-						"Once per turn, when Talis hits with a melee attack, she can expend a use of this trait to deal an extra 9 (2d8) cold damage."
-					]
-				}
-			},
-			"Actions": {
-				"Spear": {
-					"Description": [
-						"Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or ranged 20 ft./60 ft., one target. Hit: 6 (1d6 + 2) piercing damage."
-					]
-				}
-			},
-			"Legendary Actions": null,
-			"Reactions": null,
-			"Book": "Hoard of the Dragon Queen",
-			"Page": 93
-		}
-	},
-	"The Rise of Tiamat": {
-		"Dragonclaw": {
-			"Size": "Medium",
-			"Type": "humanoid",
-			"Subtype": "human",
-			"Alignment": "neutral evil",
-			"Armor Class": 14,
-			"Armor Type": "leather armor",
-			"Hit Dice": "3d8",
-			"Speed": {
-				"Walk": 30,
-				"Burrow": 0,
-				"Climb": 0,
-				"Fly": 0,
-				"Swim": 0,
-				"Hover": false
-			},
-			"Ability Scores": {
-				"Strength": 9,
-				"Dexterity": 16,
-				"Constitution": 13,
-				"Intelligence": 11,
-				"Wisdom": 10,
-				"Charisma": 12
-			},
-			"Saving Throws": {
-				"Strength": false,
-				"Dexterity": false,
-				"Constitution": false,
-				"Intelligence": false,
-				"Wisdom": true,
-				"Charisma": false
-			},
-			"Skills": {
-				"Acrobatics": false,
-				"Animal Handling": false,
-				"Arcana": false,
-				"Athletics": false,
-				"Deception": true,
-				"History": false,
-				"Insight": false,
-				"Intimidation": false,
-				"Investigation": false,
-				"Medicine": false,
-				"Nature": false,
-				"Perception": false,
-				"Performance": false,
-				"Persuasion": false,
-				"Religion": false,
-				"Sleight of Hand": false,
-				"Stealth": true,
-				"Survival": false
-			},
-			"Damage Vulnerabilities": null,
-			"Damage Resistances": null,
-			"Damage Immunities": null,
-			"Condition Immunities": null,
-			"Senses": {
-				"Blindsight": 0,
-				"Darkvision": 0,
-				"Tremorsense": 0,
-				"Truesight": 0,
-				"Blind": false
-			},
-			"Languages": [
-				"Common",
-				"Draconic"
-			],
-			"Challenge": 1,
-			"Experience": 200,
-			"Features": {
-				"Dragon Fanatic": {
-					"Description": [
-						"The dragonclaw has advantage on saving throws against being charmed or frightened. While the dragonclaw can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonclaw ignores the effects of being charmed or frightened."
-					]
-				},
-				"Fanatical Advantage": {
-					"Description": [
-						"Once per turn, if the dragonclaw makes a weapon attack with advantage on the attack roll and hits, it deals an extra 7 (2d6) damage."
-					]
-				},
-				"Pack Tactics": {
-					"Description": [
-						"The dragonclaw has advantage on an attack roll against a creature if at least one of the dragonclaw’s allies is within 5 feet of the creature and the ally isn’t incapacitated."
-					]
-				}
-			},
-			"Actions": {
-				"Multiattack": {
-					"Description": [
-						"The dragonclaw attacks twice with its scimitar."
-					]
-				},
-				"Scimitar": {
-					"Description": [
-						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
-					]
-				}
-			},
-			"Legendary Actions": null,
-			"Reactions": null,
-			"Book": "The Rise of Tiamat",
-			"Page": 89
-		},
-		"Dragonfang": {
-			"Size": "Medium",
-			"Type": "humanoid",
-			"Subtype": "human",
-			"Alignment": "neutral evil",
-			"Armor Class": 15,
-			"Armor Type": "studded leather",
-			"Hit Dice": "12d8",
-			"Speed": {
-				"Walk": 30,
-				"Burrow": 0,
-				"Climb": 0,
-				"Fly": 0,
-				"Swim": 0,
-				"Hover": false
-			},
-			"Ability Scores": {
-				"Strength": 11,
-				"Dexterity": 16,
-				"Constitution": 14,
-				"Intelligence": 12,
-				"Wisdom": 12,
-				"Charisma": 14
-			},
-			"Saving Throws": {
-				"Strength": false,
-				"Dexterity": false,
-				"Constitution": false,
-				"Intelligence": false,
-				"Wisdom": true,
-				"Charisma": false
-			},
-			"Skills": {
-				"Acrobatics": false,
-				"Animal Handling": false,
-				"Arcana": false,
-				"Athletics": false,
-				"Deception": true,
-				"History": false,
-				"Insight": false,
-				"Intimidation": false,
-				"Investigation": false,
-				"Medicine": false,
-				"Nature": false,
-				"Perception": false,
-				"Performance": false,
-				"Persuasion": false,
-				"Religion": false,
-				"Sleight of Hand": false,
-				"Stealth": true,
-				"Survival": false
-			},
-			"Damage Vulnerabilities": null,
-			"Damage Resistances": [
-				"one of the following: acid, cold, fire, lightning, or poison"
-			],
-			"Damage Immunities": null,
-			"Condition Immunities": null,
-			"Senses": {
-				"Blindsight": 0,
-				"Darkvision": 0,
-				"Tremorsense": 0,
-				"Truesight": 0,
-				"Blind": false
-			},
-			"Languages": [
-				"Common",
-				"Draconic",
-				"Infernal"
-			],
-			"Challenge": 5,
-			"Experience": 1800,
-			"Features": {
-				"Dragon Fanatic": {
-					"Description": [
-						"The dragonfang has advantage on saving throws against being charmed or frightened. While the dragonfang can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonfang ignores the effects of being charmed or frightened."
-					]
-				},
-				"Fanatic Advantage": {
-					"Description": [
-						"Once per turn, if the dragonfang makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 10 (3d6) damage."
-					]
-				},
-				"Limited Flight": {
-					"Description": [
-						"The dragonfang can use a bonus action to gain a flying speed of 30 feet until the end of its turn."
-					]
-				},
-				"Pack Tactics": {
-					"Description": [
-						"The dragonfang has advantage on an attack roll against a creature if at least one of the dragonfang’s allies is within 5 feet of the creature and the ally isn't incapacitated."
-					]
-				}
-			},
-			"Actions": {
-				"Multiattack": {
-					"Description": [
-						"The dragonfang attacks twice with its shortsword."
-					]
-				},
-				"Shortsword": {
-					"Description": [
-						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) damage of the type to which the dragonfang has damage resistance."
-					]
-				},
-				"Orb of Dragon’s Breath (2/Day)": {
-					"Description": [
-						"Ranged Spell Attack: +5 to hit, range 90 ft., one target. Hit: 22 (5d8) damage of the type to which the dragonfang has damage resistance."
-					]
-				}
-			},
-			"Legendary Actions": null,
-			"Reactions": null,
-			"Book": "The Rise of Tiamat",
-			"Page": 89
-		},
-		"Dragonsoul": {
-			"Size": "Medium",
-			"Type": "humanoid",
-			"Subtype": "human",
-			"Alignment": "neutral evil",
-			"Armor Class": 16,
-			"Armor Type": "studded leather",
-			"Hit Dice": "17d8",
-			"Speed": {
-				"Walk": 30,
-				"Burrow": 0,
-				"Climb": 0,
-				"Fly": 0,
-				"Swim": 0,
-				"Hover": false
-			},
-			"Ability Scores": {
-				"Strength": 11,
-				"Dexterity": 18,
-				"Constitution": 14,
-				"Intelligence": 13,
-				"Wisdom": 12,
-				"Charisma": 16
-			},
-			"Saving Throws": {
-				"Strength": false,
-				"Dexterity": false,
-				"Constitution": false,
-				"Intelligence": false,
-				"Wisdom": true,
-				"Charisma": false
-			},
-			"Skills": {
-				"Acrobatics": false,
-				"Animal Handling": false,
-				"Arcana": false,
-				"Athletics": false,
-				"Deception": true,
-				"History": false,
-				"Insight": false,
-				"Intimidation": false,
-				"Investigation": false,
-				"Medicine": false,
-				"Nature": false,
-				"Perception": false,
-				"Performance": false,
-				"Persuasion": false,
-				"Religion": false,
-				"Sleight of Hand": false,
-				"Stealth": true,
-				"Survival": false
-			},
-			"Damage Vulnerabilities": null,
-			"Damage Resistances": [
-				"one of the following: acid, cold, fire, lightning, or poison"
-			],
-			"Damage Immunities": null,
-			"Condition Immunities": null,
-			"Senses": {
-				"Blindsight": 0,
-				"Darkvision": 0,
-				"Tremorsense": 0,
-				"Truesight": 0,
-				"Blind": false
-			},
-			"Languages": [
-				"Common",
-				"Draconic",
-				"Infernal"
-			],
-			"Challenge": 7,
-			"Experience": 2900,
-			"Features": {
-				"Dragon Fanatic": {
-					"Description": [
-						"The dragonsoul has advantage on saving throws against being charmed or frightened. While the dragonsoul can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonsoul ignores the effects of being charmed or frightened."
-					]
-				},
-				"Fanatic Advantage": {
-					"Description": [
-						"Once per turn, if the dragonsoul makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 10 (3d6) damage."
-					]
-				},
-				"Limited Flight": {
-					"Description": [
-						"The dragonsoul can use a bonus action to gain a flying speed of 30 feet until the end of its turn."
-					]
-				},
-				"Pack Tactics": {
-					"Description": [
-						"The dragonsoul has advantage on an attack roll against a creature if at least one of the dragonsoul's allies is within 5 feet of the creature and the ally isn’t incapacitated."
-					]
-				}
-			},
-			"Actions": {
-				"Multiattack": {
-					"Description": [
-						"The dragonsoul attacks twice with its shortsword."
-					]
-				},
-				"Shortsword": {
-					"Description": [
-						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 10 (3d6) damage of the type to which the dragonsoul has damage resistance."
-					]
-				},
-				"Orb of Dragon's Breath (3/Day)": {
-					"Description": [
-						"Ranged Spell Attack: +7 to hit, range 90 ft., one target. Hit: 27 (6d8) damage of the type to which the dragonsoul has damage resistance."
-					]
-				}
-			},
-			"Legendary Actions": null,
-			"Reactions": null,
-			"Book": "The Rise of Tiamat",
-			"Page": 89
-		},
-		"Dragonwing": {
-			"Size": "Medium",
-			"Type": "humanoid",
-			"Subtype": "human",
-			"Alignment": "neutral evil",
-			"Armor Class": 14,
-			"Armor Type": "leather armor",
-			"Hit Dice": "6d8",
-			"Speed": {
-				"Walk": 30,
-				"Burrow": 0,
-				"Climb": 0,
-				"Fly": 0,
-				"Swim": 0,
-				"Hover": false
-			},
-			"Ability Scores": {
-				"Strength": 11,
-				"Dexterity": 16,
-				"Constitution": 13,
-				"Intelligence": 11,
-				"Wisdom": 11,
-				"Charisma": 13
-			},
-			"Saving Throws": {
-				"Strength": false,
-				"Dexterity": false,
-				"Constitution": false,
-				"Intelligence": false,
-				"Wisdom": true,
-				"Charisma": false
-			},
-			"Skills": {
-				"Acrobatics": false,
-				"Animal Handling": false,
-				"Arcana": false,
-				"Athletics": false,
-				"Deception": true,
-				"History": false,
-				"Insight": false,
-				"Intimidation": false,
-				"Investigation": false,
-				"Medicine": false,
-				"Nature": false,
-				"Perception": false,
-				"Performance": false,
-				"Persuasion": false,
-				"Religion": false,
-				"Sleight of Hand": false,
-				"Stealth": true,
-				"Survival": false
-			},
-			"Damage Vulnerabilities": null,
-			"Damage Resistances": [
-				"one of the following: acid, cold, fire, lightning, or poison"
-			],
-			"Damage Immunities": null,
-			"Condition Immunities": null,
-			"Senses": {
-				"Blindsight": 0,
-				"Darkvision": 0,
-				"Tremorsense": 0,
-				"Truesight": 0,
-				"Blind": false
-			},
-			"Languages": [
-				"Common",
-				"Draconic"
-			],
-			"Challenge": 2,
-			"Experience": 450,
-			"Features": {
-				"Dragon Fanatic": {
-					"Description": [
-						"The dragonwing has advantage on saving throws against being charmed or frightened. While the dragonwing can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonwing ignores the effects of being charmed or frightened."
-					]
-				},
-				"Fanatical Advantage": {
-					"Description": [
-						"Once per turn, if the dragonwing makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 7 (2d6) damage."
-					]
-				},
-				"Limited Flight": {
-					"Description": [
-						"The dragonwing can use a bonus action to gain a flying speed of 30 feet until the end of its turn."
-					]
-				},
-				"Pack Tactics": {
-					"Description": [
-						"The dragonwing has advantage on an attack roll against a creature if at least one of the dragonwing’s allies is within 5 feet of the creature and the ally isn’t incapacitated."
-					]
-				}
-			},
-			"Actions": {
-				"Multiattack": {
-					"Description": [
-						"The dragonwing attacks twice with its scimitar."
-					]
-				},
-				"Scimitar": {
-					"Description": [
-						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage plus 3 (1d6) damage of the type to which the cultist has damage resistance."
-					]
-				}
-			},
-			"Legendary Actions": null,
-			"Reactions": null,
-			"Book": "The Rise of Tiamat",
-			"Page": 90
-		},
-		"Guard Drake": {
-			"Size": "Medium",
-			"Type": "dragon",
-			"Subtype": null,
-			"Alignment": "unaligned",
-			"Armor Class": 14,
-			"Armor Type": "natural armor",
-			"Hit Dice": "7d8",
-			"Speed": {
-				"Walk": 30,
-				"Burrow": 0,
-				"Climb": 0,
-				"Fly": 0,
-				"Swim": 0,
-				"Hover": false
-			},
-			"Ability Scores": {
-				"Strength": 16,
-				"Dexterity": 11,
-				"Constitution": 16,
-				"Intelligence": 4,
-				"Wisdom": 10,
-				"Charisma": 7
-			},
-			"Saving Throws": {
-				"Strength": false,
-				"Dexterity": false,
-				"Constitution": false,
-				"Intelligence": false,
-				"Wisdom": false,
-				"Charisma": false
-			},
-			"Skills": {
-				"Acrobatics": false,
-				"Animal Handling": false,
-				"Arcana": false,
-				"Athletics": false,
-				"Deception": false,
-				"History": false,
-				"Insight": false,
-				"Intimidation": false,
-				"Investigation": false,
-				"Medicine": false,
-				"Nature": false,
-				"Perception": true,
-				"Performance": false,
-				"Persuasion": false,
-				"Religion": false,
-				"Sleight of Hand": false,
-				"Stealth": false,
-				"Survival": false
-			},
-			"Damage Vulnerabilities": null,
-			"Damage Resistances": null,
-			"Damage Immunities": null,
-			"Condition Immunities": null,
-			"Senses": {
-				"Blindsight": 0,
-				"Darkvision": 60,
-				"Tremorsense": 0,
-				"Truesight": 0,
-				"Blind": false
-			},
-			"Languages": [
-				"understands Draconic but can't speak"
-			],
-			"Challenge": 2,
-			"Experience": 450,
-			"Features": null,
-			"Actions": {
-				"Multiattack": {
-					"Description": [
-						"The guard drake makes two attacks: one with its bite and one with its tail."
-					]
-				},
-				"Bite": {
-					"Description": [
-						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage."
-					]
-				},
-				"Tail": {
-					"Description": [
-						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage."
-					]
-				}
-			},
-			"Legendary Actions": null,
-			"Reactions": null,
-			"Book": "The Rise of Tiamat",
-			"Page": 90
-		},
-		"Ice Toad": {
-			"Size": "Medium",
-			"Type": "monstrosity",
-			"Subtype": null,
-			"Alignment": "neutral",
-			"Armor Class": 12,
-			"Armor Type": "natural armor",
-			"Hit Dice": "5d8",
-			"Speed": {
-				"Walk": 30,
-				"Burrow": 0,
-				"Climb": 0,
-				"Fly": 0,
-				"Swim": 30,
-				"Hover": false
-			},
-			"Ability Scores": {
-				"Strength": 13,
-				"Dexterity": 10,
-				"Constitution": 14,
-				"Intelligence": 8,
-				"Wisdom": 10,
-				"Charisma": 6
-			},
-			"Saving Throws": {
-				"Strength": false,
-				"Dexterity": false,
-				"Constitution": false,
-				"Intelligence": false,
-				"Wisdom": false,
-				"Charisma": false
-			},
-			"Skills": {
-				"Acrobatics": false,
-				"Animal Handling": false,
-				"Arcana": false,
-				"Athletics": false,
-				"Deception": false,
-				"History": false,
-				"Insight": false,
-				"Intimidation": false,
-				"Investigation": false,
-				"Medicine": false,
-				"Nature": false,
-				"Perception": true,
-				"Performance": false,
-				"Persuasion": false,
-				"Religion": false,
-				"Sleight of Hand": false,
-				"Stealth": false,
-				"Survival": false
-			},
-			"Damage Vulnerabilities": null,
-			"Damage Resistances": null,
-			"Damage Immunities": [
-				"cold"
-			],
-			"Condition Immunities": null,
-			"Senses": {
-				"Blindsight": 0,
-				"Darkvision": 60,
-				"Tremorsense": 0,
-				"Truesight": 0,
-				"Blind": false
-			},
-			"Languages": [
-				"Ice Toad"
-			],
-			"Challenge": 1,
-			"Experience": 200,
-			"Features": {
-				"Amphibious": {
-					"Description": [
-						"The toad can breathe air and water."
-					]
-				},
-				"Cold Aura": {
-					"Description": [
-						"Any creature that starts its turn within 5 feet of the toad takes 3 (1d6) cold damage."
-					]
-				},
-				"Standing Leap": {
-					"Description": [
-						"The toad’s long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start."
-					]
-				}
-			},
-			"Actions": {
-				"Bite": {
-					"Description": [
-						"Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage plus 4 (1d8) cold damage. If the target is a Medium or smaller creature, it is grappled (escape DC 11). Until this grapple ends, the toad can't bite another target."
-					]
-				}
-			},
-			"Legendary Actions": null,
-			"Reactions": null,
-			"Book": "The Rise of Tiamat",
-			"Page": 90
-		},
-		"Naergoth Bladelord": {
-			"Size": "Medium",
-			"Type": "undead",
-			"Subtype": null,
-			"Alignment": "neutral evil",
-			"Armor Class": 18,
-			"Armor Type": "plate",
-			"Hit Dice": "18d8",
-			"Speed": {
-				"Walk": 30,
-				"Burrow": 0,
-				"Climb": 0,
-				"Fly": 0,
-				"Swim": 0,
-				"Hover": false
-			},
-			"Ability Scores": {
-				"Strength": 20,
-				"Dexterity": 12,
-				"Constitution": 16,
-				"Intelligence": 12,
-				"Wisdom": 14,
-				"Charisma": 16
-			},
-			"Saving Throws": {
-				"Strength": false,
-				"Dexterity": true,
-				"Constitution": false,
-				"Intelligence": false,
-				"Wisdom": true,
-				"Charisma": false
-			},
-			"Skills": {
-				"Acrobatics": false,
-				"Animal Handling": false,
-				"Arcana": false,
-				"Athletics": false,
-				"Deception": false,
-				"History": false,
-				"Insight": false,
-				"Intimidation": false,
-				"Investigation": false,
-				"Medicine": false,
-				"Nature": false,
-				"Perception": true,
-				"Performance": false,
-				"Persuasion": false,
-				"Religion": false,
-				"Sleight of Hand": false,
-				"Stealth": true,
-				"Survival": false
-			},
-			"Damage Vulnerabilities": null,
-			"Damage Resistances": [
-				"necrotic",
-				"bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
-			],
-			"Damage Immunities": [
-				"poison"
-			],
-			"Condition Immunities": [
-				"exhaustion",
-				"poisoned"
-			],
-			"Senses": {
-				"Blindsight": 0,
-				"Darkvision": 60,
-				"Tremorsense": 0,
-				"Truesight": 0,
-				"Blind": false
-			},
-			"Languages": [
-				"Common",
-				"Draconic"
-			],
-			"Challenge": 11,
-			"Experience": 7200,
-			"Features": {
-				"Sunlight Sensitivity": {
-					"Description": [
-						"While in sunlight, Naergoth has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
-					]
-				}
-			},
-			"Actions": {
-				"Multiattack": {
-					"Description": [
-						"Naergoth makes three attacks, either with his longsword or longbow. He can use Life Drain in place of one longsword attack."
-					]
-				},
-				"Life Drain": {
-					"Description": [
-						"Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 20 (5d6 + 3) necrotic damage. The target must succeed on a DC 15 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.",
-						"A humanoid slain by this attack rises 24 hours later as a zombie under Naergoth's control, unless the humanoid is restored to life or its body is destroyed. Naergoth can have no more than twelve zombies under his control at one time."
-					]
-				},
-				"Longsword": {
-					"Description": [
-						"Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two hands, plus 10 (3d6) necrotic damage."
-					]
-				},
-				"Longbow": {
-					"Description": [
-						"Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage plus 10 (3d6) necrotic damage."
-					]
-				}
-			},
-			"Legendary Actions": null,
-			"Reactions": null,
-			"Book": "The Rise of Tiamat",
-			"Page": 90
-		},
-		"Neronvain": {
-			"Size": "Medium",
-			"Type": "humanoid",
-			"Subtype": "elf",
-			"Alignment": "neutral evil",
-			"Armor Class": 17,
-			"Armor Type": null,
-			"Hit Dice": "18d8",
-			"Speed": {
-				"Walk": 30,
-				"Burrow": 0,
-				"Climb": 0,
-				"Fly": 0,
-				"Swim": 0,
-				"Hover": false
-			},
-			"Ability Scores": {
-				"Strength": 8,
-				"Dexterity": 17,
-				"Constitution": 15,
-				"Intelligence": 16,
-				"Wisdom": 13,
-				"Charisma": 18
-			},
-			"Saving Throws": {
-				"Strength": false,
-				"Dexterity": false,
-				"Constitution": true,
-				"Intelligence": false,
-				"Wisdom": true,
-				"Charisma": false
-			},
-			"Skills": {
-				"Acrobatics": false,
-				"Animal Handling": false,
-				"Arcana": true,
-				"Athletics": false,
-				"Deception": false,
-				"History": false,
-				"Insight": false,
-				"Intimidation": false,
-				"Investigation": false,
-				"Medicine": false,
-				"Nature": false,
-				"Perception": true,
-				"Performance": false,
-				"Persuasion": false,
-				"Religion": false,
-				"Sleight of Hand": false,
-				"Stealth": false,
-				"Survival": false
-			},
-			"Damage Vulnerabilities": null,
-			"Damage Resistances": null,
-			"Damage Immunities": [
-				"poison"
-			],
-			"Condition Immunities": [
-				"charmed",
-				"frightened",
-				"poisoned"
-			],
-			"Senses": {
-				"Blindsight": 0,
-				"Darkvision": 60,
-				"Tremorsense": 0,
-				"Truesight": 0,
-				"Blind": false
-			},
-			"Languages": [
-				"Common",
-				"Draconic",
-				"Elvish",
-				"Infernal"
-			],
-			"Challenge": 9,
-			"Experience": 5000,
-			"Features": {
-				"Draconic Majesty": {
-					"Description": [
-						"Neronvain adds his Charisma bonus to his AC (included)."
-					]
-				},
-				"Fey Ancestry": {
-					"Description": [
-						"Magic can't put Neronvain to sleep."
-					]
-				}
-			},
-			"Actions": {
-				"Multiattack": {
-					"Description": [
-						"Neronvain makes two attacks, either with his shortsword or Eldritch Arrow."
-					]
-				},
-				"Shortsword": {
-					"Description": [
-						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 13 (3d8) poison damage."
-					]
-				},
-				"Eldritch Arrow": {
-					"Description": [
-						"Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 11 (2d10) force damage plus 9 (2d8) poison damage."
-					]
-				},
-				"Poisonous Cloud (2/Day)": {
-					"Description": [
-						"Poison gas fills a 20-foot-radius sphere centered on a point Neronvain can see within 50 feet of him. The gas spreads around corners and remains until the start of Neronvain's next turn. Each creature that starts its turn in the gas must succeed on a DC 16 Constitution saving throw or be poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-					]
-				}
-			},
-			"Legendary Actions": null,
-			"Reactions": null,
-			"Book": "The Rise of Tiamat",
-			"Page": 91
-		},
-		"Rath Modar": {
-			"Size": "Medium",
-			"Type": "humanoid",
-			"Subtype": "human",
-			"Alignment": "lawful evil",
-			"Armor Class": 13,
-			"Armor Type": null,
-			"Hit Dice": "11d8",
-			"Speed": {
-				"Walk": 30,
-				"Burrow": 0,
-				"Climb": 0,
-				"Fly": 0,
-				"Swim": 0,
-				"Hover": false
-			},
-			"Ability Scores": {
-				"Strength": 11,
-				"Dexterity": 16,
-				"Constitution": 14,
-				"Intelligence": 18,
-				"Wisdom": 14,
-				"Charisma": 10
-			},
-			"Saving Throws": {
-				"Strength": false,
-				"Dexterity": false,
-				"Constitution": false,
-				"Intelligence": true,
-				"Wisdom": true,
-				"Charisma": false
-			},
-			"Skills": {
-				"Acrobatics": false,
-				"Animal Handling": false,
-				"Arcana": true,
-				"Athletics": false,
-				"Deception": true,
-				"History": false,
-				"Insight": true,
-				"Intimidation": false,
-				"Investigation": false,
-				"Medicine": false,
-				"Nature": false,
-				"Perception": false,
-				"Performance": false,
-				"Persuasion": false,
-				"Religion": false,
-				"Sleight of Hand": false,
-				"Stealth": true,
-				"Survival": false
-			},
-			"Damage Vulnerabilities": null,
-			"Damage Resistances": null,
-			"Damage Immunities": null,
-			"Condition Immunities": null,
-			"Senses": {
-				"Blindsight": 0,
-				"Darkvision": 0,
-				"Tremorsense": 0,
-				"Truesight": 0,
-				"Blind": false
-			},
-			"Languages": [
-				"Common",
-				"Draconic",
-				"Infernal",
-				"Primordial",
-				"Thayan"
-			],
-			"Challenge": 6,
-			"Experience": 2300,
-			"Features": {
-				"Special Equipment": {
-					"Description": [
-						"Rath has a staff of fire, and scrolls of dimension door, feather fall, and fireball."
-					]
-				},
-				"Spellcasting": {
-					"Description": [
-						"Rath is an 11th-level spellcaster who uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Rath has the following spells prepared from the wizard spell list:"
-					],
-					"Cantrips (at will)": [
-						"Fire Bolt",
-						"Minor Illusion",
-						"Prestidigitation",
-						"Shocking Grasp"
-					],
-					"1st level (4 slots)": [
-						"Chromatic Orb",
-						"Color Spray",
-						"Mage Armor",
-						"Magic Missile"
-					],
-					"2nd level (3 slots)": [
-						"Detect Thoughts",
-						"Mirror Image",
-						"Phantasmal Force"
-					],
-					"3rd level (3 slots)": [
-						"Counterspell",
-						"Fireball",
-						"Major Image"
-					],
-					"4th level (3 slots)": [
-						"Confusion",
-						"Greater Invisibility"
-					],
-					"5th level (2 slots)": [
-						"Mislead",
-						"Seeming"
-					],
-					"6th level (1 slot)": [
-						"Globe of Invulnerability"
-					]
-				}
-			},
-			"Actions": {
-				"Quarterstaff": {
-					"Description": [
-						"Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d8) bludgeoning damage."
-					]
-				}
-			},
-			"Legendary Actions": null,
-			"Reactions": {
-				"Illusory Self (Recharges when Rath Finishes a Short or Long Rest)": {
-					"Description": [
-						"When a creature Rath can see makes an attack roll against him, he can interpose an illusory duplicate between the attacker and him. The attack automatically misses Rath, then the illusion dissipates."
-					]
-				}
-			},
-			"Book": "The Rise of Tiamat",
-			"Page": 91
-		},
 		"Severin": {
 			"Size": "Medium",
 			"Type": "humanoid",
@@ -80425,6 +79961,139 @@
 			"Reactions": null,
 			"Book": "The Rise of Tiamat",
 			"Page": 92
+		},
+		"Talis the White": {
+			"Size": "Medium",
+			"Type": "humanoid",
+			"Subtype": "half-elf",
+			"Alignment": "lawful evil",
+			"Armor Class": 18,
+			"Armor Type": "+1 scale mail, shield",
+			"Hit Dice": "9d8",
+			"Speed": {
+				"Walk": 30,
+				"Burrow": 0,
+				"Climb": 0,
+				"Fly": 0,
+				"Swim": 0,
+				"Hover": false
+			},
+			"Ability Scores": {
+				"Strength": 14,
+				"Dexterity": 12,
+				"Constitution": 14,
+				"Intelligence": 10,
+				"Wisdom": 16,
+				"Charisma": 16
+			},
+			"Saving Throws": {
+				"Strength": false,
+				"Dexterity": false,
+				"Constitution": false,
+				"Intelligence": false,
+				"Wisdom": true,
+				"Charisma": true
+			},
+			"Skills": {
+				"Acrobatics": false,
+				"Animal Handling": false,
+				"Arcana": false,
+				"Athletics": false,
+				"Deception": true,
+				"History": false,
+				"Insight": true,
+				"Intimidation": false,
+				"Investigation": false,
+				"Medicine": false,
+				"Nature": false,
+				"Perception": true,
+				"Performance": false,
+				"Persuasion": true,
+				"Religion": false,
+				"Sleight of Hand": false,
+				"Stealth": false,
+				"Survival": false
+			},
+			"Damage Vulnerabilities": null,
+			"Damage Resistances": null,
+			"Damage Immunities": null,
+			"Condition Immunities": null,
+			"Senses": {
+				"Blindsight": 0,
+				"Darkvision": 60,
+				"Tremorsense": 0,
+				"Truesight": 0,
+				"Blind": false
+			},
+			"Languages": [
+				"Common",
+				"Draconic",
+				"Elvish",
+				"Infernal"
+			],
+			"Challenge": 5,
+			"Experience": 1800,
+			"Features": {
+				"Special Equipment": {
+					"Description": [
+						"Talis has +1 scale mail and a wand of winter (see appendix C)."
+					]
+				},
+				"Fey Ancestry": {
+					"Description": [
+						"Talis has advantage on saving throws against being charmed, and magic can’t put her to sleep."
+					]
+				},
+				"Spellcasting": {
+					"Description": [
+						"Talis is a 9th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Talis has the following spells prepared from the cleric spell list:"
+					],
+					"Cantrips (at will)": [
+						"Guidance",
+						"Resistance",
+						"Thaumaturgy"
+					],
+					"1st level (4 slots)": [
+						"Command",
+						"Cure Wounds",
+						"Healing Word",
+						"Inflict Wounds"
+					],
+					"2nd level (3 slots)": [
+						"Blindness/Deafness",
+						"Lesser Restoration",
+						"Spiritual Weapon"
+					],
+					"3rd level (3 slots)": [
+						"Dispel Magic",
+						"Mass Healing Word",
+						"Sending"
+					],
+					"4th level (3 slots)": [
+						"Death Ward",
+						"Freedom of Movement"
+					],
+					"5th level (1 slot)": [
+						"Insect Plague"
+					]
+				},
+				"Winter Strike (3/Day)": {
+					"Description": [
+						"Once per turn, when Talis hits with a melee attack, she can expend a use of this trait to deal an extra 9 (2d8) cold damage."
+					]
+				}
+			},
+			"Actions": {
+				"Spear": {
+					"Description": [
+						"Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or ranged 20 ft./60 ft., one target. Hit: 6 (1d6 + 2) piercing damage."
+					]
+				}
+			},
+			"Legendary Actions": null,
+			"Reactions": null,
+			"Book": "Hoard of the Dragon Queen",
+			"Page": 93
 		},
 		"Tiamat": {
 			"Size": "Gargantuan",
