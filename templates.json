@@ -249,117 +249,177 @@
 
 /* Creature */
 
-,
-"": {
-    "Size": "",
-    "Type": "",
-    "SubType": "",
-    "Alignment": "",
-    "Armor Class": 0,
-    "Armor Type": "",
-    "Hit Dice": "",
-    "Speed": {
-        "Walk": 0,
-        "Burrow": 0,
-        "Climb": 0,
-        "Fly": 0,
-        "Swim": 0,
-        "Hover": false
-    },
-    "Ability Scores": {
-        "Strength": 0,
-        "Dexterity": 0,
-        "Constitution": 0,
-        "Intelligence": 0,
-        "Wisdom": 0,
-        "Charisma": 0
-    },
-    "Saving Throws": {
-        "Strength": false,
-        "Dexterity": false,
-        "Constitution": false,
-        "Intelligence": false,
-        "Wisdom": false,
-        "Charisma": false
-    },
-    "Skills": {
-        "Acrobatics": false,
-        "Animal Handling": false,
-        "Arcana": false,
-        "Athletics": false,
-        "Deception": false,
-        "History": false,
-        "Insight": false,
-        "Intimidation": false,
-        "Investigation": false,
-        "Medicine": false,
-        "Nature": false,
-        "Perception": false,
-        "Performance": false,
-        "Persuasion": false,
-        "Religion": false,
-        "Sleight of Hand": false,
-        "Stealth": false,
-        "Survival":  false
-    },
-    "Damage Vulnerabilities": [
+        ,
+        "depreceated": {
+            "Size": "",
+            "Type": "",
+            "Subtype": "",
+            "Alignment": "",
+            "Armor Class": 0,
+            "Armor Type": "",
+            "Hit Dice": "",
+            "Speed": {
+                "Walk": 0,
+                "Burrow": 0,
+                "Climb": 0,
+                "Fly": 0,
+                "Swim": 0,
+                "Hover": false
+            },
+            "Ability Scores": {
+                "Strength": 0,
+                "Dexterity": 0,
+                "Constitution": 0,
+                "Intelligence": 0,
+                "Wisdom": 0,
+                "Charisma": 0
+            },
+            "Saving Throws": {
+                "Strength": false,
+                "Dexterity": false,
+                "Constitution": false,
+                "Intelligence": false,
+                "Wisdom": false,
+                "Charisma": false
+            },
+            "Skills": {
+                "Acrobatics": false,
+                "Animal Handling": false,
+                "Arcana": false,
+                "Athletics": false,
+                "Deception": false,
+                "History": false,
+                "Insight": false,
+                "Intimidation": false,
+                "Investigation": false,
+                "Medicine": false,
+                "Nature": false,
+                "Perception": false,
+                "Performance": false,
+                "Persuasion": false,
+                "Religion": false,
+                "Sleight of Hand": false,
+                "Stealth": false,
+                "Survival":  false
+            },
+            "Damage Vulnerabilities": [
 
-    ],
-    "Damage Resistances": [
-        
-    ],
-    "Damage Immunities": [
+            ],
+            "Damage Resistances": [
+                
+            ],
+            "Damage Immunities": [
 
-    ],
-    "Condition Immunities": [
+            ],
+            "Condition Immunities": [
 
-    ],
-    "Senses": {
-        "Blindsight": 0,
-        "Darkvision": 0,
-        "Tremorsense": 0,
-        "Truesight": 0,
-        "Blind": false
-    },
-    "Languages": [
-        
-    ],
-    "Challenge": 0,
-    "Experience": 0,
-    "Features": {
-        "": {
-            "Description": [
-                ""
-            ]
-        }
-    },
-    "Actions": {
-        "": {
-            "Description": [
-                ""
-            ]
-        }
-    },
-    "Legendary Actions": {
-        "Description": [
+            ],
+            "Senses": {
+                "Blindsight": 0,
+                "Darkvision": 0,
+                "Tremorsense": 0,
+                "Truesight": 0,
+                "Blind": false
+            },
+            "Languages": [
+                
+            ],
+            "Challenge": 0,
+            "Experience": 0,
+            "Features": {
+                "": {
+                    "Description": [
+                        ""
+                    ]
+                }
+            },
+            "Actions": {
+                "": {
+                    "Description": [
+                        ""
+                    ]
+                }
+            },
+            "Legendary Actions": {
+                "Description": [
 
-        ],
-        "": {
-            "Description": [
-                ""
-            ]
+                ],
+                "": {
+                    "Description": [
+                        ""
+                    ]
+                }
+            },
+            "Reactions": {
+                "": {
+                    "Description": [
+                        ""
+                    ]
+                }
+            },
+            "Book": "",
+            "Page": 0
         }
-    },
-    "Reactions": {
-        "": {
-            "Description": [
-                ""
-            ]
+
+        ,
+		"": {
+			"Size": "",
+			"Type": "",
+			"Alignment": "",
+			"Armor Class": "",
+			"Hit Dice": "",
+			"Speed": [],
+			"Ability Scores": {
+				"Strength": 0,
+				"Dexterity": 0,
+				"Constitution": 0,
+				"Intelligence": 0,
+				"Wisdom": 0,
+				"Charisma": 0
+			},
+			"Saving Throws": [],
+			"Skills": [],
+			"Damage Vulnerabilities": [],
+			"Damage Resistances": [],
+			"Damage Immunities": [],
+			"Condition Immunities": [],
+			"Senses": [],
+			"Languages": [],
+			"Challenge": "",
+            "Features": {
+                "": {
+                    "Description": [
+                        ""
+                    ]
+                }
+            },
+            "Actions": {
+                "": {
+                    "Description": [
+                        ""
+                    ]
+                }
+            },
+            "Legendary Actions": {
+                "Description": [
+
+                ],
+                "": {
+                    "Description": [
+                        ""
+                    ]
+                }
+            },
+            "Reactions": {
+                "": {
+                    "Description": [
+                        ""
+                    ]
+                }
+            },
+			"Book": "Lost Laboratory of Kwalish",
+			"Page": 0
         }
-    },
-    "Book": "",
-    "Page": 0
-}
 
 /* Magic Item */
 
@@ -368,9 +428,12 @@
     "Type": "",
     "Rarity": "",
     "Attunement": false,
-    "Description": [
-        
-    ],
+    "Add-Attunement": null,
+    "Description": {
+        "Paragraphs": [
+            
+        ]
+    },
     "Book": "",
     "Page": 
 }
@@ -423,3 +486,16 @@
         ""
     ]
 }
+
+"Features": {
+    
+},
+"Actions": {
+    
+},
+"Legendary Actions": {
+    
+},
+"Reactions": {
+    
+},
