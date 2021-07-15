@@ -7700,7 +7700,7 @@
 				},
 				"Displacement": {
 					"Description": [
-						"The displacer beast projects a magical illusion that makes it appear to be standing near its actual location, causing attack rolls against it to have disadvantage. If it is hit by an attack, this trait is disrupted until the end of its next turn. This trait is also disrupted while the displacer beast is incapacitated or has a speed of O."
+						"The displacer beast projects a magical illusion that makes it appear to be standing near its actual location, causing attack rolls against it to have disadvantage. If it is hit by an attack, this trait is disrupted until the end of its next turn. This trait is also disrupted while the displacer beast is incapacitated or has a speed of 0."
 					]
 				}
 			},
@@ -35851,8 +35851,7 @@
 				"Blind": false
 			},
 			"Languages": [
-				"Blink Dog",
-				"understands Sylvan but can't speak it"
+				"Blink Dog, understands Sylvan but can't speak it"
 			],
 			"Challenge": "1/4",
 			"Experience": 50,
@@ -52568,7 +52567,7 @@
 				},
 				"Mind Blast (Recharge 5-6)": {
 					"Description": [
-						"The alhoon magically emits psychic energy in a 6O-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stµnned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"The alhoon magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stµnned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 					]
 				}
 			},
@@ -57119,7 +57118,7 @@
 			"Actions": {
 				"Bites": {
 					"Description": [
-						"Melee Weapon Attack: +0 to hit, reach O ft., one creature in the swarm's space. Hit: The target is infested by 1d4 rot grubs. At the start of each of the target's turns, the target takes 1d6 piercing damage per rot grub infesting it. Applying fire to the bite wound before the end of the target's next turn deals 1 fire damage to the target and kills these rot grubs. After this time, these rot grubs are too far under the skin to be burned.",
+						"Melee Weapon Attack: +0 to hit, reach 0 ft., one creature in the swarm's space. Hit: The target is infested by 1d4 rot grubs. At the start of each of the target's turns, the target takes 1d6 piercing damage per rot grub infesting it. Applying fire to the bite wound before the end of the target's next turn deals 1 fire damage to the target and kills these rot grubs. After this time, these rot grubs are too far under the skin to be burned.",
 						"If a target infested by rot grubs ends its turn with 0 hit points, it dies as the rot grubs burrow into its heart and kill it. Any effect that cures disease kills all rot grubs infesting the target."
 					]
 				}
@@ -57568,7 +57567,7 @@
 			"Features": {
 				"Archer's Eye (3/Day)": {
 					"Description": [
-						"As a bonus action, the archer can add 1d1O to its next attack or damage roll with a longbow or shortbow."
+						"As a bonus action, the archer can add 1d10 to its next attack or damage roll with a longbow or shortbow."
 					]
 				}
 			},
@@ -57808,7 +57807,7 @@
 				},
 				"Glaive": {
 					"Description": [
-						"Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (1d1O + 4) slashing damage."
+						"Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) slashing damage."
 					]
 				},
 				"Shortbow": {
@@ -61623,7 +61622,7 @@
 				"Life Drain": {
 					"Description": [
 						"Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.",
-						"A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life o r its body is destroyed. The wight can have no more than twelve zombies under its control at one time."
+						"A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time."
 					]
 				}
 			},
@@ -65115,7 +65114,7 @@
 				},
 				"Frightful Presence": {
 					"Description": [
-						"Each creature of the abishai's choice that is within 120 feet and aware of it must succeed o n a DC 18 Wisdom saving throw or become frightened of it for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the abishai's Frightful Presence for the next 24 hours."
+						"Each creature of the abishai's choice that is within 120 feet and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened of it for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the abishai's Frightful Presence for the next 24 hours."
 					]
 				},
 				"Incite Fanaticism": {
@@ -72865,7 +72864,7 @@
 				},
 				"Eat Memories": {
 					"Description": [
-						"The oblex targets one creature it can see within 5 feet of it. The target must succeed on a DC 15 Wisdom saving throw or take 18 (4d8) psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the greater restoration o r heal spell. Constructs, oozes, plants, and undead succeed on the save automatically.",
+						"The oblex targets one creature it can see within 5 feet of it. The target must succeed on a DC 15 Wisdom saving throw or take 18 (4d8) psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the greater restoration or heal spell. Constructs, oozes, plants, and undead succeed on the save automatically.",
 						"While memory drained, the target must roll a d4 and subtract the number rolled from any ability check or attack roll it makes. Each time the target is memory drained beyond the first, the die size increases by one: the d4 becomes a d6, the d6 becomes a d8, and so on until the die becomes a d20, at which point the target becomes unconscious for 1 hour. The effect then ends.",
 						"When an oblex causes a target to become memory drained, the oblex learns all the languages the target knows and gains all its proficiencies, except for any saving throw proficiencies."
 					]
@@ -88278,7 +88277,7 @@
 				},
 				"Flyby": {
 					"Description": [
-						"The gloamwing doesn't provoke an o pportunity attack when it flies out of an enemy's reach."
+						"The gloamwing doesn't provoke an opportunity attack when it flies out of an enemy's reach."
 					]
 				},
 				"Sunlight Sensitivity": {
@@ -91977,7 +91976,7 @@
 				],
 				"Cantrip": {
 					"Description": [
-						"Niv-Mizzet casts o ne of his cantrips."
+						"Niv-Mizzet casts one of his cantrips."
 					]
 				},
 				"Tail Attack": {
@@ -96025,7 +96024,7 @@
 				},
 				"Mind Blast (Recharge 5-6)": {
 					"Description": [
-						"The alhoon magically emits psychic energy in a 6O-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stµnned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+						"The alhoon magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stµnned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 					]
 				}
 			},
