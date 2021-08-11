@@ -29863,6 +29863,7 @@
 				"Truesight": 0,
 				"Blind": false
 			},
+			"Languages": null,
 			"Challenge": 5,
 			"Experience": 1800,
 			"Features": {
